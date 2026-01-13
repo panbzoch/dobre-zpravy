@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dobré Zprávy | Groq Edition</title>
+    <style>
+        body { font-family: 'Segoe UI', system-ui, sans-serif; background-color: #f8f9fa; margin: 0; padding: 20px; color: #343a40; }
+        .container { max-width: 900px; margin: 0 auto; }
+        
+        /* HEADER & MENU */
+        header { text-align: center; margin-bottom: 30px; padding-top: 20px; }
+        h1 { color: #2c3e50; margin: 0; font-size: 3em; letter-spacing: -1px; }
+        .subtitle { color: #6c757d; font-size: 1.1em; margin-top: 10px; margin-bottom: 30px;}
+
+        /* Forbes-style Navigation */
+        .nav-scroller { overflow-x: auto; white-space: nowrap; border-bottom: 1px solid #e9ecef; margin-bottom: 40px; padding-bottom: 10px; text-align: center; }
+        .nav-link { 
+            display: inline-block; 
+            padding: 8px 16px; 
+            color: #555; 
+            text-decoration: none; 
+            font-weight: 600; 
+            font-size: 0.95rem; 
+            text-transform: uppercase; 
+            cursor: pointer;
+            transition: color 0.2s;
+        }
+        .nav-link:hover, .nav-link.active { color: #000; font-weight: 800; border-bottom: 2px solid #000; }
+
+        /* KARTY */
+        .card { 
+            background: white; 
+            border-radius: 12px; 
+            padding: 25px; 
+            margin-bottom: 25px; 
+            box-shadow: 0 4px 15px rgba(0,0,0,0.05); 
+            border: 1px solid #f1f3f5;
+            position: relative; 
+            display: block; /* Default display */
+        }
+        
+        /* Barevné proužky */
+        .card[data-category="Věda"] { border-left: 5px solid #8e44ad; }
+        .card[data-category="Technologie"] { border-left: 5px solid #2980b9; }
+        .card[data-category="Medicína"] { border-left: 5px solid #e74c3c; }
+        .card[data-category="Byznys"] { border-left: 5px solid #27ae60; }
+        .card[data-category="Společnost"] { border-left: 5px solid #f39c12; }
+
+        /* Badge NOVÉ */
+        .badge-new {
+            background-color: #e74c3c;
+            color: white;
+            font-size: 0.7rem;
+            font-weight: bold;
+            padding: 2px 8px;
+            border-radius: 4px;
+            vertical-align: middle;
+            margin-left: 10px;
+            text-transform: uppercase;
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0% { opacity: 1; }
+            50% { opacity: 0.7; }
+            100% { opacity: 1; }
+        }
+
+        .meta-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; }
+        .tag { text-transform: uppercase; font-size: 0.75em; font-weight: 700; color: #adb5bd; }
+        .timestamp { font-size: 0.8rem; color: #ced4da; }
+
+        h2 { margin: 10px 0; font-size: 1.5rem; color: #212529; }
+        p { line-height: 1.6; color: #495057; font-size: 1rem; }
+        
+        a.btn { 
+            display: inline-block; text-decoration: none; background-color: #f8f9fa; color: #333; 
+            padding: 8px 20px; border-radius: 50px; font-weight: 600; font-size: 0.85rem; border: 1px solid #dee2e6; transition: all 0.2s; 
+        }
+        a.btn:hover { background-color: #333; color: white; border-color: #333; }
+        
+        footer { text-align: center; margin-top: 50px; color: #ced4da; font-size: 0.8rem; border-top: 1px solid #eee; padding-top: 20px;}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>☀️ Dobré Zprávy</h1>
+            <div class="subtitle">Přehled úspěchů lidstva • Aktualizováno: {{ last_update }}</div>
+        </header>
+        
+        <nav class="nav-scroller">
+            <a class="nav-link active" onclick="filterArticles('all', this)">Vše</a>
+            <a class="nav-link" onclick="filterArticles('Věda', this)">Věda</a>
+            <a class="nav-link" onclick="filterArticles('Technologie', this)">Technologie</a>
+            <a class="nav-link" onclick="filterArticles('Medicína', this)">Medicína</a>
+            <a class="nav-link" onclick="filterArticles('Byznys', this)">Byznys</a>
+            <a class="nav-link" onclick="filterArticles('Společnost', this)">Společnost</a>
+        </nav>
+        
+        <div id="articles-container">
+            {% if articles %}
+                {% for item in articles %}
+                <div class="card" data-category="{{ item.category }}">
+                    <div class="meta-header">
+                        <div>
+                            <span class="tag">{{ item.category }}</span>
+                            {% if item.is_new %}
+                                <span class="badge-new">NOVÉ</span>
+                            {% endif %}
+                        </div>
+                        <span class="timestamp">{{ item.timestamp_display }}</span>
+                    </div>
+                    
+                    <h2>{{ item.title }}</h2>
+                    <p>{{ item.summary }}</p>
+                    <a href="{{ item.link }}" target="_blank" class="btn">Číst původní článek</a>
+                </div>
+                {% endfor %}
+            {% else %}
+                <div style="text-align:center; padding:50px; font-size:1.2em; color:#888;">
+                    Zatím žádné zprávy v databázi. Spusť skript znovu.
+                </div>
+            {% endif %}
+        </div>
+        
+        <footer>Powered by Groq (Llama 3) & Python</footer>
+    </div>
+
+    <script>
+        function filterArticles(category, element) {
+            // 1. Změna aktivního linku v menu
+            const links = document.querySelectorAll('.nav-link');
+            links.forEach(link => link.classList.remove('active'));
+            element.classList.add('active');
+
+            // 2. Filtrace karet
+            const cards = document.querySelectorAll('.card');
+            cards.forEach(card => {
+                const cardCategory = card.getAttribute('data-category');
+                
+                if (category === 'all' || cardCategory === category) {
+                    card.style.display = 'block';
+                } else {
+                    card.style.display = 'none';
+                }
+            });
+        }
+    </script>
+</body>
+</html>
