@@ -1,0 +1,40 @@
+name: Denní aktualizace zpráv
+
+on:
+  schedule:
+    - cron: '0 5 * * *' # Spustí se v 5:00 UTC (cca 6:00 nebo 7:00 našeho času)
+  workflow_dispatch: # Umožní ti to spustit i ručně tlačítkem
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Stáhnout repozitář
+      uses: actions/checkout@v4
+
+    - name: Nastavit Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Instalace knihoven
+      run: |
+        pip install groq feedparser jinja2
+
+    - name: Spustit generování webu
+      env:
+        GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }} # Tady se magicky vloží klíč ze Secrets
+      run: python main.py
+
+    - name: Uložit změny (Commit & Push)
+      run: |
+        git config --global user.name 'NewsBot'
+        git config --global user.email 'bot@noreply.github.com'
+        git add index.html database.json
+        # Pokud nejsou změny, neřvi error
+        git commit -m "Automatická aktualizace zpráv" || exit 0
+        git push
