@@ -23,7 +23,7 @@ jobs:
 
     - name: Instalace knihoven
       run: |
-        pip install groq feedparser jinja2
+        pip install groq feedparser jinja2 tzdata
 
     - name: Spustit generování webu
       env:
