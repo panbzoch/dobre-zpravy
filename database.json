@@ -1,92 +1,74 @@
 [
     {
         "category": "Byznys",
-        "title": "Nico Rosberg investuje",
-        "summary": "Nico Rosberg spravuje přes 200 milionů dolarů ve venture kapitálu.",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUjZJelNSTUZSQUdnTm01VnVPaUF6RzE4T0RocWlwQmtEOWxSVEpXQldaYVZhZ1YxenZUWUN0R2pieVhfeXpnWUVWa1lkRDBHRE1xM3BXNTV1aHNtX2pld3ZNVVFYQmRtVF9uOUM1YTJMbUxzRFVCdWFsWUVnVVRsMUJzYUhvR1A2ZmFfMVpaTUlpblg3NnVHekJGWno1V25nSU15UkMwVlE3cWsyNktmZVF6NkxjdldDSjYzY21Vemtmc0toLWdPLWxwVFhmSlk?oc=5",
-        "timestamp": "2026-01-12T15:00:00",
-        "timestamp_display": "12. 01. 2026 15:00",
+        "title": "Investiční příležitost 2026",
+        "summary": "Růst realitního trhu nabízí nové investiční šance.",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQenl4U05PbXRwbzN5UFZWSEMyUzh3SW1hSzBZdlRNNnBvZ0VHdUNSMmZUcWFzdU52V0pvVlVvX3ljaGtwZ1Z5VnlxNXRuUzZma0l1OTE0Qi1BZXNNRW43UHkzSDV2b2tDcy1UOENfWnlLSmp0ckwwbXVFTlZ4UjBzWGQ0YlNSTno2cE14S2ZSbDBZVWx0Xy1famFHeEdFLVJlTUI5R1NQcW13ZThWMzRpdFg5SQ?oc=5",
+        "timestamp": "2026-01-13T12:52:00",
+        "timestamp_display": "13. 01. 2026 12:52",
         "is_new": true
     },
     {
         "category": "Technologie",
-        "title": "Škoda budoucnosti",
-        "summary": "Šéf mladoboleslavského inkubátoru využívá umělou inteligenci k vývoji budoucích modelů Škody.",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYlFxckpEeEc3QWd4ZnVudWVvelJDSkhOeWh2UnhTb19kS29aNFg5aHNsTExIN1pTcTJtVGJsZlZvNlo4UEJvdkwwQU4tVm8tOTNkajA5eFZmdWptVXJ6NEkxdEwycGRNX05mczQwVG01TXhiWHB6ZmdUS3VOY3lHTXFQVVBqSWpiOUVJRFhwUGFRbm5NaHI4MlVnZ3FDX0IwZGFrQzJSUzgwcnFmZXN5T1U3MGVrNG0yZFA4YVpPNVBXVUxGU0E?oc=5",
-        "timestamp": "2026-01-12T05:00:00",
-        "timestamp_display": "12. 01. 2026 05:00",
+        "title": "Škoda představí elektromobil Peaq",
+        "summary": "Škoda chystá premiéru svého největšího elektromobilu, který ponese jméno Peaq a bude představen v létě.",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOemJPZ19Fc2wyaTV0eWJjRm52YXIzZzRFOGQyTjZxVW5YeWhfS2pfX3dYSXB2SjZEd2h2UVRIMTAxVEh6NTVqSWFaRWRsRXZlMGhPczIxaHlMM3dwSkRYb1M0RGpKbTFTa0ZoaTQ1V3RSZFVpTGVmeVRyN0Y3bElXaHd3S3dLX1BrTzZCd2tLQ1hZVmM3Zi1kU3ZHdllwM2pCd2tJdWZBNVRFR3Z0OWEtb05hX014ZWpBZTkyTHVB?oc=5",
+        "timestamp": "2026-01-13T10:41:00",
+        "timestamp_display": "13. 01. 2026 10:41",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Zemědělský zisk dvojnásobný",
+        "summary": "Zisk českých zemědělců se loni meziročně více než dvojnásobně zvýšil, ukazují nové ekonomické údaje.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zX19VR25EZ1QzbHMteXNFTExJUlBwNWd6czVIS0VTTVhNdTY2cmZmZ09LWEFZdnlMSkVEalgwWFM3QWNGTjhHbktTd05BdjIxckY0?oc=5",
+        "timestamp": "2026-01-13T10:32:00",
+        "timestamp_display": "13. 01. 2026 10:32",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Onsemi získala obří zakázku",
+        "summary": "Onsemi získala velkou zakázku od Nvidie na výrobu AI systémů nové generace, část výroby bude probíhat v Rožnově.",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZk5fS2V4MlVEb3lxOEhYVXNiTjhhUFBPd2twZEJtZm92UzJycjVSVXZIcVJzSEk4YXdNemxVcTJZUG5IOG42TGxoMnRiN3ZkVnJFcXV0NlIyWU5QYy1WbURzc0xUQnZRN3c5ei14VzBwVFNScjk3enRUN0c1ZlFlQzZ2bEtGT1BpdmpHYkVGelN3UmhibkNiSXpjTldnVTNwWUIyMFhCUFY4UHFaN09YUGp4b0J4VWNsT3psVHUwRGhiTGM?oc=5",
+        "timestamp": "2026-01-13T04:00:00",
+        "timestamp_display": "13. 01. 2026 04:00",
         "is_new": true
     },
     {
         "category": "Věda",
-        "title": "Archeologie chrání přírodu",
-        "summary": "Archeologická naleziště se mění v rezervace vzácných rostlin a zvířat, chránící unikátní ekosystémy.",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd0FDUTVzeVVTd2JiamwzdmYtZ1NpRE9qZTlrclZ3QUdHUEVEUVNZSm1ZWWxKMkNFZFVFbTZYTjlXcU94cHBabFduVG0tcW93U1pzeEdwdTRqMUdNM00xSTdXNHlCaEdDRkZrbmIzemRoMEF5bk5VajVDX1VkdWtkY1Y2c1l0RENkSkF6QW9qVVhWZy1jOVpKMFFlUW9jUjc4VUI3Q2ZhNkw3ZkF5Q1FQcGJBUjhnd3dWMjk4cmtGRi1FTmpVTHVvUElZQlNWZTVRNm0taEZqUWRpNElS?oc=5",
-        "timestamp": "2026-01-11T19:28:00",
-        "timestamp_display": "11. 01. 2026 19:28",
-        "is_new": true
-    },
-    {
-        "category": "Společnost",
-        "title": "Letohrádek rekonstruován",
-        "summary": "Letohrádek v České Lípě prochází rekonstrukcí za 90 milionů korun, vznikne prohlídkový okruh.",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNFRGNmc1aUUwUVpjV1F2Z3ZOVS1IUjVjM2Q2NExta1NrYnJXLXJKMXd0UFE3YWtYeGdNOElxQnBIbWJnR2RjNmZObHZQZTdqdXViODktVDhIZ2tKNlRFcENVM3RCeVpEanplMDZKNFJpcjA3bzdRU1ZERDBrQWlwX3BnVWxBYlBMZU5ITklkYzFLOXRmaHNJalRCU19pMUMwWXltY0x2XzdldVMxOUtwS2tFd05Ya0JVMEdVLU9KNDNHRXpyaXBHZg?oc=5",
-        "timestamp": "2026-01-11T08:05:00",
-        "timestamp_display": "11. 01. 2026 08:05",
+        "title": "Keplerova supernova sledována",
+        "summary": "NASA sleduje Keplerovu supernovu čtvrt století, pozoruje její vývoj a změny.",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUDk3SlhrVnRwajlpVFk5U0hXTlpKQXg5ZnZBWl9Fal9JdFFpeEdHcnZOczRCd0UxLTEzNFprbGhVYjhBX3dXeHl6NGxMNUZJcjFxdHJXTmpQMDdzbWx0SkxKRDJXM01qRlV0aGdPbDRiWkZrOFNmSnJsVm1RNTdiaHZ1aGl4dy1ISndEbk9iZDJ5M2R0TFFUcC00cllrc2Foa21SZEhvTFVheTlUZ05jRGxYSGxGQ25FN3JBMXQxYUdlcU9nV2JfdlJWY3Yza0JLaGRyOXVVUlA4X0haM1dOQ3FfdW8zR1B2eXVN?oc=5",
+        "timestamp": "2026-01-11T06:44:03",
+        "timestamp_display": "11. 01. 2026 06:44",
         "is_new": true
     },
     {
         "category": "Byznys",
-        "title": "Alza trhla rekord",
-        "summary": "Alza dosáhla rekordního zisku, který je dvojnásobný než předchozí.",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbUFMMXA5MUU0QlBGbDl2Z05Tcm0weFFncHloMnl0TlJCVEYtcjFHZ1F2dTdwUUs3ZFRBdHNUNkU4LWV5MzVDQWpVTXF6Y0dwYmVfc0plRUpLY0tYdjNrSXVpQkY0Y3NLLXBNaEJhOTVGXzhMSmM3Rnk5bnZ5Q2NUWWljQ084NlFuQXFZQ2FhV0N3RTNnVVZfanlzeFk5SjBfMWowaTBDUXc2QmpEV2VndVJLRG9CZUpLZndicFYzQ1JoSTJVZXZGY1IyQkZSVk9i?oc=5",
-        "timestamp": "2026-01-10T12:12:00",
-        "timestamp_display": "10. 01. 2026 12:12",
+        "title": "Rekordní výroba F-35",
+        "summary": "Lockheed dodal 191 letadel F-35, což je rekordní počet za jeden rok.",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZXhrUTBHUWZpVnNudHd0TnBtTGxWZFFyM1dzMFoxdEp1WW1FdTZ3bTlNOXlnQ2U2b2hUMXJCYk84a2ZUVFc2Vmp1VlhtRVN0NERWMHpaSlNHaUpHUTZIS3hxaThUYWRrVTZ3a0dOejFxVVJBUmRTVkg1a3BPdndJSWoyM1RBZXQ2Z1VQaUF1bWR0bGhoWEZpbDBZemRlV3hCM2x3?oc=5",
+        "timestamp": "2026-01-11T05:30:00",
+        "timestamp_display": "11. 01. 2026 05:30",
         "is_new": true
     },
     {
         "category": "Byznys",
-        "title": "Nová generace AI miliardářů",
-        "summary": "Nová generace miliardářů zbohatla díky umělé inteligenci v posledních letech.",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPX3czNXpEYmo4MkxUc29qQzNIMlhod24yQjUzQnpPNU5RNXluRDBmQ3F1SkF2NVpkbFpRVW82TlpBUF9SMGVjLXZ6SmlEOUpYNksyVlRjSjBDSllucHlqZ25XamtCNU9UdWprLVJkaEZCRVZ4WVRQTmtiODJ2Q29EU2ctZ2JVenBHejdoWlAxUzgwa3BGZ21oSnRKc2U3elRuTnRKTUtQRGNOa0pSNUVBeEZaUmVtYzM0c1p6cF9NUTU0MFFnQ2FVSjNGR19zLXRoYnU0RTU4UjROdmYybGd3SW5BRGNTRnpB?oc=5",
-        "timestamp": "2026-01-10T10:00:00",
-        "timestamp_display": "10. 01. 2026 10:00",
+        "title": "ČEZ kupuje elektromobily",
+        "summary": "ČEZ a IKEA investují do elektromobilů pro pracovní cesty, snižují tak svou ekologickou stopu.",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQa0dRLUN2TjZMV1BKZks3Z21fYW5DTEF0TE44UVAxenFsS3FUYngwb25QdTc1QlF3OGtLRmM2NXlrUU94NERCcDBVMnBNV1d4TUpPOS1KRVFBY0Y5cEZBTm5MOHNzMVBaN2twR3RIRWd1Vk1Ta2FQRzlYMmJPUkRLeW9CWHZPMUsxM3FZUUdCVTVOZ0lMMmxWWWZ5VXpOVzJDRnU1Wko5ZVN1TkZWMmIxckhZNE0tUGl2MmRBcE14YnVnSi1IUTVpZUlneW5fMTJnMnZ4RnZfTmFjbjQ?oc=5",
+        "timestamp": "2026-01-09T04:00:00",
+        "timestamp_display": "09. 01. 2026 04:00",
         "is_new": true
     },
     {
         "category": "Byznys",
-        "title": "Luxusní hotel prodán",
-        "summary": "Skupina J&T a PPF prodala luxusní hotel v Londýně skupině z Mallorky.",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM3ZEQzhLWHRuWjhYY3JZZHFWQmlERUE4NTVwYldWS2hWXy1yeEd0dTdONE5GRk9ISURnSXpfWEZvU1Q4d3RkaGp6RFY3RDhaOGZsWlVVWFRwN0c0OW5DT1hrZ2U0M1ZBNEphaHUwbTNoUGx3aGVHT2l6ZnJoOU05NXhjWmxQT2dmV0d4R3cyMWhTQUoxSlBOOWRPVzJQMVJlWEluMlljQTNOTFdHZG5JTzNDT1M2bkttdlNxNVduMnpwRDlndkJuOFBn?oc=5",
-        "timestamp": "2026-01-09T16:45:00",
-        "timestamp_display": "09. 01. 2026 16:45",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Úroky spořicích účtů 2026",
-        "summary": "Srovnání aktuálních úroků spořicích účtů bank v ČR pro rok 2026.",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kREREeW1RS2RDQ2U4TU5zRXZuN09UbkZfY2o0MDlZN0NibjBDSDRjQWJaTnBIck5CMUlOTzZNRTlLb2pRVW5Ga0RyTUxxX2RhY1E?oc=5",
-        "timestamp": "2026-01-09T13:00:00",
-        "timestamp_display": "09. 01. 2026 13:00",
-        "is_new": true
-    },
-    {
-        "category": "Medicína",
-        "title": "Objev testu na rakovinu",
-        "summary": "Vědec z pardubické univerzity představil nový test, který může potenciálně určit různé druhy rakoviny.",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPX3VGaHg0U0JzSG15TUFmM1ZkMGFUVGw4NUxjYURmX0tua0VRcEhlXzdYTTNKbmJGbXhPbVNvZEd5NjJzZWpnOGgwazNyZ04yREx6NkptdW01RWNxVURmMnhpam5qaERNcXFqNS1vVGdhakVSMmktVUZlUm9qa0RNa2NCZDBMTHFTc3c0RkdOa3RkRlBJZkVCMTMxVWlzd19vb0RXV0NBQ0dRem1teEVyMTJLejRoWTFSLVMzMUl2S2wzdGN0TWg4R0p5Z3ZsZw?oc=5",
-        "timestamp": "2026-01-08T15:16:00",
-        "timestamp_display": "08. 01. 2026 15:16",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "CSG míří na burzu",
-        "summary": "Skupina CSG jedná o vstupu na burzu cenných papírů, Amsterdam je jednou z možných destinací.",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQV181SExONWE4N1R0dWY4R0F4Z01UMnlybmFaR2J6c1d6NGg5cTAwS2dwZ1VLMlNERVhYWlM1U2RtRXlnMHFDa0R4elRYTHdOV0VodnZyaW5rc3ZwZDhCSTJ1Z0hSZTB3M3lMbGxiZFFaRng5emxDS1BnWDJ1ZThRQzRYcEUxakxTSVRSWXFKQmVJek5ldUROZHZtd3E5ekxFa2lLa09KTQ?oc=5",
-        "timestamp": "2026-01-07T08:37:00",
-        "timestamp_display": "07. 01. 2026 08:37",
+        "title": "Akcie Eurowagu vzrostly",
+        "summary": "Akcie Vohánkova Eurowagu zaznamenaly růst o více než třetinu za měsíc.",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNR3V3NjQwaEtBa3NhSWN0ZEc0S0d4Z1NvUmRkYkw4UTJoZ1Q4V0VVV3V3LXUtbFhNS0JOZDFOS2xHNVl6MzJmUDFvUGRLbVBEWmxjSXdRZmY1NElOSUE4elhaVzdJcU4zSVVwTnFoam9QWm5Rbkd3Qk4tVmJoQ1Y1TW5sZFhHc0FCazFrOUgtMUxCaUZORVUwYXNzVC1uN0ZzX1UxVzI4YUhmXy1JV1lGY01fczZnRHkxNHp1a2VMYzhWUDVxTlpjdmVOalZMNmpp?oc=5",
+        "timestamp": "2026-01-08T17:30:00",
+        "timestamp_display": "08. 01. 2026 17:30",
         "is_new": true
     },
     {
@@ -100,11 +82,65 @@
     },
     {
         "category": "Byznys",
+        "title": "Nico Rosberg investuje",
+        "summary": "Nico Rosberg spravuje přes 200 milionů dolarů ve venture kapitálu.",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUjZJelNSTUZSQUdnTm01VnVPaUF6RzE4T0RocWlwQmtEOWxSVEpXQldaYVZhZ1YxenZUWUN0R2pieVhfeXpnWUVWa1lkRDBHRE1xM3BXNTV1aHNtX2pld3ZNVVFYQmRtVF9uOUM1YTJMbUxzRFVCdWFsWUVnVVRsMUJzYUhvR1A2ZmFfMVpaTUlpblg3NnVHekJGWno1V25nSU15UkMwVlE3cWsyNktmZVF6NkxjdldDSjYzY21Vemtmc0toLWdPLWxwVFhmSlk?oc=5",
+        "timestamp": "2026-01-12T15:00:00",
+        "timestamp_display": "12. 01. 2026 15:00",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Škoda budoucnosti",
+        "summary": "Šéf mladoboleslavského inkubátoru využívá umělou inteligenci k vývoji budoucích modelů Škody.",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYlFxckpEeEc3QWd4ZnVudWVvelJDSkhOeWh2UnhTb19kS29aNFg5aHNsTExIN1pTcTJtVGJsZlZvNlo4UEJvdkwwQU4tVm8tOTNkajA5eFZmdWptVXJ6NEkxdEwycGRNX05mczQwVG01TXhiWHB6ZmdUS3VOY3lHTXFQVVBqSWpiOUVJRFhwUGFRbm5NaHI4MlVnZ3FDX0IwZGFrQzJSUzgwcnFmZXN5T1U3MGVrNG0yZFA4YVpPNVBXVUxGU0E?oc=5",
+        "timestamp": "2026-01-12T05:00:00",
+        "timestamp_display": "12. 01. 2026 05:00",
+        "is_new": false
+    },
+    {
+        "category": "Věda",
+        "title": "Archeologie chrání přírodu",
+        "summary": "Archeologická naleziště se mění v rezervace vzácných rostlin a zvířat, chránící unikátní ekosystémy.",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd0FDUTVzeVVTd2JiamwzdmYtZ1NpRE9qZTlrclZ3QUdHUEVEUVNZSm1ZWWxKMkNFZFVFbTZYTjlXcU94cHBabFduVG0tcW93U1pzeEdwdTRqMUdNM00xSTdXNHlCaEdDRkZrbmIzemRoMEF5bk5VajVDX1VkdWtkY1Y2c1l0RENkSkF6QW9qVVhWZy1jOVpKMFFlUW9jUjc4VUI3Q2ZhNkw3ZkF5Q1FQcGJBUjhnd3dWMjk4cmtGRi1FTmpVTHVvUElZQlNWZTVRNm0taEZqUWRpNElS?oc=5",
+        "timestamp": "2026-01-11T19:28:00",
+        "timestamp_display": "11. 01. 2026 19:28",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
         "title": "Letiště Praha investuje miliardy",
         "summary": "Letiště Praha plánuje investice přes tři miliardy korun, což může zlepšit jeho infrastrukturu a služby.",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaXlxNEdTWXh6MjJibTVqQkZweWQ0RnRrOElVRWZBSHhaRmdGV0puSWllTnV3cnFiYU5NdXFQZjdVN0ZUaDlrUW5VSWR3cEpIbU85ZXJQcTFwbGs0YkJwU295U09BLTVZbkRJRFI2b2NiVEEzSjM3dmNSTmcxaE9Ob1NDTW54ckVfdGs3Q1dhaw?oc=5",
         "timestamp": "2026-01-11T08:05:42",
         "timestamp_display": "11. 01. 2026 08:05",
+        "is_new": false
+    },
+    {
+        "category": "Společnost",
+        "title": "Letohrádek rekonstruován",
+        "summary": "Letohrádek v České Lípě prochází rekonstrukcí za 90 milionů korun, vznikne prohlídkový okruh.",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNFRGNmc1aUUwUVpjV1F2Z3ZOVS1IUjVjM2Q2NExta1NrYnJXLXJKMXd0UFE3YWtYeGdNOElxQnBIbWJnR2RjNmZObHZQZTdqdXViODktVDhIZ2tKNlRFcENVM3RCeVpEanplMDZKNFJpcjA3bzdRU1ZERDBrQWlwX3BnVWxBYlBMZU5ITklkYzFLOXRmaHNJalRCU19pMUMwWXltY0x2XzdldVMxOUtwS2tFd05Ya0JVMEdVLU9KNDNHRXpyaXBHZg?oc=5",
+        "timestamp": "2026-01-11T08:05:00",
+        "timestamp_display": "11. 01. 2026 08:05",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Alza trhla rekord",
+        "summary": "Alza dosáhla rekordního zisku, který je dvojnásobný než předchozí.",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbUFMMXA5MUU0QlBGbDl2Z05Tcm0weFFncHloMnl0TlJCVEYtcjFHZ1F2dTdwUUs3ZFRBdHNUNkU4LWV5MzVDQWpVTXF6Y0dwYmVfc0plRUpLY0tYdjNrSXVpQkY0Y3NLLXBNaEJhOTVGXzhMSmM3Rnk5bnZ5Q2NUWWljQ084NlFuQXFZQ2FhV0N3RTNnVVZfanlzeFk5SjBfMWowaTBDUXc2QmpEV2VndVJLRG9CZUpLZndicFYzQ1JoSTJVZXZGY1IyQkZSVk9i?oc=5",
+        "timestamp": "2026-01-10T12:12:00",
+        "timestamp_display": "10. 01. 2026 12:12",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Nová generace AI miliardářů",
+        "summary": "Nová generace miliardářů zbohatla díky umělé inteligenci v posledních letech.",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPX3czNXpEYmo4MkxUc29qQzNIMlhod24yQjUzQnpPNU5RNXluRDBmQ3F1SkF2NVpkbFpRVW82TlpBUF9SMGVjLXZ6SmlEOUpYNksyVlRjSjBDSllucHlqZ25XamtCNU9UdWprLVJkaEZCRVZ4WVRQTmtiODJ2Q29EU2ctZ2JVenBHejdoWlAxUzgwa3BGZ21oSnRKc2U3elRuTnRKTUtQRGNOa0pSNUVBeEZaUmVtYzM0c1p6cF9NUTU0MFFnQ2FVSjNGR19zLXRoYnU0RTU4UjROdmYybGd3SW5BRGNTRnpB?oc=5",
+        "timestamp": "2026-01-10T10:00:00",
+        "timestamp_display": "10. 01. 2026 10:00",
         "is_new": false
     },
     {
@@ -114,6 +150,24 @@
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMWFpUFpqblVIR1VmU01sQzE5SDhGNjhUNGlUQnRCRnBKYXVOek9TazRUTkFLRkxnUktLU2hhc0hPRkdwRV9qUm95bmdCWHRNVzRRdTRpNUdHV0N1QTRCRDBrQWdON2FFdFV3bExvVDR3Q3NuMlAtOVdHREpFOElwMTEtRXZCWVZySVZXZXZ1YWlDTDloYjU4YWhkX3FZVkhnZVFPTHQzY2RzM3JSek13SG1rX3VrRlg0eHRuTEZzRkVPOXpNdUgtcEduTGFvY2JNemc?oc=5",
         "timestamp": "2026-01-10T05:00:00",
         "timestamp_display": "10. 01. 2026 05:00",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Luxusní hotel prodán",
+        "summary": "Skupina J&T a PPF prodala luxusní hotel v Londýně skupině z Mallorky.",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM3ZEQzhLWHRuWjhYY3JZZHFWQmlERUE4NTVwYldWS2hWXy1yeEd0dTdONE5GRk9ISURnSXpfWEZvU1Q4d3RkaGp6RFY3RDhaOGZsWlVVWFRwN0c0OW5DT1hrZ2U0M1ZBNEphaHUwbTNoUGx3aGVHT2l6ZnJoOU05NXhjWmxQT2dmV0d4R3cyMWhTQUoxSlBOOWRPVzJQMVJlWEluMlljQTNOTFdHZG5JTzNDT1M2bkttdlNxNVduMnpwRDlndkJuOFBn?oc=5",
+        "timestamp": "2026-01-09T16:45:00",
+        "timestamp_display": "09. 01. 2026 16:45",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Úroky spořicích účtů 2026",
+        "summary": "Srovnání aktuálních úroků spořicích účtů bank v ČR pro rok 2026.",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kREREeW1RS2RDQ2U4TU5zRXZuN09UbkZfY2o0MDlZN0NibjBDSDRjQWJaTnBIck5CMUlOTzZNRTlLb2pRVW5Ga0RyTUxxX2RhY1E?oc=5",
+        "timestamp": "2026-01-09T13:00:00",
+        "timestamp_display": "09. 01. 2026 13:00",
         "is_new": false
     },
     {
@@ -153,6 +207,15 @@
         "is_new": false
     },
     {
+        "category": "Medicína",
+        "title": "Objev testu na rakovinu",
+        "summary": "Vědec z pardubické univerzity představil nový test, který může potenciálně určit různé druhy rakoviny.",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPX3VGaHg0U0JzSG15TUFmM1ZkMGFUVGw4NUxjYURmX0tua0VRcEhlXzdYTTNKbmJGbXhPbVNvZEd5NjJzZWpnOGgwazNyZ04yREx6NkptdW01RWNxVURmMnhpam5qaERNcXFqNS1vVGdhakVSMmktVUZlUm9qa0RNa2NCZDBMTHFTc3c0RkdOa3RkRlBJZkVCMTMxVWlzd19vb0RXV0NBQ0dRem1teEVyMTJLejRoWTFSLVMzMUl2S2wzdGN0TWg4R0p5Z3ZsZw?oc=5",
+        "timestamp": "2026-01-08T15:16:00",
+        "timestamp_display": "08. 01. 2026 15:16",
+        "is_new": false
+    },
+    {
         "category": "Byznys",
         "title": "Olomoucký kraj investuje 3 miliardy",
         "summary": "Olomoucký kraj plánuje investovat 3 miliardy do různých projektů, včetně dokončení Ústavu Paseka.",
@@ -168,6 +231,15 @@
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON0hSc1d1d1dPeGx0enMwUHIyWV92dGRhc0U1dmFVTUYyYVplMWc1QTlLWkQ2eExVX09DVzlJQnNWaVFubjNOeGEzOG1YRVlBR0M0R1JnSW9lUE0wdGZsQl90d1NJZE13MHJ5NmhGZWI4Q1puTmVXZnAtMzlyZ2hBc3g0dWlhV1hxZU1IbVBQZmpkRnk3NW43dWVicnZlZU1HQ2ZrOXRWaDlPWFdOZnc?oc=5",
         "timestamp": "2026-01-07T18:02:44",
         "timestamp_display": "07. 01. 2026 18:02",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "CSG míří na burzu",
+        "summary": "Skupina CSG jedná o vstupu na burzu cenných papírů, Amsterdam je jednou z možných destinací.",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQV181SExONWE4N1R0dWY4R0F4Z01UMnlybmFaR2J6c1d6NGg5cTAwS2dwZ1VLMlNERVhYWlM1U2RtRXlnMHFDa0R4elRYTHdOV0VodnZyaW5rc3ZwZDhCSTJ1Z0hSZTB3M3lMbGxiZFFaRng5emxDS1BnWDJ1ZThRQzRYcEUxakxTSVRSWXFKQmVJek5ldUROZHZtd3E5ekxFa2lLa09KTQ?oc=5",
+        "timestamp": "2026-01-07T08:37:00",
+        "timestamp_display": "07. 01. 2026 08:37",
         "is_new": false
     },
     {
