@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dobré Zprávy | Groq Edition</title>
+    <style>
+        body { font-family: 'Segoe UI', system-ui, sans-serif; background-color: #f8f9fa; margin: 0; padding: 20px; color: #343a40; }
+        .container { max-width: 900px; margin: 0 auto; }
+        
+        /* HEADER & MENU */
+        header { text-align: center; margin-bottom: 30px; padding-top: 20px; }
+        h1 { color: #2c3e50; margin: 0; font-size: 3em; letter-spacing: -1px; }
+        .subtitle { color: #6c757d; font-size: 1.1em; margin-top: 10px; margin-bottom: 30px;}
+
+        /* Forbes-style Navigation */
+        .nav-scroller { overflow-x: auto; white-space: nowrap; border-bottom: 1px solid #e9ecef; margin-bottom: 40px; padding-bottom: 10px; text-align: center; }
+        .nav-link { 
+            display: inline-block; 
+            padding: 8px 16px; 
+            color: #555; 
+            text-decoration: none; 
+            font-weight: 600; 
+            font-size: 0.95rem; 
+            text-transform: uppercase; 
+            cursor: pointer;
+            transition: color 0.2s;
+        }
+        .nav-link:hover, .nav-link.active { color: #000; font-weight: 800; border-bottom: 2px solid #000; }
+
+        /* KARTY */
+        .card { 
+            background: white; 
+            border-radius: 12px; 
+            padding: 25px; 
+            margin-bottom: 25px; 
+            box-shadow: 0 4px 15px rgba(0,0,0,0.05); 
+            border: 1px solid #f1f3f5;
+            position: relative; 
+            display: block; /* Default display */
+        }
+        
+        /* Barevné proužky */
+        .card[data-category="Věda"] { border-left: 5px solid #8e44ad; }
+        .card[data-category="Technologie"] { border-left: 5px solid #2980b9; }
+        .card[data-category="Medicína"] { border-left: 5px solid #e74c3c; }
+        .card[data-category="Byznys"] { border-left: 5px solid #27ae60; }
+        .card[data-category="Společnost"] { border-left: 5px solid #f39c12; }
+
+        /* Badge NOVÉ */
+        .badge-new {
+            background-color: #e74c3c;
+            color: white;
+            font-size: 0.7rem;
+            font-weight: bold;
+            padding: 2px 8px;
+            border-radius: 4px;
+            vertical-align: middle;
+            margin-left: 10px;
+            text-transform: uppercase;
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0% { opacity: 1; }
+            50% { opacity: 0.7; }
+            100% { opacity: 1; }
+        }
+
+        .meta-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; }
+        .tag { text-transform: uppercase; font-size: 0.75em; font-weight: 700; color: #adb5bd; }
+        .timestamp { font-size: 0.8rem; color: #ced4da; }
+
+        h2 { margin: 10px 0; font-size: 1.5rem; color: #212529; }
+        p { line-height: 1.6; color: #495057; font-size: 1rem; }
+        
+        a.btn { 
+            display: inline-block; text-decoration: none; background-color: #f8f9fa; color: #333; 
+            padding: 8px 20px; border-radius: 50px; font-weight: 600; font-size: 0.85rem; border: 1px solid #dee2e6; transition: all 0.2s; 
+        }
+        a.btn:hover { background-color: #333; color: white; border-color: #333; }
+        
+        footer { text-align: center; margin-top: 50px; color: #ced4da; font-size: 0.8rem; border-top: 1px solid #eee; padding-top: 20px;}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>☀️ Dobré Zprávy</h1>
+            <div class="subtitle">Přehled úspěchů lidstva • Aktualizováno: 13. 01. 2026 15:28</div>
+        </header>
+        
+        <nav class="nav-scroller">
+            <a class="nav-link active" onclick="filterArticles('all', this)">Vše</a>
+            <a class="nav-link" onclick="filterArticles('Věda', this)">Věda</a>
+            <a class="nav-link" onclick="filterArticles('Technologie', this)">Technologie</a>
+            <a class="nav-link" onclick="filterArticles('Medicína', this)">Medicína</a>
+            <a class="nav-link" onclick="filterArticles('Byznys', this)">Byznys</a>
+            <a class="nav-link" onclick="filterArticles('Společnost', this)">Společnost</a>
+        </nav>
+        
+        <div id="articles-container">
+            
+                
+                <div class="card" data-category="Byznys">
+                    <div class="meta-header">
+                        <div>
+                            <span class="tag">Byznys</span>
+                            
+                                <span class="badge-new">NOVÉ</span>
+                            
+                        </div>
+                        <span class="timestamp">12. 01. 2026 15:00</span>
+                    </div>
+                    
+                    <h2>Nico Rosberg investuje</h2>
+                    <p>Nico Rosberg spravuje přes 200 milionů dolarů ve venture kapitálu.</p>
+                    <a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxPUjZJelNSTUZSQUdnTm01VnVPaUF6RzE4T0RocWlwQmtEOWxSVEpXQldaYVZhZ1YxenZUWUN0R2pieVhfeXpnWUVWa1lkRDBHRE1xM3BXNTV1aHNtX2pld3ZNVVFYQmRtVF9uOUM1YTJMbUxzRFVCdWFsWUVnVVRsMUJzYUhvR1A2ZmFfMVpaTUlpblg3NnVHekJGWno1V25nSU15UkMwVlE3cWsyNktmZVF6NkxjdldDSjYzY21Vemtmc0toLWdPLWxwVFhmSlk?oc=5" target="_blank" class="btn">Číst původní článek</a>
+                </div>
+                
+                <div class="card" data-category="Technologie">
+                    <div class="meta-header">
+                        <div>
+                            <span class="tag">Technologie</span>
+                            
+                                <span class="badge-new">NOVÉ</span>
+                            
+                        </div>
+                        <span class="timestamp">12. 01. 2026 05:00</span>
+                    </div>
+                    
+                    <h2>Škoda budoucnosti</h2>
+                    <p>Šéf mladoboleslavského inkubátoru využívá umělou inteligenci k vývoji budoucích modelů Škody.</p>
+                    <a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxPYlFxckpEeEc3QWd4ZnVudWVvelJDSkhOeWh2UnhTb19kS29aNFg5aHNsTExIN1pTcTJtVGJsZlZvNlo4UEJvdkwwQU4tVm8tOTNkajA5eFZmdWptVXJ6NEkxdEwycGRNX05mczQwVG01TXhiWHB6ZmdUS3VOY3lHTXFQVVBqSWpiOUVJRFhwUGFRbm5NaHI4MlVnZ3FDX0IwZGFrQzJSUzgwcnFmZXN5T1U3MGVrNG0yZFA4YVpPNVBXVUxGU0E?oc=5" target="_blank" class="btn">Číst původní článek</a>
+                </div>
+                
+                <div class="card" data-category="Věda">
+                    <div class="meta-header">
+                        <div>
+                            <span class="tag">Věda</span>
+                            
+                                <span class="badge-new">NOVÉ</span>
+                            
+                        </div>
+                        <span class="timestamp">11. 01. 2026 19:28</span>
+                    </div>
+                    
+                    <h2>Archeologie chrání přírodu</h2>
+                    <p>Archeologická naleziště se mění v rezervace vzácných rostlin a zvířat, chránící unikátní ekosystémy.</p>
+                    <a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd0FDUTVzeVVTd2JiamwzdmYtZ1NpRE9qZTlrclZ3QUdHUEVEUVNZSm1ZWWxKMkNFZFVFbTZYTjlXcU94cHBabFduVG0tcW93U1pzeEdwdTRqMUdNM00xSTdXNHlCaEdDRkZrbmIzemRoMEF5bk5VajVDX1VkdWtkY1Y2c1l0RENkSkF6QW9qVVhWZy1jOVpKMFFlUW9jUjc4VUI3Q2ZhNkw3ZkF5Q1FQcGJBUjhnd3dWMjk4cmtGRi1FTmpVTHVvUElZQlNWZTVRNm0taEZqUWRpNElS?oc=5" target="_blank" class="btn">Číst původní článek</a>
+                </div>
+                
+                <div class="card" data-category="Společnost">
+                    <div class="meta-header">
+                        <div>
+                            <span class="tag">Společnost</span>
+                            
+                                <span class="badge-new">NOVÉ</span>
+                            
+                        </div>
+                        <span class="timestamp">11. 01. 2026 08:05</span>
+                    </div>
+                    
+                    <h2>Letohrádek rekonstruován</h2>
+                    <p>Letohrádek v České Lípě prochází rekonstrukcí za 90 milionů korun, vznikne prohlídkový okruh.</p>
+                    <a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNFRGNmc1aUUwUVpjV1F2Z3ZOVS1IUjVjM2Q2NExta1NrYnJXLXJKMXd0UFE3YWtYeGdNOElxQnBIbWJnR2RjNmZObHZQZTdqdXViODktVDhIZ2tKNlRFcENVM3RCeVpEanplMDZKNFJpcjA3bzdRU1ZERDBrQWlwX3BnVWxBYlBMZU5ITklkYzFLOXRmaHNJalRCU19pMUMwWXltY0x2XzdldVMxOUtwS2tFd05Ya0JVMEdVLU9KNDNHRXpyaXBHZg?oc=5" target="_blank" class="btn">Číst původní článek</a>
+                </div>
+                
+                <div class="card" data-category="Byznys">
+                    <div class="meta-header">
+                        <div>
+                            <span class="tag">Byznys</span>
+                            
+                                <span class="badge-new">NOVÉ</span>
+                            
+                        </div>
+                        <span class="timestamp">10. 01. 2026 12:12</span>
+                    </div>
+                    
+                    <h2>Alza trhla rekord</h2>
+                    <p>Alza dosáhla rekordního zisku, který je dvojnásobný než předchozí.</p>
+                    <a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbUFMMXA5MUU0QlBGbDl2Z05Tcm0weFFncHloMnl0TlJCVEYtcjFHZ1F2dTdwUUs3ZFRBdHNUNkU4LWV5MzVDQWpVTXF6Y0dwYmVfc0plRUpLY0tYdjNrSXVpQkY0Y3NLLXBNaEJhOTVGXzhMSmM3Rnk5bnZ5Q2NUWWljQ084NlFuQXFZQ2FhV0N3RTNnVVZfanlzeFk5SjBfMWowaTBDUXc2QmpEV2VndVJLRG9CZUpLZndicFYzQ1JoSTJVZXZGY1IyQkZSVk9i?oc=5" target="_blank" class="btn">Číst původní článek</a>
+                </div>
+                
+                <div class="card" data-category="Byznys">
+                    <div class="meta-header">
+                        <div>
+                            <span class="tag">Byznys</span>
+                            
+                                <span class="badge-new">NOVÉ</span>
+                            
+                        </div>
+                        <span class="timestamp">10. 01. 2026 10:00</span>
+                    </div>
+                    
+                    <h2>Nová generace AI miliardářů</h2>
+                    <p>Nová generace miliardářů zbohatla díky umělé inteligenci v posledních letech.</p>
+                    <a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxPX3czNXpEYmo4MkxUc29qQzNIMlhod24yQjUzQnpPNU5RNXluRDBmQ3F1SkF2NVpkbFpRVW82TlpBUF9SMGVjLXZ6SmlEOUpYNksyVlRjSjBDSllucHlqZ25XamtCNU9UdWprLVJkaEZCRVZ4WVRQTmtiODJ2Q29EU2ctZ2JVenBHejdoWlAxUzgwa3BGZ21oSnRKc2U3elRuTnRKTUtQRGNOa0pSNUVBeEZaUmVtYzM0c1p6cF9NUTU0MFFnQ2FVSjNGR19zLXRoYnU0RTU4UjROdmYybGd3SW5BRGNTRnpB?oc=5" target="_blank" class="btn">Číst původní článek</a>
+                </div>
+                
+                <div class="card" data-category="Byznys">
+                    <div class="meta-header">
+                        <div>
+                            <span class="tag">Byznys</span>
+                            
+                                <span class="badge-new">NOVÉ</span>
+                            
+                        </div>
+                        <span class="timestamp">09. 01. 2026 16:45</span>
+                    </div>
+                    
+                    <h2>Luxusní hotel prodán</h2>
+                    <p>Skupina J&T a PPF prodala luxusní hotel v Londýně skupině z Mallorky.</p>
+                    <a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxOM3ZEQzhLWHRuWjhYY3JZZHFWQmlERUE4NTVwYldWS2hWXy1yeEd0dTdONE5GRk9ISURnSXpfWEZvU1Q4d3RkaGp6RFY3RDhaOGZsWlVVWFRwN0c0OW5DT1hrZ2U0M1ZBNEphaHUwbTNoUGx3aGVHT2l6ZnJoOU05NXhjWmxQT2dmV0d4R3cyMWhTQUoxSlBOOWRPVzJQMVJlWEluMlljQTNOTFdHZG5JTzNDT1M2bkttdlNxNVduMnpwRDlndkJuOFBn?oc=5" target="_blank" class="btn">Číst původní článek</a>
+                </div>
+                
+                <div class="card" data-category="Byznys">
+                    <div class="meta-header">
+                        <div>
+                            <span class="tag">Byznys</span>
+                            
+                                <span class="badge-new">NOVÉ</span>
+                            
+                        </div>
+                        <span class="timestamp">09. 01. 2026 13:00</span>
+                    </div>
+                    
+                    <h2>Úroky spořicích účtů 2026</h2>
+                    <p>Srovnání aktuálních úroků spořicích účtů bank v ČR pro rok 2026.</p>
+                    <a href="https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kREREeW1RS2RDQ2U4TU5zRXZuN09UbkZfY2o0MDlZN0NibjBDSDRjQWJaTnBIck5CMUlOTzZNRTlLb2pRVW5Ga0RyTUxxX2RhY1E?oc=5" target="_blank" class="btn">Číst původní článek</a>
+                </div>
+                
+                <div class="card" data-category="Medicína">
+                    <div class="meta-header">
+                        <div>
+                            <span class="tag">Medicína</span>
+                            
+                                <span class="badge-new">NOVÉ</span>
+                            
+                        </div>
+                        <span class="timestamp">08. 01. 2026 15:16</span>
+                    </div>
+                    
+                    <h2>Objev testu na rakovinu</h2>
+                    <p>Vědec z pardubické univerzity představil nový test, který může potenciálně určit různé druhy rakoviny.</p>
+                    <a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxPX3VGaHg0U0JzSG15TUFmM1ZkMGFUVGw4NUxjYURmX0tua0VRcEhlXzdYTTNKbmJGbXhPbVNvZEd5NjJzZWpnOGgwazNyZ04yREx6NkptdW01RWNxVURmMnhpam5qaERNcXFqNS1vVGdhakVSMmktVUZlUm9qa0RNa2NCZDBMTHFTc3c0RkdOa3RkRlBJZkVCMTMxVWlzd19vb0RXV0NBQ0dRem1teEVyMTJLejRoWTFSLVMzMUl2S2wzdGN0TWg4R0p5Z3ZsZw?oc=5" target="_blank" class="btn">Číst původní článek</a>
+                </div>
+                
+                <div class="card" data-category="Byznys">
+                    <div class="meta-header">
+                        <div>
+                            <span class="tag">Byznys</span>
+                            
+                                <span class="badge-new">NOVÉ</span>
+                            
+                        </div>
+                        <span class="timestamp">07. 01. 2026 08:37</span>
+                    </div>
+                    
+                    <h2>CSG míří na burzu</h2>
+                    <p>Skupina CSG jedná o vstupu na burzu cenných papírů, Amsterdam je jednou z možných destinací.</p>
+                    <a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxQV181SExONWE4N1R0dWY4R0F4Z01UMnlybmFaR2J6c1d6NGg5cTAwS2dwZ1VLMlNERVhYWlM1U2RtRXlnMHFDa0R4elRYTHdOV0VodnZyaW5rc3ZwZDhCSTJ1Z0hSZTB3M3lMbGxiZFFaRng5emxDS1BnWDJ1ZThRQzRYcEUxakxTSVRSWXFKQmVJek5ldUROZHZtd3E5ekxFa2lLa09KTQ?oc=5" target="_blank" class="btn">Číst původní článek</a>
+                </div>
+                
+                <div class="card" data-category="Medicína">
+                    <div class="meta-header">
+                        <div>
+                            <span class="tag">Medicína</span>
+                            
+                        </div>
+                        <span class="timestamp">13. 01. 2026 12:42</span>
+                    </div>
+                    
+                    <h2>Naděje pro rakovinové pacienty roste</h2>
+                    <p>Vědecká ředitelka společnosti Sotio říká, že univerzální lék na rakovinu není reálný, ale naděje pro pacienty roste.</p>
+                    <a href="https://news.google.com/rss/articles/CBMi9gFBVV95cUxPWDUzTjU2UWJMbXNLUU5ZV1pKRDczRFM4ekM3UnB4MzNNaDdjZm02alBkNzIyazc3b0JjcXBVTFhOS2RXUWR2M3RDWlhNdnJxUldyT1hfcUFqMUNkdmpEUTJ5M2lDZUJUTmVkWmd1NzBKVDUyWXdXZDVqcnFkdmJ0dnhzaURhb2lOeHE5RjJLcDc0d3RvaEFqQzl6U3V5R1JfVWprSzlrd3FyVWlYTEVnOTRidkx5YmR3UzRlSzJ4dlhTYlpJeTI1eXh0TFRXdmlnbzh5U09FbWRwS2xyNDJnS29hdmZ6X1lqZ1c5TWhCd3Z5VFFSRGc?oc=5" target="_blank" class="btn">Číst původní článek</a>
+                </div>
+                
+                <div class="card" data-category="Byznys">
+                    <div class="meta-header">
+                        <div>
+                            <span class="tag">Byznys</span>
+                            
+                        </div>
+                        <span class="timestamp">11. 01. 2026 08:05</span>
+                    </div>
+                    
+                    <h2>Letiště Praha investuje miliardy</h2>
+                    <p>Letiště Praha plánuje investice přes tři miliardy korun, což může zlepšit jeho infrastrukturu a služby.</p>
+                    <a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxQaXlxNEdTWXh6MjJibTVqQkZweWQ0RnRrOElVRWZBSHhaRmdGV0puSWllTnV3cnFiYU5NdXFQZjdVN0ZUaDlrUW5VSWR3cEpIbU85ZXJQcTFwbGs0YkJwU295U09BLTVZbkRJRFI2b2NiVEEzSjM3dmNSTmcxaE9Ob1NDTW54ckVfdGs3Q1dhaw?oc=5" target="_blank" class="btn">Číst původní článek</a>
+                </div>
+                
+                <div class="card" data-category="Technologie">
+                    <div class="meta-header">
+                        <div>
+                            <span class="tag">Technologie</span>
+                            
+                        </div>
+                        <span class="timestamp">10. 01. 2026 05:00</span>
+                    </div>
+                    
+                    <h2>Česko chce AI Gigafactory</h2>
+                    <p>Česko zvažuje získání AI Gigafactory, ale zatím počítá, zda se vyplatí, a zvažuje sdílení s Polskem.</p>
+                    <a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMWFpUFpqblVIR1VmU01sQzE5SDhGNjhUNGlUQnRCRnBKYXVOek9TazRUTkFLRkxnUktLU2hhc0hPRkdwRV9qUm95bmdCWHRNVzRRdTRpNUdHV0N1QTRCRDBrQWdON2FFdFV3bExvVDR3Q3NuMlAtOVdHREpFOElwMTEtRXZCWVZySVZXZXZ1YWlDTDloYjU4YWhkX3FZVkhnZVFPTHQzY2RzM3JSek13SG1rX3VrRlg0eHRuTEZzRkVPOXpNdUgtcEduTGFvY2JNemc?oc=5" target="_blank" class="btn">Číst původní článek</a>
+                </div>
+                
+                <div class="card" data-category="Společnost">
+                    <div class="meta-header">
+                        <div>
+                            <span class="tag">Společnost</span>
+                            
+                        </div>
+                        <span class="timestamp">09. 01. 2026 12:30</span>
+                    </div>
+                    
+                    <h2>Obědy pro děti v nouzi</h2>
+                    <p>Projekt Obědy do školy pomáhá dětem z rodin ve finanční nouzi ve Zlínském kraji.</p>
+                    <a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ2lQcTBLdDdOUWZ4b21jc2E2aHRrN3dkbXRUQ1BjQmdsVTItamVjbVhXSG5LbXRQWlVUY0RkX1Q2YklIV2VGOFdleGpXdklkeWRpRXpxVVBXMTdHOHIxWDRKdHcydlBGeWROTk5mOUZnM3gyZjFmTTZzSm1QcGNMWlFHZUd0eHdYR3ZJOU1YbHk5TTJRMFg0WFdLdXJmTnhnWGFYY2ItcVZRYnBOdG5SWll5WjBmVUdjc3BtNmFTN3JpQkRs?oc=5" target="_blank" class="btn">Číst původní článek</a>
+                </div>
+                
+                <div class="card" data-category="Věda">
+                    <div class="meta-header">
+                        <div>
+                            <span class="tag">Věda</span>
+                            
+                        </div>
+                        <span class="timestamp">09. 01. 2026 07:42</span>
+                    </div>
+                    
+                    <h2>Uhlík uložíme v oceánu</h2>
+                    <p>Vědci navrhli ukládání uhlíku plavením dřeva do Severního ledového oceánu.</p>
+                    <a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vbjFWWW1mU3dHTXZXTi1MZWx4S2U5MzFzQVRucW43eHhQbGJDWWRiZjhtSU9XNlFwQ2h0TE1fOEcyb3RnaTQtQ3FOZ0hBSWtnYmxR?oc=5" target="_blank" class="btn">Číst původní článek</a>
+                </div>
+                
+                <div class="card" data-category="Technologie">
+                    <div class="meta-header">
+                        <div>
+                            <span class="tag">Technologie</span>
+                            
+                        </div>
+                        <span class="timestamp">09. 01. 2026 05:44</span>
+                    </div>
+                    
+                    <h2>Revoluce v AI čipech</h2>
+                    <p>Český podnikatel vyvinul AI čipy, které jsou výzvou pro Nvidii, díky studiu umělé inteligence během zranění.</p>
+                    <a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQMTRTdE1TRkNQRzlvWmJVMzRWQkxkQ05EaXROeXFQMm1HbjVFRnJlai05eF9oTFh2WTh5SWpKcEZFa1Ewb01fWmZob0NCWTRjRHR2WGJlVkdyRXV2bEFmRmV5d0c2dm1IcW9OZERwVHQyRDJxc183RkFqelpWbVY1OHBoa19ybXduUDRWaXJCdmlGcVZ2UGU4eWpKMWV5VFFrbzlOdXdiNUlwaXNlZzRUQW5PSQ?oc=5" target="_blank" class="btn">Číst původní článek</a>
+                </div>
+                
+                <div class="card" data-category="Společnost">
+                    <div class="meta-header">
+                        <div>
+                            <span class="tag">Společnost</span>
+                            
+                        </div>
+                        <span class="timestamp">09. 01. 2026 05:32</span>
+                    </div>
+                    
+                    <h2>Nová budova pro děti</h2>
+                    <p>V Troubkách dokončují stavbu budovy pro dětskou skupinu, největší investici od povodně roku 1997.</p>
+                    <a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxNNHpLcGFqSmJDV0hkQUx2eTZERl9ER3NSRW5hY29nNTlQM0lyTGJNUEJBVml2aE5GNkJNZ0hBWFU5OE1tQS1zaFpJWGwxeUhQYzBpbGRlMVFteTAyT0tVS2QwUVlOajhPT3lMVTFIVTVieUJQYmQzeWcweXB0TGdka2lqazFXaXRnTWxhNHRKZ1ZqMVVYWWhwdmhUM19nNmZzSUZzOXNDRE8tVUVmQU5idWhJejQzMFdaWnNTcmttWm10Y2NEWERmalI3SQ?oc=5" target="_blank" class="btn">Číst původní článek</a>
+                </div>
+                
+                <div class="card" data-category="Byznys">
+                    <div class="meta-header">
+                        <div>
+                            <span class="tag">Byznys</span>
+                            
+                        </div>
+                        <span class="timestamp">08. 01. 2026 06:21</span>
+                    </div>
+                    
+                    <h2>Olomoucký kraj investuje 3 miliardy</h2>
+                    <p>Olomoucký kraj plánuje investovat 3 miliardy do různých projektů, včetně dokončení Ústavu Paseka.</p>
+                    <a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxOeFhKVExFbnRhemFLazdXRGYwZ1ZuYktIMDQxODVFQjdTd0hDNVg1M0pYZkJZODFubTFWWUFjX1BmRkJkU2JCQ09jeUJmcGg2U1ZLdV9hUWJaejA5czRUYVRsRG9iaUhzX1kteWJQSkpVbWFLQTUwM25kZDNheE1pdE1fTU1IX3U3YlRlTnpsV3NOZkZHa2hYMTVza3FnSUxVYkJ3ZjFLR1VDTHBNNkZveFpieTdaRVR3dHVOQWhkZXg4T0xUQzZlcE1n?oc=5" target="_blank" class="btn">Číst původní článek</a>
+                </div>
+                
+                <div class="card" data-category="Byznys">
+                    <div class="meta-header">
+                        <div>
+                            <span class="tag">Byznys</span>
+                            
+                        </div>
+                        <span class="timestamp">07. 01. 2026 18:02</span>
+                    </div>
+                    
+                    <h2>Úspěšný designér</h2>
+                    <p>Nadějný designér mluví o svém úspěchu a představuje přenositelné lavičky a virální video.</p>
+                    <a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxON0hSc1d1d1dPeGx0enMwUHIyWV92dGRhc0U1dmFVTUYyYVplMWc1QTlLWkQ2eExVX09DVzlJQnNWaVFubjNOeGEzOG1YRVlBR0M0R1JnSW9lUE0wdGZsQl90d1NJZE13MHJ5NmhGZWI4Q1puTmVXZnAtMzlyZ2hBc3g0dWlhV1hxZU1IbVBQZmpkRnk3NW43dWVicnZlZU1HQ2ZrOXRWaDlPWFdOZnc?oc=5" target="_blank" class="btn">Číst původní článek</a>
+                </div>
+                
+                <div class="card" data-category="Byznys">
+                    <div class="meta-header">
+                        <div>
+                            <span class="tag">Byznys</span>
+                            
+                        </div>
+                        <span class="timestamp">29. 12. 2025 08:00</span>
+                    </div>
+                    
+                    <h2>Češi prodali startup</h2>
+                    <p>Čeští podnikatelé prodali svůj druhý startup za stovky milionů korun, úspěch po necelém roce existence.</p>
+                    <a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxNZjBDblhYd3B5YTdIWmNzSVBHbWVkMXNUemJ1a1p3RlNVWTkzZ0pHX1U1bzExMDdBTVBpWndhRnFwREZDLUY2bXlEUEtWRDhMMWJ1Sl9YRDFsWnNqZWM0MXhNU09mQi1iN2ZFNi15czVTdmVuVktUT1lnYWJtYVpwNUZLanRweVN3Rno3YzRHd0REaEtIU3FCY2paVzZ3QWZtRHFUal8yRDYzeWZPTHd5dGZ2TzI?oc=5" target="_blank" class="btn">Číst původní článek</a>
+                </div>
+                
+            
+        </div>
+        
+        <footer>Powered by Groq (Llama 3) & Python</footer>
+    </div>
+
+    <script>
+        function filterArticles(category, element) {
+            // 1. Změna aktivního linku v menu
+            const links = document.querySelectorAll('.nav-link');
+            links.forEach(link => link.classList.remove('active'));
+            element.classList.add('active');
+
+            // 2. Filtrace karet
+            const cards = document.querySelectorAll('.card');
+            cards.forEach(card => {
+                const cardCategory = card.getAttribute('data-category');
+                
+                if (category === 'all' || cardCategory === category) {
+                    card.style.display = 'block';
+                } else {
+                    card.style.display = 'none';
+                }
+            });
+        }
+    </script>
+</body>
+</html>
