@@ -2,7 +2,7 @@ name: Denní aktualizace zpráv
 
 on:
   schedule:
-    - cron: '0 5 * * *' # Spustí se v 5:00 UTC (cca 6:00 nebo 7:00 našeho času)
+    - cron: '0 6,10,14,18 * * *' # Spustí se v 6:00 UTC (cca 7:00 nebo 8:00 našeho času)
   workflow_dispatch: # Umožní ti to spustit i ručně tlačítkem
 
 permissions:
