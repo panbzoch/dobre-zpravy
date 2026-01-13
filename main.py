@@ -7,6 +7,7 @@ import json
 from datetime import datetime
 from email.utils import parsedate_to_datetime
 from jinja2 import Environment, FileSystemLoader
+from zoneinfo import ZoneInfo
 
 # --- KONFIGURACE ---
 # Tohle funguje univerzálně: doma to bere z .env, na GitHubu ze Secrets
@@ -151,9 +152,12 @@ def generate_html_from_template(articles):
     env = Environment(loader=FileSystemLoader('.'))
     template = env.get_template(TEMPLATE_FILE)
     
+    # Získáme aktuální čas v Praze
+    cz_time = datetime.now(ZoneInfo("Europe/Prague")) # <--- ZMĚNA
+    
     output_html = template.render(
         articles=articles,
-        last_update=datetime.now().strftime("%d. %m. %Y %H:%M")
+        last_update=cz_time.strftime("%d. %m. %Y %H:%M") # <--- ZMĚNA (použijeme cz_time)
     )
     
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
@@ -241,4 +245,5 @@ finally:
     save_database(db_articles)
 
     # 4. GENEROWÁNÍ HTML
+
     generate_html_from_template(db_articles)
