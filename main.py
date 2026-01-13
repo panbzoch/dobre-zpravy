@@ -15,7 +15,7 @@ API_KEY = os.getenv("GROQ_API_KEY")
 DB_FILE = "database.json"
 OUTPUT_FILE = "index.html"
 TEMPLATE_FILE = "template.html"
-DELAY_SECONDS = 2.0 
+DELAY_SECONDS = 5.0 
 
 client = Groq(api_key=API_KEY)
 
@@ -81,27 +81,22 @@ def is_worth_checking(title):
 
 # --- AI ANALÝZA ---
 def analyze_article_with_groq(title, description, link):
+    # OPTIMALIZOVANÝ PROMPT (Méně keců, stejná kvalita = méně tokenů)
     system_prompt = """
-    Jsi editor seriózního pozitivního webu. 
-    Analyzuj zprávu na základě titulku a perexu.
+    Jsi editor. Hledej POUZE pozitivní zprávy (věda, technologie, byznys, medicína, úspěchy).
+    IGNORUJ: politiku, krimi, nehody, sport.
     
-    KRITÉRIA:
-    1. Hledáme POUZE: Vědecké objevy, Technologické inovace, Byznysové úspěchy, Medicínské průlomy, Dokončené projekty, Pomoc lidem.
-    2. IGNORUJ: Politiku, Krimi, Nehody, Bulvár, Sportovní výsledky.
-    
-    POKUD ZPRÁVA NENÍ POZITIVNÍ:
-    Odpověz pouze slovem: SKIP
-    
-    POKUD JE POZITIVNÍ:
-    Odpověz v tomto formátu:
-    KATEGORIE: [Vyber jednu: Věda / Technologie / Medicína / Byznys / Společnost]
-    TITULEK: [Přeformuluj na úderný titulek, max 8 slov]
-    SHRNUTÍ: [Napiš kvalitní shrnutí na 30-50 slov.]
+    Pokud NE: Odpověz "SKIP".
+    Pokud ANO:
+    KATEGORIE: [Věda/Technologie/Medicína/Byznys/Společnost]
+    TITULEK: [Max 8 slov]
+    SHRNUTÍ: [30-50 slov, fakta]
     """
 
-    clean_desc = description.replace("<br>", " ").replace("<p>", "")[:600]
+    # Ořízneme perex na 300 znaků (pro kontext to stačí a šetří to tokeny)
+    clean_desc = description.replace("<br>", " ").replace("<p>", "")[:300]
 
-    user_content = f"TITULEK: '{title}'\nPEREX: '{clean_desc}'\nODKAZ: {link}"
+    user_content = f"TITULEK: '{title}'\nPEREX: '{clean_desc}'"
 
     try:
         chat_completion = client.chat.completions.create(
@@ -111,6 +106,7 @@ def analyze_article_with_groq(title, description, link):
             ],
             model="llama-3.3-70b-versatile", 
             temperature=0.1, 
+            max_tokens=150, # Omezíme i délku odpovědi (pojistka)
         )
 
         text = chat_completion.choices[0].message.content.strip()
@@ -121,7 +117,8 @@ def analyze_article_with_groq(title, description, link):
     except Exception as e:
         print(f"⚠️ Chyba Groq: {e}")
         if "429" in str(e):
-            time.sleep(30)
+            print("⏳ Limit tokenů! Dávám delší pauzu (60s)...")
+            time.sleep(60)
         return None
 
 def parse_ai_result(text, original_link, timestamp):
@@ -247,3 +244,4 @@ finally:
     # 4. GENEROWÁNÍ HTML
 
     generate_html_from_template(db_articles)
+
