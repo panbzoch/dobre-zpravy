@@ -1,5 +1,32 @@
 [
     {
+        "category": "Technologie",
+        "title": "Nový startup AI",
+        "summary": "Nový startup slibuje vrátit Evropě hrdost v oblasti moderní AI, získal 3 miliardy dolarů za 3 měsíce.",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzlnZFhwOWFscTdlaEVaa2NmX0gtT01uWnZxTGlPTFprNEIxRmpuSF9xZUJ2aF95YlFySW5hY0M0QmhmeDF6QmJTN2ZWNk5henNaVGxiVE1mTXVxRFRUVExnM0xyNFVXTk52WUhpX1oyNnV6WWVSeDEwYTg5Sk8tdHZtODFFTm83THRaMUo5bEduTlJrcDMtZTkzV1gtU3NBajh5aGhQbndqLUVsY253bw?oc=5",
+        "timestamp": "2026-01-13T14:26:42",
+        "timestamp_display": "13. 01. 2026 14:26",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Vědci našli DNA Leonarda",
+        "summary": "Vědci objevili na obraze possibly DNA Leonarda da Vinciho, což by mohlo být historickým objevem.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wZVFBWDFvdGpCeE9DVmhKLXBzaWt2ZW95NFlnbXV0SVhnNktSNVRsUFVydjNSUzRyN2NWV0xGcUJrcXBhckRhcEtFOTZycFB1Y0RF?oc=5",
+        "timestamp": "2026-01-09T05:23:00",
+        "timestamp_display": "09. 01. 2026 05:23",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Nová AI Gigafactory",
+        "summary": "Ministerstvo průmyslu a obchodu pracuje na analýze přínosů možné AI Gigafactory.",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY0xqNTgyekhCT1VlRXpuLTdDYmxFN1BfTnpMMHc0Nm1QTWd1dURyVF9pbTdMbkxFSjB5aTZ0N0lPcEk5eEYxc3RiUEY3RkV1enFBcWVURmkycjJQaHBEeE1qVkxXU0JVa19MYnAxY1BSZ1Y3WE1VZVFzNkJDUFZHdWR1N0s4cDhMdHBfQmVLQU9OTURld00zSDFsV0trdlMwbTRkck5YVzZLaUNDdGtnTTdkTkV6TjJZYUU0?oc=5",
+        "timestamp": "2026-01-08T10:40:00",
+        "timestamp_display": "08. 01. 2026 10:40",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "Investiční příležitost 2026",
         "summary": "Růst realitního trhu nabízí nové investiční šance.",
