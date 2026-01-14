@@ -1,12 +1,39 @@
 [
     {
         "category": "Byznys",
+        "title": "Reklamy s AI",
+        "summary": "Startup Maxfusion získal investici od Mews Ory Weihs pro rozvoj reklam s umělou inteligencí.",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaDlBcXlWRFJobDduN3RsOTFvZGcySW5EX0V1Mk1YSG1wRXFsN1V6WUVOWjBXSXlMWVJEN09TRk5Vdk85YmRBYjdrNktBYjdBblFQYWZQVHljUGljU3RYYU8tWnc2bXJzX29vbU1JRVI5VnVZb3hTZUFjSnVuM1lFOUdtQ3dWb0IwbmJwWEczd09UZFdabGFYN293V0dPUQ?oc=5",
+        "timestamp": "2026-01-14T14:12:27",
+        "timestamp_display": "14. 01. 2026 14:12",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "E-shopy překonaly 200 mld",
+        "summary": "E-shopy dosáhly tržeb přes 200 miliard, prodejů se dařilo koupacím sudům a kartičkám.",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYUVfMUYwRzdSbUh2bFhycW42S2tmTlBxQ1d2VHdZUlpDczVMVUNWTDhpLXBvalBzUldtamRsOWRQdzN0S1V2LW56bEg2SUx1ZkkzMEcyZV9CT0t5MmpScjQyenhkVmU5T081b0l1Q05LMEhCQV9kUGVFWFRXVlp2c2x5RlNUTmdVckI2NVNBM0dvOUdnOEV2a2JjODFQUXBJR1JTY0w1b3oyaldNWkJfajlEbW4zZzZ6c3lKNi1sS0dySmNYa1kwcWpkZjctSVhXRzNsaFNn?oc=5",
+        "timestamp": "2026-01-14T12:49:00",
+        "timestamp_display": "14. 01. 2026 12:49",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Umělá inteligence čte spánek",
+        "summary": "Vědci vyvinuli umělou inteligenci, která analyzuje spánek a předpovídá onemocnění.",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaG8yRUtPeGo0T1RGRmcwM3RsbHhzSnpxQUhWTE93ZUxHUUVmbHFlaW0zNFFEWHJsd3JnVlpWaGYtVkNWTlhIbVRFdEY4eUR3d1BGVXJOWm5wb0hlODBYeVdXZm40b2Q0OUpCaWYxeG5xS0FHc2JrRW0wSENoV3R6cWtwWUg0Nk1JLVVsR2o4WDM0d0VVMmVVTUcya0Z4QlpqOWx0ZDVoTGpVZUhPeVdUX0t1WU9zY0hxMW9vamtvdXFYWk1RZ2FoR1B5WVktdw?oc=5",
+        "timestamp": "2026-01-14T12:43:00",
+        "timestamp_display": "14. 01. 2026 12:43",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Czech Inn kupuje Bobycentrum",
         "summary": "Czech Inn Hotels kupuje brněnské Bobycentrum a investuje další miliony do hotelu.",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPemNWN0ZyMlRDbFlPU0ZLYmFDSGt6eXFHeW1wZG01cWU5T3p4UE9DUGhLOXVWOU42OW1kV1BSZnFZOC16a0thTEdHMS16eUlfMTdwczRmcFVxZ1NUVExxeEZKQXFFdlpYMVhpZHBsVno3bkZWYnM5WTZGcXlWV3NodHhZXzB6RWlnRl9kOW11QUhxTmRCWHN6ajJrQzhrbVF1SElmZzdlRHU0QWNKam5NUzdHRlBNUi1jVmFhdE5FOWpVVkJoTVBINnM5Zw?oc=5",
         "timestamp": "2026-01-14T10:28:00",
         "timestamp_display": "14. 01. 2026 10:28",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +42,7 @@
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTTlYTkJZODJLY0FhLU0xUDYxaTVhWWRDV1ZwS1hwbUVuVDBYNENLanM5TDRUZkZRV3hFZUdhczd6VG5zWldxUFNIYk92OXpOSVYydHRiS0Zub3RTVExBNTVTVmdyN041WkwtT0tKWFZTZWpGRTUtTGhiS3Z6ZlA3X0dWSUtkRkczbkNreGo1ZnVOSGRPb2x0ZDUtaXlXQUJZUWEtWTd4NGlocDBoRGRZcnJB?oc=5",
         "timestamp": "2026-01-14T08:00:28",
         "timestamp_display": "14. 01. 2026 08:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
