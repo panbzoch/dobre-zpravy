@@ -1,30 +1,39 @@
 [
     {
+        "category": "Byznys",
+        "title": "Investice do léků",
+        "summary": "PPF hledá investora pro vývoj léků na rakovinu, projekt má velký potenciál.",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbnkySGdsWE5jMlZ0RU9HS18ySVVrM21jNGVmNnhkOGFFTXYtdTV6OEtXUmQ2Y3pUNjFZSmNoWFRwbkQ4OFFBNlNPQWEwTUNPR2JGRTU0M0s3V1g4UVNpUDV5RHVXUldRNm1YeGoyd3FCaFVTUG9tNGN0YzlvNndydkd1emIzeFNOOWtRS0xfX0NGVWhiSGNJTk5wS2ZHRnc5ejBOdHkyT3RUOVh0WG1aZUMtZC1TWnFPNXc?oc=5",
+        "timestamp": "2026-01-12T05:08:34",
+        "timestamp_display": "12. 01. 2026 05:08",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Český startup prodán",
+        "summary": "Český startup byl prodán, Michal Strnad oznámil plány na budoucí rozvoj.",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOTRZeXRsVTJsVFdCVDEzRkxuSU96X2pMTHBwSE5QUGZzaVNaTmRqMElBWmdWQ3doZlJXWk5Tb3l1SFhYc3Jtb1pjUEZ1V0NfQ2Jnanp6NUZyTmI1TnFhNE1iM3BpX1RVbmJBNnlUVlhUTF9XVGI5UjFVN1J5Tms0bk9PMjNMOTB1Z0lrcEhHVVZvTVh3LUI5NFNiSHVoRjV1UlJ3?oc=5",
+        "timestamp": "2026-01-11T16:03:14",
+        "timestamp_display": "11. 01. 2026 16:03",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice letiště Praha",
+        "summary": "Letiště Praha plánuje investice přes tři miliardy korun do modernizace a nabíjení elektroaut.",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT21sMTU2aUJEUVpSU2J4Vm43M2Y5aElaVXdkbHlmaGpqRlU1RjlucWd0U2xicmN2WURKbUk4aW1OYTFKV2tjNE9jTnVvQ1pPcDZtWXU3alJiaTVrNks3LTZLUWxBVFdqLURIbDJqTE5QRXlRRnFPYW5kck9TZEdMdUpKLVB4b3JSOTJBQ09nal9NZElwbnRMRTZISzhmTk55bWJPR29kUkVwSTI1ZkluM2VxUHhSWW04aU0zWE1KMzhqZGs?oc=5",
+        "timestamp": "2026-01-11T11:49:00",
+        "timestamp_display": "11. 01. 2026 11:49",
+        "is_new": true
+    },
+    {
         "category": "Technologie",
         "title": "Nový startup AI",
         "summary": "Nový startup slibuje vrátit Evropě hrdost v oblasti moderní AI, získal 3 miliardy dolarů za 3 měsíce.",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzlnZFhwOWFscTdlaEVaa2NmX0gtT01uWnZxTGlPTFprNEIxRmpuSF9xZUJ2aF95YlFySW5hY0M0QmhmeDF6QmJTN2ZWNk5henNaVGxiVE1mTXVxRFRUVExnM0xyNFVXTk52WUhpX1oyNnV6WWVSeDEwYTg5Sk8tdHZtODFFTm83THRaMUo5bEduTlJrcDMtZTkzV1gtU3NBajh5aGhQbndqLUVsY253bw?oc=5",
         "timestamp": "2026-01-13T14:26:42",
         "timestamp_display": "13. 01. 2026 14:26",
-        "is_new": true
-    },
-    {
-        "category": "Věda",
-        "title": "Vědci našli DNA Leonarda",
-        "summary": "Vědci objevili na obraze possibly DNA Leonarda da Vinciho, což by mohlo být historickým objevem.",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wZVFBWDFvdGpCeE9DVmhKLXBzaWt2ZW95NFlnbXV0SVhnNktSNVRsUFVydjNSUzRyN2NWV0xGcUJrcXBhckRhcEtFOTZycFB1Y0RF?oc=5",
-        "timestamp": "2026-01-09T05:23:00",
-        "timestamp_display": "09. 01. 2026 05:23",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Nová AI Gigafactory",
-        "summary": "Ministerstvo průmyslu a obchodu pracuje na analýze přínosů možné AI Gigafactory.",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY0xqNTgyekhCT1VlRXpuLTdDYmxFN1BfTnpMMHc0Nm1QTWd1dURyVF9pbTdMbkxFSjB5aTZ0N0lPcEk5eEYxc3RiUEY3RkV1enFBcWVURmkycjJQaHBEeE1qVkxXU0JVa19MYnAxY1BSZ1Y3WE1VZVFzNkJDUFZHdWR1N0s4cDhMdHBfQmVLQU9OTURld00zSDFsV0trdlMwbTRkck5YVzZLaUNDdGtnTTdkTkV6TjJZYUU0?oc=5",
-        "timestamp": "2026-01-08T10:40:00",
-        "timestamp_display": "08. 01. 2026 10:40",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -216,6 +225,15 @@
         "is_new": false
     },
     {
+        "category": "Věda",
+        "title": "Vědci našli DNA Leonarda",
+        "summary": "Vědci objevili na obraze possibly DNA Leonarda da Vinciho, což by mohlo být historickým objevem.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wZVFBWDFvdGpCeE9DVmhKLXBzaWt2ZW95NFlnbXV0SVhnNktSNVRsUFVydjNSUzRyN2NWV0xGcUJrcXBhckRhcEtFOTZycFB1Y0RF?oc=5",
+        "timestamp": "2026-01-09T05:23:00",
+        "timestamp_display": "09. 01. 2026 05:23",
+        "is_new": false
+    },
+    {
         "category": "Byznys",
         "title": "ČEZ kupuje elektromobily",
         "summary": "ČEZ a IKEA investují do elektromobilů pro pracovní cesty, snižují tak svou ekologickou stopu.",
@@ -240,6 +258,15 @@
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPX3VGaHg0U0JzSG15TUFmM1ZkMGFUVGw4NUxjYURmX0tua0VRcEhlXzdYTTNKbmJGbXhPbVNvZEd5NjJzZWpnOGgwazNyZ04yREx6NkptdW01RWNxVURmMnhpam5qaERNcXFqNS1vVGdhakVSMmktVUZlUm9qa0RNa2NCZDBMTHFTc3c0RkdOa3RkRlBJZkVCMTMxVWlzd19vb0RXV0NBQ0dRem1teEVyMTJLejRoWTFSLVMzMUl2S2wzdGN0TWg4R0p5Z3ZsZw?oc=5",
         "timestamp": "2026-01-08T15:16:00",
         "timestamp_display": "08. 01. 2026 15:16",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Nová AI Gigafactory",
+        "summary": "Ministerstvo průmyslu a obchodu pracuje na analýze přínosů možné AI Gigafactory.",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY0xqNTgyekhCT1VlRXpuLTdDYmxFN1BfTnpMMHc0Nm1QTWd1dURyVF9pbTdMbkxFSjB5aTZ0N0lPcEk5eEYxc3RiUEY3RkV1enFBcWVURmkycjJQaHBEeE1qVkxXU0JVa19MYnAxY1BSZ1Y3WE1VZVFzNkJDUFZHdWR1N0s4cDhMdHBfQmVLQU9OTURld00zSDFsV0trdlMwbTRkck5YVzZLaUNDdGtnTTdkTkV6TjJZYUU0?oc=5",
+        "timestamp": "2026-01-08T10:40:00",
+        "timestamp_display": "08. 01. 2026 10:40",
         "is_new": false
     },
     {
