@@ -1,12 +1,39 @@
 [
     {
+        "category": "Byznys",
+        "title": "TSMC roste",
+        "summary": "Tchajwanský gigant TSMC silně roste a táhne celý sektor k novým maximům.",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeGFvZnpTdGRWSHFnbUE0SDcwZnBuZTRDR0JBbzFnNnhwSWU4S29PUzBkS2ZpN0hJNzcyWjBRSGNNUjhpaGdCSGY5b2lEY28xTms0a2RBM3FRemRJWWJsamM5SUpkUWg4RWZNYng1bVhzVzV6QlgyUGZhQnppeUdHVXA1cGw4SWxVMkJQNTFncEt0YzNXbFJFR0VZMlZxSGlVbnR4d0JYUnlPZXNUUUE1YmpGU0czNG9La2ZEZ1ZEa3V1SVR5bjlyeWF5aU1hNjIyT3Vv?oc=5",
+        "timestamp": "2026-01-15T10:16:00",
+        "timestamp_display": "15. 01. 2026 10:16",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Čeští vědci objevili",
+        "summary": "Čeští vědci učinili unikátní objev v Ománu, týkající se pohřební komunity a žraloků.",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQc29tdFlSdHR6cWpEbGt4cE5MbjdfV2FMbXkwOGVRVlNBN21kWGJpYTRyME1fZi1xSEJnXzBLcE9IeXpDVG1OUEZxeTBzUTNjemVXUzhuYmF4S1E5ZjFzNXo0Uzg4VjZyVldaNDhoQkM1Z3R1V1V5Tl9JLW1HYjd3MkFqS0xsQnppOFg3cXl0UEd4ekFQZ3RIU2VIWnlGS3BrVVZYbzhuSmU4b0M0YkYySHhNNE5id1U0bU04WkpnVllSWU9YOEFVenl4S1ZOSkM5MmRXaw?oc=5",
+        "timestamp": "2026-01-15T08:49:00",
+        "timestamp_display": "15. 01. 2026 08:49",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Objeven vzácný brouk",
+        "summary": "Vědci objevili v CHKO Soutok po více než 100 letech vzácného brouka, který byl považován za vyhynulého.",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZFFsSXk1eWV2d2c5YWkwMjRUUjRHQlJFRDdDR1MtUXljb2VWM0NnSFJycjdUTnMwd0ItR245cG9yS2JQM3ZDN2FEOE82Wm50V0xONHZPYTBVRUd5VkVhUmkxb3RKcVRyN2lkRVFCNVFBVU9aTDR1N3NHNzZXZW0tU0hPZlpiSjhnMjhHc1lJUlljY20zUC1WNFJOcFNPZjZxXzBlQU10UFo1Zw?oc=5",
+        "timestamp": "2026-01-15T08:07:00",
+        "timestamp_display": "15. 01. 2026 08:07",
+        "is_new": true
+    },
+    {
         "category": "Medicína",
         "title": "Nová pilulka pro metabolické nemoci",
         "summary": "Nová účinná pilulka pomáhá s mnoha metabolickými nemocemi a míří do Česka, kromě snížení hmotnosti.",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdlBBQkd1Z2dGdENoLU5ncHU4Um9Fd3R6VVZablhWR016R0RyVjg3azRXWG5aeVFTWWx6S3pONmlyMWVjNVJ6RDdYS0lCMnB2OFlYc0pDYU41VGp2NlN4NWxTMHh6Sm4tYXFmMDEweXk0bUQ2WkRCX2o5bHJTVGdxS1MtUkpPS2xud1REMXU3elc4Uk93ZklGUWhZQ3Y2LWo2QmFLM3NBUnY3SXcyQS1WdGpkOU5UWTB2WGZVTXBBS3VSdVdJaXc?oc=5",
         "timestamp": "2026-01-14T20:51:00",
         "timestamp_display": "14. 01. 2026 20:51",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Medicína",
@@ -15,25 +42,7 @@
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdWZhV1h2MnhCWnhaQU5WZFFwM1hGbGo5dmRnRmlyU0lZSGZvbVZ1VmRCbHhHWmwybTN6ckFubnRDREFFTjhsWE53VjVERFlnRmF6VENmcGxTSEt5eE8tWW5sX2J0dW1KbFVCUHhNV0E0eUtVTlB2aW9tOG82enRXYVhFdl81V0hCd0phQ0poeEdnU3RaTkl3UUIweG1qWHhBcjh4SHVIeHRuNXAwd2d4TnVPcFVWX1RPeV9URW5Icw?oc=5",
         "timestamp": "2026-01-14T18:00:00",
         "timestamp_display": "14. 01. 2026 18:00",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Škoda Auto výdejními boxy",
-        "summary": "Škoda Auto rozšiřuje síť vlastních výdejních boxů, podobně jako Alza, pro zákazníky.",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRnJEdnZmVXhIYk00SjU2aGR2eXB6VFhXbVl3MDhOdGdMVnFUa0djRHBqOE94M1Fwei1SSTgwRk43NGtPemNKX2hsWF9ZTzZzSzdmLVZ6c3prS0c2UGRSOWVWYUMyVlp2ei1QZlRmNWp6bEJfZ05iRS1UZnlFcFNpdFZEUXpINFJpWnVoZnFUNlJ6dDhaUEh6UFZpOUVCMmwwUVVhUTQ5SU5UY3IzbUZnRVV3dmdlUlhSTkhfZ0VR?oc=5",
-        "timestamp": "2026-01-14T05:00:00",
-        "timestamp_display": "14. 01. 2026 05:00",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Tomáš Šebek prodal firmu",
-        "summary": "Tomáš Šebek prodal svou firmu za stamiliony korun, čímž dosáhl významného úspěchu v byznysovém světě.",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeHRVYkhvMzZla0RDdVI4NDhXU2pINTFLVXhsblIzbml1YUYzd1VGWVllQXZzQWg4UmFLVlduRV9Zam5zb2RRM1FLUFJoUlVEY2l1ZVlrdG92azVxeXRuOVByZTlFcjRlc1c4WC16NmdZUElfQVpoaGF3MGYyY09JNEJZRF9XQ00?oc=5",
-        "timestamp": "2026-01-12T09:49:33",
-        "timestamp_display": "12. 01. 2026 09:49",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -78,6 +87,15 @@
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTTlYTkJZODJLY0FhLU0xUDYxaTVhWWRDV1ZwS1hwbUVuVDBYNENLanM5TDRUZkZRV3hFZUdhczd6VG5zWldxUFNIYk92OXpOSVYydHRiS0Zub3RTVExBNTVTVmdyN041WkwtT0tKWFZTZWpGRTUtTGhiS3Z6ZlA3X0dWSUtkRkczbkNreGo1ZnVOSGRPb2x0ZDUtaXlXQUJZUWEtWTd4NGlocDBoRGRZcnJB?oc=5",
         "timestamp": "2026-01-14T08:00:28",
         "timestamp_display": "14. 01. 2026 08:00",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Škoda Auto výdejními boxy",
+        "summary": "Škoda Auto rozšiřuje síť vlastních výdejních boxů, podobně jako Alza, pro zákazníky.",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRnJEdnZmVXhIYk00SjU2aGR2eXB6VFhXbVl3MDhOdGdMVnFUa0djRHBqOE94M1Fwei1SSTgwRk43NGtPemNKX2hsWF9ZTzZzSzdmLVZ6c3prS0c2UGRSOWVWYUMyVlp2ei1QZlRmNWp6bEJfZ05iRS1UZnlFcFNpdFZEUXpINFJpWnVoZnFUNlJ6dDhaUEh6UFZpOUVCMmwwUVVhUTQ5SU5UY3IzbUZnRVV3dmdlUlhSTkhfZ0VR?oc=5",
+        "timestamp": "2026-01-14T05:00:00",
+        "timestamp_display": "14. 01. 2026 05:00",
         "is_new": false
     },
     {
@@ -141,6 +159,15 @@
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUjZJelNSTUZSQUdnTm01VnVPaUF6RzE4T0RocWlwQmtEOWxSVEpXQldaYVZhZ1YxenZUWUN0R2pieVhfeXpnWUVWa1lkRDBHRE1xM3BXNTV1aHNtX2pld3ZNVVFYQmRtVF9uOUM1YTJMbUxzRFVCdWFsWUVnVVRsMUJzYUhvR1A2ZmFfMVpaTUlpblg3NnVHekJGWno1V25nSU15UkMwVlE3cWsyNktmZVF6NkxjdldDSjYzY21Vemtmc0toLWdPLWxwVFhmSlk?oc=5",
         "timestamp": "2026-01-12T15:00:00",
         "timestamp_display": "12. 01. 2026 15:00",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Tomáš Šebek prodal firmu",
+        "summary": "Tomáš Šebek prodal svou firmu za stamiliony korun, čímž dosáhl významného úspěchu v byznysovém světě.",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeHRVYkhvMzZla0RDdVI4NDhXU2pINTFLVXhsblIzbml1YUYzd1VGWVllQXZzQWg4UmFLVlduRV9Zam5zb2RRM1FLUFJoUlVEY2l1ZVlrdG92azVxeXRuOVByZTlFcjRlc1c4WC16NmdZUElfQVpoaGF3MGYyY09JNEJZRF9XQ00?oc=5",
+        "timestamp": "2026-01-12T09:49:33",
+        "timestamp_display": "12. 01. 2026 09:49",
         "is_new": false
     },
     {
