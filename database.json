@@ -1,5 +1,41 @@
 [
     {
+        "category": "Medicína",
+        "title": "Nová pilulka pro metabolické nemoci",
+        "summary": "Nová účinná pilulka pomáhá s mnoha metabolickými nemocemi a míří do Česka, kromě snížení hmotnosti.",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdlBBQkd1Z2dGdENoLU5ncHU4Um9Fd3R6VVZablhWR016R0RyVjg3azRXWG5aeVFTWWx6S3pONmlyMWVjNVJ6RDdYS0lCMnB2OFlYc0pDYU41VGp2NlN4NWxTMHh6Sm4tYXFmMDEweXk0bUQ2WkRCX2o5bHJTVGdxS1MtUkpPS2xud1REMXU3elc4Uk93ZklGUWhZQ3Y2LWo2QmFLM3NBUnY3SXcyQS1WdGpkOU5UWTB2WGZVTXBBS3VSdVdJaXc?oc=5",
+        "timestamp": "2026-01-14T20:51:00",
+        "timestamp_display": "14. 01. 2026 20:51",
+        "is_new": true
+    },
+    {
+        "category": "Medicína",
+        "title": "Lék na hubnutí",
+        "summary": "Lék Ozempic snižuje chuť na alkohol a návykové látky.",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdWZhV1h2MnhCWnhaQU5WZFFwM1hGbGo5dmRnRmlyU0lZSGZvbVZ1VmRCbHhHWmwybTN6ckFubnRDREFFTjhsWE53VjVERFlnRmF6VENmcGxTSEt5eE8tWW5sX2J0dW1KbFVCUHhNV0E0eUtVTlB2aW9tOG82enRXYVhFdl81V0hCd0phQ0poeEdnU3RaTkl3UUIweG1qWHhBcjh4SHVIeHRuNXAwd2d4TnVPcFVWX1RPeV9URW5Icw?oc=5",
+        "timestamp": "2026-01-14T18:00:00",
+        "timestamp_display": "14. 01. 2026 18:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Škoda Auto výdejními boxy",
+        "summary": "Škoda Auto rozšiřuje síť vlastních výdejních boxů, podobně jako Alza, pro zákazníky.",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRnJEdnZmVXhIYk00SjU2aGR2eXB6VFhXbVl3MDhOdGdMVnFUa0djRHBqOE94M1Fwei1SSTgwRk43NGtPemNKX2hsWF9ZTzZzSzdmLVZ6c3prS0c2UGRSOWVWYUMyVlp2ei1QZlRmNWp6bEJfZ05iRS1UZnlFcFNpdFZEUXpINFJpWnVoZnFUNlJ6dDhaUEh6UFZpOUVCMmwwUVVhUTQ5SU5UY3IzbUZnRVV3dmdlUlhSTkhfZ0VR?oc=5",
+        "timestamp": "2026-01-14T05:00:00",
+        "timestamp_display": "14. 01. 2026 05:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Tomáš Šebek prodal firmu",
+        "summary": "Tomáš Šebek prodal svou firmu za stamiliony korun, čímž dosáhl významného úspěchu v byznysovém světě.",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeHRVYkhvMzZla0RDdVI4NDhXU2pINTFLVXhsblIzbml1YUYzd1VGWVllQXZzQWg4UmFLVlduRV9Zam5zb2RRM1FLUFJoUlVEY2l1ZVlrdG92azVxeXRuOVByZTlFcjRlc1c4WC16NmdZUElfQVpoaGF3MGYyY09JNEJZRF9XQ00?oc=5",
+        "timestamp": "2026-01-12T09:49:33",
+        "timestamp_display": "12. 01. 2026 09:49",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "Reklamy s AI",
         "summary": "Startup Maxfusion získal investici od Mews Ory Weihs pro rozvoj reklam s umělou inteligencí.",
