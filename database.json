@@ -1,12 +1,21 @@
 [
     {
+        "category": "Byznys",
+        "title": "Moneta přidává poradenství",
+        "summary": "Moneta nabízí investiční poradenství a dva nové fondy ve své aplikaci.",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOXRLVDZnSTFuVDJnV0szOGsyY1c0a0tJcmU0RFhZWjhMXzZSZDN5bU4yZjdmV3E2ZFBra3g2bm5kWXE1amJNWkJ2VjJOVkhwRDFZc29LbUprU3JBT2M0Q3o5NGxNSUdrQnZZLUFWOExfUFZ6MkxYWWpJY09nUVY5MGtKXy0wMXF6MmNQVEVrNHlMT0lFNmVyeHJYVjhXbl82V3ZrMVIyZGVoeDRlUjNZWkQ5Sk9heHNCaTQ0dldocjQ?oc=5",
+        "timestamp": "2026-01-15T16:23:00",
+        "timestamp_display": "15. 01. 2026 16:23",
+        "is_new": true
+    },
+    {
         "category": "Medicína",
         "title": "Nová klinika v areálu",
         "summary": "AKESO buduje novou kliniku ve FTVS UK, rozšiřuje zdravotnické služby.",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUGVqb2p6S1VkOUNyR1hQdXNoZThkOFA1SUtGMmdLS2NRX3pxZzBRbV84ME5uZjJhaEp0WFVoZEF5VVZzV3RGT09LSllyN3ZfckZmWGZkLXJjempkeTgzdGxHLTE4VTM3Z0JVMVFwZXpxZjE5TndpbUU5UFI3TzJMUm9NWmRPb3dyLU5vSXZVWW9uRmJBUlBLT2x3c0stVERoZEd0ZVZEVV9aZE91c21RNV81Rmx5RjA3a1E?oc=5",
         "timestamp": "2026-01-15T13:11:00",
         "timestamp_display": "15. 01. 2026 13:11",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Medicína",
@@ -15,7 +24,7 @@
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZXBMOU1PZU16ZUo5bk9aRDB4Sm1kRTN1WEpaYkJJRFg3b2pUNXd3OENoaWRRQi1SaEVTcHFKWk1zZjEyUUZKN2IxT2pHSXJONHBFYXhvRGt4a3B4cHkzQ2VSNGJBeS14XzM0dlBBV1ZMbmN4YlpiZm1NcTg1bk5veWtnamQ0VU56ZHlSNTFBZ2VLbkFyWTFlaWVzSnd0ZnFxanFKOVdQM3dxRkxSWHBPc3dPV3cwNGkz?oc=5",
         "timestamp": "2026-01-15T13:11:00",
         "timestamp_display": "15. 01. 2026 13:11",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,7 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcEYxR3QyQlRwSlZ5b2hLTGQycVZpaFpTN0lFaXRCaVhVUGNnc2Y0U01NdDF2Z29WVUxKYjA1eTQ0U0Q0YWNCTFRLVTM1UWhRSlZYY1ExUjZrMzVuZHB5Um5KNUZBZDgyNGhGZjhmSTRBX2ZCT05uWXZlQVprbXFhN1Y5NVZlODBKaTdLbFZ2bnZlczdNNUdaRHhOLWxKeDMyd3ZN?oc=5",
         "timestamp": "2026-01-15T13:07:06",
         "timestamp_display": "15. 01. 2026 13:07",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,7 +42,7 @@
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQLWlDdWJuYUlmT0ptQ3RFSklwZEgwOTBVQ29CZDBpNTk5N2xXYUR5dS1UZnBYNmFlcTdubG9ERnhlNTVfMmpiV183ZWM4U3dNZXo1elhkYmgyWDA1RUw3SjZqMnJNYzlQYjA1NWdTU0dyUXcxaWtWUm5SU1dyMktVbXlPSE51YnY1RmhYZlBLeEVwYzhXMUt1Q1ZyNE00Xy10cjdxTXVNZTlhTFhxYXdFakc0d2dtZmpXNmtrYUI2M2ZMT2h1YzVaX21CMDkzaS1MSlVHcUFwZnJGaVNFaDJHRGVBMW1lLV8t?oc=5",
         "timestamp": "2026-01-15T13:00:00",
         "timestamp_display": "15. 01. 2026 13:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -42,7 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOU1RwanFCUW1Nd2pLemlPcl9NbTVhWGJCRFlrRmhrSmtreUFYUGxzNzE3QzJWSzRNYnpvTWFUV21TZk9hS0VtTDZMZENabVlfNnIya0k5UFdzSGhjN3N4TzNtakdCZktXWWhGZk93aE1QYm5PSE9HRFhUNExVMnNMS3ZHQk1wc2xEYTgtTHp3S3RTVWdYOHU0aWZkTmFESUVyMF9VOWlTRDkwUVhKSWt5dFBHR0p2bXBraWwwc01UTWpNQ2pWc0xWNFVMTVpNM1N0UGZlc2JKdnliRjdncm10NHV0SERRY1NjcWpoM2FUZVVvdDRaZGVqSDR1NEI?oc=5",
         "timestamp": "2026-01-15T13:00:00",
         "timestamp_display": "15. 01. 2026 13:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -51,16 +60,7 @@
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQktiREItMFJCMDVjOGwwcGVJQTRlT1VsWEZxWlZMWVd6UUVxOUY1aXlRSnlmSkdBR2VvX0VnbERBYVFuS3hBUDJ0Rl9RWUJFSFBXMjFSN0MtQ1o1UjlVME1OdkVGdnFMd2x6RTRkQlhIVEphcFpRZ29iQWtKQzJXc0pyelJRUHpyOVpkaXB2NktjdDRQZXdPMHVMRkRDZ3lZOVl4S045anhycmwzZnhqaFFzLUU?oc=5",
         "timestamp": "2026-01-15T10:43:00",
         "timestamp_display": "15. 01. 2026 10:43",
-        "is_new": true
-    },
-    {
-        "category": "Věda",
-        "title": "Vědci našli vzácného brouka",
-        "summary": "Vědci objevili v CHKO Soutok vzácného brouka po více než 100 letech.",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5ellvVy1UeUpWcm5hMTNuOFZKM2pwOS1RSVdjcU1xRE1DUWpPMThDdDJBV1pnR1UxVnpCSFZJWmZWakpyeTlOM0d5U0h0ZG94QkNF?oc=5",
-        "timestamp": "2026-01-15T08:07:00",
-        "timestamp_display": "15. 01. 2026 08:07",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -78,6 +78,15 @@
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQc29tdFlSdHR6cWpEbGt4cE5MbjdfV2FMbXkwOGVRVlNBN21kWGJpYTRyME1fZi1xSEJnXzBLcE9IeXpDVG1OUEZxeTBzUTNjemVXUzhuYmF4S1E5ZjFzNXo0Uzg4VjZyVldaNDhoQkM1Z3R1V1V5Tl9JLW1HYjd3MkFqS0xsQnppOFg3cXl0UEd4ekFQZ3RIU2VIWnlGS3BrVVZYbzhuSmU4b0M0YkYySHhNNE5id1U0bU04WkpnVllSWU9YOEFVenl4S1ZOSkM5MmRXaw?oc=5",
         "timestamp": "2026-01-15T08:49:00",
         "timestamp_display": "15. 01. 2026 08:49",
+        "is_new": false
+    },
+    {
+        "category": "Věda",
+        "title": "Vědci našli vzácného brouka",
+        "summary": "Vědci objevili v CHKO Soutok vzácného brouka po více než 100 letech.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5ellvVy1UeUpWcm5hMTNuOFZKM2pwOS1RSVdjcU1xRE1DUWpPMThDdDJBV1pnR1UxVnpCSFZJWmZWakpyeTlOM0d5U0h0ZG94QkNF?oc=5",
+        "timestamp": "2026-01-15T08:07:00",
+        "timestamp_display": "15. 01. 2026 08:07",
         "is_new": false
     },
     {
