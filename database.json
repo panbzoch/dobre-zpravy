@@ -1,12 +1,39 @@
 [
     {
         "category": "Věda",
+        "title": "Čeští vědci na Antarktidě",
+        "summary": "Čeští vědci z Brna míří na Antarktidu, aby zkoumali mikroby a teploty až minus 30 stupňů.",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQjd3cllTSVZnMlA3Sm1WQzRDQ2FRUHdXRUZxaTd6RV9EZTN4OTdkMjYzRVMwTlJYdENrUzUxV0xiVUxab21lV2I3MktlbW5rbjNLMlRQVFBvZ2JOaV9tXzZaTFpJOE5rUU8zRW54NUVlVzhEMmtzbTl0b3hxR0F5dlZaSG50Z05oNU5IWUpaLWhGdmsxS3FMVTNobWk0Vk16eTdhcEdqdFNMZzl3RVB0RFZNczRPc0ZqQlh0NkVZakZLc0hQMXdUS2g5b0laRkhaS0pWSklIQ3g?oc=5",
+        "timestamp": "2026-01-16T18:38:00",
+        "timestamp_display": "16. 01. 2026 18:38",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Startup učí budovy šetřit",
+        "summary": "Startup učí budovy šetřit energii pro umělou inteligenci, aby byla efektivní a udržitelná.",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVW9QaTVjYW9hdVBibGxKX1NoUm1oOTZLX3JGUmJqeEtNTmdfMlF5WTVqa2ViTmdJZTRsVURFc0wzamNmSmhqV1NwT3RJeHpYMW1pcktIYndZOHpBcldZUkJDdkVkQmhhc0ROZXF2MGItWi1NMDlmQzRRV29MSTd1aldWS2cxSUwyTEQ3MWJDRVZRS3BPUzhGTU9wQQ?oc=5",
+        "timestamp": "2026-01-16T17:07:12",
+        "timestamp_display": "16. 01. 2026 17:07",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Stromy kronikou klimatu",
+        "summary": "Vědci objevili, že stromy uchovávají informace o extrémních klimatických událostech.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95SG4wTklpenJFYnRZUGktSERsSnMta3lSNXdQaVNjWlB1YjEwd1owMW5VYzJWSVlBaXA5Q0dEN0N0SjlhcVlWMkE1LWdEUTFIcGdZ?oc=5",
+        "timestamp": "2026-01-15T10:43:00",
+        "timestamp_display": "15. 01. 2026 10:43",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
         "title": "Molekulární vodík",
         "summary": "Vědci zkoumají molekulární vodík jako investici do zdraví a budoucnosti, s potenciálem zlepšit lidské zdraví a životní prostředí.",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNX3BHa2tvZ2F1OW9ZVkZvTUpLbHBncXk5MHd2Qm0zejhvNno5S1VIWHZybHVtU2djUG5PNUtVa2lqVE5RYTRhYUd0STRleGpuY2VaNzFERm5GWWYxT1ROX1ZjTFRIRmViMHE0eGYzQWdyNDZ5dFdlTEh1SllfXzk5V2lEOURrYnJGUy11SWw4X2xlakVXM3ZLNG5vUzFYUlBhd0xRdmlENlh4MkZDV3d5RU5kVHRvelIyc3o4bXJ2WVhlY1NWMWhZ?oc=5",
         "timestamp": "2026-01-16T13:31:00",
         "timestamp_display": "16. 01. 2026 13:31",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
