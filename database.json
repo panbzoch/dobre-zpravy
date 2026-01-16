@@ -1,12 +1,21 @@
 [
     {
+        "category": "Věda",
+        "title": "Molekulární vodík",
+        "summary": "Vědci zkoumají molekulární vodík jako investici do zdraví a budoucnosti, s potenciálem zlepšit lidské zdraví a životní prostředí.",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNX3BHa2tvZ2F1OW9ZVkZvTUpLbHBncXk5MHd2Qm0zejhvNno5S1VIWHZybHVtU2djUG5PNUtVa2lqVE5RYTRhYUd0STRleGpuY2VaNzFERm5GWWYxT1ROX1ZjTFRIRmViMHE0eGYzQWdyNDZ5dFdlTEh1SllfXzk5V2lEOURrYnJGUy11SWw4X2xlakVXM3ZLNG5vUzFYUlBhd0xRdmlENlh4MkZDV3d5RU5kVHRvelIyc3o4bXJ2WVhlY1NWMWhZ?oc=5",
+        "timestamp": "2026-01-16T13:31:00",
+        "timestamp_display": "16. 01. 2026 13:31",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "MONETA rozšiřuje služby",
         "summary": "MONETA rozšiřuje online nabídku investičních služeb pro klienty.",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMzBVQWlMQ1M3TXR4VVY5ajlUX2tfOXpsamdKUUw2a3BNVjNXTmd3aWNxanVSdkhqN2F1UmFRbGFOLWNGOEE4eEZBRmxNVTc5U3NocjJZd3BLUjFGV0ZlbEp1SWJHRWNYa1lFeUFJcDdSa3JyRWtmVXBIRE5hVnVFdjZVZ0hyNkJQMzJXbkp0eUNhM3d1S1p2WGFLZVF2REFBV0dV?oc=5",
         "timestamp": "2026-01-16T07:38:00",
         "timestamp_display": "16. 01. 2026 07:38",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Medicína",
