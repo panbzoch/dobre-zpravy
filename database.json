@@ -1,12 +1,30 @@
 [
     {
+        "category": "Medicína",
+        "title": "Nová generace léku",
+        "summary": "Farmaceutické firmy vyvíjí třetí generaci léku Ozempic, který pomáhá s hubnutím a léčbou diabetu.",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUmdEeVdBSWpCMkVLMWZscE9WUFFDNmNsUUp3OUhZMEhtWXh2VmhFdmNRazVHTS1ZUm5iT3A2dk1WWTZqay1XU2dWNW9jc3czd1NRc3h6U1Y2RC00UlpnbHRYLUZaWXQ1VUNyQnRGWDhOdmVydEpzdVhPaXNhSjZHdk1mTkM5V2dSMjNIUDU2R0NSTDlnbjg2X3JCUkkySEliblFtNWtHanc3UHRnSTVtS01FQnlFd3E2TnZyclVn?oc=5",
+        "timestamp": "2026-01-16T05:00:00",
+        "timestamp_display": "16. 01. 2026 05:00",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Levnější peroxid vodíku",
+        "summary": "Vědci z Olomouce a Ostravy vyvinuli nový materiál pro levnější a ekologičtější výrobu peroxidu vodíku.",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVlZVTHBucUFvMDhGVG5vZnRUay10RDBFMzFpQUlIOEtFNHhkQU1vSTZ1NVRhT3pHOE1lQlpVeWtsQ2RkM016Snl1ZVpNdnNDRk80b1J5dUpYUC1mdEZFdHJoYThNVUROeVJXcW1JckZ5VHlyZHYxTE5uaTFaZDVTQTZaNHlDWWpfT240X1VySEZULTFpWGJOc0s0cm9DaTNVSGJQSzhOREhCVG13ZDF0TkhMdFUtQWowQkZhVDNwTUdITXZORVEtS2kxampvQUk?oc=5",
+        "timestamp": "2026-01-16T04:42:00",
+        "timestamp_display": "16. 01. 2026 04:42",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "Moneta přidává poradenství",
         "summary": "Moneta nabízí investiční poradenství a dva nové fondy ve své aplikaci.",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOXRLVDZnSTFuVDJnV0szOGsyY1c0a0tJcmU0RFhZWjhMXzZSZDN5bU4yZjdmV3E2ZFBra3g2bm5kWXE1amJNWkJ2VjJOVkhwRDFZc29LbUprU3JBT2M0Q3o5NGxNSUdrQnZZLUFWOExfUFZ6MkxYWWpJY09nUVY5MGtKXy0wMXF6MmNQVEVrNHlMT0lFNmVyeHJYVjhXbl82V3ZrMVIyZGVoeDRlUjNZWkQ5Sk9heHNCaTQ0dldocjQ?oc=5",
         "timestamp": "2026-01-15T16:23:00",
         "timestamp_display": "15. 01. 2026 16:23",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Medicína",
