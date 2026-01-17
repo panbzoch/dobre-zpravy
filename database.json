@@ -1,20 +1,29 @@
 [
     {
         "category": "Byznys",
-        "title": "Drobní investoři porážejí index",
-        "summary": "Loni drobní investoři dosáhli lepších výsledků než nejznámější akciový index.",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUFo5VXVJdWc5WHZPVUJKNDlGUWt6TEs2UG9BM1QteExOZmF2WjEtaUNaY2ZkUkVIci1kTkVqQ3ZtM1pzS1V4RWZjUjJRbG1KYWlsd2oyejRnMDhxQ0wtV29KalNwVFYzNzRiY0hCN1dOcWxkMVNsZXlyYVMzSk9oWTFwZmxhUWVNcFVoYzJtdkNZdVJ4UE5aUjRPbXAzVmJEMEdFMGNxTTZORnBJOC1Bdg?oc=5",
-        "timestamp": "2026-01-16T14:18:38",
-        "timestamp_display": "16. 01. 2026 14:18",
+        "title": "Mladí Češi prodali startup",
+        "summary": "Dva mladí Češi prodali svůj startup za desítky milionů korun po několika měsících od jeho založení.",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ00zaTFjTGpReW5DMGh1YTdDeHRjUElvSUtoWU1HOGVwNHRBZmhIZEVqNWd0R1k5SzBDaXlrbldYQXgwZFpRVVRpNktkOUJEZlJvc21RYzMxdVEwRUJvRWV3U0lEUGsxdXEwa3dmakJxcUZkSm1KOE5qZzEyVEI5RmRfSFFyUXVUd1pvOV9JZHc1VFJNaHBRVi1VRlpPajJIM25ucHM4TjFXRHh5VXBuYWVTbTA?oc=5",
+        "timestamp": "2026-01-17T08:00:35",
+        "timestamp_display": "17. 01. 2026 08:00",
         "is_new": true
     },
     {
         "category": "Věda",
-        "title": "Molekulární vodík",
-        "summary": "Vědci zkoumají molekulární vodík jako investici do zdraví a budoucnosti, s potenciálem zlepšit lidské zdraví a životní prostředí.",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVUlnRnQtRjBNUkVmUWhfd2Z2akxhXzd5RHh1cGtoREhEWmhGV194Y0hsQ0ZhZUpNM0ExZE1XQ0J6aUtfakN0bWY5bURxRTZtaHc4Y1pTbmVhSm1OYko5ZUtrZXhNbmRMNGNDdWFUeWc0bGZtS2tyNElkc0xNTmprZWl0dE94dkhZZVltMmVwSC1jSkd4aUlzWVg1WWZtZ1UxNEMyQlozUDc4REppS0hLT1B1ZUpZQy1UMTNpbGQycEtLMkUwdTVveUJTaFc3LWhNTUxlb0VDNlgxbGMwa3BHU0xKdENTdEpU?oc=5",
-        "timestamp": "2026-01-16T12:31:00",
-        "timestamp_display": "16. 01. 2026 12:31",
+        "title": "Nová fáze hmoty",
+        "summary": "Výzkumníci ze Západočeské univerzity objevili novou fázi hmoty ve dvourozměrných krystalech.",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM0k4WGxIdk4tZXdDV1hsOVQ5Yzhnb1MtVVFKYjJKR2poa0tvdHJRM055eHhCNTViOVB5aU1xREN1RzhsdDl2TGFkaExOQWJCUG4xdnpxcUNwYUttQzNWTFdxT2pZMGRPN1lYUFVzcXVla1FqVDF3NUh3Tmt3WEhGYmlqa0U0YUFMa3RScGcwb1ZybDlkMUJrSmgxRXFNRXhwMWNZYkVycEk5YXVZV0Y1cko4dTZYdVdka3d5elNYN2FOa0ktN3o0SlpGOExVNXVpNXlaaXpySDE?oc=5",
+        "timestamp": "2026-01-17T06:49:00",
+        "timestamp_display": "17. 01. 2026 06:49",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Rychlejší platby v Albertu",
+        "summary": "Air Bank zavedla metodu Cvak pro rychlé platby v Albertu, zjednodušující transakce.",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOODBvSG16VUI2TnB0Xzc4Y3dkelBOc3lKZ0otQkJ3bF95dW1zeGVRSjZKNGxCNjQ1N253NTBZYXBybkI3REpFd3VfcGxqTVB3dEN3aUt6OEZveEYyMjNwOTZvcW1tU0lNUVpoU1JjWlB6SUx0X3lkTl82UGVlaF9vV1pIX0M0UGtxN2tzLWZoTkVzXzFYbFFjaXg5WEl2NWdVTnV4VGU2X3FTaF9NMXd6ZHVTRmZ0UQ?oc=5",
+        "timestamp": "2026-01-16T11:46:00",
+        "timestamp_display": "16. 01. 2026 11:46",
         "is_new": true
     },
     {
@@ -36,12 +45,30 @@
         "is_new": false
     },
     {
+        "category": "Byznys",
+        "title": "Drobní investoři porážejí index",
+        "summary": "Loni drobní investoři dosáhli lepších výsledků než nejznámější akciový index.",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUFo5VXVJdWc5WHZPVUJKNDlGUWt6TEs2UG9BM1QteExOZmF2WjEtaUNaY2ZkUkVIci1kTkVqQ3ZtM1pzS1V4RWZjUjJRbG1KYWlsd2oyejRnMDhxQ0wtV29KalNwVFYzNzRiY0hCN1dOcWxkMVNsZXlyYVMzSk9oWTFwZmxhUWVNcFVoYzJtdkNZdVJ4UE5aUjRPbXAzVmJEMEdFMGNxTTZORnBJOC1Bdg?oc=5",
+        "timestamp": "2026-01-16T14:18:38",
+        "timestamp_display": "16. 01. 2026 14:18",
+        "is_new": false
+    },
+    {
         "category": "Věda",
         "title": "Molekulární vodík",
         "summary": "Vědci zkoumají molekulární vodík jako investici do zdraví a budoucnosti, s potenciálem zlepšit lidské zdraví a životní prostředí.",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNX3BHa2tvZ2F1OW9ZVkZvTUpLbHBncXk5MHd2Qm0zejhvNno5S1VIWHZybHVtU2djUG5PNUtVa2lqVE5RYTRhYUd0STRleGpuY2VaNzFERm5GWWYxT1ROX1ZjTFRIRmViMHE0eGYzQWdyNDZ5dFdlTEh1SllfXzk5V2lEOURrYnJGUy11SWw4X2xlakVXM3ZLNG5vUzFYUlBhd0xRdmlENlh4MkZDV3d5RU5kVHRvelIyc3o4bXJ2WVhlY1NWMWhZ?oc=5",
         "timestamp": "2026-01-16T13:31:00",
         "timestamp_display": "16. 01. 2026 13:31",
+        "is_new": false
+    },
+    {
+        "category": "Věda",
+        "title": "Molekulární vodík",
+        "summary": "Vědci zkoumají molekulární vodík jako investici do zdraví a budoucnosti, s potenciálem zlepšit lidské zdraví a životní prostředí.",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVUlnRnQtRjBNUkVmUWhfd2Z2akxhXzd5RHh1cGtoREhEWmhGV194Y0hsQ0ZhZUpNM0ExZE1XQ0J6aUtfakN0bWY5bURxRTZtaHc4Y1pTbmVhSm1OYko5ZUtrZXhNbmRMNGNDdWFUeWc0bGZtS2tyNElkc0xNTmprZWl0dE94dkhZZVltMmVwSC1jSkd4aUlzWVg1WWZtZ1UxNEMyQlozUDc4REppS0hLT1B1ZUpZQy1UMTNpbGQycEtLMkUwdTVveUJTaFc3LWhNTUxlb0VDNlgxbGMwa3BHU0xKdENTdEpU?oc=5",
+        "timestamp": "2026-01-16T12:31:00",
+        "timestamp_display": "16. 01. 2026 12:31",
         "is_new": false
     },
     {
