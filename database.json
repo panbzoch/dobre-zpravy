@@ -1,12 +1,21 @@
 [
     {
+        "category": "Byznys",
+        "title": "Úspěšný rok investorů",
+        "summary": "Loňský rok byl úspěšný pro investory, kteří dosáhli dobrých výsledků.",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMV9fT2NSYlBlamF0dG5qMXVrdEVJMFJUcUNucGFnME5vUTIwSHVsdU9HdTF0WC0tcWRxOE1lcjJpR0xVQ0dmWVFtWHNKRS1ab3hpN2lzTDdiRWIyRW9SamZ3eFJUclAyLTlHMzNsTGt4cHhZNndzVjl4T1BaenJKRlJISmE0Rm9yYmhHWU5Rc0xudGlrVklUU3pYWnhGVGNpYmhzQVJIcEw?oc=5",
+        "timestamp": "2026-01-18T07:00:00",
+        "timestamp_display": "18. 01. 2026 07:00",
+        "is_new": true
+    },
+    {
         "category": "Technologie",
         "title": "Růst čínské spotřeby",
         "summary": "Čínská spotřeba elektřiny vzrostla o 5 % díky růstu technologického odvětví.",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZTVkLW5MT054V0paWG55MzEzRV8ydHkxalV4Q0IxZVNycjN0dTBIVW5PaEZGZGpFTTloUjd5WFpmYkxkOGdmcTlSbHlnNFhlcElDX2NoN2RueXZMeUhQeGFmRGNlWlRIc01lY3NKOGFfaTVQVm4zZmlYYzZFX21vUnZTTUpoYzByQUhJdnJ5YTdZSGptN0VTTlI3WlhqY1pGdWd5bEVMVEF2ZnVwejhQMmZuTEJnNzQtYVB1SlNMUHd0SERic1g4?oc=5",
         "timestamp": "2026-01-18T05:51:00",
         "timestamp_display": "18. 01. 2026 05:51",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
