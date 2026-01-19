@@ -6,7 +6,7 @@
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeU8zTmtlWXMtbjVaQW1uc2ozS1NWXzhDVEdxUnhPZVNoYjloMGZRLVJfWDBLZFhGVm85eFFkVUUyanBVU054XzYzWkEzT28zZmU1QjNva2FlNGx1bDViU2hfZF9vTnZZRVQ5YWdfQXNFWmRvY0hwc1RNNW1mWl8tM19TTjRKS0xUMDhSV1BmYzZoZi14Q1R1cnJJcmM4YWtSTTZ4TzRELWxwLTBocWc0WUkyZldMWngybWFPd3kteEZxOFZHOVBMa1N4c25PUTE2enFqekh3?oc=5",
         "timestamp": "2026-01-19T09:26:00",
         "timestamp_display": "19. 01. 2026 09:26",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Medicína",
@@ -15,7 +15,7 @@
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONXNreGJBamotcDd0cWxLRFpwQUF6RUlnbklCTTNRUmQ2dHJ0TmEyd2x3andXWHhjUE1QSmlGRWZRNmx6VG94M21OMEtLMjlNYzlNVnhrRFJpMEpjQ1F4eklfTHNxaUhRUklYbkdvbUppdUlZR09pZ1RKQzU4NlplM3dkQ3ZETFpGVlVsQVR0M3k0b3dYdTU1bURPdVhLSXNHanViMGdXdXhZVC1sV0Jfc2JfYktoUTRObWRjVjJvZmJWakowUFBlbGg0R0c?oc=5",
         "timestamp": "2026-01-19T08:49:00",
         "timestamp_display": "19. 01. 2026 08:49",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -24,16 +24,7 @@
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLVJaTUhMSFpSSVlKLWltSHNLWUEtZlhxT2thRTU3dW14c0NWS0hnOEswMVFGN3ZxUTJ3dUQweGNiLXc4SV9HZkJsX2h2alBuZ2VOQVpocHE3Wk1vemdhU3dRU3dDemdseE9kWGlLcVpCd0dZMWwzVkl3UlQ4REI0T2s1X1JhWWQzNFktdWw0VmlQQXJyNlJIaDdVaHhyR1pGN2RTYW85VTU1SUdMSV82RmhVU1ZEUQ?oc=5",
         "timestamp": "2026-01-19T07:16:00",
         "timestamp_display": "19. 01. 2026 07:16",
-        "is_new": true
-    },
-    {
-        "category": "Věda",
-        "title": "Čech vytváří kvantové čipy",
-        "summary": "Nejmladší tvůrce kvantových čipů je Čech, který chce změnit celý obor.",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa25wQVNLOWc3Z1MteldCcDFZQXRHb0ZXS2Y5ck5ZRTkxVWhrOGxmSkx6RE10Vzl1bU9sUG5lZzRhWjU3WGgxNWJ3T0ZuM3pxdGx5Z3NHbWhQOWZBb01xWFBfOVlWTjlIdDQ2ZlZ2WnF0ZzdHdWxqdm9OMzZ6UDhWcTZKUmM1U3Q1ZWI4VXQ1Zy02eFRCSXZEU19IWnozaVlyOTZtN2xxaHBJUzczVGNfTEtOb2IzSm43MF90Z3BSc0RWR1k?oc=5",
-        "timestamp": "2026-01-18T04:00:00",
-        "timestamp_display": "18. 01. 2026 04:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Medicína",
@@ -78,6 +69,15 @@
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZTVkLW5MT054V0paWG55MzEzRV8ydHkxalV4Q0IxZVNycjN0dTBIVW5PaEZGZGpFTTloUjd5WFpmYkxkOGdmcTlSbHlnNFhlcElDX2NoN2RueXZMeUhQeGFmRGNlWlRIc01lY3NKOGFfaTVQVm4zZmlYYzZFX21vUnZTTUpoYzByQUhJdnJ5YTdZSGptN0VTTlI3WlhqY1pGdWd5bEVMVEF2ZnVwejhQMmZuTEJnNzQtYVB1SlNMUHd0SERic1g4?oc=5",
         "timestamp": "2026-01-18T05:51:00",
         "timestamp_display": "18. 01. 2026 05:51",
+        "is_new": false
+    },
+    {
+        "category": "Věda",
+        "title": "Čech vytváří kvantové čipy",
+        "summary": "Nejmladší tvůrce kvantových čipů je Čech, který chce změnit celý obor.",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa25wQVNLOWc3Z1MteldCcDFZQXRHb0ZXS2Y5ck5ZRTkxVWhrOGxmSkx6RE10Vzl1bU9sUG5lZzRhWjU3WGgxNWJ3T0ZuM3pxdGx5Z3NHbWhQOWZBb01xWFBfOVlWTjlIdDQ2ZlZ2WnF0ZzdHdWxqdm9OMzZ6UDhWcTZKUmM1U3Q1ZWI4VXQ1Zy02eFRCSXZEU19IWnozaVlyOTZtN2xxaHBJUzczVGNfTEtOb2IzSm43MF90Z3BSc0RWR1k?oc=5",
+        "timestamp": "2026-01-18T04:00:00",
+        "timestamp_display": "18. 01. 2026 04:00",
         "is_new": false
     },
     {
