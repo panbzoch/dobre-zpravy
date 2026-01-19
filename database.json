@@ -1,20 +1,38 @@
 [
     {
-        "category": "Byznys",
-        "title": "Chytré ledničky",
-        "summary": "Společnost zavádí chytré ledničky do kanclů, inovace v nábytkářském e-shopu.",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQV9jdHBmZHczS2VIcDM4QmMtRHcwcVRzWTRvejJXVEo2VHBjaG1OTVV2YTc1Tm9rcDh2VW5naG1CNFpRRUdya1docmU1UVp3M1htSW54aG9XejB0eTVfa1BQaTNyYTZ1ZjM1OEE3TThibWZoZl93ekhQdzBTb3dWZzF1Vm5xTmdHZ2NGU2hWcGlQX3REZHlZMGEtVkdnSVRTQkZMWjR2NW56UQ?oc=5",
-        "timestamp": "2026-01-18T16:04:24",
-        "timestamp_display": "18. 01. 2026 16:04",
+        "category": "Medicína",
+        "title": "Látky proti stárnutí",
+        "summary": "Čeští vědci vyvinuli látky, které zpomalují stárnutí buněk, což může pomoci lidem s rakovinou nebo cukrovkou.",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeU8zTmtlWXMtbjVaQW1uc2ozS1NWXzhDVEdxUnhPZVNoYjloMGZRLVJfWDBLZFhGVm85eFFkVUUyanBVU054XzYzWkEzT28zZmU1QjNva2FlNGx1bDViU2hfZF9vTnZZRVQ5YWdfQXNFWmRvY0hwc1RNNW1mWl8tM19TTjRKS0xUMDhSV1BmYzZoZi14Q1R1cnJJcmM4YWtSTTZ4TzRELWxwLTBocWc0WUkyZldMWngybWFPd3kteEZxOFZHOVBMa1N4c25PUTE2enFqekh3?oc=5",
+        "timestamp": "2026-01-19T09:26:00",
+        "timestamp_display": "19. 01. 2026 09:26",
         "is_new": true
     },
     {
-        "category": "Společnost",
-        "title": "Nobelovka za chemii",
-        "summary": "Vědec získal Nobelovku za chemii, jeho práce pomáhá Google dominovat v AI.",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWVdLTmRDSnBlTEhwZmdWVG5oU2w1ZjdtdndYMGtYRlNyaEtYQW5OaWdRYzljSUFTM29YQTROYjJVY3pkMm0zejQ3djlLMTBDYl9LNDVaZF9zR3g3bFNxdEdCc0NIbU1iQWpWSk9DU213cUVhMzRGWkJ3Y3JkbVdLbS1IMGszN3pQcDFzcjZzcHZVMko1aVlZS25RaTUxRGZ3RHhRUmxzbVQ0eG5vVnc?oc=5",
-        "timestamp": "2026-01-17T06:11:42",
-        "timestamp_display": "17. 01. 2026 06:11",
+        "category": "Medicína",
+        "title": "Psychedelika proti depresi",
+        "summary": "Vědci v Brně zkoumají vliv psychedelik na deprese u onkologických pacientů, zkoumají nové léčebné metody.",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONXNreGJBamotcDd0cWxLRFpwQUF6RUlnbklCTTNRUmQ2dHJ0TmEyd2x3andXWHhjUE1QSmlGRWZRNmx6VG94M21OMEtLMjlNYzlNVnhrRFJpMEpjQ1F4eklfTHNxaUhRUklYbkdvbUppdUlZR09pZ1RKQzU4NlplM3dkQ3ZETFpGVlVsQVR0M3k0b3dYdTU1bURPdVhLSXNHanViMGdXdXhZVC1sV0Jfc2JfYktoUTRObWRjVjJvZmJWakowUFBlbGg0R0c?oc=5",
+        "timestamp": "2026-01-19T08:49:00",
+        "timestamp_display": "19. 01. 2026 08:49",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Stará rytina objevena",
+        "summary": "Vědci objevili v Moravském krasu rytinu starou zhruba 15.000 let, což je významný archeologický objev.",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLVJaTUhMSFpSSVlKLWltSHNLWUEtZlhxT2thRTU3dW14c0NWS0hnOEswMVFGN3ZxUTJ3dUQweGNiLXc4SV9HZkJsX2h2alBuZ2VOQVpocHE3Wk1vemdhU3dRU3dDemdseE9kWGlLcVpCd0dZMWwzVkl3UlQ4REI0T2s1X1JhWWQzNFktdWw0VmlQQXJyNlJIaDdVaHhyR1pGN2RTYW85VTU1SUdMSV82RmhVU1ZEUQ?oc=5",
+        "timestamp": "2026-01-19T07:16:00",
+        "timestamp_display": "19. 01. 2026 07:16",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Čech vytváří kvantové čipy",
+        "summary": "Nejmladší tvůrce kvantových čipů je Čech, který chce změnit celý obor.",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa25wQVNLOWc3Z1MteldCcDFZQXRHb0ZXS2Y5ck5ZRTkxVWhrOGxmSkx6RE10Vzl1bU9sUG5lZzRhWjU3WGgxNWJ3T0ZuM3pxdGx5Z3NHbWhQOWZBb01xWFBfOVlWTjlIdDQ2ZlZ2WnF0ZzdHdWxqdm9OMzZ6UDhWcTZKUmM1U3Q1ZWI4VXQ1Zy02eFRCSXZEU19IWnozaVlyOTZtN2xxaHBJUzczVGNfTEtOb2IzSm43MF90Z3BSc0RWR1k?oc=5",
+        "timestamp": "2026-01-18T04:00:00",
+        "timestamp_display": "18. 01. 2026 04:00",
         "is_new": true
     },
     {
@@ -24,6 +42,15 @@
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMHNtV0dmM2NJNnVYd0RodldGNExoTDZpN0w1aTBqUkUtTmJtNklGYjBXUjJmTm5NcE9xMmpha3gwN1hBa2hNanlES25uM2lKcWx6LUQ5U18zMkRUVXRhcXY5MFkteDQxWFdqRE5wOENkanVsN3Y5YzJWbmJhZUpudTh1V3BYN3hvMUpzTVBrazMxdmdyNUc1Q3JzNDBSZS1sOFFKZ2VXcFFROHo2WFVsZkp3N0xDdG9qaGRYS2xEYnF1S203OVlVTVRPNjZ6cTd4N0Vv?oc=5",
         "timestamp": "2026-01-18T16:12:00",
         "timestamp_display": "18. 01. 2026 16:12",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Chytré ledničky",
+        "summary": "Společnost zavádí chytré ledničky do kanclů, inovace v nábytkářském e-shopu.",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQV9jdHBmZHczS2VIcDM4QmMtRHcwcVRzWTRvejJXVEo2VHBjaG1OTVV2YTc1Tm9rcDh2VW5naG1CNFpRRUdya1docmU1UVp3M1htSW54aG9XejB0eTVfa1BQaTNyYTZ1ZjM1OEE3TThibWZoZl93ekhQdzBTb3dWZzF1Vm5xTmdHZ2NGU2hWcGlQX3REZHlZMGEtVkdnSVRTQkZMWjR2NW56UQ?oc=5",
+        "timestamp": "2026-01-18T16:04:24",
+        "timestamp_display": "18. 01. 2026 16:04",
         "is_new": false
     },
     {
@@ -78,6 +105,15 @@
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM0k4WGxIdk4tZXdDV1hsOVQ5Yzhnb1MtVVFKYjJKR2poa0tvdHJRM055eHhCNTViOVB5aU1xREN1RzhsdDl2TGFkaExOQWJCUG4xdnpxcUNwYUttQzNWTFdxT2pZMGRPN1lYUFVzcXVla1FqVDF3NUh3Tmt3WEhGYmlqa0U0YUFMa3RScGcwb1ZybDlkMUJrSmgxRXFNRXhwMWNZYkVycEk5YXVZV0Y1cko4dTZYdVdka3d5elNYN2FOa0ktN3o0SlpGOExVNXVpNXlaaXpySDE?oc=5",
         "timestamp": "2026-01-17T06:49:00",
         "timestamp_display": "17. 01. 2026 06:49",
+        "is_new": false
+    },
+    {
+        "category": "Společnost",
+        "title": "Nobelovka za chemii",
+        "summary": "Vědec získal Nobelovku za chemii, jeho práce pomáhá Google dominovat v AI.",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWVdLTmRDSnBlTEhwZmdWVG5oU2w1ZjdtdndYMGtYRlNyaEtYQW5OaWdRYzljSUFTM29YQTROYjJVY3pkMm0zejQ3djlLMTBDYl9LNDVaZF9zR3g3bFNxdEdCc0NIbU1iQWpWSk9DU213cUVhMzRGWkJ3Y3JkbVdLbS1IMGszN3pQcDFzcjZzcHZVMko1aVlZS25RaTUxRGZ3RHhRUmxzbVQ0eG5vVnc?oc=5",
+        "timestamp": "2026-01-17T06:11:42",
+        "timestamp_display": "17. 01. 2026 06:11",
         "is_new": false
     },
     {
