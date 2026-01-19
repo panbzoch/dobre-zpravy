@@ -1,12 +1,30 @@
 [
     {
+        "category": "Byznys",
+        "title": "Chytré ledničky",
+        "summary": "Společnost zavádí chytré ledničky do kanclů, inovace v nábytkářském e-shopu.",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQV9jdHBmZHczS2VIcDM4QmMtRHcwcVRzWTRvejJXVEo2VHBjaG1OTVV2YTc1Tm9rcDh2VW5naG1CNFpRRUdya1docmU1UVp3M1htSW54aG9XejB0eTVfa1BQaTNyYTZ1ZjM1OEE3TThibWZoZl93ekhQdzBTb3dWZzF1Vm5xTmdHZ2NGU2hWcGlQX3REZHlZMGEtVkdnSVRTQkZMWjR2NW56UQ?oc=5",
+        "timestamp": "2026-01-18T16:04:24",
+        "timestamp_display": "18. 01. 2026 16:04",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Nobelovka za chemii",
+        "summary": "Vědec získal Nobelovku za chemii, jeho práce pomáhá Google dominovat v AI.",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWVdLTmRDSnBlTEhwZmdWVG5oU2w1ZjdtdndYMGtYRlNyaEtYQW5OaWdRYzljSUFTM29YQTROYjJVY3pkMm0zejQ3djlLMTBDYl9LNDVaZF9zR3g3bFNxdEdCc0NIbU1iQWpWSk9DU213cUVhMzRGWkJ3Y3JkbVdLbS1IMGszN3pQcDFzcjZzcHZVMko1aVlZS25RaTUxRGZ3RHhRUmxzbVQ0eG5vVnc?oc=5",
+        "timestamp": "2026-01-17T06:11:42",
+        "timestamp_display": "17. 01. 2026 06:11",
+        "is_new": true
+    },
+    {
         "category": "Medicína",
         "title": "Koktejl léků pro pacienty",
         "summary": "Kliničtí farmaceuti pomáhají v nemocnicích s přípravou koktejlů léků pro pacienty, aby zajistili efektivní a bezpečnou léčbu.",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMHNtV0dmM2NJNnVYd0RodldGNExoTDZpN0w1aTBqUkUtTmJtNklGYjBXUjJmTm5NcE9xMmpha3gwN1hBa2hNanlES25uM2lKcWx6LUQ5U18zMkRUVXRhcXY5MFkteDQxWFdqRE5wOENkanVsN3Y5YzJWbmJhZUpudTh1V3BYN3hvMUpzTVBrazMxdmdyNUc1Q3JzNDBSZS1sOFFKZ2VXcFFROHo2WFVsZkp3N0xDdG9qaGRYS2xEYnF1S203OVlVTVRPNjZ6cTd4N0Vv?oc=5",
         "timestamp": "2026-01-18T16:12:00",
         "timestamp_display": "18. 01. 2026 16:12",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBVmFQR0NkUGZ3UEZ2eUdEcXZzcVUwU3R3U0xnc2prd1JoZ3lmU004aHd2R2FJUkt4bGJWT0R5TzQ5MDdVS3Y3WWxra0gtOXhmOXRZUGtyQW9XQQ?oc=5",
         "timestamp": "2026-01-18T08:50:36",
         "timestamp_display": "18. 01. 2026 08:50",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
