@@ -1,11 +1,11 @@
 [
     {
-        "category": "Byznys",
-        "title": "Nová podpora pro MSP",
-        "summary": "Nová iniciativa podporuje investice malých a středních podniků, stimuluje ekonomický růst.",
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPckd1ekFxWTB3d3VUX1RRZ3ZHQXBoSXQyUjBPUkg2UjBWRkxEdHBuMmJtcHBmSmlkQkNKVVNfODc2TngtcFRON0IyRkdoNXVKRDhNQWU5SEk0dUxhVEpyem5Kem9qU1BhREZSYktNZVkwODYtOTNKX3QxaHY4eXdseW5UWTR6QXlLdmNyeEZaeG5HWEZEQzRwSzNpcGNDSWc5QXhQRVRpdzZSQ3dSd29qQWs0cVFuWmNtR3B2eVpNR3h2czk0VFRQUmV5bFFFRTRjcktST0dtOHhzanFfZVo2cjk2QWJ6NU5XS2RNTUhETFlBOUNMX1A5SWRPbkJSZkE?oc=5",
-        "timestamp": "2026-01-19T11:32:00",
-        "timestamp_display": "19. 01. 2026 11:32",
+        "category": "Technologie",
+        "title": "Nová Tamagotchi se vrací",
+        "summary": "Nová verze Tamagotchi má paměť a fyzicky roste, nabízí nové funkce a vzhled.",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYkIzWUlhbEY0ZnlfR2Y1d2JsZTFvS1Vha29MaDNpTnpTSHktUVBzcmFEdXE4dnlwdThtQy1EWC0xaUU2d3MteEVtWnNEM0p2Tm13WmIyS1E5R3BrVDhqZWlqeW9kWWRhZldZS1daZGNkTXVQNXJTcF9Wc3hfMU04RHJvd0Q2Y2pBVTBUTXhCVk1YNV9nUTRoanhCRktXaWJPMGdXR2xMRDNjanlFRTFLXw?oc=5",
+        "timestamp": "2026-01-18T08:10:08",
+        "timestamp_display": "18. 01. 2026 08:10",
         "is_new": true
     },
     {
@@ -15,6 +15,15 @@
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbFlYbkdzOXF3X2pNRnFnWW9pU1Q5dHoxREc5R2dVdjFvVURUTUR3QXlXcGQ4QzhJR051bXFIYjI2Q1ItQlYyYXA1MHNSci1wdVVyTUdTTE5jOUYtVGlXei01eVFQanNRV2tHSUp0VE1RWkJNTWEtX0VDT0pCSFV4MDhLU3RJd2tubUFBcXJXQ3A4ZzBzZHFFa2dVcGp6aDliZFBEbll3SHVKaXhHWl9XUnp1cFhrbGdCdVM2bl9vMy1VSWdocEZkRlJjS2c1WEhiMGhxeFRtc1JEN0xxNVE?oc=5",
         "timestamp": "2026-01-19T12:32:00",
         "timestamp_display": "19. 01. 2026 12:32",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Nová podpora pro MSP",
+        "summary": "Nová iniciativa podporuje investice malých a středních podniků, stimuluje ekonomický růst.",
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPckd1ekFxWTB3d3VUX1RRZ3ZHQXBoSXQyUjBPUkg2UjBWRkxEdHBuMmJtcHBmSmlkQkNKVVNfODc2TngtcFRON0IyRkdoNXVKRDhNQWU5SEk0dUxhVEpyem5Kem9qU1BhREZSYktNZVkwODYtOTNKX3QxaHY4eXdseW5UWTR6QXlLdmNyeEZaeG5HWEZEQzRwSzNpcGNDSWc5QXhQRVRpdzZSQ3dSd29qQWs0cVFuWmNtR3B2eVpNR3h2czk0VFRQUmV5bFFFRTRjcktST0dtOHhzanFfZVo2cjk2QWJ6NU5XS2RNTUhETFlBOUNMX1A5SWRPbkJSZkE?oc=5",
+        "timestamp": "2026-01-19T11:32:00",
+        "timestamp_display": "19. 01. 2026 11:32",
         "is_new": false
     },
     {
