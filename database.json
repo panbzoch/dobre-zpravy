@@ -1,11 +1,11 @@
 [
     {
-        "category": "Věda",
-        "title": "Stará rytina v jeskyni",
-        "summary": "Vědci objevili v Moravském krasu 15 000 let starou rytinu v jeskyni.",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CcVZaWk9OaXQzZzBfcjZRZW4wUGdNWUJKd0pmOXNNZjk3bmlBTkUzRWt1ODFvVDFXdTdBNDRQcm5Cb00xZDNKVVU4cFNsaFZKb01N?oc=5",
-        "timestamp": "2026-01-19T07:16:00",
-        "timestamp_display": "19. 01. 2026 07:16",
+        "category": "Byznys",
+        "title": "Nová podpora malých firem",
+        "summary": "Nová iniciativa podporuje investice malých a středních podniků, stimuluje ekonomický růst.",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbFlYbkdzOXF3X2pNRnFnWW9pU1Q5dHoxREc5R2dVdjFvVURUTUR3QXlXcGQ4QzhJR051bXFIYjI2Q1ItQlYyYXA1MHNSci1wdVVyTUdTTE5jOUYtVGlXei01eVFQanNRV2tHSUp0VE1RWkJNTWEtX0VDT0pCSFV4MDhLU3RJd2tubUFBcXJXQ3A4ZzBzZHFFa2dVcGp6aDliZFBEbll3SHVKaXhHWl9XUnp1cFhrbGdCdVM2bl9vMy1VSWdocEZkRlJjS2c1WEhiMGhxeFRtc1JEN0xxNVE?oc=5",
+        "timestamp": "2026-01-19T12:32:00",
+        "timestamp_display": "19. 01. 2026 12:32",
         "is_new": true
     },
     {
@@ -24,6 +24,15 @@
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONXNreGJBamotcDd0cWxLRFpwQUF6RUlnbklCTTNRUmQ2dHJ0TmEyd2x3andXWHhjUE1QSmlGRWZRNmx6VG94M21OMEtLMjlNYzlNVnhrRFJpMEpjQ1F4eklfTHNxaUhRUklYbkdvbUppdUlZR09pZ1RKQzU4NlplM3dkQ3ZETFpGVlVsQVR0M3k0b3dYdTU1bURPdVhLSXNHanViMGdXdXhZVC1sV0Jfc2JfYktoUTRObWRjVjJvZmJWakowUFBlbGg0R0c?oc=5",
         "timestamp": "2026-01-19T08:49:00",
         "timestamp_display": "19. 01. 2026 08:49",
+        "is_new": false
+    },
+    {
+        "category": "Věda",
+        "title": "Stará rytina v jeskyni",
+        "summary": "Vědci objevili v Moravském krasu 15 000 let starou rytinu v jeskyni.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CcVZaWk9OaXQzZzBfcjZRZW4wUGdNWUJKd0pmOXNNZjk3bmlBTkUzRWt1ODFvVDFXdTdBNDRQcm5Cb00xZDNKVVU4cFNsaFZKb01N?oc=5",
+        "timestamp": "2026-01-19T07:16:00",
+        "timestamp_display": "19. 01. 2026 07:16",
         "is_new": false
     },
     {
