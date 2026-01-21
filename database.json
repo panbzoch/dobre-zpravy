@@ -1,11 +1,11 @@
 [
     {
-        "category": "Technologie",
-        "title": "Nová Tamagotchi se vrací",
-        "summary": "Nová verze Tamagotchi má paměť a fyzicky roste, nabízí nové funkce a vzhled.",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYkIzWUlhbEY0ZnlfR2Y1d2JsZTFvS1Vha29MaDNpTnpTSHktUVBzcmFEdXE4dnlwdThtQy1EWC0xaUU2d3MteEVtWnNEM0p2Tm13WmIyS1E5R3BrVDhqZWlqeW9kWWRhZldZS1daZGNkTXVQNXJTcF9Wc3hfMU04RHJvd0Q2Y2pBVTBUTXhCVk1YNV9nUTRoanhCRktXaWJPMGdXR2xMRDNjanlFRTFLXw?oc=5",
-        "timestamp": "2026-01-18T08:10:08",
-        "timestamp_display": "18. 01. 2026 08:10",
+        "category": "Byznys",
+        "title": "KKCG odkupuje akcie",
+        "summary": "KKCG Maritime zahajuje dobrovolnou nabídku na odkup akcií Ferretti S.p.A.",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbTBVSVpFakpETzdtYkgza1RBalN2VjF1Vm14T3MwamZiakhka2xnMkRaM2lFNk1KbFdzUlA2RlpHUEdHUGlYQnZOdUl2cEtJb0N5aTRMM0FON1ZKT25QTUtvX05TM3plQTFNSElpVzBfckZtaTRoamJxY1oybTZhYzA0VUdLSUVyanloWWVaRzFQUm52RGltWU8tMEM1bVFPMU9CVl9UbER3Q2Y0Q3BfcnF5WXpEczhOcVVTb1c5OTBKX2FVVkg0b2RZaG5xNGx0a251WlVB?oc=5",
+        "timestamp": "2026-01-19T08:14:00",
+        "timestamp_display": "19. 01. 2026 08:14",
         "is_new": true
     },
     {
@@ -96,6 +96,15 @@
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBVmFQR0NkUGZ3UEZ2eUdEcXZzcVUwU3R3U0xnc2prd1JoZ3lmU004aHd2R2FJUkt4bGJWT0R5TzQ5MDdVS3Y3WWxra0gtOXhmOXRZUGtyQW9XQQ?oc=5",
         "timestamp": "2026-01-18T08:50:36",
         "timestamp_display": "18. 01. 2026 08:50",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Nová Tamagotchi se vrací",
+        "summary": "Nová verze Tamagotchi má paměť a fyzicky roste, nabízí nové funkce a vzhled.",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYkIzWUlhbEY0ZnlfR2Y1d2JsZTFvS1Vha29MaDNpTnpTSHktUVBzcmFEdXE4dnlwdThtQy1EWC0xaUU2d3MteEVtWnNEM0p2Tm13WmIyS1E5R3BrVDhqZWlqeW9kWWRhZldZS1daZGNkTXVQNXJTcF9Wc3hfMU04RHJvd0Q2Y2pBVTBUTXhCVk1YNV9nUTRoanhCRktXaWJPMGdXR2xMRDNjanlFRTFLXw?oc=5",
+        "timestamp": "2026-01-18T08:10:08",
+        "timestamp_display": "18. 01. 2026 08:10",
         "is_new": false
     },
     {
