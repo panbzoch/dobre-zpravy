@@ -1,12 +1,30 @@
 [
     {
+        "category": "Byznys",
+        "title": "Růst skupiny BICZ",
+        "summary": "Skupina BICZ staví přes 250 bytů, což přispělo k jejímu růstu v roce 2025.",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZWtCazJkZDJub291VFZtbmgyTWhxUnN5RDRDTG9DM2pDdm5TMkw1dXNrVjg3M1RGeUdzUWxROUl3S3o5MGNHQWpKeEJlM3dNOUltck0tZXc1N3NoVWxGNWlDekdNSHNKUGxqZWJkeVpMWnA3NGs2cGZpWnBOYXVhUDZLbjk4dllyTDJBVzJvcndUSG1iZlFidW1za001YmIzdE1OdGVRY2ExTUxmOHU0VVM2WFo3V2h5SWhyaC1haEpzTFdRT1dzbV9QMVdVNnM?oc=5",
+        "timestamp": "2026-01-21T09:28:00",
+        "timestamp_display": "21. 01. 2026 09:28",
+        "is_new": true
+    },
+    {
+        "category": "Medicína",
+        "title": "Nová léčba psychiatrických pacientů",
+        "summary": "V Olomouci provedli první zákrok svého druhu v Česku, využívající stimulátor pro psychiatrické pacienty.",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbEc4TThyeDNGWXdUNk1SQzlRcFNLUklyWldIZmZMZHFDLWRPVjZzUTZMZU5YaEkwZnV6cV9ocDJzeWZMOEtHNlpGaTRTWHVPbVlCNHo3ellPcENLTDMxazBxTFV6ZDNVcXdaWlNQXzloS01aV3B4SmNXQVAyU0U3UzZaZ2hQUU1Yb2YwREpWUGU3NEV1QzJGV1NxUzlNN3NMczE5aFhfeVhqRG9LTm9ZVzc1bGE4anNYSjg2SmQ2MHRESS1SN3M0S195SlR3cGE3RXI3NVNn?oc=5",
+        "timestamp": "2026-01-20T12:51:00",
+        "timestamp_display": "20. 01. 2026 12:51",
+        "is_new": true
+    },
+    {
         "category": "Věda",
         "title": "Vědci vyvíjí laboratorní model",
         "summary": "Vědci ze Zlína vyvíjí laboratorní model tenkého střeva, který nahradí testy na zvířatech.",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYWFTSXZyOU9CUGVLN3RMeHhqRDNKQVhHd1BTRmNEam9rSzBwQm9XSHJKbE9YM0x2bGE1WmdQbUFoXzFsYlIxTEMxeDktYno1OXFBR2JCR2RFWEExTEl1Mmk1aXFuYmREV21CREJGNGt3U1pNOUlSZjVadVJDQ1BiemtpbjZlMGttcUFfR2pZd1NTZVpERTZkeVg5aWFUOGdYQlNiOExpbU1XRVVMX1RRR0UwUGVMOTRnZmxVTmJMbm1ZYUFMRTNEMVhNbDNSNlpXZ3l3?oc=5",
         "timestamp": "2026-01-21T12:47:00",
         "timestamp_display": "21. 01. 2026 12:47",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -15,7 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSkJ6Q085MXM0SUFsOWNvTWpCVjFQZzJ0UlUydmx2RWN3QjhfcHg3QUViZVVtcFN1S3g0LVdJQVY0cE1DRHI1TzY1ek5pbWlGeXdyZ1JlTmd2VHlFamhvMFBBUG5Cb0Z3VExiUmdFVVJ0Vlg4ejljeHRibzNvQmdYNXYyLVFBOHpQY09vNW55b1FmWmpIMzJzamxldWVoYnBLUUhaWV9SVC1JUVdKWDcxNFBMeUhsMTZY?oc=5",
         "timestamp": "2026-01-21T10:46:00",
         "timestamp_display": "21. 01. 2026 10:46",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
