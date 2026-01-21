@@ -1,12 +1,30 @@
 [
     {
+        "category": "Věda",
+        "title": "Vědci vyvíjí laboratorní model",
+        "summary": "Vědci ze Zlína vyvíjí laboratorní model tenkého střeva, který nahradí testy na zvířatech.",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYWFTSXZyOU9CUGVLN3RMeHhqRDNKQVhHd1BTRmNEam9rSzBwQm9XSHJKbE9YM0x2bGE1WmdQbUFoXzFsYlIxTEMxeDktYno1OXFBR2JCR2RFWEExTEl1Mmk1aXFuYmREV21CREJGNGt3U1pNOUlSZjVadVJDQ1BiemtpbjZlMGttcUFfR2pZd1NTZVpERTZkeVg5aWFUOGdYQlNiOExpbU1XRVVMX1RRR0UwUGVMOTRnZmxVTmJMbm1ZYUFMRTNEMVhNbDNSNlpXZ3l3?oc=5",
+        "timestamp": "2026-01-21T12:47:00",
+        "timestamp_display": "21. 01. 2026 12:47",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Vlaštovky rozpoznávají vejce",
+        "summary": "Vědci objevili, že vlaštovky rozpoznávají a odstraňují cizí vejce z hnízd, přestože nemají představu o vzhledu svých vlastních vajec.",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSkJ6Q085MXM0SUFsOWNvTWpCVjFQZzJ0UlUydmx2RWN3QjhfcHg3QUViZVVtcFN1S3g0LVdJQVY0cE1DRHI1TzY1ek5pbWlGeXdyZ1JlTmd2VHlFamhvMFBBUG5Cb0Z3VExiUmdFVVJ0Vlg4ejljeHRibzNvQmdYNXYyLVFBOHpQY09vNW55b1FmWmpIMzJzamxldWVoYnBLUUhaWV9SVC1JUVdKWDcxNFBMeUhsMTZY?oc=5",
+        "timestamp": "2026-01-21T10:46:00",
+        "timestamp_display": "21. 01. 2026 10:46",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "Fond Luminova Ventures",
         "summary": "Fond nabízí investorům přístup k dual-use technologiím pro obranu a byznys.",
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSWczQWNxcUZFT0FsN2JSbmc2VS1OY2RBRGdJbThqdGp5MVNsYV95VkZmazhJRHFrZlpwU1FJSHlXb1dwQ0VDMXR0YjMxMXVtZ2hnaU1ZMS1JRDhIMW1hN0F6bndwekhIckx3S3I0YjBoY2Z6ekhrVmJjTExlRmU2cVJSMU5lOTBCLTZLaTEzTV9WWG1XUWVwYWdtdjNBX3F5ajM3aF9ZUll5aWd0MVFGWjFQd0Jmb0dzR3dPVHhBMXBtQnR0U1VwdjczZ2p2V2FwYU5WbElpZDByaUxFLWpJY1Q3dw?oc=5",
         "timestamp": "2026-01-21T08:07:00",
         "timestamp_display": "21. 01. 2026 08:07",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
