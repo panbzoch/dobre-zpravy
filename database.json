@@ -1,20 +1,11 @@
 [
     {
-        "category": "Byznys",
-        "title": "Růst skupiny BICZ",
-        "summary": "Skupina BICZ staví přes 250 bytů, což přispělo k jejímu růstu v roce 2025.",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZWtCazJkZDJub291VFZtbmgyTWhxUnN5RDRDTG9DM2pDdm5TMkw1dXNrVjg3M1RGeUdzUWxROUl3S3o5MGNHQWpKeEJlM3dNOUltck0tZXc1N3NoVWxGNWlDekdNSHNKUGxqZWJkeVpMWnA3NGs2cGZpWnBOYXVhUDZLbjk4dllyTDJBVzJvcndUSG1iZlFidW1za001YmIzdE1OdGVRY2ExTUxmOHU0VVM2WFo3V2h5SWhyaC1haEpzTFdRT1dzbV9QMVdVNnM?oc=5",
-        "timestamp": "2026-01-21T09:28:00",
-        "timestamp_display": "21. 01. 2026 09:28",
-        "is_new": true
-    },
-    {
-        "category": "Medicína",
-        "title": "Nová léčba psychiatrických pacientů",
-        "summary": "V Olomouci provedli první zákrok svého druhu v Česku, využívající stimulátor pro psychiatrické pacienty.",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbEc4TThyeDNGWXdUNk1SQzlRcFNLUklyWldIZmZMZHFDLWRPVjZzUTZMZU5YaEkwZnV6cV9ocDJzeWZMOEtHNlpGaTRTWHVPbVlCNHo3ellPcENLTDMxazBxTFV6ZDNVcXdaWlNQXzloS01aV3B4SmNXQVAyU0U3UzZaZ2hQUU1Yb2YwREpWUGU3NEV1QzJGV1NxUzlNN3NMczE5aFhfeVhqRG9LTm9ZVzc1bGE4anNYSjg2SmQ2MHRESS1SN3M0S195SlR3cGE3RXI3NVNn?oc=5",
-        "timestamp": "2026-01-20T12:51:00",
-        "timestamp_display": "20. 01. 2026 12:51",
+        "category": "Věda",
+        "title": "Vlaštovky rozpoznávají vejce",
+        "summary": "Vlaštovky odstraní cizí vejce z hnízda, přestože nemají představu o vzhledu svých vlastních vajec, ukazuje nový výzkum.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WU2JVMnZ5VkswZ0lKYkk3REMwVVh2XzlVTTlUb1BCek1XakhYWUIycDRlYlktV3A1a1BqMzR0eDlkN2pic3hfY3F4LXoxeVVGbUU4?oc=5",
+        "timestamp": "2026-01-21T10:46:00",
+        "timestamp_display": "21. 01. 2026 10:46",
         "is_new": true
     },
     {
@@ -37,11 +28,29 @@
     },
     {
         "category": "Byznys",
+        "title": "Růst skupiny BICZ",
+        "summary": "Skupina BICZ staví přes 250 bytů, což přispělo k jejímu růstu v roce 2025.",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZWtCazJkZDJub291VFZtbmgyTWhxUnN5RDRDTG9DM2pDdm5TMkw1dXNrVjg3M1RGeUdzUWxROUl3S3o5MGNHQWpKeEJlM3dNOUltck0tZXc1N3NoVWxGNWlDekdNSHNKUGxqZWJkeVpMWnA3NGs2cGZpWnBOYXVhUDZLbjk4dllyTDJBVzJvcndUSG1iZlFidW1za001YmIzdE1OdGVRY2ExTUxmOHU0VVM2WFo3V2h5SWhyaC1haEpzTFdRT1dzbV9QMVdVNnM?oc=5",
+        "timestamp": "2026-01-21T09:28:00",
+        "timestamp_display": "21. 01. 2026 09:28",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
         "title": "Fond Luminova Ventures",
         "summary": "Fond nabízí investorům přístup k dual-use technologiím pro obranu a byznys.",
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSWczQWNxcUZFT0FsN2JSbmc2VS1OY2RBRGdJbThqdGp5MVNsYV95VkZmazhJRHFrZlpwU1FJSHlXb1dwQ0VDMXR0YjMxMXVtZ2hnaU1ZMS1JRDhIMW1hN0F6bndwekhIckx3S3I0YjBoY2Z6ekhrVmJjTExlRmU2cVJSMU5lOTBCLTZLaTEzTV9WWG1XUWVwYWdtdjNBX3F5ajM3aF9ZUll5aWd0MVFGWjFQd0Jmb0dzR3dPVHhBMXBtQnR0U1VwdjczZ2p2V2FwYU5WbElpZDByaUxFLWpJY1Q3dw?oc=5",
         "timestamp": "2026-01-21T08:07:00",
         "timestamp_display": "21. 01. 2026 08:07",
+        "is_new": false
+    },
+    {
+        "category": "Medicína",
+        "title": "Nová léčba psychiatrických pacientů",
+        "summary": "V Olomouci provedli první zákrok svého druhu v Česku, využívající stimulátor pro psychiatrické pacienty.",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbEc4TThyeDNGWXdUNk1SQzlRcFNLUklyWldIZmZMZHFDLWRPVjZzUTZMZU5YaEkwZnV6cV9ocDJzeWZMOEtHNlpGaTRTWHVPbVlCNHo3ellPcENLTDMxazBxTFV6ZDNVcXdaWlNQXzloS01aV3B4SmNXQVAyU0U3UzZaZ2hQUU1Yb2YwREpWUGU3NEV1QzJGV1NxUzlNN3NMczE5aFhfeVhqRG9LTm9ZVzc1bGE4anNYSjg2SmQ2MHRESS1SN3M0S195SlR3cGE3RXI3NVNn?oc=5",
+        "timestamp": "2026-01-20T12:51:00",
+        "timestamp_display": "20. 01. 2026 12:51",
         "is_new": false
     },
     {
