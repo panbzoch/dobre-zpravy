@@ -1,20 +1,20 @@
 [
     {
         "category": "Věda",
-        "title": "Vlaštovky rozpoznávají vejce",
-        "summary": "Vlaštovky odstraní cizí vejce z hnízda, přestože nemají představu o vzhledu svých vlastních vajec, ukazuje nový výzkum.",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WU2JVMnZ5VkswZ0lKYkk3REMwVVh2XzlVTTlUb1BCek1XakhYWUIycDRlYlktV3A1a1BqMzR0eDlkN2pic3hfY3F4LXoxeVVGbUU4?oc=5",
-        "timestamp": "2026-01-21T10:46:00",
-        "timestamp_display": "21. 01. 2026 10:46",
-        "is_new": true
-    },
-    {
-        "category": "Věda",
         "title": "Vědci vyvíjí laboratorní model",
         "summary": "Vědci ze Zlína vyvíjí laboratorní model tenkého střeva, který nahradí testy na zvířatech.",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYWFTSXZyOU9CUGVLN3RMeHhqRDNKQVhHd1BTRmNEam9rSzBwQm9XSHJKbE9YM0x2bGE1WmdQbUFoXzFsYlIxTEMxeDktYno1OXFBR2JCR2RFWEExTEl1Mmk1aXFuYmREV21CREJGNGt3U1pNOUlSZjVadVJDQ1BiemtpbjZlMGttcUFfR2pZd1NTZVpERTZkeVg5aWFUOGdYQlNiOExpbU1XRVVMX1RRR0UwUGVMOTRnZmxVTmJMbm1ZYUFMRTNEMVhNbDNSNlpXZ3l3?oc=5",
         "timestamp": "2026-01-21T12:47:00",
         "timestamp_display": "21. 01. 2026 12:47",
+        "is_new": false
+    },
+    {
+        "category": "Věda",
+        "title": "Vlaštovky rozpoznávají vejce",
+        "summary": "Vlaštovky odstraní cizí vejce z hnízda, přestože nemají představu o vzhledu svých vlastních vajec, ukazuje nový výzkum.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WU2JVMnZ5VkswZ0lKYkk3REMwVVh2XzlVTTlUb1BCek1XakhYWUIycDRlYlktV3A1a1BqMzR0eDlkN2pic3hfY3F4LXoxeVVGbUU4?oc=5",
+        "timestamp": "2026-01-21T10:46:00",
+        "timestamp_display": "21. 01. 2026 10:46",
         "is_new": false
     },
     {
