@@ -1,5 +1,23 @@
 [
     {
+        "category": "Byznys",
+        "title": "Natland nakupuje komplex",
+        "summary": "Natland investuje stovky milionů do slovenského kancelářského komplexu.",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUlJTSGczQjJUbkFGbGc4a3UwaTd5RTVpVHRSWVFaRVdINVc3c1VYQXVvVWdZdVpCeG5qNV9NRE8zdlZiWVlwVlItaVQtTzZqS2FHN0hpZ2NpRHNXQ2p2X3dGNnZwV3RDTmxWWEtONjlKaVVBTVlEYndmQXhFelV4SFM2UVlGRkFRVERzWmR0QVR5SXVNQW1YN1hUZGc?oc=5",
+        "timestamp": "2026-01-22T09:06:42",
+        "timestamp_display": "22. 01. 2026 09:06",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "CSG vstupuje na burzu",
+        "summary": "Společnost CSG plánuje vydat akcie na burzách v Amsterdamu a Praze, cílem je získat 18 miliard korun.",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTGRXLU5QSm1ka3pxTDJwYUxGaG9ZNUdrbXhFRUFLRXlDR3k2MjVWR0l1Z0R0ckh4V1VKb3dlWGl1NTRxSG1KRnIzUlJ6cU40VGJpMXRsSUc0ZGtoWUowXzF2OWdKWkVMb0UtcjNPUVJiVmwtSU9ZM3ZIeGM1VW1zRHhhNmwyY0JUSWw0V3JGLW00OGt5X2VXWnhiVVZlSDk0VnRKMUdVR2lBUVNGckUwQkVpWHF0UGlpY1JDdXBSaHI?oc=5",
+        "timestamp": "2026-01-14T08:00:00",
+        "timestamp_display": "14. 01. 2026 08:00",
+        "is_new": true
+    },
+    {
         "category": "Technologie",
         "title": "Čeští ajťáci prodali AI firmy",
         "summary": "Čeští vývojáři prodali dvě firmy specializující se na umělou inteligenci pro nahrazování programátorů, další úspěchy jsou očekávány.",
