@@ -1,12 +1,30 @@
 [
     {
+        "category": "Technologie",
+        "title": "Čeští ajťáci prodali AI firmy",
+        "summary": "Čeští vývojáři prodali dvě firmy specializující se na umělou inteligenci pro nahrazování programátorů, další úspěchy jsou očekávány.",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSG0xZTBpcGdaSHpMT29pMWVsQ1UxZXo3aGxtUm9TWnAzeVFMM3phbTNyenJpdlZSVXJYcGw4VmJMcTA1QmY2MlZ2UHp6UEZBNGFZOVRQZXRqWUFZYS0wWDl3RjhhN3NtM0hUMk1zNS1oV0xNaFVjLWt4WXhJdkJWYUQ5Sm5aaVZCTHdWVVRlMjBIUXpseDFwN0ZUT1FnelEybWI3S3AtcWZKdWc1VDcwWnFzdkI5WnBFMm85U3FXQTlKVDVOSDJxaUZ0aTJPc3luWi1SeGNB?oc=5",
+        "timestamp": "2026-01-23T04:00:00",
+        "timestamp_display": "23. 01. 2026 04:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "UnionPay transformuje platby",
+        "summary": "UnionPay představuje novou technologii pro přeshraniční platby pomocí konektivity a umělé inteligence.",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUFM1N1QtMjNnTldJc2hOTmRFcmtQRFZmM1pYeDlWdWkwX29pSU9YRGhzMEpvd3R3ajlLWDN2RFNNVXpaZmdUX0NNTmxtMDdRVUZEMWQ0VVBaUk1hMDRhVjZ4a2tWNXJZUmRtb2U3c3MtQ05PNTZIY0w2QXI0RlNiUEdRVVdrSEtiLWZrSzFyUVFYNy1hdG4tOTVRSVVVbVA5b1hBbFI2dXNQQjlJN2xkYjJqc1lqajJldHA2YjVoQ1FqMzYzUGg3SkY1SHJDanZONmtxQzRB?oc=5",
+        "timestamp": "2026-01-22T14:42:00",
+        "timestamp_display": "22. 01. 2026 14:42",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "Investiční platformy",
         "summary": "Investiční platformy nabízejí nové možnosti pro investory, umožňují snadné investování do různých aktiv.",
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9BQlpVTGZydmlxUW91QnFuejVYRFdxNlhiOGd4YnBxX0gyWWR4eU5OQ3Nxb3hXSC01c2tadUxYOFBqM3NvejlmQ3J3Z2VmRmZt?oc=5",
         "timestamp": "2026-01-22T18:08:11",
         "timestamp_display": "22. 01. 2026 18:08",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNQ1A1Z1JRT1c1OXhkS3NBelJYbmt0RVZBSEFMWVFQWFVLNzBLVUtpYlBtUzlvQ3JKTGJUWFQ4YzBSSmszOHVzRnJoQnVGZXNac3poZmNNQXNXcEV2eTg1TnFBNXA0T0pnN0FJc1czTWgxNC0zM2tSdTg4QzlyUjFjT0dlZm00TXFaUW5yaDRNbU16NEdkU2lmVzBxQVJPbmV6OXBic2dheU02SkF5c0tHQ0JiQ1Q5YXpJbDBMbUhXVWoydTJ0eWFlYWhaMkgzUm0tTVBZSU5NOFVtU3VkelFRUWJXcXRLaGtvbjBPR0NpNFFFVnNvTEVNT2V6aEhiZk9DR0RIcFB3Z2t0a3NKRWpn?oc=5",
         "timestamp": "2026-01-22T15:36:00",
         "timestamp_display": "22. 01. 2026 15:36",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Medicína",
@@ -24,7 +42,7 @@
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZFVFUEg5b3lxLU1MbGlRRGtIaGRpX3UycWhKZnZKaXZ4TUgyZmx6M1paSXdnMkhTVE1zc2VIcnNXUXJ1VEV0QURxenYzTG9xOVpOQVNwSzFSd3lRMlZHajFpajFRakdSMDFkbTlRZUpIYTNXWEFHRG5KRzNTODZtMUVBcjQ1UlFEY1hoWV95ZVJmNjEwX2pJYjVKc0hMa3JZTFE?oc=5",
         "timestamp": "2026-01-22T13:47:32",
         "timestamp_display": "22. 01. 2026 13:47",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,7 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc2FxZXdPeHBCckhiYklFZF9mTk91Y3pJc19FbFEwWjdrMW5CVjdiVHI4QlRja0dJODdQRVNva1hPa19qUEVlUmtzZWc0eHJPMWZ1WkJSZVZqTEdXYlRUUUd0SnZuUWF1dnJ6ajNSajBxdVczMzR4bmNKUEtyekk4ZExLQlc0UXQ5TjIxTG9HbGJQZUZmNXlfS2JKMGFaTU0?oc=5",
         "timestamp": "2026-01-22T13:06:55",
         "timestamp_display": "22. 01. 2026 13:06",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -42,7 +60,7 @@
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRDZQbkNHc3RXUEdrNl90MHZkamhnOW42dnE2MEZtY3ZlbHhuZmZfbDZqUHlrTmppcE9MMkd6OFBzOV9sVFlpUXl2SHBkTkY1ZjBVMkxnczhrSnFKUGpKZGpnM3RiYjYxaWtvaE5ybjVaS2pLM0NMSmo0bWlVOERLTDJjeFh4d2tVYXBEcDQ0Z1IzcHFlRE9kaFA1dmxNQWJNcjY4RHluQmFYdFhPTTUxcmk3WkhKVm8?oc=5",
         "timestamp": "2026-01-22T12:52:14",
         "timestamp_display": "22. 01. 2026 12:52",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -51,7 +69,7 @@
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcVprdGFJYVZpc1lUU1NZSlk4SDdGWjlCUjJSUmVCY040bnBMa3IzR0FxV2JaMFdDYTRpcHlpdFlpNEFMazNQQWZ4UW5aeC1SX1hWWmpJdVB6WlZWR2NhWmNPci1vcmRDUE5icjRyM01kR3l5bjdWZEd0SXJuaXdoM1NqYnUwNUJXazFZN19XVUZMdzJZbm5QX3VDdFRvaEtGWUVOMG5xVExWbTJ6TjZEQ2hPNkxFMVdVek9wbmVjZzgtbFdRWGRWNWhEZGZPYTZNbTJTeTJxdw?oc=5",
         "timestamp": "2026-01-22T12:30:00",
         "timestamp_display": "22. 01. 2026 12:30",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -60,7 +78,7 @@
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRi1LU1BQUVFLZ1I3clN6cV9PZUxTTmpkNWMtT2pLTlFycVpFbmU5TUVpcUtYQ3YwZmhEajZ0M1pNYVFabjl1Vm9ZQ3p1SzlublYyMDExRHNrVEpIajY0OVJhN1IxVjlZbFktRnc4eUNQaVM4emZScGh5LXhxNXJRVTlSVnIzWmktLXpoY3J5ZnhjeFNGdmZDZG1rbjIzZUdTTFNOckVSVWNtbmFCcUV4eWh2OUYwQQ?oc=5",
         "timestamp": "2026-01-22T12:02:10",
         "timestamp_display": "22. 01. 2026 12:02",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -69,7 +87,7 @@
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZE5FTkRaQXBJaG5EZWNpR0FvRjFUWWlzQ2xEbThnb3I4UXBOa3pIMFdfa1c2cUpTRVdwZERxYUU4eG9IQ2JPMXpPa0F5S2haVjFZWHFsMXdnX1FxYVBGTWNuX2ZSNkxxb0JHZURLaEVzRFoyV1lRY0lqVmNRZ2pwSHBLLUZzSkJuOTVEYkpacGtlVFJhWThoQ0k1MTRwZ25wMDdIMlNkQmJJSF9RWkh0bF9ZZDgtYkYwTUJmMEM3aFVBUGM?oc=5",
         "timestamp": "2026-01-22T10:35:00",
         "timestamp_display": "22. 01. 2026 10:35",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -78,7 +96,7 @@
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBILU9ETVZ3Um9RQV9zbndpajNYWWIwLUd3ZkpQQkl5bGt1bVIxTmd3UjMzTXlFbHlCSXpabnljeWxVNGlESjczQW9CY2IwaVpKUXczeTMtUmFNQ21kcHRfbXZkRld1dHc?oc=5",
         "timestamp": "2026-01-21T15:31:45",
         "timestamp_display": "21. 01. 2026 15:31",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
