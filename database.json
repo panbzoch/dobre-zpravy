@@ -1,20 +1,29 @@
 [
     {
         "category": "Byznys",
-        "title": "Natland nakupuje komplex",
-        "summary": "Natland investuje stovky milionů do slovenského kancelářského komplexu.",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUlJTSGczQjJUbkFGbGc4a3UwaTd5RTVpVHRSWVFaRVdINVc3c1VYQXVvVWdZdVpCeG5qNV9NRE8zdlZiWVlwVlItaVQtTzZqS2FHN0hpZ2NpRHNXQ2p2X3dGNnZwV3RDTmxWWEtONjlKaVVBTVlEYndmQXhFelV4SFM2UVlGRkFRVERzWmR0QVR5SXVNQW1YN1hUZGc?oc=5",
-        "timestamp": "2026-01-22T09:06:42",
-        "timestamp_display": "22. 01. 2026 09:06",
+        "title": "CSG překonala ČEZ",
+        "summary": "CSG nabídla akcie, které lidé dvacetkrát více chtěli, a stala se nejhodnotnější českou firmou.",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTV94WWFYdzQ0US00V1hxMFBUMUd4NGVnTGV6V1E4Y1diZEJWT1otOTVXN2JDVWlaOFYxWVhmNzNiUmpCbGQweWVyTVo3RmVrUVR1TUhaMFdyNWcybFlxaWdUQ3ExdU1STGFyYnhOZWJwdExuY2lhR1dLaFFhNGpzYXdDWGNkRFVhVEgyN24zWTBwZzNUa3ZpUU1tZkJfWGtwa2FWa2lTdUFKWkQ0R21zZFFHZUNhNVJIaXJMTXZybXQ3cTY5elNqNHFLSzFKNU1yVmV6WkZSLVBqeU9IeTVWNjZjNF9RcHIz?oc=5",
+        "timestamp": "2026-01-23T16:00:00",
+        "timestamp_display": "23. 01. 2026 16:00",
         "is_new": true
     },
     {
         "category": "Byznys",
-        "title": "CSG vstupuje na burzu",
-        "summary": "Společnost CSG plánuje vydat akcie na burzách v Amsterdamu a Praze, cílem je získat 18 miliard korun.",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTGRXLU5QSm1ka3pxTDJwYUxGaG9ZNUdrbXhFRUFLRXlDR3k2MjVWR0l1Z0R0ckh4V1VKb3dlWGl1NTRxSG1KRnIzUlJ6cU40VGJpMXRsSUc0ZGtoWUowXzF2OWdKWkVMb0UtcjNPUVJiVmwtSU9ZM3ZIeGM1VW1zRHhhNmwyY0JUSWw0V3JGLW00OGt5X2VXWnhiVVZlSDk0VnRKMUdVR2lBUVNGckUwQkVpWHF0UGlpY1JDdXBSaHI?oc=5",
-        "timestamp": "2026-01-14T08:00:00",
-        "timestamp_display": "14. 01. 2026 08:00",
+        "title": "Nová služba pro zdravý život",
+        "summary": "Firmy Tomáše Čupra nabízejí detailní krevní testy pro zdravý život a stravu.",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT1ZrUnBSQzFNZVg2TTQzR1Jub3Q1RmhTYnJIV09LUHNjYTVQTU9rODFvQU9xZHhBZ2pYdjRtd09FeW9wX1JzUVl2dGhIRnVjUU12T1o4emZvZ094N0xqR240TGdqWWgwQklMemtVM0dWWUZLQzByQnd2RUZGdFJSN2lZVVVFRXRhOEJSUUZha3d0c0dsZWEwWGlKU0ZjemhJSmZfamlFVW5rQ1Y2b0trejBOQW4?oc=5",
+        "timestamp": "2026-01-23T10:05:35",
+        "timestamp_display": "23. 01. 2026 10:05",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Mews zvýšila hodnotu",
+        "summary": "Česká softwarová firma Mews zvýšila hodnotu na 52 miliard a vybrala rekordní částku od investorů.",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaXo2RUs4blhUdGF5VFQwRk50czZTOUNyWFNMY2tKXzkyU1FJaEx2T1BiZFU1OHdnWVUzZkxtVDZnb1VRcEc2QlhIX2NZMVlSSFhXLU13M1JiNFpRODdBUUhhMkVUVWRzZm9NbFFhcXZzcWFZM0ItSVFBakFvXzJRQU03QmlBLWJWWDhMQXVFZWZPcWhFWWVHLVl4alhZUjIxM3pHb3BxZXNDVVdNWkZzY1NkRkVVTE1SemkwZzdWQXVzODViTFlsTQ?oc=5",
+        "timestamp": "2026-01-22T13:00:00",
+        "timestamp_display": "22. 01. 2026 13:00",
         "is_new": true
     },
     {
@@ -105,6 +114,15 @@
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZE5FTkRaQXBJaG5EZWNpR0FvRjFUWWlzQ2xEbThnb3I4UXBOa3pIMFdfa1c2cUpTRVdwZERxYUU4eG9IQ2JPMXpPa0F5S2haVjFZWHFsMXdnX1FxYVBGTWNuX2ZSNkxxb0JHZURLaEVzRFoyV1lRY0lqVmNRZ2pwSHBLLUZzSkJuOTVEYkpacGtlVFJhWThoQ0k1MTRwZ25wMDdIMlNkQmJJSF9RWkh0bF9ZZDgtYkYwTUJmMEM3aFVBUGM?oc=5",
         "timestamp": "2026-01-22T10:35:00",
         "timestamp_display": "22. 01. 2026 10:35",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Natland nakupuje komplex",
+        "summary": "Natland investuje stovky milionů do slovenského kancelářského komplexu.",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUlJTSGczQjJUbkFGbGc4a3UwaTd5RTVpVHRSWVFaRVdINVc3c1VYQXVvVWdZdVpCeG5qNV9NRE8zdlZiWVlwVlItaVQtTzZqS2FHN0hpZ2NpRHNXQ2p2X3dGNnZwV3RDTmxWWEtONjlKaVVBTVlEYndmQXhFelV4SFM2UVlGRkFRVERzWmR0QVR5SXVNQW1YN1hUZGc?oc=5",
+        "timestamp": "2026-01-22T09:06:42",
+        "timestamp_display": "22. 01. 2026 09:06",
         "is_new": false
     },
     {
@@ -590,6 +608,15 @@
         "summary": "Skupina z Brna kupuje firmu, která automatizuje marketing pro e-shopy, za stamiliony korun.",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTTlYTkJZODJLY0FhLU0xUDYxaTVhWWRDV1ZwS1hwbUVuVDBYNENLanM5TDRUZkZRV3hFZUdhczd6VG5zWldxUFNIYk92OXpOSVYydHRiS0Zub3RTVExBNTVTVmdyN041WkwtT0tKWFZTZWpGRTUtTGhiS3Z6ZlA3X0dWSUtkRkczbkNreGo1ZnVOSGRPb2x0ZDUtaXlXQUJZUWEtWTd4NGlocDBoRGRZcnJB?oc=5",
         "timestamp": "2026-01-14T08:00:28",
+        "timestamp_display": "14. 01. 2026 08:00",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "CSG vstupuje na burzu",
+        "summary": "Společnost CSG plánuje vydat akcie na burzách v Amsterdamu a Praze, cílem je získat 18 miliard korun.",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTGRXLU5QSm1ka3pxTDJwYUxGaG9ZNUdrbXhFRUFLRXlDR3k2MjVWR0l1Z0R0ckh4V1VKb3dlWGl1NTRxSG1KRnIzUlJ6cU40VGJpMXRsSUc0ZGtoWUowXzF2OWdKWkVMb0UtcjNPUVJiVmwtSU9ZM3ZIeGM1VW1zRHhhNmwyY0JUSWw0V3JGLW00OGt5X2VXWnhiVVZlSDk0VnRKMUdVR2lBUVNGckUwQkVpWHF0UGlpY1JDdXBSaHI?oc=5",
+        "timestamp": "2026-01-14T08:00:00",
         "timestamp_display": "14. 01. 2026 08:00",
         "is_new": false
     },
