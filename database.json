@@ -6,16 +6,7 @@
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSG0xZTBpcGdaSHpMT29pMWVsQ1UxZXo3aGxtUm9TWnAzeVFMM3phbTNyenJpdlZSVXJYcGw4VmJMcTA1QmY2MlZ2UHp6UEZBNGFZOVRQZXRqWUFZYS0wWDl3RjhhN3NtM0hUMk1zNS1oV0xNaFVjLWt4WXhJdkJWYUQ5Sm5aaVZCTHdWVVRlMjBIUXpseDFwN0ZUT1FnelEybWI3S3AtcWZKdWc1VDcwWnFzdkI5WnBFMm85U3FXQTlKVDVOSDJxaUZ0aTJPc3luWi1SeGNB?oc=5",
         "timestamp": "2026-01-23T04:00:00",
         "timestamp_display": "23. 01. 2026 04:00",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "UnionPay transformuje platby",
-        "summary": "UnionPay představuje novou technologii pro přeshraniční platby pomocí konektivity a umělé inteligence.",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUFM1N1QtMjNnTldJc2hOTmRFcmtQRFZmM1pYeDlWdWkwX29pSU9YRGhzMEpvd3R3ajlLWDN2RFNNVXpaZmdUX0NNTmxtMDdRVUZEMWQ0VVBaUk1hMDRhVjZ4a2tWNXJZUmRtb2U3c3MtQ05PNTZIY0w2QXI0RlNiUEdRVVdrSEtiLWZrSzFyUVFYNy1hdG4tOTVRSVVVbVA5b1hBbFI2dXNQQjlJN2xkYjJqc1lqajJldHA2YjVoQ1FqMzYzUGg3SkY1SHJDanZONmtxQzRB?oc=5",
-        "timestamp": "2026-01-22T14:42:00",
-        "timestamp_display": "22. 01. 2026 14:42",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,6 +24,15 @@
         "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNQ1A1Z1JRT1c1OXhkS3NBelJYbmt0RVZBSEFMWVFQWFVLNzBLVUtpYlBtUzlvQ3JKTGJUWFQ4YzBSSmszOHVzRnJoQnVGZXNac3poZmNNQXNXcEV2eTg1TnFBNXA0T0pnN0FJc1czTWgxNC0zM2tSdTg4QzlyUjFjT0dlZm00TXFaUW5yaDRNbU16NEdkU2lmVzBxQVJPbmV6OXBic2dheU02SkF5c0tHQ0JiQ1Q5YXpJbDBMbUhXVWoydTJ0eWFlYWhaMkgzUm0tTVBZSU5NOFVtU3VkelFRUWJXcXRLaGtvbjBPR0NpNFFFVnNvTEVNT2V6aEhiZk9DR0RIcFB3Z2t0a3NKRWpn?oc=5",
         "timestamp": "2026-01-22T15:36:00",
         "timestamp_display": "22. 01. 2026 15:36",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "UnionPay transformuje platby",
+        "summary": "UnionPay představuje novou technologii pro přeshraniční platby pomocí konektivity a umělé inteligence.",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUFM1N1QtMjNnTldJc2hOTmRFcmtQRFZmM1pYeDlWdWkwX29pSU9YRGhzMEpvd3R3ajlLWDN2RFNNVXpaZmdUX0NNTmxtMDdRVUZEMWQ0VVBaUk1hMDRhVjZ4a2tWNXJZUmRtb2U3c3MtQ05PNTZIY0w2QXI0RlNiUEdRVVdrSEtiLWZrSzFyUVFYNy1hdG4tOTVRSVVVbVA5b1hBbFI2dXNQQjlJN2xkYjJqc1lqajJldHA2YjVoQ1FqMzYzUGg3SkY1SHJDanZONmtxQzRB?oc=5",
+        "timestamp": "2026-01-22T14:42:00",
+        "timestamp_display": "22. 01. 2026 14:42",
         "is_new": false
     },
     {
