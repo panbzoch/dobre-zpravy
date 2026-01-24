@@ -1,12 +1,21 @@
 [
     {
         "category": "Byznys",
+        "title": "Čechů investuje dlouhodobě",
+        "summary": "219 000 Čechů investovalo do dlouhodobých produktů za dva roky, což ukazuje rostoucí zájem o dlouhodobé investice.",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV3o2WThXSFM4MnpBVjF6cERGVzhWOHlhb1BxVU9yOU92aDdhb3kyVkJPOU5wU1g1SXhsMnNaMTZockdHTVZhdWIxT1FUV0M4V1A2U3VnNGJITEFzSktWMzZXR05ZdFRUdU9HZV9CUlY4MXJqS2Y0Q0ctQ2h4aW9WUktyQmEwcnB2dnFqTVpqajBNZFl3bmUwYTVqT2Q2ZU9GVGJsY0hoUlBNWktuYkpVZ1ZoVXFxcFU?oc=5",
+        "timestamp": "2026-01-22T06:32:00",
+        "timestamp_display": "22. 01. 2026 06:32",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "CSG překonala ČEZ",
         "summary": "CSG nabídla akcie, které lidé dvacetkrát více chtěli, a stala se nejhodnotnější českou firmou.",
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTV94WWFYdzQ0US00V1hxMFBUMUd4NGVnTGV6V1E4Y1diZEJWT1otOTVXN2JDVWlaOFYxWVhmNzNiUmpCbGQweWVyTVo3RmVrUVR1TUhaMFdyNWcybFlxaWdUQ3ExdU1STGFyYnhOZWJwdExuY2lhR1dLaFFhNGpzYXdDWGNkRFVhVEgyN24zWTBwZzNUa3ZpUU1tZkJfWGtwa2FWa2lTdUFKWkQ0R21zZFFHZUNhNVJIaXJMTXZybXQ3cTY5elNqNHFLSzFKNU1yVmV6WkZSLVBqeU9IeTVWNjZjNF9RcHIz?oc=5",
         "timestamp": "2026-01-23T16:00:00",
         "timestamp_display": "23. 01. 2026 16:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,16 +24,7 @@
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT1ZrUnBSQzFNZVg2TTQzR1Jub3Q1RmhTYnJIV09LUHNjYTVQTU9rODFvQU9xZHhBZ2pYdjRtd09FeW9wX1JzUVl2dGhIRnVjUU12T1o4emZvZ094N0xqR240TGdqWWgwQklMemtVM0dWWUZLQzByQnd2RUZGdFJSN2lZVVVFRXRhOEJSUUZha3d0c0dsZWEwWGlKU0ZjemhJSmZfamlFVW5rQ1Y2b0trejBOQW4?oc=5",
         "timestamp": "2026-01-23T10:05:35",
         "timestamp_display": "23. 01. 2026 10:05",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Mews zvýšila hodnotu",
-        "summary": "Česká softwarová firma Mews zvýšila hodnotu na 52 miliard a vybrala rekordní částku od investorů.",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaXo2RUs4blhUdGF5VFQwRk50czZTOUNyWFNMY2tKXzkyU1FJaEx2T1BiZFU1OHdnWVUzZkxtVDZnb1VRcEc2QlhIX2NZMVlSSFhXLU13M1JiNFpRODdBUUhhMkVUVWRzZm9NbFFhcXZzcWFZM0ItSVFBakFvXzJRQU03QmlBLWJWWDhMQXVFZWZPcWhFWWVHLVl4alhZUjIxM3pHb3BxZXNDVVdNWkZzY1NkRkVVTE1SemkwZzdWQXVzODViTFlsTQ?oc=5",
-        "timestamp": "2026-01-22T13:00:00",
-        "timestamp_display": "22. 01. 2026 13:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -78,6 +78,15 @@
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc2FxZXdPeHBCckhiYklFZF9mTk91Y3pJc19FbFEwWjdrMW5CVjdiVHI4QlRja0dJODdQRVNva1hPa19qUEVlUmtzZWc0eHJPMWZ1WkJSZVZqTEdXYlRUUUd0SnZuUWF1dnJ6ajNSajBxdVczMzR4bmNKUEtyekk4ZExLQlc0UXQ5TjIxTG9HbGJQZUZmNXlfS2JKMGFaTU0?oc=5",
         "timestamp": "2026-01-22T13:06:55",
         "timestamp_display": "22. 01. 2026 13:06",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Mews zvýšila hodnotu",
+        "summary": "Česká softwarová firma Mews zvýšila hodnotu na 52 miliard a vybrala rekordní částku od investorů.",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaXo2RUs4blhUdGF5VFQwRk50czZTOUNyWFNMY2tKXzkyU1FJaEx2T1BiZFU1OHdnWVUzZkxtVDZnb1VRcEc2QlhIX2NZMVlSSFhXLU13M1JiNFpRODdBUUhhMkVUVWRzZm9NbFFhcXZzcWFZM0ItSVFBakFvXzJRQU03QmlBLWJWWDhMQXVFZWZPcWhFWWVHLVl4alhZUjIxM3pHb3BxZXNDVVdNWkZzY1NkRkVVTE1SemkwZzdWQXVzODViTFlsTQ?oc=5",
+        "timestamp": "2026-01-22T13:00:00",
+        "timestamp_display": "22. 01. 2026 13:00",
         "is_new": false
     },
     {
