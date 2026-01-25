@@ -6,16 +6,7 @@
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdW4tdzJlTmV4RFlsYm81cVBsclNvQVU1Z2pEd2xnRHd0NHNTLU5zbXkyZkJsaC1vbEZXQmRLclRTU0FaRXhpcG1HdVRnUGhBSV9PWElsNkRIaElSWTg1THJYaGtCaUIzcXJhZzRaUnE1M1pLb1hmWnlHOE9wdm5fU1N3dzcwbEJ1THZvVzBMME4xYVZoRmd2Qm83aDVLdVVrVS11UlI1T2hzcklmN1E2WTAwVW14WGpOeWYyNHpsQkh5WEE5YUVtTFpiNzZpd2ZaUXV3TU1WVXkxT0FVMFp3?oc=5",
         "timestamp": "2026-01-25T05:00:00",
         "timestamp_display": "25. 01. 2026 05:00",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "CSG vstoupí na burzu",
-        "summary": "Společnost CSG vstoupí na burzu s kapitálem 25 miliard eur.",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMHpaaVFhLTU1b2hLV1JxdEdHREJ0UjJkNGl3WTdWSUhVMG14T0R2Vmc0SG5idWtYX1dybjdwT05kZjQ4NGNRamdpVVdnbEh5cldqS1ZLWVlxUGdpQ1UwYzRzY3BKbW9CbkJQdHZPcEdNMFlKS0ZLT01nbV95bkRyTzY0RElzU0VFcXF1b05FQUJvX0FBRlBhbA?oc=5",
-        "timestamp": "2026-01-19T17:31:28",
-        "timestamp_display": "19. 01. 2026 17:31",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Medicína",
@@ -231,6 +222,15 @@
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbEc4TThyeDNGWXdUNk1SQzlRcFNLUklyWldIZmZMZHFDLWRPVjZzUTZMZU5YaEkwZnV6cV9ocDJzeWZMOEtHNlpGaTRTWHVPbVlCNHo3ellPcENLTDMxazBxTFV6ZDNVcXdaWlNQXzloS01aV3B4SmNXQVAyU0U3UzZaZ2hQUU1Yb2YwREpWUGU3NEV1QzJGV1NxUzlNN3NMczE5aFhfeVhqRG9LTm9ZVzc1bGE4anNYSjg2SmQ2MHRESS1SN3M0S195SlR3cGE3RXI3NVNn?oc=5",
         "timestamp": "2026-01-20T12:51:00",
         "timestamp_display": "20. 01. 2026 12:51",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "CSG vstoupí na burzu",
+        "summary": "Společnost CSG vstoupí na burzu s kapitálem 25 miliard eur.",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMHpaaVFhLTU1b2hLV1JxdEdHREJ0UjJkNGl3WTdWSUhVMG14T0R2Vmc0SG5idWtYX1dybjdwT05kZjQ4NGNRamdpVVdnbEh5cldqS1ZLWVlxUGdpQ1UwYzRzY3BKbW9CbkJQdHZPcEdNMFlKS0ZLT01nbV95bkRyTzY0RElzU0VFcXF1b05FQUJvX0FBRlBhbA?oc=5",
+        "timestamp": "2026-01-19T17:31:28",
+        "timestamp_display": "19. 01. 2026 17:31",
         "is_new": false
     },
     {
