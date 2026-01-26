@@ -1,29 +1,20 @@
 [
     {
-        "category": "Medicína",
-        "title": "Zásyp zastaví krvácení",
-        "summary": "Vědci objevili speciální zásyp, který zastaví masivní krvácení během sekundy, což může změnit urgentní medicínu.",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObnpjc1RXbHZYR3lBdGpzVU9TWXJ3Y1cyUmhVWnhFNVV3MHpLNHZqNmFHcHNNczl3VHdhVlBVMmYxNW12SkpEc0ZBaHVyVDVROXQtNnRUM042b0x2RXZrdDhtUy1zcjR3QTMxUlVaakJzUFprc0Q0SlFJZ1VwYlgzZWhJTWZWX0tvblF4djUxTnpnTi01bDhiMndpZEc0Mm1JdGV1Q091d1NwYkkteTRISmZJZFZ6VU1uYXlBU0lRS0JhYVIzQ2xPWEowV0JBYmFNSmtsLVdiNXNvNUU?oc=5",
-        "timestamp": "2026-01-24T10:44:04",
-        "timestamp_display": "24. 01. 2026 10:44",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Nová podpora pro MSP",
-        "summary": "Nová iniciativa podporuje investice malých a středních podniků, stimuluje ekonomický růst.",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTS1jbUxsbGdGc3gwN1paNHVPVFE1T3RTZHJoYzdKOU9CSlhRT3F4ckREbEhuMTBsSE5XeGNBM1ZOUDR3dEczb1djWHhMajB2WWJtODQtNzJkMkpWMF82ZHdGc3ZKV2Fra2dVcktUOFJOQXJpWWFIc0xiZi1ILTRNRnFvM0VVZmJtNk1udUhVM0pjelRYTFZHUG5acjlFQzdfZ3lPVFBwNTZpQVdzNnhITDNkbFZkX19lbHZINnhFb0dxVVZvZDU3U1RYb0NSczljTGx2NkJCUQ?oc=5",
-        "timestamp": "2026-01-19T12:32:00",
-        "timestamp_display": "19. 01. 2026 12:32",
-        "is_new": true
-    },
-    {
         "category": "Byznys",
         "title": "Český Eat Smart expanduje",
         "summary": "Český Eat Smart nabízí lednice s hotovým jídlem a míří k tržbám za desítky milionů, plánuje expandovat za hranice.",
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdW4tdzJlTmV4RFlsYm81cVBsclNvQVU1Z2pEd2xnRHd0NHNTLU5zbXkyZkJsaC1vbEZXQmRLclRTU0FaRXhpcG1HdVRnUGhBSV9PWElsNkRIaElSWTg1THJYaGtCaUIzcXJhZzRaUnE1M1pLb1hmWnlHOE9wdm5fU1N3dzcwbEJ1THZvVzBMME4xYVZoRmd2Qm83aDVLdVVrVS11UlI1T2hzcklmN1E2WTAwVW14WGpOeWYyNHpsQkh5WEE5YUVtTFpiNzZpd2ZaUXV3TU1WVXkxT0FVMFp3?oc=5",
         "timestamp": "2026-01-25T05:00:00",
         "timestamp_display": "25. 01. 2026 05:00",
+        "is_new": false
+    },
+    {
+        "category": "Medicína",
+        "title": "Zásyp zastaví krvácení",
+        "summary": "Vědci objevili speciální zásyp, který zastaví masivní krvácení během sekundy, což může změnit urgentní medicínu.",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObnpjc1RXbHZYR3lBdGpzVU9TWXJ3Y1cyUmhVWnhFNVV3MHpLNHZqNmFHcHNNczl3VHdhVlBVMmYxNW12SkpEc0ZBaHVyVDVROXQtNnRUM042b0x2RXZrdDhtUy1zcjR3QTMxUlVaakJzUFprc0Q0SlFJZ1VwYlgzZWhJTWZWX0tvblF4djUxTnpnTi01bDhiMndpZEc0Mm1JdGV1Q091d1NwYkkteTRISmZJZFZ6VU1uYXlBU0lRS0JhYVIzQ2xPWEowV0JBYmFNSmtsLVdiNXNvNUU?oc=5",
+        "timestamp": "2026-01-24T10:44:04",
+        "timestamp_display": "24. 01. 2026 10:44",
         "is_new": false
     },
     {
@@ -249,6 +240,15 @@
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMHpaaVFhLTU1b2hLV1JxdEdHREJ0UjJkNGl3WTdWSUhVMG14T0R2Vmc0SG5idWtYX1dybjdwT05kZjQ4NGNRamdpVVdnbEh5cldqS1ZLWVlxUGdpQ1UwYzRzY3BKbW9CbkJQdHZPcEdNMFlKS0ZLT01nbV95bkRyTzY0RElzU0VFcXF1b05FQUJvX0FBRlBhbA?oc=5",
         "timestamp": "2026-01-19T17:31:28",
         "timestamp_display": "19. 01. 2026 17:31",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Nová podpora pro MSP",
+        "summary": "Nová iniciativa podporuje investice malých a středních podniků, stimuluje ekonomický růst.",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTS1jbUxsbGdGc3gwN1paNHVPVFE1T3RTZHJoYzdKOU9CSlhRT3F4ckREbEhuMTBsSE5XeGNBM1ZOUDR3dEczb1djWHhMajB2WWJtODQtNzJkMkpWMF82ZHdGc3ZKV2Fra2dVcktUOFJOQXJpWWFIc0xiZi1ILTRNRnFvM0VVZmJtNk1udUhVM0pjelRYTFZHUG5acjlFQzdfZ3lPVFBwNTZpQVdzNnhITDNkbFZkX19lbHZINnhFb0dxVVZvZDU3U1RYb0NSczljTGx2NkJCUQ?oc=5",
+        "timestamp": "2026-01-19T12:32:00",
+        "timestamp_display": "19. 01. 2026 12:32",
         "is_new": false
     },
     {
