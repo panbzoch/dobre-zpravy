@@ -1,12 +1,21 @@
 [
     {
+        "category": "Technologie",
+        "title": "Digitální pas spotřebičům",
+        "summary": "Evropská unie zavádí digitální pas pro spotřebiče, aby usnadnila jejich opravu a prodloužila životnost.",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGs2VDZERGRKc0hFQ0NYS01qTDROdENRZTRDc2dFc3YzZldsMjh0cEp2YTJhbVpnUGhJRk1GMVdWNUpVaFNqRVRUZGRXa3gtbzE4SXA0THJkUWZVNTAxa2R5VnppSmJvZ0xoTW5Yb2FERnBYc2lNcFZFNVZEQzdwUHljZ2F0RUlPaWxvcDJ6OGlsYkJ6YjlLbElYOGNuQWVJWHRpelJIOGpBWmZpdmlKOXBRdWFrRUVOTnp1R1NB?oc=5",
+        "timestamp": "2026-01-26T12:50:00",
+        "timestamp_display": "26. 01. 2026 12:50",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "Čeští investoři dominují",
         "summary": "Čeští investoři v roce 2025 převládli na trhu komerčních nemovitostí.",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNTFUdS1ZTW1KYnhDUTl3Mkt3U3VCd0J2d3FfWWlycm1rMzdMeFBHTmw4OVcxUFlCVnBJcFc2V0JOb3FrQXJtMXNVMnpuc1BHOHM1a0lLTXdIY0JVcEx3aXdETi1uamtmWDBPU0tiN0dSNUxIOE9ueGt0dHFkcUNxa0xjVFYtWUppNU1WeFNCZ0RzbmotODI5Qm0tWDZRMmhHbzRodk5MWnM3THJhcTBRVTR2aGIwbGhfQnFDMFJFWQ?oc=5",
         "timestamp": "2026-01-27T08:42:00",
         "timestamp_display": "27. 01. 2026 08:42",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Společnost",
@@ -15,7 +24,7 @@
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQendQY1c2b2RIeDVEWlJpZGFkYVhyMjdwVG1Fa2lSazVJanM3d3U5UUxFZzZVeExZbHJHWVotUXVmam9XTHZlazYxd1o0SHBhOUdJRTh5RllJTkx3SDJZX1JfWTREckkxc2REQTVrSElXMW83OWh5TzJwYlFQbjZsaC1jVXVxNW1pbXllRG5iZTI5THdrQnU4SkxwdVQzck5hdU15RTBJQ2RfTVhDYjhEcWFraWpoWmxHeEJwRTl6SzY2Vnc?oc=5",
         "timestamp": "2026-01-27T07:39:00",
         "timestamp_display": "27. 01. 2026 07:39",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,7 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSTFLdlRSaTBHR0dqNDg0WW02dDRwblpRTTNXcnJfVlFWNEFsaDNSOXVOVkc0Qkd4VEk3WG00TEQ3MHFZN0YzUmp2MVpnQklGOVVGMjJaMC1JUHhxRy1QbFJZdVNFdC1jVk91SjNHOTJ0NEFMUDV0eTRlcTZKdVFhdjNSZkpzZHhXSWdpTjh3SmF4c2pueW9CU1pmZkliRGxSSVJTUS1maXljZ0N2UDVWbmZaMGJCWEdiVG43Yi1LUQ?oc=5",
         "timestamp": "2026-01-27T05:27:00",
         "timestamp_display": "27. 01. 2026 05:27",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
