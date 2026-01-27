@@ -163,8 +163,8 @@ def generate_html_from_template(articles):
 
 # --- HLAVNÍ LOGIKA ---
 
-base_query = '(site:e15.cz OR site:ceskenoviny.cz OR site:vtm.zive.cz OR site:irozhlas.cz OR site:cc.cz OR site:forbes.cz) AND (úspěch OR investice OR "nová továrna" OR vynález OR startup OR vědci OR lék) -krimi -soud'
-encoded_query = urllib.parse.quote(base_query)
+# Rozšířený seznam zdrojů a klíčových slov
+base_query = '(site:e15.cz OR site:ceskenoviny.cz OR site:vtm.zive.cz OR site:irozhlas.cz OR site:cc.cz OR site:forbes.cz OR site:lupa.cz OR site:czechcrunch.cz OR site:zive.cz OR site:denik.cz OR site:seznamzpravy.cz OR site:novinky.cz) AND (úspěch OR investice OR "nová" OR vynález OR startup OR vědci OR lék OR objev OR pokrok OR "se podařilo" OR rekonstrukce OR otevření) -krimi -soud -tragédie -nehoda'encoded_query = urllib.parse.quote(base_query)
 rss_url = f"https://news.google.com/rss/search?q={encoded_query}&hl=cs&gl=CZ&ceid=CZ:cs"
 
 # 1. Načtení databáze
@@ -244,4 +244,5 @@ finally:
     # 4. GENEROWÁNÍ HTML
 
     generate_html_from_template(db_articles)
+
 
