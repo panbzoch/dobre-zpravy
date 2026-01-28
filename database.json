@@ -1,12 +1,75 @@
 [
     {
+        "category": "Medicína",
+        "title": "Nová terapie proti leukémii",
+        "summary": "Vědec Marek Mráz získal financování na vývoj nové terapie proti agresivní leukémii.",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUGcybjdKQVlPbC1weHhyMXNMQXpZc2YzWTNtXzZhT2JveHoyVnFSM0ZjN3lwOVhVRnZrM2xDeVNRUjZsM3N3ZjBYa2g0QVBYTDgxbjN4cXlXWUMyc1QtNkExak50ejNkUHp5YVlXbkw3ZGpYU19NWDZKbERSME9OWFZYb09zLTRCS1o1TVZ4dEpKNVRobEx4Wnd4azdCQXlTTm5KTUk2Mm5Gcm1IMnVfZjlRcHhJVGlKbjMwa0tyUTRrMXVoc05hZWd2UEZFb09oam5NOQ?oc=5",
+        "timestamp": "2026-01-27T11:01:00",
+        "timestamp_display": "27. 01. 2026 11:01",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "IT proměna EG.D",
+        "summary": "Společnost EG.D provedla jednu z největších IT proměn v historii, která proběhla bez větších dopadů na zákazníky.",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ2Nzb0lGX01DUXJkWXJSVy1ZbVh6djJmS005ZGV5eTF3V2V6QXdYTmd6QkE1bVpweUVkMnRKaktlLVBoZXpkekI5ZExORGNEUE95UlZJQ2c4aU92SHRiOVF1LXFRLXVIWWJEYk9fTEZHMjk5X0JuMm9BSTBBWUZNaUhoOHV5QU9MNjl5RExGaG9JT01maFEzRzZNN2FiWjlZVmozcW9PbkpJaXpfMjh1SDFKeU5WejRhcnNTZzlNSDNDOVBwQ1FORlAxb0RJbDhUN3JzOEZ6cUc?oc=5",
+        "timestamp": "2026-01-27T07:30:00",
+        "timestamp_display": "27. 01. 2026 07:30",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Investice může změnit život, jeden dobrý tah může vést k úspěchu a finančním ziskům.",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wNVdGZ0JXUTh1M1J1NG1ycjFPWGFrYUg0bTd6OGJPbWZKa1U1eFVjUnFQNzdjcnNkRUtHU0R5Nl9FTnFrRFJRQTZBakF2X0RHcl9OX3h4bHYxUQ?oc=5",
+        "timestamp": "2026-01-27T00:30:39",
+        "timestamp_display": "27. 01. 2026 00:30",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Češi navrhují kvantové čipy",
+        "summary": "Čeští vědci se podílí na vývoji fotoniky pro kvantové IT a jeden z nich je nejmladším návrhářem kvantových čipů.",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYkFUblB3aVI3TmQxV1ozQUpiMzdtVXlQb0ZQT21wc0lTajZBTjZFMUJwV1JidjloRlBtVk5sRXktTEl1RzFTZzdkaGM4T2JjU2dqMU5fRzZKYTU4Q0YwOG9qcmNTRVRmU0M4UnBKdzFjNmVPVHJjZ1dvUVpmWWJhNnRqOGxNaU1tZUJOVkM0b0wyeXlNTTY1dFJPbU5YbmlseGFheG9CTHB1QThlOXVLRnJRUlhKV0FsM2tIU29Tb1FhaEpO?oc=5",
+        "timestamp": "2026-01-25T18:00:00",
+        "timestamp_display": "25. 01. 2026 18:00",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Nová relaxační zóna",
+        "summary": "Nová relaxační zóna ve Studijní a vědecké knihovně v Plzni vznikla podle studentského návrhu ze starých kartoték.",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNb1E5MExNa1B0T1hobTMzWVJPRHNac053aWFPTnBzbHE0a0hZR2VLUl9xQ1M4OHNWckh6VTU3bl9rZGVjZlhNWkJKbTFzS2xtSkN0UHBXa1Z0ZUp5MnczX1lxS2oyLVBkOEZzQ3lnZ25SOEZYaVIzbUR0STRSaHJGWnprQURwV2xqWHJPNDhBRk43RzhEMTRUNnlFSk9sN2hCN1pkbTQ5Z3RDcEJ4RUIzSng1b1I4Z0FWdVk3RGJPSDRwTTJmZ1hIMFhR?oc=5",
+        "timestamp": "2026-01-22T20:08:00",
+        "timestamp_display": "22. 01. 2026 20:08",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Nová taška IKEA",
+        "summary": "IKEA nahrazuje ikonickou modrou tašku novou verzí, která je pravděpodobně ekologičtější a funkčnější.",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01c1k3dF90SG1qNWNzZmVxYmt4a1VHbkdnWnRRXzhqX2g4Q2ZvcWFMTWZlTmdXekJYYmhUZ25GMW1pVDEwZEJhQml4dzZDXzlob1Fjd3huNEw5TXVjVjZ0dDRQTHhiNExvXzM2OW9uaFhTSXhuSURERWwzOXg?oc=5",
+        "timestamp": "2026-01-21T14:15:00",
+        "timestamp_display": "21. 01. 2026 14:15",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Notebook Acer Swift",
+        "summary": "Nová řada notebooků Acer Swift nabízí tenké placky za dostupnou cenu, začínající na deset tisíc korun.",
+        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOMUM1T2gzX1N6d185bHhPWW92bEVEZ2RtMHJ3ZHNfWEQ1QVltNUJRYzVLVHUtbW00UzZTZ3dSUVUtRDNmcmxEU1BYR0wyWTB1ZlBhU2pKOUdBcENia0RfZWQ2WWwwMmpjNzhfYjFndUN5RUcwd0RLMndmbVZEMmxGWk80aGxYcDBYRzVZd1YtdkRUU0xrQk83cm5Pcm1LMWhtQkVEQW5mNlpiWkFIT2c3b2dWSVVuQkZ3RE9wUC1oZUZCNTNiazZ5T0hSNHdtczNaX1M0Wl9tNVZSN0VxcWQyeEJoS1JuZXpLRF9COGh1cTBucXZFOXFDM2tmSzgtR2dfN2VBUw?oc=5",
+        "timestamp": "2016-08-31T07:00:00",
+        "timestamp_display": "31. 08. 2016 07:00",
+        "is_new": true
+    },
+    {
         "category": "Technologie",
         "title": "Nová gramofony Sony",
         "summary": "Sony představilo dva nové gramofony s plnou automatikou a Bluetooth.",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONUEzNUthSURzTkh0T0VCMWp0Qzd5Rk42cWtNanVPM3c0UnJKMWhWXy0taDhsVUxwNEY4aVh0elFxeUs3SExRWUJkUTVrN1laX2d4OVdHQVNyV1lkNXk4dnpkU2pNTEpEelFQWmhQd2pvNlBsOUFIZjAxYlpRMXBZbHV4M251eFlWczZLczdsdDZCX1ZDZUV2dUlGYnhiNlc3THVWb0tNaDNSdVkza1Z3SEJaLU5JYWRkVlVHdA?oc=5",
         "timestamp": "2026-01-27T17:58:00",
         "timestamp_display": "27. 01. 2026 17:58",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -15,7 +78,7 @@
         "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQelF6Zmlkbm91aFltREhqX3pEUk1Yc3pYS28yUThxQV92SWtvdTUwTEd1b0JkWVlyaE9Yckhsay1EcFdXMm8xeVVXNEtlX2c5Y2E4eW9oaFNJQ2ROT3Q2bHBNYU9CWS1PZFZ3NlNhVUJaeEVQTGp0QU5kZXFLTHZHd0QtQU1OM3JNMVFoSGZmWm5VMjZsajVteDNUSHVjV3RRQ05JN2lkTWF0bFpFU2xDVVRRakxZeU0xeWRUTU5qOV9LR3FpSnZIc2x3bmRXQXpRdmxTTmJiMmRuSVRmZ1RaQ0RjWU4wNFlmbmN2ak8ycTg5WTQ?oc=5",
         "timestamp": "2026-01-27T11:22:01",
         "timestamp_display": "27. 01. 2026 11:22",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -24,70 +87,7 @@
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUHdkM2FkWDRxOENSeEppZ0VFWnNtTHFiM09qSGtDRk5tN0RvMGxLcmNLb3F6cTRjOXdtdk1LbVFSb1JRRjBBcXRwSVJUNjREWDlpSXpZdlhIQ0JzcWhEQ0QtaHN0Z0VoNXJwVHFNbV85WlBfS1VETFh5X2tvVE9tcHlsQTIwelgzVFhNSHFmSFRvdVBsM2ZjMlh0NmdEZ052dEtOR0hac2lrQkZhWnI3YWU0NFd4UldURVpKUmFyc2wzbi1KaXZvY0tEQUtVb2Z5Qk1wQ2NJc00?oc=5",
         "timestamp": "2026-01-27T10:12:00",
         "timestamp_display": "27. 01. 2026 10:12",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Herní PC do 50k",
-        "summary": "Živě.cz nabízí přehled herních PC dostupných za méně než 50 000 korun.",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UcWgxeTluOHJ5VDFKdU5yRjd4OFRZclNrSzZwOXdiUzB4THM0Vkg0UkxsMDM3RDVNUVRnc2Vra3Z2aG9OVWFLVzRoRDJyTzdMaGQ2OUFFb3F0eXR0REFzRVFvbmE4SzUzZk05RA?oc=5",
-        "timestamp": "2026-01-27T02:36:47",
-        "timestamp_display": "27. 01. 2026 02:36",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "AirTag 2 generace",
-        "summary": "Apple vylepšil AirTag, přidává nový UWB čip a zvýšil hlasitost.",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSGFxVjhHM2h5SWdpMG90VjNncnRYbEZKSVpLMHQwblRRX1BaU2dCbU55eEpuSmxhOHBIX3JYRXhwNlYyaTdjSllicXJCVG0xWHVaUWMzeFRYZWU5TDgyNlAyWXNfSXdCYXAwY2c2c2IyNXhuNnUxemRqaFp1d083N1RQWVpNRlRJS0JGVTdSR1VtZUdNZkZ4eWlYdjlydHJHM3U4NjJ1ZTZiYXFaS2wzNmdJTFNzNDZuNGxBSnp5bkI2R2d3Y2VTdThMREJ4QmNTSWoxdGVFZnBVZ2VqRzhkNFVqY00yTXpMWkFNak1n?oc=5",
-        "timestamp": "2026-01-26T20:13:18",
-        "timestamp_display": "26. 01. 2026 20:13",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Google spouští AI režim",
-        "summary": "Google rozjíždí pokročilejší AI režim, který zpracovává informace z Gmailu.",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNODNVOHBoRlluSTNXd2NNLWlGdWczMGtDbVRzRE90eThia05hUWlOQXNINVp6ektFVmVOWDdJWERFMDVnM1NfcWZ4elNPX2VOM1h4X3oyX0JmaVk3ajRNd2FDYmYtSTFadE5jUG1mR3NXTmxHZy1BMzVmWlN1ZmZtX01ZOEdVMm90ZDJfaDQzVGlVUWZXdEhsb0pCeFprQTN1WXdYcnAyNjV5U010TkM0dzk2dXQ3NzFDcl9TTWc3Q3g3VzFCU2tMUVdSRTVRSFl5akhwRkFNQTB5dXhOT1VXLWZ6WE5URldlbWtwNHhSRFE?oc=5",
-        "timestamp": "2026-01-26T14:18:21",
-        "timestamp_display": "26. 01. 2026 14:18",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Akcie Samsungu rekord",
-        "summary": "Akcie Samsungu dosáhly 40letého maxima díky oznámení o rozdělení.",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUkdEZmtMc21YT292aGhfMlFXc2ZuMHpIWWNacTltOHYwdXhQRC02Nk9ad2ZxZDJxRW01MUh0VXFPeHhVa3plWDh0cno4VVduRGlnblJFVWRlcGFrNWZXQWJkSEVWaGlsdW5oZThvWERQX3lEa1QyaVZaVlozZklNNzVOdjdkTnQwMjNidVNXcWUtMHVrWkRnMlBQZVNwbk9SMnRQTXhobVdmUlcxSHBUT2NMdlZjaGxwUDN6SVN5X0VGVTlWSmszMXg4cUJUa1pjcGtaTXZKbkF3QTdEdmQxVUZybjBzOF9wUk1iTkFaamoxNnB5?oc=5",
-        "timestamp": "2026-01-26T13:31:39",
-        "timestamp_display": "26. 01. 2026 13:31",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "LibreWolf",
-        "summary": "LibreWolf je open-source webový prohlížeč založený na Firefoxu.",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IS3RkcGxPbkFrbzBmdFVkYWthTlk0NWdMUmRJZllldkxWbkU3Vm4xVm1PekZrUm11aEJibXlJRnRCYkJWd1NZbkdPN0MzVTZvVjQyajdwTHF4dGs1Y2FhZ1d1Tl9BOTN0UVE?oc=5",
-        "timestamp": "2026-01-26T09:53:08",
-        "timestamp_display": "26. 01. 2026 09:53",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Virtuální DJ pult zdarma",
-        "summary": "Virtuální DJ pult a další aplikace jsou nyní dostupné zdarma nebo se slevou, včetně cvičení a her.",
-        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQQXpjTUp0WGpVUmozUUY4OUdITm9ZTjJhSkUya1loWm8yRjZueWk2RDEydmJhTGZuM0l4d0J0bnFhMFRkWDdFOE9fb2RGX2FhREhzcUY2aUs4djk2UncwYXVDblljMi1ZNE9BWUJncTc1LWxhMVVzX3JkalFTalA2NXpQQ1llcUt2ZHVNQUU5TURRVEFUZWVGWWhKV0tMSkNyOFdwdnVlcXFpd3FVUlN0VERreVhHaWZ3T05vNEtZcVltY1NwWVpmVlk4OGs2T21PTTZ2ZVhJN3BUV0Njd2NQVU1kY29ZUTZmLTRnTVNqdTk5MnNHeFpQc3ZMbTM5YjF5dHlJTQ?oc=5",
-        "timestamp": "2026-01-25T10:22:00",
-        "timestamp_display": "25. 01. 2026 10:22",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Sony má nová sluchátka",
-        "summary": "Sony představilo nová náušnicová sluchátka LinkBuds Clip, která umožňují poslouchat hudbu a zároveň vnímat okolí.",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRl9UNjF6RVVLMEVCQVJmbmNwb21TbG1XbUJVeExKb2kyWFZoTjJBOW9KR2JlYWVFSEJkZ3BRQnhfNWduZFdDa0JSY09PNWcyWTNIR1pVZGtFVEdBdFNYWlAzQU01a2NjelR3V1R5RGxXNFFrOXh2R0ctSkZwZl9GRDNVZDd6dDU0NjFWUUZtSDd0MURzWmVRUXNTV1RvYjdTR3pyRVBUZXJ0dGkzdEE?oc=5",
-        "timestamp": "2026-01-24T15:21:00",
-        "timestamp_display": "24. 01. 2026 15:21",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -117,6 +117,42 @@
         "is_new": false
     },
     {
+        "category": "Technologie",
+        "title": "Herní PC do 50k",
+        "summary": "Živě.cz nabízí přehled herních PC dostupných za méně než 50 000 korun.",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UcWgxeTluOHJ5VDFKdU5yRjd4OFRZclNrSzZwOXdiUzB4THM0Vkg0UkxsMDM3RDVNUVRnc2Vra3Z2aG9OVWFLVzRoRDJyTzdMaGQ2OUFFb3F0eXR0REFzRVFvbmE4SzUzZk05RA?oc=5",
+        "timestamp": "2026-01-27T02:36:47",
+        "timestamp_display": "27. 01. 2026 02:36",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "AirTag 2 generace",
+        "summary": "Apple vylepšil AirTag, přidává nový UWB čip a zvýšil hlasitost.",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSGFxVjhHM2h5SWdpMG90VjNncnRYbEZKSVpLMHQwblRRX1BaU2dCbU55eEpuSmxhOHBIX3JYRXhwNlYyaTdjSllicXJCVG0xWHVaUWMzeFRYZWU5TDgyNlAyWXNfSXdCYXAwY2c2c2IyNXhuNnUxemRqaFp1d083N1RQWVpNRlRJS0JGVTdSR1VtZUdNZkZ4eWlYdjlydHJHM3U4NjJ1ZTZiYXFaS2wzNmdJTFNzNDZuNGxBSnp5bkI2R2d3Y2VTdThMREJ4QmNTSWoxdGVFZnBVZ2VqRzhkNFVqY00yTXpMWkFNak1n?oc=5",
+        "timestamp": "2026-01-26T20:13:18",
+        "timestamp_display": "26. 01. 2026 20:13",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Google spouští AI režim",
+        "summary": "Google rozjíždí pokročilejší AI režim, který zpracovává informace z Gmailu.",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNODNVOHBoRlluSTNXd2NNLWlGdWczMGtDbVRzRE90eThia05hUWlOQXNINVp6ektFVmVOWDdJWERFMDVnM1NfcWZ4elNPX2VOM1h4X3oyX0JmaVk3ajRNd2FDYmYtSTFadE5jUG1mR3NXTmxHZy1BMzVmWlN1ZmZtX01ZOEdVMm90ZDJfaDQzVGlVUWZXdEhsb0pCeFprQTN1WXdYcnAyNjV5U010TkM0dzk2dXQ3NzFDcl9TTWc3Q3g3VzFCU2tMUVdSRTVRSFl5akhwRkFNQTB5dXhOT1VXLWZ6WE5URldlbWtwNHhSRFE?oc=5",
+        "timestamp": "2026-01-26T14:18:21",
+        "timestamp_display": "26. 01. 2026 14:18",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Akcie Samsungu rekord",
+        "summary": "Akcie Samsungu dosáhly 40letého maxima díky oznámení o rozdělení.",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUkdEZmtMc21YT292aGhfMlFXc2ZuMHpIWWNacTltOHYwdXhQRC02Nk9ad2ZxZDJxRW01MUh0VXFPeHhVa3plWDh0cno4VVduRGlnblJFVWRlcGFrNWZXQWJkSEVWaGlsdW5oZThvWERQX3lEa1QyaVZaVlozZklNNzVOdjdkTnQwMjNidVNXcWUtMHVrWkRnMlBQZVNwbk9SMnRQTXhobVdmUlcxSHBUT2NMdlZjaGxwUDN6SVN5X0VGVTlWSmszMXg4cUJUa1pjcGtaTXZKbkF3QTdEdmQxVUZybjBzOF9wUk1iTkFaamoxNnB5?oc=5",
+        "timestamp": "2026-01-26T13:31:39",
+        "timestamp_display": "26. 01. 2026 13:31",
+        "is_new": false
+    },
+    {
         "category": "Byznys",
         "title": "Twisto spolupracuje",
         "summary": "Twisto zahájilo spolupráci s Planeo, poskytne nové platební služby prodejci elektroniky.",
@@ -132,6 +168,15 @@
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGs2VDZERGRKc0hFQ0NYS01qTDROdENRZTRDc2dFc3YzZldsMjh0cEp2YTJhbVpnUGhJRk1GMVdWNUpVaFNqRVRUZGRXa3gtbzE4SXA0THJkUWZVNTAxa2R5VnppSmJvZ0xoTW5Yb2FERnBYc2lNcFZFNVZEQzdwUHljZ2F0RUlPaWxvcDJ6OGlsYkJ6YjlLbElYOGNuQWVJWHRpelJIOGpBWmZpdmlKOXBRdWFrRUVOTnp1R1NB?oc=5",
         "timestamp": "2026-01-26T12:50:00",
         "timestamp_display": "26. 01. 2026 12:50",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "LibreWolf",
+        "summary": "LibreWolf je open-source webový prohlížeč založený na Firefoxu.",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IS3RkcGxPbkFrbzBmdFVkYWthTlk0NWdMUmRJZllldkxWbkU3Vm4xVm1PekZrUm11aEJibXlJRnRCYkJWd1NZbkdPN0MzVTZvVjQyajdwTHF4dGs1Y2FhZ1d1Tl9BOTN0UVE?oc=5",
+        "timestamp": "2026-01-26T09:53:08",
+        "timestamp_display": "26. 01. 2026 09:53",
         "is_new": false
     },
     {
@@ -180,6 +225,15 @@
         "is_new": false
     },
     {
+        "category": "Technologie",
+        "title": "Virtuální DJ pult zdarma",
+        "summary": "Virtuální DJ pult a další aplikace jsou nyní dostupné zdarma nebo se slevou, včetně cvičení a her.",
+        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQQXpjTUp0WGpVUmozUUY4OUdITm9ZTjJhSkUya1loWm8yRjZueWk2RDEydmJhTGZuM0l4d0J0bnFhMFRkWDdFOE9fb2RGX2FhREhzcUY2aUs4djk2UncwYXVDblljMi1ZNE9BWUJncTc1LWxhMVVzX3JkalFTalA2NXpQQ1llcUt2ZHVNQUU5TURRVEFUZWVGWWhKV0tMSkNyOFdwdnVlcXFpd3FVUlN0VERreVhHaWZ3T05vNEtZcVltY1NwWVpmVlk4OGs2T21PTTZ2ZVhJN3BUV0Njd2NQVU1kY29ZUTZmLTRnTVNqdTk5MnNHeFpQc3ZMbTM5YjF5dHlJTQ?oc=5",
+        "timestamp": "2026-01-25T10:22:00",
+        "timestamp_display": "25. 01. 2026 10:22",
+        "is_new": false
+    },
+    {
         "category": "Byznys",
         "title": "Český Eat Smart expanduje",
         "summary": "Český Eat Smart nabízí lednice s hotovým jídlem a míří k tržbám za desítky milionů, plánuje expandovat za hranice.",
@@ -195,6 +249,15 @@
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUW1xc3VmYUNSenNSektqNUhQWUJBNm1yenBYQ09qM3JlcVQtbGZfNzlpc0J0NnpHSzNMeU9hT1JCcGVKX09HMEtRdGkzdm15U0dUY1A3UzFOQU0tNkhVN0xLeVJhUTN3WjNpZ284YlFqWm5HYnp4b1d0eWlxU1hNb3ZrRmNXZWY2dU9HNHNWOVNveG9pdlFxdDhyZF96MmVIWlduMGtrTmdLeDVha21ncC1SVkVXSF9jRFUwR2JIX0poamRKOTVWQklEaw?oc=5",
         "timestamp": "2026-01-25T04:00:00",
         "timestamp_display": "25. 01. 2026 04:00",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Sony má nová sluchátka",
+        "summary": "Sony představilo nová náušnicová sluchátka LinkBuds Clip, která umožňují poslouchat hudbu a zároveň vnímat okolí.",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRl9UNjF6RVVLMEVCQVJmbmNwb21TbG1XbUJVeExKb2kyWFZoTjJBOW9KR2JlYWVFSEJkZ3BRQnhfNWduZFdDa0JSY09PNWcyWTNIR1pVZGtFVEdBdFNYWlAzQU01a2NjelR3V1R5RGxXNFFrOXh2R0ctSkZwZl9GRDNVZDd6dDU0NjFWUUZtSDd0MURzWmVRUXNTV1RvYjdTR3pyRVBUZXJ0dGkzdEE?oc=5",
+        "timestamp": "2026-01-24T15:21:00",
+        "timestamp_display": "24. 01. 2026 15:21",
         "is_new": false
     },
     {
