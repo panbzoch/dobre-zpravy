@@ -1,65 +1,29 @@
 [
     {
-        "category": "Medicína",
-        "title": "Nová terapie proti leukémii",
-        "summary": "Vědec Marek Mráz získal financování na vývoj nové terapie proti agresivní leukémii.",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUGcybjdKQVlPbC1weHhyMXNMQXpZc2YzWTNtXzZhT2JveHoyVnFSM0ZjN3lwOVhVRnZrM2xDeVNRUjZsM3N3ZjBYa2g0QVBYTDgxbjN4cXlXWUMyc1QtNkExak50ejNkUHp5YVlXbkw3ZGpYU19NWDZKbERSME9OWFZYb09zLTRCS1o1TVZ4dEpKNVRobEx4Wnd4azdCQXlTTm5KTUk2Mm5Gcm1IMnVfZjlRcHhJVGlKbjMwa0tyUTRrMXVoc05hZWd2UEZFb09oam5NOQ?oc=5",
-        "timestamp": "2026-01-27T11:01:00",
-        "timestamp_display": "27. 01. 2026 11:01",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "IT proměna EG.D",
-        "summary": "Společnost EG.D provedla jednu z největších IT proměn v historii, která proběhla bez větších dopadů na zákazníky.",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ2Nzb0lGX01DUXJkWXJSVy1ZbVh6djJmS005ZGV5eTF3V2V6QXdYTmd6QkE1bVpweUVkMnRKaktlLVBoZXpkekI5ZExORGNEUE95UlZJQ2c4aU92SHRiOVF1LXFRLXVIWWJEYk9fTEZHMjk5X0JuMm9BSTBBWUZNaUhoOHV5QU9MNjl5RExGaG9JT01maFEzRzZNN2FiWjlZVmozcW9PbkpJaXpfMjh1SDFKeU5WejRhcnNTZzlNSDNDOVBwQ1FORlAxb0RJbDhUN3JzOEZ6cUc?oc=5",
-        "timestamp": "2026-01-27T07:30:00",
-        "timestamp_display": "27. 01. 2026 07:30",
-        "is_new": true
-    },
-    {
         "category": "Byznys",
-        "title": "Investice mění život",
-        "summary": "Investice může změnit život, jeden dobrý tah může vést k úspěchu a finančním ziskům.",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wNVdGZ0JXUTh1M1J1NG1ycjFPWGFrYUg0bTd6OGJPbWZKa1U1eFVjUnFQNzdjcnNkRUtHU0R5Nl9FTnFrRFJRQTZBakF2X0RHcl9OX3h4bHYxUQ?oc=5",
-        "timestamp": "2026-01-27T00:30:39",
-        "timestamp_display": "27. 01. 2026 00:30",
+        "title": "Úspěšný kutil",
+        "summary": "Český podnikatel vydělal miliardy díky svému produktu, který je populární mezi kutily po celém světě.",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU0NvY3lqeGxkVFJRbkFHRGlrWl96Vmh1NXo2bjVSd3VwUHRTUU5CM1pSWTFjZ3A1OE9XdzJIYjZnanl3bWROYU4wWTUzamN3VnFnUlZobm1KdTVIT1I2NDdVa0lUc29YYlZ5bjNlVU91V3lwa0stMEJ6VkhJc3VZMENndlNyd1NaWTYzZnhPWHhjTE5wY21QRHdSNmFkRGVrTUlrWTNScFJUdzhBZUlIVw?oc=5",
+        "timestamp": "2026-01-28T05:25:02",
+        "timestamp_display": "28. 01. 2026 05:25",
         "is_new": true
     },
     {
         "category": "Společnost",
-        "title": "Češi navrhují kvantové čipy",
-        "summary": "Čeští vědci se podílí na vývoji fotoniky pro kvantové IT a jeden z nich je nejmladším návrhářem kvantových čipů.",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYkFUblB3aVI3TmQxV1ozQUpiMzdtVXlQb0ZQT21wc0lTajZBTjZFMUJwV1JidjloRlBtVk5sRXktTEl1RzFTZzdkaGM4T2JjU2dqMU5fRzZKYTU4Q0YwOG9qcmNTRVRmU0M4UnBKdzFjNmVPVHJjZ1dvUVpmWWJhNnRqOGxNaU1tZUJOVkM0b0wyeXlNTTY1dFJPbU5YbmlseGFheG9CTHB1QThlOXVLRnJRUlhKV0FsM2tIU29Tb1FhaEpO?oc=5",
-        "timestamp": "2026-01-25T18:00:00",
-        "timestamp_display": "25. 01. 2026 18:00",
-        "is_new": true
-    },
-    {
-        "category": "Společnost",
-        "title": "Nová relaxační zóna",
-        "summary": "Nová relaxační zóna ve Studijní a vědecké knihovně v Plzni vznikla podle studentského návrhu ze starých kartoték.",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNb1E5MExNa1B0T1hobTMzWVJPRHNac053aWFPTnBzbHE0a0hZR2VLUl9xQ1M4OHNWckh6VTU3bl9rZGVjZlhNWkJKbTFzS2xtSkN0UHBXa1Z0ZUp5MnczX1lxS2oyLVBkOEZzQ3lnZ25SOEZYaVIzbUR0STRSaHJGWnprQURwV2xqWHJPNDhBRk43RzhEMTRUNnlFSk9sN2hCN1pkbTQ5Z3RDcEJ4RUIzSng1b1I4Z0FWdVk3RGJPSDRwTTJmZ1hIMFhR?oc=5",
-        "timestamp": "2026-01-22T20:08:00",
-        "timestamp_display": "22. 01. 2026 20:08",
+        "title": "Recyklace vody v aquaparku",
+        "summary": "Údržbáři objevili tajemnou komnatu v aquaparku, kde testují novou techniku na recyklaci vody.",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUVpoMnpRUWhibGMzekhXc25zZ3czSGp4QTFiVnJjTDI2TExPT01VTmJZMmNZS1RVSTR0MWwxSWFGREFvcmlFNnBjc3F4OGJhV19qS0Q1UEZyUWxrZk5lbzNkZUphN1AxNGZENFZXazFSMURvZzcwRHFrWVJtRWo2MlB4VTk2VXBia3M1N3REeFRIRjctbEU3VGZ3QjliYmxrWExNYi1UMFh3R3p0U3NEbC1mU3p4WTRFWmNSMUJHc1BVOUJFXzJfY094bDg5c3NPQ2lRdUxyTQ?oc=5",
+        "timestamp": "2026-01-27T16:15:00",
+        "timestamp_display": "27. 01. 2026 16:15",
         "is_new": true
     },
     {
         "category": "Byznys",
-        "title": "Nová taška IKEA",
-        "summary": "IKEA nahrazuje ikonickou modrou tašku novou verzí, která je pravděpodobně ekologičtější a funkčnější.",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01c1k3dF90SG1qNWNzZmVxYmt4a1VHbkdnWnRRXzhqX2g4Q2ZvcWFMTWZlTmdXekJYYmhUZ25GMW1pVDEwZEJhQml4dzZDXzlob1Fjd3huNEw5TXVjVjZ0dDRQTHhiNExvXzM2OW9uaFhTSXhuSURERWwzOXg?oc=5",
-        "timestamp": "2026-01-21T14:15:00",
-        "timestamp_display": "21. 01. 2026 14:15",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Notebook Acer Swift",
-        "summary": "Nová řada notebooků Acer Swift nabízí tenké placky za dostupnou cenu, začínající na deset tisíc korun.",
-        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOMUM1T2gzX1N6d185bHhPWW92bEVEZ2RtMHJ3ZHNfWEQ1QVltNUJRYzVLVHUtbW00UzZTZ3dSUVUtRDNmcmxEU1BYR0wyWTB1ZlBhU2pKOUdBcENia0RfZWQ2WWwwMmpjNzhfYjFndUN5RUcwd0RLMndmbVZEMmxGWk80aGxYcDBYRzVZd1YtdkRUU0xrQk83cm5Pcm1LMWhtQkVEQW5mNlpiWkFIT2c3b2dWSVVuQkZ3RE9wUC1oZUZCNTNiazZ5T0hSNHdtczNaX1M0Wl9tNVZSN0VxcWQyeEJoS1JuZXpLRF9COGh1cTBucXZFOXFDM2tmSzgtR2dfN2VBUw?oc=5",
-        "timestamp": "2016-08-31T07:00:00",
-        "timestamp_display": "31. 08. 2016 07:00",
+        "title": "Češi prodali startup",
+        "summary": "Čeští podnikatelé prodali svůj startup za stamiliony korun, využili trend AI a úspěch přišel již po měsíci.",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV2R5Nm4tTm91bmhxZUVscHc5cEdCQmRVVzRQckJndHVlUTVwMk94Mm1jU3RHOHcxRnA1alhoTEtEXzlGWGUyYlhZdjV6RDhrcG9naXJkUG04YlZiLVpiQVA0S1ZEVUN2YXpjM3Z4Z1lzVjdZMFNjTXZNdnJmOEhuRng5aV9KUmJYODBwUXMxNVVBamZQd2NmTTExU0ppTVFmb1AxVGlDaTNiajJVNXFrUTJvYXlwalFpZVRMQQ?oc=5",
+        "timestamp": "2026-01-07T08:00:00",
+        "timestamp_display": "07. 01. 2026 08:00",
         "is_new": true
     },
     {
@@ -78,6 +42,15 @@
         "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQelF6Zmlkbm91aFltREhqX3pEUk1Yc3pYS28yUThxQV92SWtvdTUwTEd1b0JkWVlyaE9Yckhsay1EcFdXMm8xeVVXNEtlX2c5Y2E4eW9oaFNJQ2ROT3Q2bHBNYU9CWS1PZFZ3NlNhVUJaeEVQTGp0QU5kZXFLTHZHd0QtQU1OM3JNMVFoSGZmWm5VMjZsajVteDNUSHVjV3RRQ05JN2lkTWF0bFpFU2xDVVRRakxZeU0xeWRUTU5qOV9LR3FpSnZIc2x3bmRXQXpRdmxTTmJiMmRuSVRmZ1RaQ0RjWU4wNFlmbmN2ak8ycTg5WTQ?oc=5",
         "timestamp": "2026-01-27T11:22:01",
         "timestamp_display": "27. 01. 2026 11:22",
+        "is_new": false
+    },
+    {
+        "category": "Medicína",
+        "title": "Nová terapie proti leukémii",
+        "summary": "Vědec Marek Mráz získal financování na vývoj nové terapie proti agresivní leukémii.",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUGcybjdKQVlPbC1weHhyMXNMQXpZc2YzWTNtXzZhT2JveHoyVnFSM0ZjN3lwOVhVRnZrM2xDeVNRUjZsM3N3ZjBYa2g0QVBYTDgxbjN4cXlXWUMyc1QtNkExak50ejNkUHp5YVlXbkw3ZGpYU19NWDZKbERSME9OWFZYb09zLTRCS1o1TVZ4dEpKNVRobEx4Wnd4azdCQXlTTm5KTUk2Mm5Gcm1IMnVfZjlRcHhJVGlKbjMwa0tyUTRrMXVoc05hZWd2UEZFb09oam5NOQ?oc=5",
+        "timestamp": "2026-01-27T11:01:00",
+        "timestamp_display": "27. 01. 2026 11:01",
         "is_new": false
     },
     {
@@ -108,6 +81,15 @@
         "is_new": false
     },
     {
+        "category": "Technologie",
+        "title": "IT proměna EG.D",
+        "summary": "Společnost EG.D provedla jednu z největších IT proměn v historii, která proběhla bez větších dopadů na zákazníky.",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ2Nzb0lGX01DUXJkWXJSVy1ZbVh6djJmS005ZGV5eTF3V2V6QXdYTmd6QkE1bVpweUVkMnRKaktlLVBoZXpkekI5ZExORGNEUE95UlZJQ2c4aU92SHRiOVF1LXFRLXVIWWJEYk9fTEZHMjk5X0JuMm9BSTBBWUZNaUhoOHV5QU9MNjl5RExGaG9JT01maFEzRzZNN2FiWjlZVmozcW9PbkpJaXpfMjh1SDFKeU5WejRhcnNTZzlNSDNDOVBwQ1FORlAxb0RJbDhUN3JzOEZ6cUc?oc=5",
+        "timestamp": "2026-01-27T07:30:00",
+        "timestamp_display": "27. 01. 2026 07:30",
+        "is_new": false
+    },
+    {
         "category": "Byznys",
         "title": "Nová průmyslová zóna",
         "summary": "Firma SUAS a Accolade plánují vytvořit novou průmyslovou zónu u Starého Sedla za miliardy korun.",
@@ -123,6 +105,15 @@
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UcWgxeTluOHJ5VDFKdU5yRjd4OFRZclNrSzZwOXdiUzB4THM0Vkg0UkxsMDM3RDVNUVRnc2Vra3Z2aG9OVWFLVzRoRDJyTzdMaGQ2OUFFb3F0eXR0REFzRVFvbmE4SzUzZk05RA?oc=5",
         "timestamp": "2026-01-27T02:36:47",
         "timestamp_display": "27. 01. 2026 02:36",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Investice může změnit život, jeden dobrý tah může vést k úspěchu a finančním ziskům.",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wNVdGZ0JXUTh1M1J1NG1ycjFPWGFrYUg0bTd6OGJPbWZKa1U1eFVjUnFQNzdjcnNkRUtHU0R5Nl9FTnFrRFJRQTZBakF2X0RHcl9OX3h4bHYxUQ?oc=5",
+        "timestamp": "2026-01-27T00:30:39",
+        "timestamp_display": "27. 01. 2026 00:30",
         "is_new": false
     },
     {
@@ -225,6 +216,15 @@
         "is_new": false
     },
     {
+        "category": "Společnost",
+        "title": "Češi navrhují kvantové čipy",
+        "summary": "Čeští vědci se podílí na vývoji fotoniky pro kvantové IT a jeden z nich je nejmladším návrhářem kvantových čipů.",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYkFUblB3aVI3TmQxV1ozQUpiMzdtVXlQb0ZQT21wc0lTajZBTjZFMUJwV1JidjloRlBtVk5sRXktTEl1RzFTZzdkaGM4T2JjU2dqMU5fRzZKYTU4Q0YwOG9qcmNTRVRmU0M4UnBKdzFjNmVPVHJjZ1dvUVpmWWJhNnRqOGxNaU1tZUJOVkM0b0wyeXlNTTY1dFJPbU5YbmlseGFheG9CTHB1QThlOXVLRnJRUlhKV0FsM2tIU29Tb1FhaEpO?oc=5",
+        "timestamp": "2026-01-25T18:00:00",
+        "timestamp_display": "25. 01. 2026 18:00",
+        "is_new": false
+    },
+    {
         "category": "Technologie",
         "title": "Virtuální DJ pult zdarma",
         "summary": "Virtuální DJ pult a další aplikace jsou nyní dostupné zdarma nebo se slevou, včetně cvičení a her.",
@@ -312,6 +312,15 @@
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSG0xZTBpcGdaSHpMT29pMWVsQ1UxZXo3aGxtUm9TWnAzeVFMM3phbTNyenJpdlZSVXJYcGw4VmJMcTA1QmY2MlZ2UHp6UEZBNGFZOVRQZXRqWUFZYS0wWDl3RjhhN3NtM0hUMk1zNS1oV0xNaFVjLWt4WXhJdkJWYUQ5Sm5aaVZCTHdWVVRlMjBIUXpseDFwN0ZUT1FnelEybWI3S3AtcWZKdWc1VDcwWnFzdkI5WnBFMm85U3FXQTlKVDVOSDJxaUZ0aTJPc3luWi1SeGNB?oc=5",
         "timestamp": "2026-01-23T04:00:00",
         "timestamp_display": "23. 01. 2026 04:00",
+        "is_new": false
+    },
+    {
+        "category": "Společnost",
+        "title": "Nová relaxační zóna",
+        "summary": "Nová relaxační zóna ve Studijní a vědecké knihovně v Plzni vznikla podle studentského návrhu ze starých kartoték.",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNb1E5MExNa1B0T1hobTMzWVJPRHNac053aWFPTnBzbHE0a0hZR2VLUl9xQ1M4OHNWckh6VTU3bl9rZGVjZlhNWkJKbTFzS2xtSkN0UHBXa1Z0ZUp5MnczX1lxS2oyLVBkOEZzQ3lnZ25SOEZYaVIzbUR0STRSaHJGWnprQURwV2xqWHJPNDhBRk43RzhEMTRUNnlFSk9sN2hCN1pkbTQ5Z3RDcEJ4RUIzSng1b1I4Z0FWdVk3RGJPSDRwTTJmZ1hIMFhR?oc=5",
+        "timestamp": "2026-01-22T20:08:00",
+        "timestamp_display": "22. 01. 2026 20:08",
         "is_new": false
     },
     {
@@ -429,6 +438,15 @@
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBILU9ETVZ3Um9RQV9zbndpajNYWWIwLUd3ZkpQQkl5bGt1bVIxTmd3UjMzTXlFbHlCSXpabnljeWxVNGlESjczQW9CY2IwaVpKUXczeTMtUmFNQ21kcHRfbXZkRld1dHc?oc=5",
         "timestamp": "2026-01-21T15:31:45",
         "timestamp_display": "21. 01. 2026 15:31",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Nová taška IKEA",
+        "summary": "IKEA nahrazuje ikonickou modrou tašku novou verzí, která je pravděpodobně ekologičtější a funkčnější.",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01c1k3dF90SG1qNWNzZmVxYmt4a1VHbkdnWnRRXzhqX2g4Q2ZvcWFMTWZlTmdXekJYYmhUZ25GMW1pVDEwZEJhQml4dzZDXzlob1Fjd3huNEw5TXVjVjZ0dDRQTHhiNExvXzM2OW9uaFhTSXhuSURERWwzOXg?oc=5",
+        "timestamp": "2026-01-21T14:15:00",
+        "timestamp_display": "21. 01. 2026 14:15",
         "is_new": false
     },
     {
@@ -1257,6 +1275,15 @@
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZjBDblhYd3B5YTdIWmNzSVBHbWVkMXNUemJ1a1p3RlNVWTkzZ0pHX1U1bzExMDdBTVBpWndhRnFwREZDLUY2bXlEUEtWRDhMMWJ1Sl9YRDFsWnNqZWM0MXhNU09mQi1iN2ZFNi15czVTdmVuVktUT1lnYWJtYVpwNUZLanRweVN3Rno3YzRHd0REaEtIU3FCY2paVzZ3QWZtRHFUal8yRDYzeWZPTHd5dGZ2TzI?oc=5",
         "timestamp": "2025-12-29T08:00:00",
         "timestamp_display": "29. 12. 2025 08:00",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Notebook Acer Swift",
+        "summary": "Nová řada notebooků Acer Swift nabízí tenké placky za dostupnou cenu, začínající na deset tisíc korun.",
+        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOMUM1T2gzX1N6d185bHhPWW92bEVEZ2RtMHJ3ZHNfWEQ1QVltNUJRYzVLVHUtbW00UzZTZ3dSUVUtRDNmcmxEU1BYR0wyWTB1ZlBhU2pKOUdBcENia0RfZWQ2WWwwMmpjNzhfYjFndUN5RUcwd0RLMndmbVZEMmxGWk80aGxYcDBYRzVZd1YtdkRUU0xrQk83cm5Pcm1LMWhtQkVEQW5mNlpiWkFIT2c3b2dWSVVuQkZ3RE9wUC1oZUZCNTNiazZ5T0hSNHdtczNaX1M0Wl9tNVZSN0VxcWQyeEJoS1JuZXpLRF9COGh1cTBucXZFOXFDM2tmSzgtR2dfN2VBUw?oc=5",
+        "timestamp": "2016-08-31T07:00:00",
+        "timestamp_display": "31. 08. 2016 07:00",
         "is_new": false
     }
 ]
