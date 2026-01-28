@@ -1,21 +1,30 @@
 [
     {
         "category": "Byznys",
+        "title": "PSN koupila pozemky",
+        "summary": "PSN koupila pozemky v Brně, postaví byty na brownfieldu.",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOblpIdGZIeWdsc0FraU1RYk9TdjA1aVA5cjJMSFY4UVpQVXhwbG1BUFN0NjM0V0QtT2FNeUhGRzkzWTNLd0xHTDV6Y1FiVkhQaUlMSzBxVFh2RjJVb01yUzViMHA1V29hdzJ0eXg2aHBoY2xTTjRreVMxYzNsWTU4MzU2NmtLbTVTcnlja01SNEZQZ1p3OHI1RzFhdnk4LXkwb3VzdFlKUkJ5ekJpaWk2MEg1eVlYUk9TZnc?oc=5",
+        "timestamp": "2026-01-28T15:56:00",
+        "timestamp_display": "28. 01. 2026 15:56",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Vlčkův AI startup",
+        "summary": "AI startup Aisle odhalil 12 bezpečnostních chyb v OpenSSL, které byly všechny opraveny v nové verzi.",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObG5odmQ4ZEpHdWNXMVpvS01iRTFNU21aeU8tczRXcGhqLVhiZTBxQ3FJVHlTa0xWRkRwZG84MUw2eENGMTZzdGF4bDBQODhkeTZ2cEhqODRWZmlVWU0tTnQ1eHlubW5yV0FMMTJJVkFNd205RFZfWkp6bXRWeXJ2OVV3VVMtWFJlOGxkeFcyeXZUQVZMWDAwVlQ0eWJLWE5OejliXzNSZTk1WVQ1RXh6LXRhQ0ZraTJCZDdOaDRFNjg?oc=5",
+        "timestamp": "2026-01-28T15:35:39",
+        "timestamp_display": "28. 01. 2026 15:35",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "RegioJet zvyšuje zisk",
         "summary": "RegioJet zaznamenává růst zisku a počtu cestujících, plánuje další expanzi.",
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZ1NVdWxxbkpyY1g2OUFFOVBDSFhyYjd0a1hiZGppRWpuVEl1WUk4MDBQTDczTE56R0l6RXZqQUV4V3h0Y0NfNXd4dDVIdVNwdU1GNkZad2FPTTdJZFhuZmlZZVdaTGo3cUZfMElKeWE5MU1RWEYwSWxMRE8tUm9NWWphd0lPTVlseWZhbUR2dXJaUkc3VDVUa3hlSDBJMENJa3JJLTlBZ2FIb2VWYi1wZnV0RThKb1JNYW1RRUdKVmYwNjVES0dzb0p0UXVTdWVJc0lGRk5zWko4RHZMRWxGd2RZenZpZkE?oc=5",
         "timestamp": "2026-01-28T08:47:00",
         "timestamp_display": "28. 01. 2026 08:47",
-        "is_new": true
-    },
-    {
-        "category": "Společnost",
-        "title": "Čech učí počítače",
-        "summary": "Český vědec učí počítače číst planetu ve spolupráci se Stanfordem a dcerou Ursuly von der Leyen.",
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPX0lqa2FGX2hHVzg4N1QycUlTYVVEb1ZjcjdvU1FuenhSY1NZX084NkY2YnNDSloxdFZVN2lZdDlBcWdvYWM2STktam5KellYQ2x4OGx2Q0ZFaFVZajlFWGJ0NEg2VXhzendDTWN6TWxSdXdVUnBsMkFIWml2blItbzZDcFI0QVRoUGcyUWtpeldmWGpPUV9HZmxQa0RTTXBuaTh1NXBzdTZPTWREbzhJTGY1ODh6ZnZEaG13NzhaOFl2RUxxZUxSa3g3ZzF2WGlORUZ3c1l4c1o4UTRReV95WXZXdnpHZXY3MUlWcTNIaUpwajhjam1uMXFrMW9mS0N0MU5n?oc=5",
-        "timestamp": "2026-01-26T05:30:00",
-        "timestamp_display": "26. 01. 2026 05:30",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -222,6 +231,15 @@
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd25LZlVuQjI3R2htSU1jM0taZVVLb3gwLXgxTzNmRmVLVUR5MEZaSk1fV2R2dGlrZ0FYYko4alFhX0Z2OHhqWS1ycjZSdHIwazR4LVRsbWlPbGtEaWcwUXdaVWNjc0N0LXZWdTlkUDN1dk9UZlc3bVZ2QnFOdVV3N2djT0xmelZFdEhWaGZ1SldVSm1ZYXV5S2h3TEJCd3FJczhieTV3X0FzWTRjeXhDcjlMVEVDY0pwdE0xQk5feUdEcHM?oc=5",
         "timestamp": "2026-01-26T07:05:00",
         "timestamp_display": "26. 01. 2026 07:05",
+        "is_new": false
+    },
+    {
+        "category": "Společnost",
+        "title": "Čech učí počítače",
+        "summary": "Český vědec učí počítače číst planetu ve spolupráci se Stanfordem a dcerou Ursuly von der Leyen.",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPX0lqa2FGX2hHVzg4N1QycUlTYVVEb1ZjcjdvU1FuenhSY1NZX084NkY2YnNDSloxdFZVN2lZdDlBcWdvYWM2STktam5KellYQ2x4OGx2Q0ZFaFVZajlFWGJ0NEg2VXhzendDTWN6TWxSdXdVUnBsMkFIWml2blItbzZDcFI0QVRoUGcyUWtpeldmWGpPUV9HZmxQa0RTTXBuaTh1NXBzdTZPTWREbzhJTGY1ODh6ZnZEaG13NzhaOFl2RUxxZUxSa3g3ZzF2WGlORUZ3c1l4c1o4UTRReV95WXZXdnpHZXY3MUlWcTNIaUpwajhjam1uMXFrMW9mS0N0MU5n?oc=5",
+        "timestamp": "2026-01-26T05:30:00",
+        "timestamp_display": "26. 01. 2026 05:30",
         "is_new": false
     },
     {
