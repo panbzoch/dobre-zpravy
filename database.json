@@ -1,12 +1,48 @@
 [
     {
         "category": "Byznys",
+        "title": "Meta zvýšila čistý zisk",
+        "summary": "Meta Platforms překvapila analytiky zvýšením čistého zisku ve čtvrtém čtvrtletí.",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVi13UkI0czFCYnlfRU9mbkZ4cGNtMkY5eHlCanVKcGxVVkNmZVdnNko0WTlZLTJ5Q1RURnpsYV9qYVFBQXoyOUVZd2o3ZVNrZ2pMUEloWHlYZ05iQnh6eWlXR2NrdmhKRVZ1TXVLckkyZGNmQy1qUVBLb1RmaFpuRkFBSDJiOXZmbHZuYjRXUTV2czRHZTBYNVJJdGR2VUNhNTdpNFNlMWltbzRXVkNRLTBiVXU?oc=5",
+        "timestamp": "2026-01-29T10:35:00",
+        "timestamp_display": "29. 01. 2026 10:35",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Microsoft zvýšil zisk",
+        "summary": "Microsoft zvýšil čtvrtletní zisk o 60 procent díky investici do umělé inteligence.",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd3ZTdmtDOWh3cjNvV042ckxJaTJZT0M4V3ZWMWxrU29XcUFRS0t2YkJEWVM4bWgweXBnY0NYbFlfb2I2T0VNZU1DVWxTRTNjMWoyNC1mX3RpMDBsa3ZCc2xmb3E2bFVoV3VLN0gzZWJJb1FlMVNpNE9FdjBreVpWNll6ZDFBVnRVYWtUVjFNMFNZUTlpX3dUMTJkZDNMUXltZk9MUWpYUUtGOXVzcUVOOUY4Wmw0RE1sTDF3Z0ZOYw?oc=5",
+        "timestamp": "2026-01-29T09:30:00",
+        "timestamp_display": "29. 01. 2026 09:30",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Penta kupuje pečovatelské domy",
+        "summary": "Penta investuje do polských pečovatelských domů, upevňuje pozici lídra na trhu.",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbWVoTU9MX3hnNkdaVW5FQV9OUU04bWVBenFuS1J0UEdseUZRdXFoQlQ3NmxMQ3AtYW1Yd1hDWDh4Ny1BTDVJX3A5RXdxOXNjX0k0U1o3Zk5CUjdfQ25xTUhEQzh3aE95RVZIVEQ0RXNsUHNNN1JpdnBxYjVYQWl2NTk4SmJCUG40Y2pKNUFoeUJfdmx4S2hsVlR6OFNrRzdkZUFiSkcwSW5UUWktOUxERkJYYXVXb3BWY1ZpQ3B6M2xHSzg?oc=5",
+        "timestamp": "2026-01-28T15:27:00",
+        "timestamp_display": "28. 01. 2026 15:27",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Atris roste výkonnost",
+        "summary": "Atris roste výkonnost, přitéká kapitál a realizuje akvizice, ukazuje ambice fondu.",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNejRUeUU2Y2llaHU0TkhMR1U0eXRseHM4aUNKSi0td0JCa3Y3M3lIUk9GQUZFT0NrLWx6am0xaVZlcVlhUXZ2SGtZNDlPN0hjUlM5b05tQzg2UmtIQl9ocHhRLW1hSmRGY1Y2eC1JbnZkbi1xMkdtbEk1Qjg2dlRoR3NDSEwzZzFnN092ZlNxZ0h4bmhkRzhObTlqWHJycTVOZUtxRUFvdE1rVEpfUVBLd2p0MnI5c0ZrMlJkemYzTHJ4QlZmWVBJQTlkSEl2dG8?oc=5",
+        "timestamp": "2026-01-28T07:35:00",
+        "timestamp_display": "28. 01. 2026 07:35",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Investice do OpenAI",
         "summary": "Nvidia, Amazon a Microsoft jednají o investici several desítek miliard dolarů do OpenAI.",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYUNlSFJpSExFZkY5UkwzWGx6akhvNlVZQmtRX2ZoNHZyclRvS19xdnlmck44RkZkODQzMElFZkNQelJEZnpEUktQOW8xZGFrc1Z1djdwZ2wtdEJHeFNPYTljVVZ3cjFKeF9iR2NDZTl4MmtJT2xwemRCeE9Xb1B1VXhUX1dqY014X3NRSmhCNWpIVEFSZHV3d0xRdjYtc09xckxnd2Jpb2hfb0pIUmF1NlZhelBHSHhYU3g0?oc=5",
         "timestamp": "2026-01-29T07:50:00",
         "timestamp_display": "29. 01. 2026 07:50",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNUtUSkZjMWU4dlA2UGFuVFJHWVp1SFhtcWZqMjVJbzNJdkpKSFpaU2hWZ2M1anZTMi1pMk16eFNpY0dwXzQybUFKc3NzY3RDWkU2SWZBeUlvWURkRzhFVkZ2VUJqTE5FOHBqRTZIVU1FWWVjckN6WjVQTnZJa01VbTZ4NTRvMUo2eHBnYXpHNkFYZldkY1FlM2lVMmlPV1RIb2ZqSHZTbGFLQnR1dFJ6LXpGU1VRUQ?oc=5",
         "timestamp": "2026-01-29T05:27:09",
         "timestamp_display": "29. 01. 2026 05:27",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,7 +60,7 @@
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPanpncFFJUzVrS3hJbkZ1dmxfbG15U2xDLTlHVU1ZZWdmQVl2VHY5OURNeGRxeE1lSndORFpkYzBVdFpqSTZBSWV1VUlFNDNDVXk0VWR6UG9PU0ZfbmpweDVRRnBfVnpkUVFfUXZqYlpKVXAwZUp3a1RETjQwTDM3Umpka2FsRDFra3gtRlM5dW5KNHJXLXg3al9nQlY1R1R0VFc3QWdVcjY4WGZxUmRtTmdkNHMxelIwX0M4SW5xVkJvNnRCTTVIb242cG1ZSVN1VEdWekN2LW1MUE0?oc=5",
         "timestamp": "2026-01-29T04:30:00",
         "timestamp_display": "29. 01. 2026 04:30",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
