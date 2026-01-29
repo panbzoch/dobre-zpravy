@@ -1,12 +1,21 @@
 [
     {
         "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Investice může změnit život, jeden dobrý tah může vést k úspěchu a finančním ziskům.",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PcVN2YlFxTHpOX1ZDVElTMWJfeFZIcllaSGt4Skw2cnR4TUtseXdOdmp4a2J6aDFER3YtRXlDc1hiYkhNMTdzMGZWRk11cFNySVB2RGF0anBqQQ?oc=5",
+        "timestamp": "2026-01-22T16:42:03",
+        "timestamp_display": "22. 01. 2026 16:42",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "PSN koupila pozemky",
         "summary": "PSN koupila pozemky v Brně, postaví byty na brownfieldu.",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOblpIdGZIeWdsc0FraU1RYk9TdjA1aVA5cjJMSFY4UVpQVXhwbG1BUFN0NjM0V0QtT2FNeUhGRzkzWTNLd0xHTDV6Y1FiVkhQaUlMSzBxVFh2RjJVb01yUzViMHA1V29hdzJ0eXg2aHBoY2xTTjRreVMxYzNsWTU4MzU2NmtLbTVTcnlja01SNEZQZ1p3OHI1RzFhdnk4LXkwb3VzdFlKUkJ5ekJpaWk2MEg1eVlYUk9TZnc?oc=5",
         "timestamp": "2026-01-28T15:56:00",
         "timestamp_display": "28. 01. 2026 15:56",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -15,7 +24,7 @@
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObG5odmQ4ZEpHdWNXMVpvS01iRTFNU21aeU8tczRXcGhqLVhiZTBxQ3FJVHlTa0xWRkRwZG84MUw2eENGMTZzdGF4bDBQODhkeTZ2cEhqODRWZmlVWU0tTnQ1eHlubW5yV0FMMTJJVkFNd205RFZfWkp6bXRWeXJ2OVV3VVMtWFJlOGxkeFcyeXZUQVZMWDAwVlQ0eWJLWE5OejliXzNSZTk1WVQ1RXh6LXRhQ0ZraTJCZDdOaDRFNjg?oc=5",
         "timestamp": "2026-01-28T15:35:39",
         "timestamp_display": "28. 01. 2026 15:35",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
