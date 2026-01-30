@@ -1,21 +1,21 @@
 [
     {
         "category": "Byznys",
+        "title": "Ekonomika Česka rostla",
+        "summary": "Ekonomika Česka loni rostla dvakrát rychleji než předchozí rok, podle ekonomických údajů.",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb25CRGVpcWw1dWsyODljdmZXaVNxXzRwaE1zYm9YV2xheHlYUHRvZTR5RndPVEJpbllrcmtlWVB0a2NfLTM3dVVhTm4yLTE1c0otR1RWM0dlcFcwbDh2cHhqLTRRa2E4ZnRpYnBpSlFpQ3VVc3JBVkRXSkVqdFlfVWdKUDdybldHZ3BVNTJ4clUyTTZST3dMS0VacDNDUGU2?oc=5",
+        "timestamp": "2026-01-30T09:19:00",
+        "timestamp_display": "30. 01. 2026 09:19",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Apple zvýšil tržby",
         "summary": "Apple zvýšil tržby díky vysoké poptávce po iPhonech a oživení zájmu v Číně.",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQjdhajRmTTBoaU42QTRPdzNoVGdJeThaTlVGc1FvT3NXa0Z5djRObmZZTkd0cmk0ekU2R0VkLXpEa2NlSm1YaERFYVA3UVdPYU1MbE1vRFAzMTluZktVYXlvOUY5bWpsZmQ0S3pOd045NFV1bHNiLVBCcEd3SlJvUDkzQmhsUUJMSlA2MmhNbUJhMy1FZEtSV3VVUEQzOGxqY21CMXRjZDh2UjNqR3RnMDRNcEZnODhRM25Hc19zNUZET3o2RHZn?oc=5",
         "timestamp": "2026-01-30T06:24:00",
         "timestamp_display": "30. 01. 2026 06:24",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Česko 20. v Evropě",
-        "summary": "Česko je 20. v Evropě a 30. na světě v žebříčku podmínek pro startupy.",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa0RjTkdycHFtZ3dSSjhwLWpuQnl4M0Z6dDZQRjgxYTFidjIybWhzSE5icHBZRXRpQ1FuLWdvaXFjM3lueWVOT2ZCcEc4VG1HaXhRWGxmbjNDRkdIWG5Id0JHVjR3N1J4Ry1IdUt5ZkpfNjNFRUtOdEFuUDBEeTFVOEZuRWNpM2JoM1F0Wk0yN2lhTHBHTG50SUxvUFI4NUF5Zmc5bEd4N2R2QVp1VjR4TVFid1hkZXVwYWtMLQ?oc=5",
-        "timestamp": "2026-01-28T17:42:57",
-        "timestamp_display": "28. 01. 2026 17:42",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -87,6 +87,15 @@
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPanpncFFJUzVrS3hJbkZ1dmxfbG15U2xDLTlHVU1ZZWdmQVl2VHY5OURNeGRxeE1lSndORFpkYzBVdFpqSTZBSWV1VUlFNDNDVXk0VWR6UG9PU0ZfbmpweDVRRnBfVnpkUVFfUXZqYlpKVXAwZUp3a1RETjQwTDM3Umpka2FsRDFra3gtRlM5dW5KNHJXLXg3al9nQlY1R1R0VFc3QWdVcjY4WGZxUmRtTmdkNHMxelIwX0M4SW5xVkJvNnRCTTVIb242cG1ZSVN1VEdWekN2LW1MUE0?oc=5",
         "timestamp": "2026-01-29T04:30:00",
         "timestamp_display": "29. 01. 2026 04:30",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Česko 20. v Evropě",
+        "summary": "Česko je 20. v Evropě a 30. na světě v žebříčku podmínek pro startupy.",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa0RjTkdycHFtZ3dSSjhwLWpuQnl4M0Z6dDZQRjgxYTFidjIybWhzSE5icHBZRXRpQ1FuLWdvaXFjM3lueWVOT2ZCcEc4VG1HaXhRWGxmbjNDRkdIWG5Id0JHVjR3N1J4Ry1IdUt5ZkpfNjNFRUtOdEFuUDBEeTFVOEZuRWNpM2JoM1F0Wk0yN2lhTHBHTG50SUxvUFI4NUF5Zmc5bEd4N2R2QVp1VjR4TVFid1hkZXVwYWtMLQ?oc=5",
+        "timestamp": "2026-01-28T17:42:57",
+        "timestamp_display": "28. 01. 2026 17:42",
         "is_new": false
     },
     {
