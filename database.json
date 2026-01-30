@@ -1,12 +1,30 @@
 [
     {
         "category": "Byznys",
+        "title": "Apple zvýšil tržby",
+        "summary": "Apple zvýšil tržby díky vysoké poptávce po iPhonech a oživení zájmu v Číně.",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQjdhajRmTTBoaU42QTRPdzNoVGdJeThaTlVGc1FvT3NXa0Z5djRObmZZTkd0cmk0ekU2R0VkLXpEa2NlSm1YaERFYVA3UVdPYU1MbE1vRFAzMTluZktVYXlvOUY5bWpsZmQ0S3pOd045NFV1bHNiLVBCcEd3SlJvUDkzQmhsUUJMSlA2MmhNbUJhMy1FZEtSV3VVUEQzOGxqY21CMXRjZDh2UjNqR3RnMDRNcEZnODhRM25Hc19zNUZET3o2RHZn?oc=5",
+        "timestamp": "2026-01-30T06:24:00",
+        "timestamp_display": "30. 01. 2026 06:24",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Česko 20. v Evropě",
+        "summary": "Česko je 20. v Evropě a 30. na světě v žebříčku podmínek pro startupy.",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa0RjTkdycHFtZ3dSSjhwLWpuQnl4M0Z6dDZQRjgxYTFidjIybWhzSE5icHBZRXRpQ1FuLWdvaXFjM3lueWVOT2ZCcEc4VG1HaXhRWGxmbjNDRkdIWG5Id0JHVjR3N1J4Ry1IdUt5ZkpfNjNFRUtOdEFuUDBEeTFVOEZuRWNpM2JoM1F0Wk0yN2lhTHBHTG50SUxvUFI4NUF5Zmc5bEd4N2R2QVp1VjR4TVFid1hkZXVwYWtMLQ?oc=5",
+        "timestamp": "2026-01-28T17:42:57",
+        "timestamp_display": "28. 01. 2026 17:42",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Investice do AI",
         "summary": "Společnost BottleCap získala investici přes 150 milionů korun na rozvoj své úspornější umělé inteligence.",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeGN3R2VqajctWXBGbHppeXNHekNxOWRsenY3bDh4WDZKNXpWenBkbE5mOV9EelJMclItY3JFTkVlenpNRzVmTUV2QnZoTkdRZnBFanpNdVJOMnJhd1NKeHVUYTY3T0owYXFRUWl1ekZPRE5tVTlBX0RrLVZhaGozVzlxejJIVXNUa25FMXhQcjBoN1AtTVlabDJoX3UwWjRQVHR4c01BNE9uTTFzalJaaVpaY3l4ajkzZkh0R25aVUFjWURhY3BIS1hR?oc=5",
         "timestamp": "2026-01-29T15:42:26",
         "timestamp_display": "29. 01. 2026 15:42",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRk9DRy1xZWtpck50Njlkb2Y4OGFBT2RoaWF0T3J3VnVIdzMtLTFtLTFOVWN1YjhKMFhXa2V5am9BalBqVGtZY1MzOS04Q2RYanlreE83Nmk2WTI5NlNpdFdGdW02Nzc5dWkyeHYycDBja2w1MEVlMTFacVBBb0EtYmJ4N3JwTC1aMmNOU0UyZlFHaGd6V282THN3WFNhQQ?oc=5",
         "timestamp": "2026-01-29T14:33:01",
         "timestamp_display": "29. 01. 2026 14:33",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,7 +42,7 @@
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTGM2MnpicWVkSzViYWNQOWxaVEFMS2V5TkVncnJJM0NPeEhqTTBmeDJfdkk1eDV2NHJHUnZOVGdDSzRsQnFZZlBlajEtOWdUZWd4WXhvOXBJcWFEUWJ2SVhFaGRGM05UUUZ1SEVZbkZlX1FBSEtaTGpRZFh1NElfcDhpT2QtdFJiZUZWUWQ3TE0tOURDVjlFMVZ3bUhpbFFTS1R2eXJPbmhGVXl4ajY2dVpVRGpmdTMxWDdZ?oc=5",
         "timestamp": "2026-01-29T14:28:31",
         "timestamp_display": "29. 01. 2026 14:28",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
