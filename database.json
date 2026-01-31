@@ -1,12 +1,21 @@
 [
     {
         "category": "Byznys",
+        "title": "Flexibilní kanceláře přibývají",
+        "summary": "Flexibilních kanceláří přibývá, firmy projevují rostoucí zájem o tato pracovní prostory.",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNa3FhUUFxVzNVYkFzNVNyS3lrRktDZ0dkVW1veW5vQUlrbHQ4dEdrMEJISVlNZkxHcERRV2xUaWtCY3RwSThBaWJFR0xCeUQtbm1RNk5ZaFJiSTNHaVlibFNDSWRVVGNnOExMeEQxRndSVXVBWWU2ekFLYnF6WG9xMnVHajUzUlNjSEhxSC11VUlNWkRPSXdJT1NHZWNOdmNYay10a1U5NWs1YmNVZld1Q3JLUHpkXzlyMWhPNHVhc3NhSjkwRU1YcWJ0akpRalJQSi1oUVo1RThHVzc5SjhjUw?oc=5",
+        "timestamp": "2026-01-31T10:00:00",
+        "timestamp_display": "31. 01. 2026 10:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Česká ekonomika zrychluje",
         "summary": "Česká ekonomika zrychluje, Komerční banka zvyšuje prognózu růstu.",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVG5yZERsN291bnZ2SE5waHdUWFNSQ3FhOHRsSnRZVTd3Mlg0aEhPYlFWOHVDMkxuSW04TnlFYXI1Y0RZOXJfRWJKSTNvalZsd0FSWC1kNVZYa1dXYnVYTDNtM0Z6dDI1Z0doNGVKdjRMakFWQ1FWbnJ0T0dsSnZTdkxydlMwTGoxNndsejB1d2hCQ0ZIR1RDdDRSdGNVbmd5MENOMjE5ekxrWTBlbWhEYWJUT2RZbXdTMXF5RWxCUllvejA?oc=5",
         "timestamp": "2026-01-31T13:00:00",
         "timestamp_display": "31. 01. 2026 13:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,43 +24,7 @@
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa1RxTWRHUDJoTTJMMGU1VXo5bGIxS2cxYl9MT2ItYmRLeVowUnEzUzVVR3VhNm1MU3pIbGlJVE1ocmtQbkthXzZJZFB2QzIzU2c1TDAyc0MwVHVQN3VtMU5RYzFncVdLZENTbUNZSmZ2c1VRYmpnU19icjE2dHZJU2tyNG9WeEUtdGllTGlLY2duZkNkckdYQlRXV2ZjNGpuX0gxX3ZvemU?oc=5",
         "timestamp": "2026-01-31T11:30:00",
         "timestamp_display": "31. 01. 2026 11:30",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Nová technologie mění práci",
-        "summary": "Inženýři v Česku využívají nové technologie ke změně světa pracovních příležitostí.",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWEt6VlIwWDd1aXJBQnhCRWFUQUE5N2VWWnVLbG5oY3JkeXh3bXI4eFZwbkxkaDR4UHpPdjhwazR1aWIxRVdnNVlCS2pIZlNTM3FCVW80NU5kOF81dUozaDAyR0dER294MjYwZnk4TkF3S1I2SUpab2swb2pWSWVhbUpKSzRlLXRSQ094N25QTlhYa2psNDFETmphSVF2MURTOGd6bDRtVQ?oc=5",
-        "timestamp": "2026-01-30T23:00:00",
-        "timestamp_display": "30. 01. 2026 23:00",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Footshop otevírá v Paříži",
-        "summary": "Český Footshop otevírá novou prodejnu v Paříži, městě módy.",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYk9oWnlwaDkxWEhjLVRiTVF2dmNaLWluV1pvbWE3V1R1bFV4b055Z3VXTTR0d2hLMmthMnVZV0kwb2ZyelJIVGpLSUhwNnhMR041OWQtNU4wVzA5TEJsdHFvbEtVMGlNRFBYWm1PdDhtWGFjT2xkZ1U3bG5rNTNLTUp3enMzcC1oU1pB?oc=5",
-        "timestamp": "2026-01-30T17:12:59",
-        "timestamp_display": "30. 01. 2026 17:12",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Investice v roce 2026",
-        "summary": "Rok 2026 přinese nové investiční příležitosti v oblasti AI a privátních trhů.",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZ1hrZUZjT0d1cTVZbEdOZ3ktVDhxb0VZVXFod2pISnFFS2xQSWpzQ2JSWW9mR2pMekNKZFJtYmpOalZOck54UzJYcEhzZUVwTDNkS3YydElOd1FPcWtWQ0xYLU9Pb1oyVlVLbHcxNFVMZ29yYkNtS01sYkZMT1hfN1g0SjZsY3gwTTRsUTJpM2o3Ynd2SU9iSEZKQ3dXcDcxWi1oczdvVnRZTzFXZG5STFJ1Y2VBZ01aMk1SZWxaMWhCZ2x1SjNQTkJOS1JKTlRhQjVnQnhwRmwxcHB3dFlN?oc=5",
-        "timestamp": "2026-01-30T12:30:00",
-        "timestamp_display": "30. 01. 2026 12:30",
-        "is_new": true
-    },
-    {
-        "category": "Věda",
-        "title": "Unikátní záběry globulí",
-        "summary": "Teleskop Webb pořídil unikátní záběry globulí v mlhovině Helix, které jsou větší než Sluneční soustava, ale lehčí než Země.",
-        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOZUoxOHBFLVpyOVhUOWIxcFMwUFZUb2N1bTlFOGpRbjkzaWEwQlJtVndHbGJ6MjhzNF8xN0h3cXJWRzFzaWVaWENtUjJJTnV1ZHhzaWNORmtJcmgyeFBOV1ByMUxqZ1lXN3BFMHJlLVF2X0VBYlA4dm9aeFFIUGdYMzZVYUJCSERnOHY0VnZhTks3cWlVaVltcGQxYkZxa3NqbWc2WklaOEZTVFJNZnVCeU8taVpqR1pMLVU4SjVaZEtMY2tLZjZxdWhvbFZ5cmpVZ2cxVHF5ZGs5SDZsZlktTHU5OFBjOGxOd3pXU2Y1eWZ6bTNSSnZwWjFtYkNGX2VtZFFSeURVWW44QQ?oc=5",
-        "timestamp": "2026-01-30T11:48:00",
-        "timestamp_display": "30. 01. 2026 11:48",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -63,12 +36,48 @@
         "is_new": false
     },
     {
+        "category": "Technologie",
+        "title": "Nová technologie mění práci",
+        "summary": "Inženýři v Česku využívají nové technologie ke změně světa pracovních příležitostí.",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWEt6VlIwWDd1aXJBQnhCRWFUQUE5N2VWWnVLbG5oY3JkeXh3bXI4eFZwbkxkaDR4UHpPdjhwazR1aWIxRVdnNVlCS2pIZlNTM3FCVW80NU5kOF81dUozaDAyR0dER294MjYwZnk4TkF3S1I2SUpab2swb2pWSWVhbUpKSzRlLXRSQ094N25QTlhYa2psNDFETmphSVF2MURTOGd6bDRtVQ?oc=5",
+        "timestamp": "2026-01-30T23:00:00",
+        "timestamp_display": "30. 01. 2026 23:00",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Footshop otevírá v Paříži",
+        "summary": "Český Footshop otevírá novou prodejnu v Paříži, městě módy.",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYk9oWnlwaDkxWEhjLVRiTVF2dmNaLWluV1pvbWE3V1R1bFV4b055Z3VXTTR0d2hLMmthMnVZV0kwb2ZyelJIVGpLSUhwNnhMR041OWQtNU4wVzA5TEJsdHFvbEtVMGlNRFBYWm1PdDhtWGFjT2xkZ1U3bG5rNTNLTUp3enMzcC1oU1pB?oc=5",
+        "timestamp": "2026-01-30T17:12:59",
+        "timestamp_display": "30. 01. 2026 17:12",
+        "is_new": false
+    },
+    {
         "category": "Byznys",
         "title": "Nová hala otevřena",
         "summary": "Firma AMiT otevřela novou halu ve Voticích za 60 milionů, bude hlavním výrobním centrem.",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdEw3UzdLbFZDRzJ1dkhTTmlsdXh4cUF6VndTbDYtbzhGcE5rWTd6MW9naGxtVVVfSkJneFB1ZmZoQnNnRnByTzBQR0dEQ1RUUWJYZDdpbUM2amVzVHFadGp3S01KNG9aeFNVYmtEYjVLV3hGVk40Uk5tMHFxRG1ubHZxTW1hdmp1Uk9DSThlSTRaWEkwemg5OUdydTJkNkxVVHRBVXdvWmw1UllIS2gxTzhZanRWcjdXZXJTb1dyMFZyNF9YWU1pcjVtZi15ZlFjOWdud0JsZ1M1dkdmbHNtcnBR?oc=5",
         "timestamp": "2026-01-30T15:47:00",
         "timestamp_display": "30. 01. 2026 15:47",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice v roce 2026",
+        "summary": "Rok 2026 přinese nové investiční příležitosti v oblasti AI a privátních trhů.",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZ1hrZUZjT0d1cTVZbEdOZ3ktVDhxb0VZVXFod2pISnFFS2xQSWpzQ2JSWW9mR2pMekNKZFJtYmpOalZOck54UzJYcEhzZUVwTDNkS3YydElOd1FPcWtWQ0xYLU9Pb1oyVlVLbHcxNFVMZ29yYkNtS01sYkZMT1hfN1g0SjZsY3gwTTRsUTJpM2o3Ynd2SU9iSEZKQ3dXcDcxWi1oczdvVnRZTzFXZG5STFJ1Y2VBZ01aMk1SZWxaMWhCZ2x1SjNQTkJOS1JKTlRhQjVnQnhwRmwxcHB3dFlN?oc=5",
+        "timestamp": "2026-01-30T12:30:00",
+        "timestamp_display": "30. 01. 2026 12:30",
+        "is_new": false
+    },
+    {
+        "category": "Věda",
+        "title": "Unikátní záběry globulí",
+        "summary": "Teleskop Webb pořídil unikátní záběry globulí v mlhovině Helix, které jsou větší než Sluneční soustava, ale lehčí než Země.",
+        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOZUoxOHBFLVpyOVhUOWIxcFMwUFZUb2N1bTlFOGpRbjkzaWEwQlJtVndHbGJ6MjhzNF8xN0h3cXJWRzFzaWVaWENtUjJJTnV1ZHhzaWNORmtJcmgyeFBOV1ByMUxqZ1lXN3BFMHJlLVF2X0VBYlA4dm9aeFFIUGdYMzZVYUJCSERnOHY0VnZhTks3cWlVaVltcGQxYkZxa3NqbWc2WklaOEZTVFJNZnVCeU8taVpqR1pMLVU4SjVaZEtMY2tLZjZxdWhvbFZ5cmpVZ2cxVHF5ZGs5SDZsZlktTHU5OFBjOGxOd3pXU2Y1eWZ6bTNSSnZwWjFtYkNGX2VtZFFSeURVWW44QQ?oc=5",
+        "timestamp": "2026-01-30T11:48:00",
+        "timestamp_display": "30. 01. 2026 11:48",
         "is_new": false
     },
     {
