@@ -6,7 +6,7 @@
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbnFtMkR1cVhCTnZjYVRMdEl4MVItOHdXNFRtMWpiUmc3NDFYallZLUYySW1jQzFmY2dkMVFURXRBQ0N6M1ktRjNyUGxnTkJmRDRrLVNxYVotVHVwc3NmUlM4eHYwM1FPRS13NmdoZHpCbTQ0X1ByYjM2UDU5S0RvTUdCcS1nZ2dCN1pPTnQ2Rk9mdEtKNGZEZHR1dEdsT29XMW90ZzVmcWNsbzNzTTdQZVZ6MjlabDV2RjlMNWZVNjVyQ2JjZ2hJSTBn?oc=5",
         "timestamp": "2026-02-01T05:00:00",
         "timestamp_display": "01. 02. 2026 05:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,16 +15,7 @@
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbVNzbU81c3g4Qmhid1c5MHFibnZkZ240LXBkTG5hZlJYSzQ4Q3NGY1JmR3cxb2VRcTNfb2tpRHFoVW81MGc0OVFTQ1M0Rkg0YVlGYTN0U3ZLbHdJZ0d1dGFiWTVnMmI4WlZxZ3l3YU9ULS1EVFNzaVJ5d3daX3ljTHU0cjlBa2NVVnRVcGN5TDg3aDcyeFgwTjVSNkE4WnBpcHUtNGJyWS1YV3gxM2cyYw?oc=5",
         "timestamp": "2026-01-31T15:30:00",
         "timestamp_display": "31. 01. 2026 15:30",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Drahé kovy na vrcholu",
-        "summary": "Zlato a stříbro dosáhly nejvyšších hodnot, investoři zvažují nákup drahých kovů jako bezpečné investice.",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZmZseDRRYUN2NHhHRWR4dTFqa2E1Vy04VkU1QWxjdzdkNVhWdm9mRkJzdVlZenh0M1lfUTNPWmtIRGlhWXk3NHlIVmY4cFJmaDRIMlBUdFJVUkd5V3BZcXZrR29HV1NlRjUxYzN5ejRfVE1GbGRQb0dJV0R4a1RpVU95OUdnVy1EaUVUU0VyQQ?oc=5",
-        "timestamp": "2026-01-29T11:45:27",
-        "timestamp_display": "29. 01. 2026 11:45",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -159,6 +150,15 @@
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTGM2MnpicWVkSzViYWNQOWxaVEFMS2V5TkVncnJJM0NPeEhqTTBmeDJfdkk1eDV2NHJHUnZOVGdDSzRsQnFZZlBlajEtOWdUZWd4WXhvOXBJcWFEUWJ2SVhFaGRGM05UUUZ1SEVZbkZlX1FBSEtaTGpRZFh1NElfcDhpT2QtdFJiZUZWUWQ3TE0tOURDVjlFMVZ3bUhpbFFTS1R2eXJPbmhGVXl4ajY2dVpVRGpmdTMxWDdZ?oc=5",
         "timestamp": "2026-01-29T14:28:31",
         "timestamp_display": "29. 01. 2026 14:28",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Drahé kovy na vrcholu",
+        "summary": "Zlato a stříbro dosáhly nejvyšších hodnot, investoři zvažují nákup drahých kovů jako bezpečné investice.",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZmZseDRRYUN2NHhHRWR4dTFqa2E1Vy04VkU1QWxjdzdkNVhWdm9mRkJzdVlZenh0M1lfUTNPWmtIRGlhWXk3NHlIVmY4cFJmaDRIMlBUdFJVUkd5V3BZcXZrR29HV1NlRjUxYzN5ejRfVE1GbGRQb0dJV0R4a1RpVU95OUdnVy1EaUVUU0VyQQ?oc=5",
+        "timestamp": "2026-01-29T11:45:27",
+        "timestamp_display": "29. 01. 2026 11:45",
         "is_new": false
     },
     {
