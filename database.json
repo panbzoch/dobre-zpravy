@@ -1,11 +1,29 @@
 [
     {
+        "category": "Věda",
+        "title": "Mladá vědkyně řeší misi",
+        "summary": "Mladá vědkyně navrhuje kokpit budoucnosti pro vesmírné mise na Měsíc.",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbnFtMkR1cVhCTnZjYVRMdEl4MVItOHdXNFRtMWpiUmc3NDFYallZLUYySW1jQzFmY2dkMVFURXRBQ0N6M1ktRjNyUGxnTkJmRDRrLVNxYVotVHVwc3NmUlM4eHYwM1FPRS13NmdoZHpCbTQ0X1ByYjM2UDU5S0RvTUdCcS1nZ2dCN1pPTnQ2Rk9mdEtKNGZEZHR1dEdsT29XMW90ZzVmcWNsbzNzTTdQZVZ6MjlabDV2RjlMNWZVNjVyQ2JjZ2hJSTBn?oc=5",
+        "timestamp": "2026-02-01T05:00:00",
+        "timestamp_display": "01. 02. 2026 05:00",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
-        "title": "Flexibilní kanceláře přibývají",
-        "summary": "Flexibilních kanceláří přibývá, firmy projevují rostoucí zájem o tato pracovní prostory.",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNa3FhUUFxVzNVYkFzNVNyS3lrRktDZ0dkVW1veW5vQUlrbHQ4dEdrMEJISVlNZkxHcERRV2xUaWtCY3RwSThBaWJFR0xCeUQtbm1RNk5ZaFJiSTNHaVlibFNDSWRVVGNnOExMeEQxRndSVXVBWWU2ekFLYnF6WG9xMnVHajUzUlNjSEhxSC11VUlNWkRPSXdJT1NHZWNOdmNYay10a1U5NWs1YmNVZld1Q3JLUHpkXzlyMWhPNHVhc3NhSjkwRU1YcWJ0akpRalJQSi1oUVo1RThHVzc5SjhjUw?oc=5",
-        "timestamp": "2026-01-31T10:00:00",
-        "timestamp_display": "31. 01. 2026 10:00",
+        "title": "Nový přístav v Mělníku",
+        "summary": "Město Mělník investuje do nového přístavu, který by měl být otevřen do dvou let.",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbVNzbU81c3g4Qmhid1c5MHFibnZkZ240LXBkTG5hZlJYSzQ4Q3NGY1JmR3cxb2VRcTNfb2tpRHFoVW81MGc0OVFTQ1M0Rkg0YVlGYTN0U3ZLbHdJZ0d1dGFiWTVnMmI4WlZxZ3l3YU9ULS1EVFNzaVJ5d3daX3ljTHU0cjlBa2NVVnRVcGN5TDg3aDcyeFgwTjVSNkE4WnBpcHUtNGJyWS1YV3gxM2cyYw?oc=5",
+        "timestamp": "2026-01-31T15:30:00",
+        "timestamp_display": "31. 01. 2026 15:30",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Drahé kovy na vrcholu",
+        "summary": "Zlato a stříbro dosáhly nejvyšších hodnot, investoři zvažují nákup drahých kovů jako bezpečné investice.",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZmZseDRRYUN2NHhHRWR4dTFqa2E1Vy04VkU1QWxjdzdkNVhWdm9mRkJzdVlZenh0M1lfUTNPWmtIRGlhWXk3NHlIVmY4cFJmaDRIMlBUdFJVUkd5V3BZcXZrR29HV1NlRjUxYzN5ejRfVE1GbGRQb0dJV0R4a1RpVU95OUdnVy1EaUVUU0VyQQ?oc=5",
+        "timestamp": "2026-01-29T11:45:27",
+        "timestamp_display": "29. 01. 2026 11:45",
         "is_new": true
     },
     {
@@ -24,6 +42,15 @@
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa1RxTWRHUDJoTTJMMGU1VXo5bGIxS2cxYl9MT2ItYmRLeVowUnEzUzVVR3VhNm1MU3pIbGlJVE1ocmtQbkthXzZJZFB2QzIzU2c1TDAyc0MwVHVQN3VtMU5RYzFncVdLZENTbUNZSmZ2c1VRYmpnU19icjE2dHZJU2tyNG9WeEUtdGllTGlLY2duZkNkckdYQlRXV2ZjNGpuX0gxX3ZvemU?oc=5",
         "timestamp": "2026-01-31T11:30:00",
         "timestamp_display": "31. 01. 2026 11:30",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Flexibilní kanceláře přibývají",
+        "summary": "Flexibilních kanceláří přibývá, firmy projevují rostoucí zájem o tato pracovní prostory.",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNa3FhUUFxVzNVYkFzNVNyS3lrRktDZ0dkVW1veW5vQUlrbHQ4dEdrMEJISVlNZkxHcERRV2xUaWtCY3RwSThBaWJFR0xCeUQtbm1RNk5ZaFJiSTNHaVlibFNDSWRVVGNnOExMeEQxRndSVXVBWWU2ekFLYnF6WG9xMnVHajUzUlNjSEhxSC11VUlNWkRPSXdJT1NHZWNOdmNYay10a1U5NWs1YmNVZld1Q3JLUHpkXzlyMWhPNHVhc3NhSjkwRU1YcWJ0akpRalJQSi1oUVo1RThHVzc5SjhjUw?oc=5",
+        "timestamp": "2026-01-31T10:00:00",
+        "timestamp_display": "31. 01. 2026 10:00",
         "is_new": false
     },
     {
