@@ -1,5 +1,32 @@
 [
     {
+        "category": "Byznys",
+        "title": "Nová šance pro domy",
+        "summary": "Rekonstrukce starých činžáků se stává samostatným odvětvím, nabízí nové příležitosti.",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM0RTY2tjSkk5ZFFydmhXRE1Kb0hwM19FMmRMT0JaSktLVXM3bGZ0RVRSWnpmMFhoZ3ZjTjRfRXpSWDd5NS03NUg2UGhSZm84enY3UllaTFg0QXAySmdoVGJjVEQ5b3NVX252cXhvU2l3bVUzUkJXRjBBQmJuSmF6OUk1YmZCMS1zUUNkYzdZZ3VkNk5rMko4c0pNSQ?oc=5",
+        "timestamp": "2026-02-01T13:07:32",
+        "timestamp_display": "01. 02. 2026 13:07",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Automatizované prodejny",
+        "summary": "COOP zavádí automatizované prodejny, další řetězce se přidávají, celkem jich bude 150 v Česku.",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOXRtU3BYcVBXV1N4eU13ZlhIS2lBQWdOVUIzUElBSDYtdTloUzV2eHBKbm1ha1NvMTdGQ1ExMW1ZYnRBY0t3bDN2bEt3ek0xVzVLZ0tKakxSSTBIR0dXbG1xWnhOLUt1Ml95TW5BMEdPZEFoQ2Fqc3g2RGVCOTlsTFRaYUN5dXdsZXJkVTRUbGN4aGNyQWZGZzZSZzYyb1hNYWpOOHFWZ2JWVk9CeUY1eDlBRWRWWDBVZEc3Ml8zekZxa1J5Qjh4UmRKQmstRWc1cFAzSA?oc=5",
+        "timestamp": "2026-02-01T10:20:00",
+        "timestamp_display": "01. 02. 2026 10:20",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Nová exoplaneta objevena",
+        "summary": "Astronomové objevili novou exoplanetu podobnou Zemi, ale s chladným povrchem.",
+        "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNTzVnR1ZTUERPUloxX0ViakE2Ni1YMEhNaFRBdE1zSEZMQWtnWVp0S0o2UEg1aTBoVDB6UURKUU15c3NTUEw4Z3JjZnVWQ0JBUTBEc0pGdkEtNkpGUHd3eUpWR0hzWnllMmNZUlQ1WldkcERWZW1MQ1ZKdm11WlhGcnp1LWZvem5pYXc0dWh0YWx2ZVBfRVVIN1c1YTlZbXZfNkpxQmUtZ3ZyUGN3YzJIUUdtakQ5Zzd5Mm1EWUJwZVd3TklUZE5xR21CR0VuNkMzUTVpVVRCS3g0Y1AzeVRyOG5UdExPVXdKQTUzY3lpQzRXTThrWUtob1NGemNrZ3VEcUx1ZnNYU3Ayb2FoeVVnZ1dNQ18yZEVnS25yTXdGMDdpYmkybFE?oc=5",
+        "timestamp": "2026-02-01T10:02:24",
+        "timestamp_display": "01. 02. 2026 10:02",
+        "is_new": true
+    },
+    {
         "category": "Věda",
         "title": "Mladá vědkyně řeší misi",
         "summary": "Mladá vědkyně navrhuje kokpit budoucnosti pro vesmírné mise na Měsíc.",
