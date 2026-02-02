@@ -1,12 +1,39 @@
 [
     {
         "category": "Byznys",
+        "title": "Disney má skvělý start",
+        "summary": "Disney dosáhl skvělých finančních výsledků díky filmům jako Avatar a Zootropolis.",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUUEtbFctNUZlSFBEX2lvY3pNVmVEWkMtX3JCTlNWdC1abEVGSU1BcWtuck1mUldTQ2JaRXFqNGc4bE1fRTc4Vko0UUdVZXpuaDNPUGNoVU5MMTBTc2s2bk1CbWR0NE1lNE1hWUNKV3NTT0UtLWttOFFESWVIRkFKbnJDSkZLUlkwSnlTeTZ4RWNFNVlSWi1hU0FkWHhwYngtcGtfVV94dzIzWjFmNEk0?oc=5",
+        "timestamp": "2026-02-02T13:42:03",
+        "timestamp_display": "02. 02. 2026 13:42",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Domoplan staví v Brně",
+        "summary": "Firma Domoplan začne stavět v brněnském Komárově, využije atraktivitu přestěhovaného hlavního nádraží.",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbUQ4WW1TSFRmYml0dG4tWjBaR0NkM1ZoTnVodnlZWkJtcWVqSWM1QWEzTExfQWdjZmxjTG9VZGpUY0VwclFqOVdVZl9YNF9wTzdyb2RXNFB5cHJESV9zMmtKUVRoU01kSkdsMVhfYXJxNHZFcTJSdjEybm9iSk5hazdQcElRYXlEVjVaRHdVS0F6SV8tY1V3M1BoVTBsVGdicndxQlh4bkZhX2VUTDE2NkREdEh6YkxlYWV2a2tXY0diZWJNY3FF?oc=5",
+        "timestamp": "2026-02-02T13:23:00",
+        "timestamp_display": "02. 02. 2026 13:23",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Mladý kuchař uspěl",
+        "summary": "Student Filip se stal jedním z nejlepších mladých kuchařů, získal zkušenosti a kontakty v prestižní soutěži.",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV2xCTHF0ZzNqN05ReGppZ1dyTVQwRDJyTk42eHhPZUpRcU5XU2ZqYXRPSE9jTlZTeXRILXYwRTVIMERrY2pFRHZHNFVJay1ZWXVmZkFEczJRUGJfbmUwYkZDR2N0SHlXZW9mdnRJNnlMY3FVODBtcDVhcUJrUGdpNG1hLV82c1hTZ3JzVGVKYUFodXMtX202eDNGaHlXc2VweVBNb25Vb3MtRlRMQzNhVjFmemZncHRQMF9XdWtMSmxhYW1jT1J6QkY2TlhqNEpaQkVr?oc=5",
+        "timestamp": "2026-02-02T04:12:00",
+        "timestamp_display": "02. 02. 2026 04:12",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Nová služba banky",
         "summary": "Partners Banka nabízí multiměnový účet pro správu až 15 měn.",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa2tneTFVSWZiNTZJYmFGeWsyZlVfY1RJVVc3S3lCRlUtV2xDNEVLZ1YwRzU5MVVVY0lZRjJ4aUdYcHNFcmYtNzJzRk1vSUMwNk1tMzJDekplUUpnQ1pvMVQzYXNmTGNUOUZicUg2MS1RdnktRzMtR0N5dGhqWUk1Z2pXbDA4TDBVcTdjMnFINzEtSFdpam5YUEFkTUg4ZUEzSUREdnRRenhreXpBQ2FSSFpNVlE?oc=5",
         "timestamp": "2026-02-02T10:14:00",
         "timestamp_display": "02. 02. 2026 10:14",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Medicína",
@@ -15,7 +42,7 @@
         "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPV0dOMVE2WW8zczRXcGx2MGh6OU9XMl8yNEh1S05zSTFGTUJfTVh2SXJyb19Qek5fN3IxQm1Zd1VsSVEzajhPR1BUbjB2Y2Z3ekZUZlh3Q1VjZVcwVzVtakFkWmJoRmxiSllwU2FxbVlKZEhJbWFxbTlBTXB1eWxsVmZkUFRLeFFWN2FabWZMYWNrVllCMjA5eUdRLUJfMV96azNPbzczejZNa3huNXV2d1VsNVFidkhLdFlCOF9Cd2gzTnprNmtRV21qWDhpbG1SYVl6X1I3YklkeS1aYUhPaGlaU2otdmZDRjhnNVhhdzJ4RVRwYTUwOGZ2eDVzTjhMM0JkUnh0QkRiRjRUSjZQUDY4Ynk?oc=5",
         "timestamp": "2026-02-02T09:34:00",
         "timestamp_display": "02. 02. 2026 09:34",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,7 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRlZEVVhlN1FudzRjTmVIQU8yUVIwOFFJREE2a1Fsa3Nla1N1YTM5X3R0WDI3MlpkbTJhRFlHZWVlQWxPeVRpZXlaZVI5bnp2ZXk1UWtNQTJ2OVpwRmVIcEhUR2FxX3BZbUNGeWtadFpBRnlsOGVDei10eHU5QW1pWW1VejJHS2RuREU2MDRPVDladTZGM2MxQjIyZkhIVV9QM3hFSS1IYV83QXktZndKLVZUSHlfUQ?oc=5",
         "timestamp": "2026-02-02T09:21:00",
         "timestamp_display": "02. 02. 2026 09:21",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,16 +60,7 @@
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN0FGd0dveC12dW1Jem0tbFR6ZVFiWmlUZFZmaEJTSHRwX2IyRU5zcVJCSm9yNVJzekVVb29Qek1NVUxtUFR3QU02VXdGNThTekYxUVJ0NGRnZjZSRExFMUZZOWdXaDFVQ0JkdUsxek02anBVeHhWeWpRMmRaZHFGMXpUN2h5V1prLWFVMnNjcHZ0SkNYakh0alB4dkM3ZUtz?oc=5",
         "timestamp": "2026-02-02T07:11:37",
         "timestamp_display": "02. 02. 2026 07:11",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Věda a byznys",
-        "summary": "Propojení vědy a byznysu generuje miliardy, vytváří nové příležitosti a pohání inovace.",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdnFSRG1hS0ZuOUZCZFQ2VjJfNUFDVkozZ2w2QnEyV3lmZGVmczRodW1pS2VqTURKMXoydzRHMzV2aTZ3QVVtNzVRX0l1V2ItQXctT2Zxa2JWcjBfTy12M0cxM3AzT0hxSTYzX2ExMnpjdmI1VG50SWlCTUJSY2xQUldENjJ1bzRydkxOeWoyb1puc0hCS2JTN3BPN1JlMGthTVZocXB2UVhLQ1loUVFjRWw0QmpvUQ?oc=5",
-        "timestamp": "2026-02-01T04:00:00",
-        "timestamp_display": "01. 02. 2026 04:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -105,6 +123,15 @@
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbnFtMkR1cVhCTnZjYVRMdEl4MVItOHdXNFRtMWpiUmc3NDFYallZLUYySW1jQzFmY2dkMVFURXRBQ0N6M1ktRjNyUGxnTkJmRDRrLVNxYVotVHVwc3NmUlM4eHYwM1FPRS13NmdoZHpCbTQ0X1ByYjM2UDU5S0RvTUdCcS1nZ2dCN1pPTnQ2Rk9mdEtKNGZEZHR1dEdsT29XMW90ZzVmcWNsbzNzTTdQZVZ6MjlabDV2RjlMNWZVNjVyQ2JjZ2hJSTBn?oc=5",
         "timestamp": "2026-02-01T05:00:00",
         "timestamp_display": "01. 02. 2026 05:00",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Věda a byznys",
+        "summary": "Propojení vědy a byznysu generuje miliardy, vytváří nové příležitosti a pohání inovace.",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdnFSRG1hS0ZuOUZCZFQ2VjJfNUFDVkozZ2w2QnEyV3lmZGVmczRodW1pS2VqTURKMXoydzRHMzV2aTZ3QVVtNzVRX0l1V2ItQXctT2Zxa2JWcjBfTy12M0cxM3AzT0hxSTYzX2ExMnpjdmI1VG50SWlCTUJSY2xQUldENjJ1bzRydkxOeWoyb1puc0hCS2JTN3BPN1JlMGthTVZocXB2UVhLQ1loUVFjRWw0QmpvUQ?oc=5",
+        "timestamp": "2026-02-01T04:00:00",
+        "timestamp_display": "01. 02. 2026 04:00",
         "is_new": false
     },
     {
