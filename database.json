@@ -1,12 +1,57 @@
 [
     {
         "category": "Byznys",
+        "title": "Nová služba banky",
+        "summary": "Partners Banka nabízí multiměnový účet pro správu až 15 měn.",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa2tneTFVSWZiNTZJYmFGeWsyZlVfY1RJVVc3S3lCRlUtV2xDNEVLZ1YwRzU5MVVVY0lZRjJ4aUdYcHNFcmYtNzJzRk1vSUMwNk1tMzJDekplUUpnQ1pvMVQzYXNmTGNUOUZicUg2MS1RdnktRzMtR0N5dGhqWUk1Z2pXbDA4TDBVcTdjMnFINzEtSFdpam5YUEFkTUg4ZUEzSUREdnRRenhreXpBQ2FSSFpNVlE?oc=5",
+        "timestamp": "2026-02-02T10:14:00",
+        "timestamp_display": "02. 02. 2026 10:14",
+        "is_new": true
+    },
+    {
+        "category": "Medicína",
+        "title": "Nová defibrilační elektroda",
+        "summary": "První implantace nové defibrilační elektrody schválené FDA v USA proběhla v Texaském institutu pro srdeční arytmii.",
+        "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPV0dOMVE2WW8zczRXcGx2MGh6OU9XMl8yNEh1S05zSTFGTUJfTVh2SXJyb19Qek5fN3IxQm1Zd1VsSVEzajhPR1BUbjB2Y2Z3ekZUZlh3Q1VjZVcwVzVtakFkWmJoRmxiSllwU2FxbVlKZEhJbWFxbTlBTXB1eWxsVmZkUFRLeFFWN2FabWZMYWNrVllCMjA5eUdRLUJfMV96azNPbzczejZNa3huNXV2d1VsNVFidkhLdFlCOF9Cd2gzTnprNmtRV21qWDhpbG1SYVl6X1I3YklkeS1aYUhPaGlaU2otdmZDRjhnNVhhdzJ4RVRwYTUwOGZ2eDVzTjhMM0JkUnh0QkRiRjRUSjZQUDY4Ynk?oc=5",
+        "timestamp": "2026-02-02T09:34:00",
+        "timestamp_display": "02. 02. 2026 09:34",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Rekordní výroba piva",
+        "summary": "Budvar vyrobil rekordní množství piva, zejména ležáky a plechovky zaznamenaly výrazný růst.",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRlZEVVhlN1FudzRjTmVIQU8yUVIwOFFJREE2a1Fsa3Nla1N1YTM5X3R0WDI3MlpkbTJhRFlHZWVlQWxPeVRpZXlaZVI5bnp2ZXk1UWtNQTJ2OVpwRmVIcEhUR2FxX3BZbUNGeWtadFpBRnlsOGVDei10eHU5QW1pWW1VejJHS2RuREU2MDRPVDladTZGM2MxQjIyZkhIVV9QM3hFSS1IYV83QXktZndKLVZUSHlfUQ?oc=5",
+        "timestamp": "2026-02-02T09:21:00",
+        "timestamp_display": "02. 02. 2026 09:21",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Nová éra bankovnictví",
+        "summary": "Finshape a Neill Budd staví digitální banky budoucnosti s inovativními technologiemi.",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN0FGd0dveC12dW1Jem0tbFR6ZVFiWmlUZFZmaEJTSHRwX2IyRU5zcVJCSm9yNVJzekVVb29Qek1NVUxtUFR3QU02VXdGNThTekYxUVJ0NGRnZjZSRExFMUZZOWdXaDFVQ0JkdUsxek02anBVeHhWeWpRMmRaZHFGMXpUN2h5V1prLWFVMnNjcHZ0SkNYakh0alB4dkM3ZUtz?oc=5",
+        "timestamp": "2026-02-02T07:11:37",
+        "timestamp_display": "02. 02. 2026 07:11",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Věda a byznys",
+        "summary": "Propojení vědy a byznysu generuje miliardy, vytváří nové příležitosti a pohání inovace.",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdnFSRG1hS0ZuOUZCZFQ2VjJfNUFDVkozZ2w2QnEyV3lmZGVmczRodW1pS2VqTURKMXoydzRHMzV2aTZ3QVVtNzVRX0l1V2ItQXctT2Zxa2JWcjBfTy12M0cxM3AzT0hxSTYzX2ExMnpjdmI1VG50SWlCTUJSY2xQUldENjJ1bzRydkxOeWoyb1puc0hCS2JTN3BPN1JlMGthTVZocXB2UVhLQ1loUVFjRWw0QmpvUQ?oc=5",
+        "timestamp": "2026-02-01T04:00:00",
+        "timestamp_display": "01. 02. 2026 04:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Rekordní investice fondů",
         "summary": "České nemovitostní fondy zaznamenaly rekordní investice a návrat domácího kapitálu v roce minulém a letošním.",
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOM3lPQ0UwMktvMjY4UmtaX2hSWmxSN2tORG8tN3hJbThRS2JZY3ZjYzFHa25PU2s0TnB5bjU0bU5VckFWc2RsTVNpZUNFNDVZUE5tU2dndmVUODJiYzdTMW1TODcxLTQ0dURrYmVVUml3eU1WbHAyNkNIUV8xYm1uQ2FRMnRXSEtQN1V5aXczdjA5TVZLMjN4ZGdsbVBTc2l6a21vLWljNHFkWTV0MDhrVW52R19hdG5sQTI5RDRMbFBXczVFcDY2TUNUNWlfOWxPRHVTbjNSOVdHV3NHLUUwTy0wSDJfUGs?oc=5",
         "timestamp": "2026-02-02T05:30:00",
         "timestamp_display": "02. 02. 2026 05:30",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +60,7 @@
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX0QyNENhSGhZb01Ib3dxaENpWU9TVFkwOHZXUHhDMFpxTjloNGVISXVyUEVkdnpSVlU0S2lnd0NJVVlOMDJTSzc1WjNETWJYakY1WkRkUXM3RTgtcUdHb0dDRG5nWUFVRExKR25Oc2QxMTNrcW1XLVplOV9BeEwyTThJNlREQ3N6SkstUS1JdXhvQjk4VjYtMw?oc=5",
         "timestamp": "2026-02-02T05:11:30",
         "timestamp_display": "02. 02. 2026 05:11",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,7 +69,7 @@
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYjJvZE4yR2dTcFBmczBvUmVNZUFDLWZ2NkpoSzV3STNpR0xHcmdSYmx6LW12eXlHTU9DdG40TUw0WlZyNlNRTmNXQkNSbjlKX3JzQ1gzX2lfaUhqWmJoMnVRX1dZNVFBSXpIdkVnZGRGdDI3MWZueUU0bWE2LXQ4aFNQMFN1ZmdJREtEcUtOT2tlMWY0SkgtYllEOVpPVXBfalNaLVBCWm1kWVVCVlpUYkhDYXUxVFJZZzljVW9VVHBnbW5zWFZwMzJybEMycWtvWHZNeWowd1g4c0xfUUxnVHJn?oc=5",
         "timestamp": "2026-02-02T05:00:00",
         "timestamp_display": "02. 02. 2026 05:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
