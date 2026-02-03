@@ -1,11 +1,20 @@
 [
     {
         "category": "Byznys",
-        "title": "Škoda překonala milion",
-        "summary": "Škoda vyrobila přes milion aut, díky elektromobilům a zahraniční produkci.",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNclhiRGl4QkNEWEd0d210UFBfd09LZHVQVDI5LXhyTDRsbm9KLWJvaDZJdXhDc3VzVExHZHJFSXNYWHJkMmlfYlhrbVNnSWE0bTJ4SmY3MXBFZFFvSVc1VllReHlXTFV4NVJvaTlnMmR1NnhlWGw1UXpGWjA5R2VpdUFGYWpVNlk3VjlJdFQ1eGlKZVV5UEFIb1ZabmJDUjNhVWE1OF9OSVY2bXEwOFc5NnpMaF9LZmtSaG8xekpIeERFUHhJUkZzZ0lOVXJvelYxRVNEVWQ0ZUNGYUdWYkIyVDdfZkVLQzA?oc=5",
-        "timestamp": "2026-02-02T10:48:00",
-        "timestamp_display": "02. 02. 2026 10:48",
+        "title": "Moneta překonala odhad",
+        "summary": "Moneta dosáhla vyššího zisku než odhad trhu a navrhuje dividendu přes 11 korun na akcii.",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUzZuT0FodnhPRHBSRHdGVnJ1c19udlVDQTB1by1vOXpockR5WTAyUHhWSGhWTV9xdXkwaXd1dnpNX3U3N3NFdmNWQ2FlWUhxTnRnSnVQdmpURGxxNnZnYkZjNGdZMHF3STc5N0pMMlFMaE9HVDl5THdzdEV3VVA0NXBaai1LMy1RUHhuLXRtLWZnemY4bGNwZVNYYmw0SlV6Q3BMN1lrVEJLaGJXRnY4SXQ1YWdLTGZBeGR5bV9qdlV1TzFRa3JjaWRoS1lhMEh4MkNrUA?oc=5",
+        "timestamp": "2026-02-03T07:44:00",
+        "timestamp_display": "03. 02. 2026 07:44",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Článek na Forbes.cz nabízí rady a inspiraci pro investice a finanční růst.",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0N3E2VGRhdmhtVWdMS29WSmFtdnFPUUk3dXg3Tkx4QTBzc1h2SkxiaFB1ekJVaTZYNkJGNnNmaHFLMGpsYWhEcy1FUFBOYzBuQnZrMEUtYXVfSEdKTnczQlh3?oc=5",
+        "timestamp": "2026-01-31T11:41:22",
+        "timestamp_display": "31. 01. 2026 11:41",
         "is_new": true
     },
     {
@@ -42,6 +51,15 @@
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbUQ4WW1TSFRmYml0dG4tWjBaR0NkM1ZoTnVodnlZWkJtcWVqSWM1QWEzTExfQWdjZmxjTG9VZGpUY0VwclFqOVdVZl9YNF9wTzdyb2RXNFB5cHJESV9zMmtKUVRoU01kSkdsMVhfYXJxNHZFcTJSdjEybm9iSk5hazdQcElRYXlEVjVaRHdVS0F6SV8tY1V3M1BoVTBsVGdicndxQlh4bkZhX2VUTDE2NkREdEh6YkxlYWV2a2tXY0diZWJNY3FF?oc=5",
         "timestamp": "2026-02-02T13:23:00",
         "timestamp_display": "02. 02. 2026 13:23",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Škoda překonala milion",
+        "summary": "Škoda vyrobila přes milion aut, díky elektromobilům a zahraniční produkci.",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNclhiRGl4QkNEWEd0d210UFBfd09LZHVQVDI5LXhyTDRsbm9KLWJvaDZJdXhDc3VzVExHZHJFSXNYWHJkMmlfYlhrbVNnSWE0bTJ4SmY3MXBFZFFvSVc1VllReHlXTFV4NVJvaTlnMmR1NnhlWGw1UXpGWjA5R2VpdUFGYWpVNlk3VjlJdFQ1eGlKZVV5UEFIb1ZabmJDUjNhVWE1OF9OSVY2bXEwOFc5NnpMaF9LZmtSaG8xekpIeERFUHhJUkZzZ0lOVXJvelYxRVNEVWQ0ZUNGYUdWYkIyVDdfZkVLQzA?oc=5",
+        "timestamp": "2026-02-02T10:48:00",
+        "timestamp_display": "02. 02. 2026 10:48",
         "is_new": false
     },
     {
