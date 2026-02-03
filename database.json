@@ -1,12 +1,21 @@
 [
     {
+        "category": "Byznys",
+        "title": "Škoda překonala milion",
+        "summary": "Škoda vyrobila přes milion aut, díky elektromobilům a zahraniční produkci.",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNclhiRGl4QkNEWEd0d210UFBfd09LZHVQVDI5LXhyTDRsbm9KLWJvaDZJdXhDc3VzVExHZHJFSXNYWHJkMmlfYlhrbVNnSWE0bTJ4SmY3MXBFZFFvSVc1VllReHlXTFV4NVJvaTlnMmR1NnhlWGw1UXpGWjA5R2VpdUFGYWpVNlk3VjlJdFQ1eGlKZVV5UEFIb1ZabmJDUjNhVWE1OF9OSVY2bXEwOFc5NnpMaF9LZmtSaG8xekpIeERFUHhJUkZzZ0lOVXJvelYxRVNEVWQ0ZUNGYUdWYkIyVDdfZkVLQzA?oc=5",
+        "timestamp": "2026-02-02T10:48:00",
+        "timestamp_display": "02. 02. 2026 10:48",
+        "is_new": true
+    },
+    {
         "category": "Technologie",
         "title": "Ženy vylepšují AI",
         "summary": "Tým žen v české firmě pracuje na vylepšování umělé inteligence pro lepší výsledky.",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVFlWdjZlREpXamZaR3hjNmdwamJTcWZMYkt0YVhpaFZsSDdkRnRyc2hCbkNkMUtUbkNmZThaV1hKMDBCcTFpdFBiWTU0R2pxdk9HUWNHYXhEREtNMjdORnJEeWg4Y0xBVzVNMmxrU05SSlhpMWh1UnZJV1ZOQXZ4MmdJc3NUdzh4ZjcxS2JaM0hEQm5lNXE2dlhFOHRFeWJKUlR3eVFSMk8tOU9fU1I4azBSdm52ZDQ3SlRENUdKQmtQRmZBUlE?oc=5",
         "timestamp": "2026-02-02T18:00:00",
         "timestamp_display": "02. 02. 2026 18:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,16 +24,7 @@
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUU9vcTV6NmJoM1dsYUxGdjl4U2RYal9zbWlQRVp0WGJ3SjNkMF9OdFAtWVR4R2k0alVaSm5XczJLMDRzMkhyR1dCWThXa2RuNExUTm02X3BPV0lVaGFsY09jQzU3dHR3eV80dDZhSEdXNlA4alpqSk82NU04Y1dINnpad3RmNGRQRENDLTUtdkZXWENHXzFSTEluM3BHRFE?oc=5",
         "timestamp": "2026-02-02T15:42:33",
         "timestamp_display": "02. 02. 2026 15:42",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Český startup roste",
-        "summary": "Český startup využil boom umělé inteligence a zaznamenal růst, poté co prošel odtučňovací kúrou.",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR09yVGgyZTVXZmZySGFQRmtsU0FXdW9oOEQyRE1yVkt2Mm43UEhPRWVFRmNRODBiVGxLQlVNa2RDX1l1SU9IN2x6aG5Bb1h2dm5ncXpOQmtwNnhVS3NnOUdEQ3lsa21BN2wxV25XbFFOa3B6MEtoY0ljY2dHd000aUp2M1N4ZVhBYzJraDhHeFRSVjF3ZjNoeWRCSkc1YXBpRzB3SDlWa256dFl0TkE?oc=5",
-        "timestamp": "2026-02-02T05:08:20",
-        "timestamp_display": "02. 02. 2026 05:08",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -96,6 +96,15 @@
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX0QyNENhSGhZb01Ib3dxaENpWU9TVFkwOHZXUHhDMFpxTjloNGVISXVyUEVkdnpSVlU0S2lnd0NJVVlOMDJTSzc1WjNETWJYakY1WkRkUXM3RTgtcUdHb0dDRG5nWUFVRExKR25Oc2QxMTNrcW1XLVplOV9BeEwyTThJNlREQ3N6SkstUS1JdXhvQjk4VjYtMw?oc=5",
         "timestamp": "2026-02-02T05:11:30",
         "timestamp_display": "02. 02. 2026 05:11",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Český startup roste",
+        "summary": "Český startup využil boom umělé inteligence a zaznamenal růst, poté co prošel odtučňovací kúrou.",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR09yVGgyZTVXZmZySGFQRmtsU0FXdW9oOEQyRE1yVkt2Mm43UEhPRWVFRmNRODBiVGxLQlVNa2RDX1l1SU9IN2x6aG5Bb1h2dm5ncXpOQmtwNnhVS3NnOUdEQ3lsa21BN2wxV25XbFFOa3B6MEtoY0ljY2dHd000aUp2M1N4ZVhBYzJraDhHeFRSVjF3ZjNoeWRCSkc1YXBpRzB3SDlWa256dFl0TkE?oc=5",
+        "timestamp": "2026-02-02T05:08:20",
+        "timestamp_display": "02. 02. 2026 05:08",
         "is_new": false
     },
     {
