@@ -1,12 +1,30 @@
 [
     {
+        "category": "Byznys",
+        "title": "Čeští finančníci rekordní zisky",
+        "summary": "Čeští finančníci dosáhli loni rekordních zisků, trh zaznamenal významný růst.",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTmpTSnljYzNaQ3Z3cnRsQ1pvSERwZFVfbUFyLVlFa3QxeTYtdzhUWWNhS1V0QjlBLTZVbGFXSHNtZGdZaXVXSGFxb3VYdHBBbzd6X0c1Z0Z1cTRIcDZkRThzcnd6V1dOeDVMdm9HdzFfbmJZTzRfVGgxMUpVUFZuZmd1NVRFSXJGQS1TZ3FNOFRNLWFBekdhd1lxcjBzU0V4UU1Wbmw5b251ZFRKWVo3RXZhbXV0ZmNqTTNDZUJyY3RrT202WkhEUzQ5R1BTUWhpcVByYy1tRWViaUVGVHZFWXpVdVJtQQ?oc=5",
+        "timestamp": "2026-02-03T15:21:00",
+        "timestamp_display": "03. 02. 2026 15:21",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Nová akční úvěry",
+        "summary": "Česká spořitelna nabízí spotřebitelské úvěry s garantovanou sazbou pod 5 procent.",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObENRUTFhZzNfVHJhazNNY28xRThkVzBDWnVHaUYwV25QMndTTTh5cFo3dVJ0RzdBQ19iTk41NndIX1hqSnpTT0kybDlvdi1uR0lXTk1BMlVVTk84Si1KWlZNY2tRaTdzdXVhdC1MM2s2ZTl6Sm94bGRoeGpuTzVXaGNCZ1ZfcWVVVFdiZHp1QUtjTEhZQzQySktlSnBqVGhaS29QWVVWVGdWbWp6V09yTnNJVldqbEpycEZsSVM5SDhpSHNmRlVBSG9zdjU4OS1Lc1lhMEVvZGR5TTJZaFE?oc=5",
+        "timestamp": "2026-02-03T14:33:00",
+        "timestamp_display": "03. 02. 2026 14:33",
+        "is_new": true
+    },
+    {
         "category": "Technologie",
         "title": "Poradenství pro pasivní domy",
         "summary": "Veřejnost se může dozvědět o technologiích pro pasivní domy a udržitelném bydlení na veletrzích FOR PASIV a FOR WOOD.",
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaHllVEFLWk9IN2tkZzV6VGo0aUM2dHNjZDduX19VdUlObk9VYnhSeGFJZEM1U1ZDM1lyalNkRGpTQU1vOUVGMjdDWll3SkFKMUZtMDhTS2dxT1RkMlg1TjBCWVFhUVRONk1ISEpORk5Fb21iVUVtYVFxaFJuam5ZMmNXZndYYmRDaUlIWElNSXlBNTNJdHQxUTkydG93cm96aWlNa1NRLXUzdFh0bVNtdXJOdXVlMzNERktvM0hJbldzUWRNcktIYmVsQmpFZkpCdDZYUlZpUGpiTUhkcHhpUzlGajkyQQ?oc=5",
         "timestamp": "2026-02-03T10:23:00",
         "timestamp_display": "03. 02. 2026 10:23",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
