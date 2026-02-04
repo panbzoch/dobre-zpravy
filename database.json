@@ -1,15 +1,6 @@
 [
     {
         "category": "Byznys",
-        "title": "Startupům svítá",
-        "summary": "Českým a evropským startupům se otevírají nové příležitosti, tři novinky jim svítají na lepší časy.",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQWxLTnlqT2NKTnBkajkxaU5US3FEeU1GbHBVZmcwbE9MVmRRZDVBandWVDBZRmNUb2FqTVpBcTFLMXJvREljOTNiaHVDUHVTLWJUUDJYUXpzbVB0T056cllTYlRzMXRPa1h5WDE0YnBMOWtkbTNEY01JeE1nRVdNdG4yc21NQTNscDlid0NkeEZwc0JoMVJmT0FMUFBZbXNhdl9KME12MTlXNUkzNTdKTFUwUWVGbFJ2N3JVNw?oc=5",
-        "timestamp": "2026-02-02T10:58:41",
-        "timestamp_display": "02. 02. 2026 10:58",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
         "title": "Čeští finančníci rekordní zisky",
         "summary": "Čeští finančníci dosáhli loni rekordních zisků, trh zaznamenal významný růst.",
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTmpTSnljYzNaQ3Z3cnRsQ1pvSERwZFVfbUFyLVlFa3QxeTYtdzhUWWNhS1V0QjlBLTZVbGFXSHNtZGdZaXVXSGFxb3VYdHBBbzd6X0c1Z0Z1cTRIcDZkRThzcnd6V1dOeDVMdm9HdzFfbmJZTzRfVGgxMUpVUFZuZmd1NVRFSXJGQS1TZ3FNOFRNLWFBekdhd1lxcjBzU0V4UU1Wbmw5b251ZFRKWVo3RXZhbXV0ZmNqTTNDZUJyY3RrT202WkhEUzQ5R1BTUWhpcVByYy1tRWViaUVGVHZFWXpVdVJtQQ?oc=5",
@@ -78,6 +69,15 @@
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbUQ4WW1TSFRmYml0dG4tWjBaR0NkM1ZoTnVodnlZWkJtcWVqSWM1QWEzTExfQWdjZmxjTG9VZGpUY0VwclFqOVdVZl9YNF9wTzdyb2RXNFB5cHJESV9zMmtKUVRoU01kSkdsMVhfYXJxNHZFcTJSdjEybm9iSk5hazdQcElRYXlEVjVaRHdVS0F6SV8tY1V3M1BoVTBsVGdicndxQlh4bkZhX2VUTDE2NkREdEh6YkxlYWV2a2tXY0diZWJNY3FF?oc=5",
         "timestamp": "2026-02-02T13:23:00",
         "timestamp_display": "02. 02. 2026 13:23",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Startupům svítá",
+        "summary": "Českým a evropským startupům se otevírají nové příležitosti, tři novinky jim svítají na lepší časy.",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQWxLTnlqT2NKTnBkajkxaU5US3FEeU1GbHBVZmcwbE9MVmRRZDVBandWVDBZRmNUb2FqTVpBcTFLMXJvREljOTNiaHVDUHVTLWJUUDJYUXpzbVB0T056cllTYlRzMXRPa1h5WDE0YnBMOWtkbTNEY01JeE1nRVdNdG4yc21NQTNscDlid0NkeEZwc0JoMVJmT0FMUFBZbXNhdl9KME12MTlXNUkzNTdKTFUwUWVGbFJ2N3JVNw?oc=5",
+        "timestamp": "2026-02-02T10:58:41",
+        "timestamp_display": "02. 02. 2026 10:58",
         "is_new": false
     },
     {
