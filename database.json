@@ -1,12 +1,30 @@
 [
     {
+        "category": "Věda",
+        "title": "První měsíční fotografie",
+        "summary": "Sovětská sonda Luna 9 pořídila první fotografii Měsíce před 60 lety.",
+        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNNnpKSkxZUjE1TlVpWHM4S2c1a3pXN0FjYUFGbVZEN1dRb1pGTXh5a1lVZGxFbmRWZUJILThuY2Z6N29CeWRwWUp2THduSlVOQ2NUOW04QUNkV1lfdEo2WUFhaFdGUmhxcFNuMnRWdTlfeGY1ajJIVGhhNmNmZGVlc2l3WlZibUcyVk8yWTlXRUFvQ0RBVUxycDJsSEZST3VZMjNuaGkxTGZFRm1kYnJmZ0Y1cTJHMkRqSHdIekd0UlhHN3h0dXRMRXI4dDIyVWFNeXpCMllEei1waC12N0l4cGcxd1RaOWotdGpya3ZSbTRWYXhKYzdoY2t6MDg3b2ZDQXphZVRpdVprVEVSSy1B?oc=5",
+        "timestamp": "2026-02-04T14:13:10",
+        "timestamp_display": "04. 02. 2026 14:13",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Finský startup spustil baterii",
+        "summary": "Finský startup TheStorage spustil průmyslovou pískovou baterii v pivovaru pro ukládání energie.",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcUZRcWgwVnhwVk9nTFItWWhhRnVQZFRNY1VwOWp5dFhodXktdkpyRDRwUmNhNzFvc1hUTzUtR3hKZlJNX2JpQ0tkX1pPMFBVeF9Pd2VPVVpYeHVEWWhmR0F1VUlsVFpCUno1Wk1nVEVJZGF6aDVWNnVMOUI1TjVNc3NXaUNJZTZDd3M1eXpEbllLZE01UGYxR1ZxNTJYRkxvWWtrR1Ewc3A?oc=5",
+        "timestamp": "2026-02-02T01:12:27",
+        "timestamp_display": "02. 02. 2026 01:12",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "Raiffeisenbank vylepšuje aplikaci",
         "summary": "Raiffeisenbank přidala do své aplikace Dětský účet a chytrý přehled spoření.",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPY0xFcHlSUHlJMnhXS09jNGZ0ZG9Qc1NwaGRidHVnNmEwTFFWWXcyMmN5ZmstSDFWM0RYTjktOUtfZUVfbHB0a1dpTlVXeVJfbG9kNFNoTHh1XzJMZERjdUdWVFFSLVJVd2RrZ2Vtb3VHbDJSMzVWQmYxZmtMNGx2emY1S3h2U2ZMTTNSaDNocVIwTHJIaEQ5T1pSZmdGb1lzMmdBMHF5V1Z5eTRFSkR6RkFrV1J0aGpwT3VaQTNhazJaSVU4M0E?oc=5",
         "timestamp": "2026-02-04T11:38:00",
         "timestamp_display": "04. 02. 2026 11:38",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -15,7 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVWxFeW8ySEVSQ1dDMjNFVFY0cURUR3JGcTY4dFVXa09iWWMxZ2cxdlJJSVNGTTBrcFRZaHliNmpvNEdPNW5UUWF2cGJMbnF5WWNJeVEzM0kzUERGYmZFa0h5TFd1VzZ0RDQzUUhpSFVwMWM3MHhNQzZEc3RBSmNzUU15a1RadWxiQmg0ZTg1dzZvaVp5T3ZTQkg2OW1BdllKZ3FHZmFRX0JObV9RWDRpWGhYbm5UOEtxME1IS3llOEEzdzRQdlNOQ3o2Tmd4ejZQVTUxbWRkRERUNHYwaDRESnN1ZURmaTExTlNaT1pZaw?oc=5",
         "timestamp": "2026-02-04T10:43:10",
         "timestamp_display": "04. 02. 2026 10:43",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,7 +42,7 @@
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdUlJQXVBN09KQ1VfeGVTYVk0SlozOTAxOE5ZQ2N1QVFBdy11bWhnZ0EzcVlJbVB1T3YxM2s0U2ZNNFJlLUVrR0kxdUNJZndLSkxCOHVMWnVzN3B5VUZWYW9nQ3B4c3gxSDJkWnJzcVhtRVZRVkhJVzZEbnZGTjRoV2x1ZWZlcERCcWVaU2JhMG5hM3pvZWZqWl9yVjlMdw?oc=5",
         "timestamp": "2026-02-04T10:37:42",
         "timestamp_display": "04. 02. 2026 10:37",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,7 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbWRCV1Nwejh3cXlTNFo5UE1YT3ozMFMyY1U5U2daazUwam1rMHdrRHJKaDZqenZaX1FXeUZwTlRCdERta0M3Y0NQTFpCSDNaX0FjZ3REd1h3UnlTOGc5TE9vVDlJSzZzQ1pNcDg1UkFaZ1BJbTNIVldRVHNjTG5lMGctQ1lWZXA3TnhaeDVLTGJmNVpjXzNTeFJVN0xtMVJVdkRfVGptQUZEdWtqR05KWFZLeFhmLTY2UmlickJWOXBUYXkwR0U1MnkzdWRFS0gwWDFVWWpta0ZwYkhoWVBDcE55ZUdNX2ItYmo4clhR?oc=5",
         "timestamp": "2026-02-04T10:25:00",
         "timestamp_display": "04. 02. 2026 10:25",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
