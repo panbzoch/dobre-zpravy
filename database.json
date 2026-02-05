@@ -1,21 +1,48 @@
 [
     {
+        "category": "Byznys",
+        "title": "Alphabet překonal 400 mld",
+        "summary": "Alphabet dosáhl rekordních tržeb přes 400 miliard dolarů, díky růstu cloudových a AI služeb.",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVDlUbkhNeGc5TklVYlJhSmU2Z1BjRlFNWnFvY2s2V3pyaDlwSzBBUjdLYlNIUTZlSXVLNEt3aWdtNl84SzBIUC1qa1NvUXk1WVN2SnZLM3Ztdmdjb2l4U1VYRzZHTVE2ZlI4VzFkTXNHSTd6T3JSWXVoMkhObHVsczYyZXZ6b3htN2VKdVIzVlJqM3Q2U3RITWJaTXNPTDFBZzkwcnhoekZWdVhrc01BR094VVZOVWI1Y2JXS3FlVThDRU4tRjM5WTRycDlWQQ?oc=5",
+        "timestamp": "2026-02-05T06:02:00",
+        "timestamp_display": "05. 02. 2026 06:02",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Seyfor raketově roste",
+        "summary": "Seyfor díky efektivní komunikaci zaznamenává rychlý růst napříč zeměmi a kulturami.",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVGlwZjlRZUtsckZRbEcxeWpXeVFFUGJyV2ptNkpTNUJlSmVmbmgtaGZHUXZNZFVaM0xISjh1TDV2czktSE1sZE9EWlIycXhMQl8xcHJURV8wZUZwMDVoOHNENHMyNEJ4VFFhTkpqeGpMdS1HUW9rMHhWWi1HdmYzc2RHLTA2OGNPSFRyZWotTDd1MS1Dd1NCcUpYYXN3MmRHZ2tITHlSQ3BuZm1BZUxsUWVpa1dGSDkxWUwySzNUNTY1TGRnaWd3NzFHaUdVMWpENHdN?oc=5",
+        "timestamp": "2026-02-05T05:00:00",
+        "timestamp_display": "05. 02. 2026 05:00",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "AI seriál od režiséra",
+        "summary": "Režisér uvedl seriál vytvořený s umělou inteligencí, což může být revolucí ve filmovém průmyslu.",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWXhrbFBQbHczTjdvbkFyeFlueE1wRjViWU9EMDhSbnNyNGljM3lQUG1aNHJWdXRPajduRVVGRUxCekNWOVV6Z3ctU0JJWW1rRDl0b3UxQ2tFdHBnS0tXN1M4eVZCTVlMZmRPNFU4YnJwTWxoTG9KS0YyMWdOZTU1TDJWTkU0eEJFdng0b2RxWWhmakZRME9HMXFlMjBiSWwxRHAw?oc=5",
+        "timestamp": "2026-02-04T18:06:49",
+        "timestamp_display": "04. 02. 2026 18:06",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Investice může změnit život, jeden dobrý tah může vést k úspěchu a finančním ziskům.",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TaXljMXFqc01jb3BxYkVkWEhMajJ2WGZWRGUzOGVEeTBWQ2xtelAtZk1aejdaUzhyM1otanhEcEUxUi1XOHJyRmNhNjhoZWE2dXpGblIzUUlYUQ?oc=5",
+        "timestamp": "2026-02-04T16:14:55",
+        "timestamp_display": "04. 02. 2026 16:14",
+        "is_new": true
+    },
+    {
         "category": "Věda",
         "title": "První měsíční fotografie",
         "summary": "Sovětská sonda Luna 9 pořídila první fotografii Měsíce před 60 lety.",
         "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNNnpKSkxZUjE1TlVpWHM4S2c1a3pXN0FjYUFGbVZEN1dRb1pGTXh5a1lVZGxFbmRWZUJILThuY2Z6N29CeWRwWUp2THduSlVOQ2NUOW04QUNkV1lfdEo2WUFhaFdGUmhxcFNuMnRWdTlfeGY1ajJIVGhhNmNmZGVlc2l3WlZibUcyVk8yWTlXRUFvQ0RBVUxycDJsSEZST3VZMjNuaGkxTGZFRm1kYnJmZ0Y1cTJHMkRqSHdIekd0UlhHN3h0dXRMRXI4dDIyVWFNeXpCMllEei1waC12N0l4cGcxd1RaOWotdGpya3ZSbTRWYXhKYzdoY2t6MDg3b2ZDQXphZVRpdVprVEVSSy1B?oc=5",
         "timestamp": "2026-02-04T14:13:10",
         "timestamp_display": "04. 02. 2026 14:13",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Finský startup spustil baterii",
-        "summary": "Finský startup TheStorage spustil průmyslovou pískovou baterii v pivovaru pro ukládání energie.",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcUZRcWgwVnhwVk9nTFItWWhhRnVQZFRNY1VwOWp5dFhodXktdkpyRDRwUmNhNzFvc1hUTzUtR3hKZlJNX2JpQ0tkX1pPMFBVeF9Pd2VPVVpYeHVEWWhmR0F1VUlsVFpCUno1Wk1nVEVJZGF6aDVWNnVMOUI1TjVNc3NXaUNJZTZDd3M1eXpEbllLZE01UGYxR1ZxNTJYRkxvWWtrR1Ewc3A?oc=5",
-        "timestamp": "2026-02-02T01:12:27",
-        "timestamp_display": "02. 02. 2026 01:12",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -222,6 +249,15 @@
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV2xCTHF0ZzNqN05ReGppZ1dyTVQwRDJyTk42eHhPZUpRcU5XU2ZqYXRPSE9jTlZTeXRILXYwRTVIMERrY2pFRHZHNFVJay1ZWXVmZkFEczJRUGJfbmUwYkZDR2N0SHlXZW9mdnRJNnlMY3FVODBtcDVhcUJrUGdpNG1hLV82c1hTZ3JzVGVKYUFodXMtX202eDNGaHlXc2VweVBNb25Vb3MtRlRMQzNhVjFmemZncHRQMF9XdWtMSmxhYW1jT1J6QkY2TlhqNEpaQkVr?oc=5",
         "timestamp": "2026-02-02T04:12:00",
         "timestamp_display": "02. 02. 2026 04:12",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Finský startup spustil baterii",
+        "summary": "Finský startup TheStorage spustil průmyslovou pískovou baterii v pivovaru pro ukládání energie.",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcUZRcWgwVnhwVk9nTFItWWhhRnVQZFRNY1VwOWp5dFhodXktdkpyRDRwUmNhNzFvc1hUTzUtR3hKZlJNX2JpQ0tkX1pPMFBVeF9Pd2VPVVpYeHVEWWhmR0F1VUlsVFpCUno1Wk1nVEVJZGF6aDVWNnVMOUI1TjVNc3NXaUNJZTZDd3M1eXpEbllLZE01UGYxR1ZxNTJYRkxvWWtrR1Ewc3A?oc=5",
+        "timestamp": "2026-02-02T01:12:27",
+        "timestamp_display": "02. 02. 2026 01:12",
         "is_new": false
     },
     {
