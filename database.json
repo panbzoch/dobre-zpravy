@@ -1,12 +1,30 @@
 [
     {
+        "category": "Věda",
+        "title": "Biotrezor pro zvířata",
+        "summary": "Startup Colossal chce uschovat miliony vzorků ohrožených zvířat pro budoucí ochranu.",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaURVckl2aUt2Wnl1cy1YZ0JoMk1EQThPQjNRYmJoNnVjT2s0NFlGdnJEUGlCaVREVFk0MXZ0YnRpQmg1Y1lBbXZoNHE1SE1tZ1J5TTVFVkVhYzRLZ3kxdW5zaEZwWmhqc01iWkZHYjk3WWdseUsyNWlEenNUdjVwU3gtZ1VLVzliNm9qdmJXcEhZUzJBQ0Zlb2xRcw?oc=5",
+        "timestamp": "2026-02-05T10:05:02",
+        "timestamp_display": "05. 02. 2026 10:05",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Nová technologie pro tkáň",
+        "summary": "BTL vyvinul technologii, která může stimulovat línou tkáň k aktivitě, říká Tomáš Drbal.",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNlpZVk12RkhyOFNHVl9YeHZZTXQ0YklFcFVkV0JEbFRkdDNKZ3BSR2ptQXRQTzZ2TmVLR0NwV2R4ME5nSGlRSFptWHFod0JJVGlfZW9heExDWHBlYjF6RG9FenFuRFBBWHFoZEJsNmllbE5zWTZGSmoxTW5DREx4RWNNRkJIb3pLRGVVV1V5M09hNnZXSUNKS3JQSFlxUDZ5d3JxejVldlBTTFRYZnpYNkIxeHZ4SXc4MkxkUUE5OA?oc=5",
+        "timestamp": "2026-02-05T08:00:00",
+        "timestamp_display": "05. 02. 2026 08:00",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "Alphabet překonal 400 mld",
         "summary": "Alphabet dosáhl rekordních tržeb přes 400 miliard dolarů, díky růstu cloudových a AI služeb.",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVDlUbkhNeGc5TklVYlJhSmU2Z1BjRlFNWnFvY2s2V3pyaDlwSzBBUjdLYlNIUTZlSXVLNEt3aWdtNl84SzBIUC1qa1NvUXk1WVN2SnZLM3Ztdmdjb2l4U1VYRzZHTVE2ZlI4VzFkTXNHSTd6T3JSWXVoMkhObHVsczYyZXZ6b3htN2VKdVIzVlJqM3Q2U3RITWJaTXNPTDFBZzkwcnhoekZWdVhrc01BR094VVZOVWI1Y2JXS3FlVThDRU4tRjM5WTRycDlWQQ?oc=5",
         "timestamp": "2026-02-05T06:02:00",
         "timestamp_display": "05. 02. 2026 06:02",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVGlwZjlRZUtsckZRbEcxeWpXeVFFUGJyV2ptNkpTNUJlSmVmbmgtaGZHUXZNZFVaM0xISjh1TDV2czktSE1sZE9EWlIycXhMQl8xcHJURV8wZUZwMDVoOHNENHMyNEJ4VFFhTkpqeGpMdS1HUW9rMHhWWi1HdmYzc2RHLTA2OGNPSFRyZWotTDd1MS1Dd1NCcUpYYXN3MmRHZ2tITHlSQ3BuZm1BZUxsUWVpa1dGSDkxWUwySzNUNTY1TGRnaWd3NzFHaUdVMWpENHdN?oc=5",
         "timestamp": "2026-02-05T05:00:00",
         "timestamp_display": "05. 02. 2026 05:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -24,7 +42,7 @@
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWXhrbFBQbHczTjdvbkFyeFlueE1wRjViWU9EMDhSbnNyNGljM3lQUG1aNHJWdXRPajduRVVGRUxCekNWOVV6Z3ctU0JJWW1rRDl0b3UxQ2tFdHBnS0tXN1M4eVZCTVlMZmRPNFU4YnJwTWxoTG9KS0YyMWdOZTU1TDJWTkU0eEJFdng0b2RxWWhmakZRME9HMXFlMjBiSWwxRHAw?oc=5",
         "timestamp": "2026-02-04T18:06:49",
         "timestamp_display": "04. 02. 2026 18:06",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,7 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TaXljMXFqc01jb3BxYkVkWEhMajJ2WGZWRGUzOGVEeTBWQ2xtelAtZk1aejdaUzhyM1otanhEcEUxUi1XOHJyRmNhNjhoZWE2dXpGblIzUUlYUQ?oc=5",
         "timestamp": "2026-02-04T16:14:55",
         "timestamp_display": "04. 02. 2026 16:14",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
