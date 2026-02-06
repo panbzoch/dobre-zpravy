@@ -1,12 +1,30 @@
 [
     {
+        "category": "Technologie",
+        "title": "Čeští čipové specialisté",
+        "summary": "Čeští specialisté na čipy z Prahy se podílejí na misi Artemis, která zajišťuje bezpečnost astronautů.",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQWZVS09VR1h4U01JbUVTbzdrTkZLekhPODNtS3A4NjVQVmV1bnEwREtvN3JBc1Y5WUJuMUlsYXpCYmg3bXlWZWhMbWRNZ1JUQTFYNzJtZ0R5VWs4S2RWWWtBemZqYlh2OEpNREFjeWlJd2JhSU1WRTFlMHNkRjBVNG9ibjhkc2NwSkZweWtSTnJHZzNhMUJmTjZ1bnB5UFBzX0UyOGxRRkdZMXhKRlJ6eDRn?oc=5",
+        "timestamp": "2026-02-06T15:00:00",
+        "timestamp_display": "06. 02. 2026 15:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Tatra Trucks zvýšila tržby",
+        "summary": "Tatra Trucks zvýšila tržby navzdory nižší produkci a prodeji vozidel.",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMGtObzk4a1pXd1I3UkV1MExoRmw5QW9FSHNBaDJXckJYQllsYjVaRWh3bWhjakhZNHY5ckYtckxTdzRSV084Wk1UbFZtbUU5d2VGZXo5SDBPSWE3R1dMUkVYSmExMVgtYkNMT0ZIdFgzZzN2S2dtRGxRQ25PSllVYmZKamJPYTRTRVNjdDJITDVvSGJPakNfaHFXV1dSWXBmdXc5QzhSTGhFclFXT3BiQ0xZbzFPMGpxTmEzU0pMd3lya05KWXpidXZrcw?oc=5",
+        "timestamp": "2026-02-06T14:40:00",
+        "timestamp_display": "06. 02. 2026 14:40",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "Zisk komerční banky",
         "summary": "Komerční banka zvýšila zisk na 18 miliard, který bude rozdělen mezi akcionáře.",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVUlRRHpQQzB2NndyNGhoYzZ4YW1oUUlDVkdVeFotbWl2cENvZEQ4dFI5Z0JINXF1dkJYUm9kTHpFN3NvSlItdENXeWUxdndRSkp0UDBKUFY3TGlUVlV4aTNFR0lld0owQ1EzT2tJc0NyQXk4Z2hXY2hFZlZMVUF0VHBQNWtXeGZMTTNDTkZmUThrUWZGZlNuWFF1WG1JdkQ3UTVFY0lnekdGbVk2cm8wR1QzZTlLNXVQbGpVaw?oc=5",
         "timestamp": "2026-02-06T07:10:00",
         "timestamp_display": "06. 02. 2026 07:10",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,16 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMXhkdGJxNmpZdHZRdzA2ZkNwd3ZhVGRLZUJBVWUwd3BocDBhU0JmX0ZkbWpzampLRUtlZXNUNnV3OUx6OWM3V24zQkNTcEJqcmtZSFVFZGd3UTdzUE02WlZLcEtITWdVY2VTX0p5UmlaNWZmdW1BNF8zeWpvTXlsR1NrQkFuall2QjctbWhPS0lHSEZxNkcyTzM1T2x3YkoyRkFXSF9XS2FzZHBSMklhRHRBQmpSNFM5a2RTN3ozWUJqV1dGMGlqSmNIa3EyZXFHMlZsc2M3SE90cEZHNWlvR2s5VXZkdw?oc=5",
         "timestamp": "2026-02-06T05:00:00",
         "timestamp_display": "06. 02. 2026 05:00",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Nová naděje pro vily",
-        "summary": "Developer zachová část vil a postaví nové byty.",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORm83UmRJTl9mdDZUTDFrNFF4ZUZFVm5GVnRKQ2ZPcndJVk10M2hJaVQ5d2s3WWxaTUlhRVVSUEpUdnU0ODQ1QWlhcVYtMlMtZ1NBWUM1QUlZWmVhbDFNQnhpbnNZYy1ycFhVV0I3alhUdmNsYnJ5TklNN2xOYzg1RHlDYmZvYmpvWWpOdGd1cy1uUU9FZnczMUVhLVJ6Ylh6OGNHSnFkbEpVczFYMU5sM1VJZE9tMURwaVAyZkdibHZXckh0MlhpNkRtQjdYUDdNTklyMFpaYmhDY3N4VWhfSmdhY1pOV0Z6aFE?oc=5",
-        "timestamp": "2026-02-05T13:52:51",
-        "timestamp_display": "05. 02. 2026 13:52",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -42,6 +51,15 @@
         "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPQXpVT1FyMXpKMk1pX1QtVmcxazRndzN4M2hNZUFueDJMVEpRS1FxX0hmZUJQQ3lLTVFoYjZpUkMwWlJlNGJEdm9QUmxKNURDU2ViNkpXaXc0Z21RZ1NPRy1vRzlDVEFUTTY0Z09JTV9ORklBemNWRTJlTnI0LTdDOXR2bjRPbHJqYzg1NE9jN3BaQ1hHTGE4eV9YOGk3bHlIRmk0ZHFfRUlHY2FVSWNaMkFsUFVSY0V0QU16TWxDcTMtd2o0UThqVXRMSzgwNERqUDZuandHdHJURGd1ZkNnaUhMZVplQ1VIcTV4TGZNYm5CR2FjeXZoa2k2NDFYNzVjNHpSUVBRbWhRU1hXUkE?oc=5",
         "timestamp": "2026-02-05T14:03:45",
         "timestamp_display": "05. 02. 2026 14:03",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Nová naděje pro vily",
+        "summary": "Developer zachová část vil a postaví nové byty.",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORm83UmRJTl9mdDZUTDFrNFF4ZUZFVm5GVnRKQ2ZPcndJVk10M2hJaVQ5d2s3WWxaTUlhRVVSUEpUdnU0ODQ1QWlhcVYtMlMtZ1NBWUM1QUlZWmVhbDFNQnhpbnNZYy1ycFhVV0I3alhUdmNsYnJ5TklNN2xOYzg1RHlDYmZvYmpvWWpOdGd1cy1uUU9FZnczMUVhLVJ6Ylh6OGNHSnFkbEpVczFYMU5sM1VJZE9tMURwaVAyZkdibHZXckh0MlhpNkRtQjdYUDdNTklyMFpaYmhDY3N4VWhfSmdhY1pOV0Z6aFE?oc=5",
+        "timestamp": "2026-02-05T13:52:51",
+        "timestamp_display": "05. 02. 2026 13:52",
         "is_new": false
     },
     {
