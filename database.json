@@ -6,25 +6,7 @@
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPakxwLWtNRGFaNFE4R1FYWVBzdjVBMzZxc2g0WWRTSm9lTnNXTjZLWE9mVmdFQm5SR2d6X1dpV2ZtWl9NWkVld0FkQzVFUmNsS0dURHFGZ0xWQ3pSVTZ2MjRCTTlwTVF3OWJSNmNXTFBZOVA4djV2N2o4YmhhWmgtUVhNcVpERzJtbFdMbEZnOUlJTk5hSXd2ZVlSMDhWdk9HZUg3STF4b3kzQ1lGRjZnWWFKYW5oU2IwRTVQN1lYYkxNdklSSUlOZEszZFRsRm1rUTZWN0RXc0tCQ2s?oc=5",
         "timestamp": "2026-02-06T05:00:00",
         "timestamp_display": "06. 02. 2026 05:00",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Seyfor raketově roste",
-        "summary": "Seyfor díky efektivní komunikaci zaznamenává rychlý růst a úspěch.",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUjR1N18tbFZPWlRSYTRWRWJRT0RnNGRSeU1FcmhZM1M2T0N1VUFlNmcxcGhSZlp6UWZ5Q2gyc1ZlckZ4SHpfbEJTMnVKSVFTOTFsY0l1eUh0eWZ2R3NzVDByREFNZ090N0toUEIzU0pwcTROdTVzb2owZjZmdW5xMkhoeXBqMDVHOGJ0MGtiejQ3djN3S0NBU0pyR1lnMzdCTU1XR28xV2hlTHBvSjlSaldNTi1ONlYtc1F4YUhEZVB5S0UyU2RRYThqOA?oc=5",
-        "timestamp": "2026-02-05T10:10:00",
-        "timestamp_display": "05. 02. 2026 10:10",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Zvýšení limitu DPH",
-        "summary": "Ministerstvo financí navrhuje zvýšit limit pro placení DPH na tři miliony korun, což by pomohlo malým a středním podnikům.",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPb0xNS0FDQThkNDdYNTJURHQwdTdobDExS1luQ1JnejVleDl0Ujc0Q2ZzSnBfWUZZSVVZQTNHeXRkTHUxZVR3MFl6bjJ0bWRZa1ZIeWxRVkdaenhUMjFMZEI5YWdXZTM4dU00WWxnb2dCdHNDMTFzVXRRb29EbkJjTDhxYnlWSjZzaE4wVzJpMmVUYnVGcXFsMk1RNmdSZGpJQ2s3Uy1rNmFkVHRoOEI2M1FodThkUlMyd0lhUzE4LXdjWl8tY0o2Q2JMdHFwaFJrVFdWY1NUb0kzQWN5SVBaU1pn?oc=5",
-        "timestamp": "2026-02-05T04:00:00",
-        "timestamp_display": "05. 02. 2026 04:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -42,6 +24,15 @@
         "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOTmVVRjhHaDhWRkdfMDl1TlNOUE9CaTFHVlBzS01vX1NyU0RJZGJ4amNXWnpNdFNiMG02LTYwUWwwLXlhUWZ1TkpCZlNyMWNPQ09uOC1ONjFPbWdROUhINF9ZU093Rm5uRVNXWWlPc2VHUnpVQ1VHZS1sYXJfbmQtS0xCeVJZVW8xUXFVNllJZmQ5MVlCOGRRQjZXM3NxWXNsLU9YY1p0MWNQWkhab0NkWGtTazVWS2xZSnR4bEFYNUg3aXZ0Zl9rWVQzdnViaGJNcXVSRWIwVEdSMnl4b3prSUw5Nm9KbHdaNVRVOXZ6NjVLUmcyTDdJWHYzdw?oc=5",
         "timestamp": "2026-02-05T10:53:34",
         "timestamp_display": "05. 02. 2026 10:53",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Seyfor raketově roste",
+        "summary": "Seyfor díky efektivní komunikaci zaznamenává rychlý růst a úspěch.",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUjR1N18tbFZPWlRSYTRWRWJRT0RnNGRSeU1FcmhZM1M2T0N1VUFlNmcxcGhSZlp6UWZ5Q2gyc1ZlckZ4SHpfbEJTMnVKSVFTOTFsY0l1eUh0eWZ2R3NzVDByREFNZ090N0toUEIzU0pwcTROdTVzb2owZjZmdW5xMkhoeXBqMDVHOGJ0MGtiejQ3djN3S0NBU0pyR1lnMzdCTU1XR28xV2hlTHBvSjlSaldNTi1ONlYtc1F4YUhEZVB5S0UyU2RRYThqOA?oc=5",
+        "timestamp": "2026-02-05T10:10:00",
+        "timestamp_display": "05. 02. 2026 10:10",
         "is_new": false
     },
     {
@@ -87,6 +78,15 @@
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVGlwZjlRZUtsckZRbEcxeWpXeVFFUGJyV2ptNkpTNUJlSmVmbmgtaGZHUXZNZFVaM0xISjh1TDV2czktSE1sZE9EWlIycXhMQl8xcHJURV8wZUZwMDVoOHNENHMyNEJ4VFFhTkpqeGpMdS1HUW9rMHhWWi1HdmYzc2RHLTA2OGNPSFRyZWotTDd1MS1Dd1NCcUpYYXN3MmRHZ2tITHlSQ3BuZm1BZUxsUWVpa1dGSDkxWUwySzNUNTY1TGRnaWd3NzFHaUdVMWpENHdN?oc=5",
         "timestamp": "2026-02-05T05:00:00",
         "timestamp_display": "05. 02. 2026 05:00",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Zvýšení limitu DPH",
+        "summary": "Ministerstvo financí navrhuje zvýšit limit pro placení DPH na tři miliony korun, což by pomohlo malým a středním podnikům.",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPb0xNS0FDQThkNDdYNTJURHQwdTdobDExS1luQ1JnejVleDl0Ujc0Q2ZzSnBfWUZZSVVZQTNHeXRkTHUxZVR3MFl6bjJ0bWRZa1ZIeWxRVkdaenhUMjFMZEI5YWdXZTM4dU00WWxnb2dCdHNDMTFzVXRRb29EbkJjTDhxYnlWSjZzaE4wVzJpMmVUYnVGcXFsMk1RNmdSZGpJQ2s3Uy1rNmFkVHRoOEI2M1FodThkUlMyd0lhUzE4LXdjWl8tY0o2Q2JMdHFwaFJrVFdWY1NUb0kzQWN5SVBaU1pn?oc=5",
+        "timestamp": "2026-02-05T04:00:00",
+        "timestamp_display": "05. 02. 2026 04:00",
         "is_new": false
     },
     {
