@@ -1,12 +1,30 @@
 [
     {
+        "category": "Byznys",
+        "title": "Toyota chystá modelovou ofenzivu",
+        "summary": "Toyota upevňuje pozici na českém trhu a plánuje největší modelovou ofenzivu za roky.",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQkM1SmtuUEtyaXp6V3pORTdLX3hYRnlQVjFwalU1TEJia2lxa29zeW9XSVVPRGhvaGZyd0tVMTNkSWgtMzRYVmFHaU5VTVNKVFVwdnlKbWxaWGdxYl82YU9sNGZMUmpSVEsyQWNSZjJOTWNIcFNCa0dpZVBqaVBQNC1TNlF5SUYyWE1helpMaTQwS1UtTlF6MlE2TmtPeEYycF9nYVRIalB5cXQwMUJiSEtqUmNTdjdoRzRUdXpJN3ZHTkIxSWc?oc=5",
+        "timestamp": "2026-02-07T05:30:00",
+        "timestamp_display": "07. 02. 2026 05:30",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Chat s AI Buffettem",
+        "summary": "Chatbot simuluje investiční rady Warrena Buffetta, nabízí investiční rady a názory.",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMFliTFpJdTZnZWxZNnNDNHk0ZmZtSTZMM2FHbklJM05wcTBrTU1tUlY3VTJUWWlVZXIydW9BSmJHT29ZLU5wWG5XV2VGd1d5WUU1Q2t0eTk3aXhRLTRGTGJVZ2dvUnJRRFZoMDN6T3dHTnowWFItbHJ4TER1Q0hIUE5wd1dKY0hlUHFWZXRtYmhrRXRLcElXYTA1LW9uZkF6aFV0cHpSMW95N3RPQTVOMlozVEpTbkdUU1FQOA?oc=5",
+        "timestamp": "2026-02-05T14:51:47",
+        "timestamp_display": "05. 02. 2026 14:51",
+        "is_new": true
+    },
+    {
         "category": "Technologie",
         "title": "Čeští čipové specialisté",
         "summary": "Čeští specialisté na čipy z Prahy se podílejí na misi Artemis, která zajišťuje bezpečnost astronautů.",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQWZVS09VR1h4U01JbUVTbzdrTkZLekhPODNtS3A4NjVQVmV1bnEwREtvN3JBc1Y5WUJuMUlsYXpCYmg3bXlWZWhMbWRNZ1JUQTFYNzJtZ0R5VWs4S2RWWWtBemZqYlh2OEpNREFjeWlJd2JhSU1WRTFlMHNkRjBVNG9ibjhkc2NwSkZweWtSTnJHZzNhMUJmTjZ1bnB5UFBzX0UyOGxRRkdZMXhKRlJ6eDRn?oc=5",
         "timestamp": "2026-02-06T15:00:00",
         "timestamp_display": "06. 02. 2026 15:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMGtObzk4a1pXd1I3UkV1MExoRmw5QW9FSHNBaDJXckJYQllsYjVaRWh3bWhjakhZNHY5ckYtckxTdzRSV084Wk1UbFZtbUU5d2VGZXo5SDBPSWE3R1dMUkVYSmExMVgtYkNMT0ZIdFgzZzN2S2dtRGxRQ25PSllVYmZKamJPYTRTRVNjdDJITDVvSGJPakNfaHFXV1dSWXBmdXc5QzhSTGhFclFXT3BiQ0xZbzFPMGpxTmEzU0pMd3lya05KWXpidXZrcw?oc=5",
         "timestamp": "2026-02-06T14:40:00",
         "timestamp_display": "06. 02. 2026 14:40",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
