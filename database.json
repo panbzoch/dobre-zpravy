@@ -6,16 +6,7 @@
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQkM1SmtuUEtyaXp6V3pORTdLX3hYRnlQVjFwalU1TEJia2lxa29zeW9XSVVPRGhvaGZyd0tVMTNkSWgtMzRYVmFHaU5VTVNKVFVwdnlKbWxaWGdxYl82YU9sNGZMUmpSVEsyQWNSZjJOTWNIcFNCa0dpZVBqaVBQNC1TNlF5SUYyWE1helpMaTQwS1UtTlF6MlE2TmtPeEYycF9nYVRIalB5cXQwMUJiSEtqUmNTdjdoRzRUdXpJN3ZHTkIxSWc?oc=5",
         "timestamp": "2026-02-07T05:30:00",
         "timestamp_display": "07. 02. 2026 05:30",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Chat s AI Buffettem",
-        "summary": "Chatbot simuluje investiční rady Warrena Buffetta, nabízí investiční rady a názory.",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMFliTFpJdTZnZWxZNnNDNHk0ZmZtSTZMM2FHbklJM05wcTBrTU1tUlY3VTJUWWlVZXIydW9BSmJHT29ZLU5wWG5XV2VGd1d5WUU1Q2t0eTk3aXhRLTRGTGJVZ2dvUnJRRFZoMDN6T3dHTnowWFItbHJ4TER1Q0hIUE5wd1dKY0hlUHFWZXRtYmhrRXRLcElXYTA1LW9uZkF6aFV0cHpSMW95N3RPQTVOMlozVEpTbkdUU1FQOA?oc=5",
-        "timestamp": "2026-02-05T14:51:47",
-        "timestamp_display": "05. 02. 2026 14:51",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -60,6 +51,15 @@
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPakxwLWtNRGFaNFE4R1FYWVBzdjVBMzZxc2g0WWRTSm9lTnNXTjZLWE9mVmdFQm5SR2d6X1dpV2ZtWl9NWkVld0FkQzVFUmNsS0dURHFGZ0xWQ3pSVTZ2MjRCTTlwTVF3OWJSNmNXTFBZOVA4djV2N2o4YmhhWmgtUVhNcVpERzJtbFdMbEZnOUlJTk5hSXd2ZVlSMDhWdk9HZUg3STF4b3kzQ1lGRjZnWWFKYW5oU2IwRTVQN1lYYkxNdklSSUlOZEszZFRsRm1rUTZWN0RXc0tCQ2s?oc=5",
         "timestamp": "2026-02-06T05:00:00",
         "timestamp_display": "06. 02. 2026 05:00",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Chat s AI Buffettem",
+        "summary": "Chatbot simuluje investiční rady Warrena Buffetta, nabízí investiční rady a názory.",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMFliTFpJdTZnZWxZNnNDNHk0ZmZtSTZMM2FHbklJM05wcTBrTU1tUlY3VTJUWWlVZXIydW9BSmJHT29ZLU5wWG5XV2VGd1d5WUU1Q2t0eTk3aXhRLTRGTGJVZ2dvUnJRRFZoMDN6T3dHTnowWFItbHJ4TER1Q0hIUE5wd1dKY0hlUHFWZXRtYmhrRXRLcElXYTA1LW9uZkF6aFV0cHpSMW95N3RPQTVOMlozVEpTbkdUU1FQOA?oc=5",
+        "timestamp": "2026-02-05T14:51:47",
+        "timestamp_display": "05. 02. 2026 14:51",
         "is_new": false
     },
     {
