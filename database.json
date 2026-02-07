@@ -1,11 +1,11 @@
 [
     {
-        "category": "Byznys",
-        "title": "Společnost mění život",
-        "summary": "Společnost může změnit život jedné věty, inspirující článek na forbes.cz.",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xMGZTQnBZTHNxQVFxMG9pVmZYYk8xVFJGNnhZZm5rWGFFc3FvWGxmUXVNMWdhWlQ2NmlueDNxUFVCVktuUm1BUEg2QUY2VVlXUnNWT0JZelVLdXc?oc=5",
-        "timestamp": "2026-02-04T13:05:27",
-        "timestamp_display": "04. 02. 2026 13:05",
+        "category": "Věda",
+        "title": "Obří mrak temné hmoty",
+        "summary": "Vědci objevili obří mrak temné hmoty poblíž Sluneční soustavy, který mění dráhy neutronových hvězd.",
+        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOUlA3V0RNcjBpdG04dDJVQkoxckxwRlFQMkN4ek15S1RqaG0xM3Y5eTFiR2RLa2p3bVVhc1lLLWNiRGFoamlBU2s3WUt1YlpxemcxaVg5T191RnJ5SDc0QTh0cDRyUFdzMW9ZX045OGZzanlkNkYxaXM0ZWR2SGpzUm1xelEtcmZGX0JrWE5hTi1VM3ppRTVrRHB3eFNqZ280N3BuQThSSEQtSVBzaWpLQU45WS1IZTV2ZDVBZ0tBVWFYWm5XWFF5aHpNNnFHNl9fckw2X0trT3BGNnl4LWh1cHQ5bnFzZkFoTlY2UXNGR3dTZHhYdXowSkJOZnpEZkhEQTFZLW1sazdlaE0wWWd0VA?oc=5",
+        "timestamp": "2026-02-07T15:36:44",
+        "timestamp_display": "07. 02. 2026 15:36",
         "is_new": true
     },
     {
@@ -186,6 +186,15 @@
         "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNNnpKSkxZUjE1TlVpWHM4S2c1a3pXN0FjYUFGbVZEN1dRb1pGTXh5a1lVZGxFbmRWZUJILThuY2Z6N29CeWRwWUp2THduSlVOQ2NUOW04QUNkV1lfdEo2WUFhaFdGUmhxcFNuMnRWdTlfeGY1ajJIVGhhNmNmZGVlc2l3WlZibUcyVk8yWTlXRUFvQ0RBVUxycDJsSEZST3VZMjNuaGkxTGZFRm1kYnJmZ0Y1cTJHMkRqSHdIekd0UlhHN3h0dXRMRXI4dDIyVWFNeXpCMllEei1waC12N0l4cGcxd1RaOWotdGpya3ZSbTRWYXhKYzdoY2t6MDg3b2ZDQXphZVRpdVprVEVSSy1B?oc=5",
         "timestamp": "2026-02-04T14:13:10",
         "timestamp_display": "04. 02. 2026 14:13",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Společnost mění život",
+        "summary": "Společnost může změnit život jedné věty, inspirující článek na forbes.cz.",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xMGZTQnBZTHNxQVFxMG9pVmZYYk8xVFJGNnhZZm5rWGFFc3FvWGxmUXVNMWdhWlQ2NmlueDNxUFVCVktuUm1BUEg2QUY2VVlXUnNWT0JZelVLdXc?oc=5",
+        "timestamp": "2026-02-04T13:05:27",
+        "timestamp_display": "04. 02. 2026 13:05",
         "is_new": false
     },
     {
