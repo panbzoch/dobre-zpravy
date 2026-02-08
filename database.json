@@ -1,12 +1,39 @@
 [
     {
+        "category": "Byznys",
+        "title": "Studentka dobývá drogerii",
+        "summary": "Liberecká studentka vytvořila úspěšný byznys v drogerii bez investorů, dosáhla desítek milionů korun.",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQm5sOVlneHRBTGRiY1JxUWtMNEEtSmV0T185YnhreElIQnV2NF9YXzYwU2E3eXQtMF9iTVNTZGlTMlpwdzZ3Z0p5U2dab0xzbk12enNJM1phNDFscHhlWFYtMFBWTFdwQ2JIN1dhUk11dVBrSDV0UmhuYlIwa29saWtyRUJUYzRrUEpMM1ByNXdEbzFQbDFDU2I5T3NqRUFWbmE2QVZEY1dwWnNPVlJuMTQzeHVXeXBDaER6d3pDR0J5RWlDUmw4T1hyQ2d6M3ZtaXNBbHRR?oc=5",
+        "timestamp": "2026-02-08T05:00:00",
+        "timestamp_display": "08. 02. 2026 05:00",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Mladí čeští úspěšní",
+        "summary": "Forbes představuje 30 mladých Čechů, kteří dosáhli úspěchu ve svých oborech.",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YR2ZhQmE3OXk3VEY1MEhBZjlzOTM4ZkpCbXRvLUtLajRBY1lGei1mWkJtUVM0X1ZfaEVnV3Y4YjFxdnlGdmtPZ0U2a3hhYWMyUFFFUHVLeGVZSlM2NjBkT0JKRUFYOVhpYzF3?oc=5",
+        "timestamp": "2026-02-06T08:00:00",
+        "timestamp_display": "06. 02. 2026 08:00",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Nová fantasy série",
+        "summary": "HBO chystá seriál podle slavné fantasy hry, režie se ujme tvůrce Černobylu a The Last of Us.",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaHJ6TkVQSXBFT0d1bE02b3ZTaEs2ajV3TnBKVXVEOEtYYXA3WDJpdFBrbXBWbEZLZFFnZXJQbkFYTGhyUjVUZEZ1dHE0VnpoeURIb29KaG1CbFB4RkZIRWtQTFRISVZQWmZvRjR6OGx3N2tfa2ZBLUpsZUIycDdmSDVpRWxUbnJ2cUpqd1U4RnktazVsTWlVbEpicWo2U3VSUklGZHM1N3N2cWNVeFE?oc=5",
+        "timestamp": "2026-02-06T07:31:09",
+        "timestamp_display": "06. 02. 2026 07:31",
+        "is_new": true
+    },
+    {
         "category": "Věda",
         "title": "Obří mrak temné hmoty",
         "summary": "Vědci objevili obří mrak temné hmoty poblíž Sluneční soustavy, který mění dráhy neutronových hvězd.",
         "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOUlA3V0RNcjBpdG04dDJVQkoxckxwRlFQMkN4ek15S1RqaG0xM3Y5eTFiR2RLa2p3bVVhc1lLLWNiRGFoamlBU2s3WUt1YlpxemcxaVg5T191RnJ5SDc0QTh0cDRyUFdzMW9ZX045OGZzanlkNkYxaXM0ZWR2SGpzUm1xelEtcmZGX0JrWE5hTi1VM3ppRTVrRHB3eFNqZ280N3BuQThSSEQtSVBzaWpLQU45WS1IZTV2ZDVBZ0tBVWFYWm5XWFF5aHpNNnFHNl9fckw2X0trT3BGNnl4LWh1cHQ5bnFzZkFoTlY2UXNGR3dTZHhYdXowSkJOZnpEZkhEQTFZLW1sazdlaE0wWWd0VA?oc=5",
         "timestamp": "2026-02-07T15:36:44",
         "timestamp_display": "07. 02. 2026 15:36",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
