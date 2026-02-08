@@ -1,24 +1,6 @@
 [
     {
         "category": "Byznys",
-        "title": "Nová aerolinka Praha",
-        "summary": "Nová aerolinka spojí Prahu s Tchaj-pejí, nabídne design od BMW a menu inspirované Michelinem.",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR3BRVXV6NHlPYUhVcU5zdlpEeGNVSlFrcFE2UTBNWWRoUkpOSXE5NkZ6N25pd2RzaW5yM3hDTUVNODVoRXIyeGVvcjNFNmV0dmdYM1lWLThDd2ZKOVNFX0t4OGwyd3lUMExwbkNLc1JNMTFLTldXVURDNkFUdmJ6WG9YdFdOVlpjLUJVVERYNFlEUFFjNjc5QzZMZ2tqTTR5LVozV0NIUk5LYTF6alR3aGlMWkw4Wjc2NmxrOXdR?oc=5",
-        "timestamp": "2026-02-04T14:21:54",
-        "timestamp_display": "04. 02. 2026 14:21",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Investice mění život",
-        "summary": "Investice do akcií může změnit život, nabízí nové příležitosti a růst.",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tLW45MzJ4VWZ0emlabU5ncnRLRk9vZkFLdFZpTlNfSnVtQXU4RlJ4RnhTWUtjVjV2dnNaOXkyVmVFWjhfYmZnZ1dvMUpLc2xkcXlHVVZmWUZ0SEd6aXQtbGZKTXhTeTA?oc=5",
-        "timestamp": "2014-11-18T08:00:00",
-        "timestamp_display": "18. 11. 2014 08:00",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
         "title": "Studentka dobývá drogerii",
         "summary": "Liberecká studentka vytvořila úspěšný byznys v drogerii bez investorů, dosáhla desítek milionů korun.",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQm5sOVlneHRBTGRiY1JxUWtMNEEtSmV0T185YnhreElIQnV2NF9YXzYwU2E3eXQtMF9iTVNTZGlTMlpwdzZ3Z0p5U2dab0xzbk12enNJM1phNDFscHhlWFYtMFBWTFdwQ2JIN1dhUk11dVBrSDV0UmhuYlIwa29saWtyRUJUYzRrUEpMM1ByNXdEbzFQbDFDU2I5T3NqRUFWbmE2QVZEY1dwWnNPVlJuMTQzeHVXeXBDaER6d3pDR0J5RWlDUmw4T1hyQ2d6M3ZtaXNBbHRR?oc=5",
@@ -222,6 +204,15 @@
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TaXljMXFqc01jb3BxYkVkWEhMajJ2WGZWRGUzOGVEeTBWQ2xtelAtZk1aejdaUzhyM1otanhEcEUxUi1XOHJyRmNhNjhoZWE2dXpGblIzUUlYUQ?oc=5",
         "timestamp": "2026-02-04T16:14:55",
         "timestamp_display": "04. 02. 2026 16:14",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Nová aerolinka Praha",
+        "summary": "Nová aerolinka spojí Prahu s Tchaj-pejí, nabídne design od BMW a menu inspirované Michelinem.",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR3BRVXV6NHlPYUhVcU5zdlpEeGNVSlFrcFE2UTBNWWRoUkpOSXE5NkZ6N25pd2RzaW5yM3hDTUVNODVoRXIyeGVvcjNFNmV0dmdYM1lWLThDd2ZKOVNFX0t4OGwyd3lUMExwbkNLc1JNMTFLTldXVURDNkFUdmJ6WG9YdFdOVlpjLUJVVERYNFlEUFFjNjc5QzZMZ2tqTTR5LVozV0NIUk5LYTF6alR3aGlMWkw4Wjc2NmxrOXdR?oc=5",
+        "timestamp": "2026-02-04T14:21:54",
+        "timestamp_display": "04. 02. 2026 14:21",
         "is_new": false
     },
     {
@@ -2085,6 +2076,15 @@
         "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOMUM1T2gzX1N6d185bHhPWW92bEVEZ2RtMHJ3ZHNfWEQ1QVltNUJRYzVLVHUtbW00UzZTZ3dSUVUtRDNmcmxEU1BYR0wyWTB1ZlBhU2pKOUdBcENia0RfZWQ2WWwwMmpjNzhfYjFndUN5RUcwd0RLMndmbVZEMmxGWk80aGxYcDBYRzVZd1YtdkRUU0xrQk83cm5Pcm1LMWhtQkVEQW5mNlpiWkFIT2c3b2dWSVVuQkZ3RE9wUC1oZUZCNTNiazZ5T0hSNHdtczNaX1M0Wl9tNVZSN0VxcWQyeEJoS1JuZXpLRF9COGh1cTBucXZFOXFDM2tmSzgtR2dfN2VBUw?oc=5",
         "timestamp": "2016-08-31T07:00:00",
         "timestamp_display": "31. 08. 2016 07:00",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Investice do akcií může změnit život, nabízí nové příležitosti a růst.",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tLW45MzJ4VWZ0emlabU5ncnRLRk9vZkFLdFZpTlNfSnVtQXU4RlJ4RnhTWUtjVjV2dnNaOXkyVmVFWjhfYmZnZ1dvMUpLc2xkcXlHVVZmWUZ0SEd6aXQtbGZKTXhTeTA?oc=5",
+        "timestamp": "2014-11-18T08:00:00",
+        "timestamp_display": "18. 11. 2014 08:00",
         "is_new": false
     }
 ]
