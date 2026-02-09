@@ -1,11 +1,20 @@
 [
     {
         "category": "Technologie",
-        "title": "Indie investuje do kvantových počítačů",
-        "summary": "Indie zahájila masivní investice do vývoje vlastních kvantových počítačů, aby zůstala v čele technologického pokroku.",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbjM2Q2VRNFY3a3BIVnkyNzBjb1Y1N1E2MmttRjYtZm9keTJKZnJna0dpNWUweEwyLWlqVnpPMWtyeHl2eXdXSFJxYmtWYnR6bTZQYm1DNnFaVWxYaHRCa0tGVGZzZ0tXeEE0eng5aXowMTNucFZYcGw1eDhhekxqRlUyNHRLM296UU5zNFR5ZE1nM1hSQnhPcjdxWmw1ZDB0N1NKZElRVVAxVURydGYtbzlwQ0Ftd2JGVGNzNHJTX2pmV2I5LUFzLW5RQTRjdU53TV9URWdPZGo?oc=5",
-        "timestamp": "2026-02-04T01:13:57",
-        "timestamp_display": "04. 02. 2026 01:13",
+        "title": "Airbus chystá nový letoun",
+        "summary": "Airbus vyvíjí nový letoun s nižší spotřebou, který má být nástupcem A320 a bude uveden na trh koncem třicátých let.",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYU9ESnhDZDVYOWFTMGU0S1hpcnhreUhabmFjQ1FrOE5feWZvN1JDb1hUWi1sbEVUTVhmM2NOWjQxcXM4bWJzRmU0TnEyb2FtLTVZN1hLOHZuYmFsOC1FNlhjajNlQTZRelI5ZDdkR1FqdGxEVWYybzkzNFI5ZEs4VkdOVGk2eHhuc2g0Mi12MlMzeFNPeWxjQWk2Vmp6el9NWlNVWW5weDJOMndrYmZVVDNkTDRiQ2k5WE9IUzVMbXZBT19TbE9ZYUNNOXducjRWS1VFaXZ6T3NITDNVV05NTWdpcDRCOWJX?oc=5",
+        "timestamp": "2026-02-09T06:43:27",
+        "timestamp_display": "09. 02. 2026 06:43",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Rekordní zisky Krel Central",
+        "summary": "Krel Central překračuje miliardovou valuaci díky novým technologiím a rekordním ziskům.",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUm80LW0zMXg2NHNGWndKOUJRdHplUUZvbl9tY2ltZEx0Q1ZVRDZrT08yTDR6WWZwWWpQWG9NMUI0WExSMTNDU3g4MVNycFFPVnFjZ3lENDZiRmlvLTRJdWMwS3R0ZVJYdDl6Zjc2R0FqVi13YllGaUxUek81STI2X28td2tzQUlzU2dvWG8yWlI3ejZBWEtSSWl3NDZ2WlRWa051RVlkRlFUWEVFSkhUV0g0SVVRNUoxVm9KMW5Lcw?oc=5",
+        "timestamp": "2026-02-08T23:00:00",
+        "timestamp_display": "08. 02. 2026 23:00",
         "is_new": true
     },
     {
@@ -276,6 +285,15 @@
         "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbWRCV1Nwejh3cXlTNFo5UE1YT3ozMFMyY1U5U2daazUwam1rMHdrRHJKaDZqenZaX1FXeUZwTlRCdERta0M3Y0NQTFpCSDNaX0FjZ3REd1h3UnlTOGc5TE9vVDlJSzZzQ1pNcDg1UkFaZ1BJbTNIVldRVHNjTG5lMGctQ1lWZXA3TnhaeDVLTGJmNVpjXzNTeFJVN0xtMVJVdkRfVGptQUZEdWtqR05KWFZLeFhmLTY2UmlickJWOXBUYXkwR0U1MnkzdWRFS0gwWDFVWWpta0ZwYkhoWVBDcE55ZUdNX2ItYmo4clhR?oc=5",
         "timestamp": "2026-02-04T10:25:00",
         "timestamp_display": "04. 02. 2026 10:25",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Indie investuje do kvantových počítačů",
+        "summary": "Indie zahájila masivní investice do vývoje vlastních kvantových počítačů, aby zůstala v čele technologického pokroku.",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbjM2Q2VRNFY3a3BIVnkyNzBjb1Y1N1E2MmttRjYtZm9keTJKZnJna0dpNWUweEwyLWlqVnpPMWtyeHl2eXdXSFJxYmtWYnR6bTZQYm1DNnFaVWxYaHRCa0tGVGZzZ0tXeEE0eng5aXowMTNucFZYcGw1eDhhekxqRlUyNHRLM296UU5zNFR5ZE1nM1hSQnhPcjdxWmw1ZDB0N1NKZElRVVAxVURydGYtbzlwQ0Ftd2JGVGNzNHJTX2pmV2I5LUFzLW5RQTRjdU53TV9URWdPZGo?oc=5",
+        "timestamp": "2026-02-04T01:13:57",
+        "timestamp_display": "04. 02. 2026 01:13",
         "is_new": false
     },
     {
