@@ -1,12 +1,21 @@
 [
     {
+        "category": "Medicína",
+        "title": "Muzeum zdraví v Olomouci",
+        "summary": "Nemocnice v Olomouci chystá osvětovou expozici o zdraví a medicíně.",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcEZhaDVhSVJpYWlsWVFHQkRWOUFaNklQTWtILWsya0RpZnM3SlNKYW54S2dncjFiZmpJa1V6cWJEeUlURzV1LWpoTmp5TU0tR2dXX0VGb2ZSNTZnZmIxMFIxb1hEam9IWUlWVnBzVGN1cjZtM19UZFpJWlRINzdKc2llallKeFBxQ28zLW40THdISjFTQUJRRUlZVmJveVdLeG5MTEVVTGpydG9XYmZLVlZNaEVoRmhYZTVZaWpscTdwZjZpSDdjSEJBOXlEZw?oc=5",
+        "timestamp": "2026-02-09T07:44:00",
+        "timestamp_display": "09. 02. 2026 07:44",
+        "is_new": true
+    },
+    {
         "category": "Technologie",
         "title": "Airbus chystá nový letoun",
         "summary": "Airbus vyvíjí nový letoun s nižší spotřebou, který má být nástupcem A320 a bude uveden na trh koncem třicátých let.",
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYU9ESnhDZDVYOWFTMGU0S1hpcnhreUhabmFjQ1FrOE5feWZvN1JDb1hUWi1sbEVUTVhmM2NOWjQxcXM4bWJzRmU0TnEyb2FtLTVZN1hLOHZuYmFsOC1FNlhjajNlQTZRelI5ZDdkR1FqdGxEVWYybzkzNFI5ZEs4VkdOVGk2eHhuc2g0Mi12MlMzeFNPeWxjQWk2Vmp6el9NWlNVWW5weDJOMndrYmZVVDNkTDRiQ2k5WE9IUzVMbXZBT19TbE9ZYUNNOXducjRWS1VFaXZ6T3NITDNVV05NTWdpcDRCOWJX?oc=5",
         "timestamp": "2026-02-09T06:43:27",
         "timestamp_display": "09. 02. 2026 06:43",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +24,7 @@
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUm80LW0zMXg2NHNGWndKOUJRdHplUUZvbl9tY2ltZEx0Q1ZVRDZrT08yTDR6WWZwWWpQWG9NMUI0WExSMTNDU3g4MVNycFFPVnFjZ3lENDZiRmlvLTRJdWMwS3R0ZVJYdDl6Zjc2R0FqVi13YllGaUxUek81STI2X28td2tzQUlzU2dvWG8yWlI3ejZBWEtSSWl3NDZ2WlRWa051RVlkRlFUWEVFSkhUV0g0SVVRNUoxVm9KMW5Lcw?oc=5",
         "timestamp": "2026-02-08T23:00:00",
         "timestamp_display": "08. 02. 2026 23:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
