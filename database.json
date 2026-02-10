@@ -1,12 +1,21 @@
 [
     {
         "category": "Byznys",
+        "title": "Spotify zvyšuje zisk",
+        "summary": "Spotify zvýšil zisk a počet předplatitelů, rozšiřuje nabídku kvůli konkurenci.",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONUNCVmpjRGpiUDBxcXB3bWJSWGFfV2pjSHU2Y0YxZHlpZjFSU0RvNWdab1BwZERsVXhlTVlEN0hTb3dpSWNEU0EyNFR5QnBsam56eXdyVVBOdmtJSXppa05SaXRlWFd3Vm4xUFNsRmdTQks0bFZvdlRwMEhyMTZyLWJpSXRnUVJ2S1p3bHpUdGZuYmRyelB1ZTZ0cm5uWWE5a0RVMEdCVm9KbUVfb29FMHZTdlFaUlo3dDI2QktSM3BPVmJiUnU3aENn?oc=5",
+        "timestamp": "2026-02-10T15:00:00",
+        "timestamp_display": "10. 02. 2026 15:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Stavební spoření bonus",
         "summary": "Česká spořitelna nabízí až 14 500 korun navíc ke stavebnímu spoření u Buřinky.",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQXgzTl93X3o2b0ZvYmJXalloZUlXenBsQk5XR1N3dnZ6bk96ZThXcmNrSlFKY3VBN2p1VHdWdnEtSTdHTDh0YVFyU0diemFHNFd1X0FlTzJQQnJQSnc2cXR4emJ5emtFcWtJOTRVN3BibGgwdk9HMWxhTFhpSHhXTmlaazlDcjl1ZXJmOW1FdUhlQ2xVRGxIOGlXSjRieng0YWp2MWZpNTVScnNOWWRvNmtpSEJjWmZzeHZ4MVFzNUhhQU42dmV3?oc=5",
         "timestamp": "2026-02-10T13:15:00",
         "timestamp_display": "10. 02. 2026 13:15",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -15,7 +24,7 @@
         "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYUI0VTl4aHRmVldsNU84NU1TYjB4YmxBYmdfM19iT0dwZUZaUnpRano1Ql9IR1JNTk5sb2NLWGdQc1dkazdxU3pRTGFCdXpWNXF4cENxdTBOaVVSa1RwZ28zcFczbVlaQUw5SVZXWnY0NjJOWDd5U0RMb2VpYThSNU1zRXhRQ2dKSGNVM0xGcUpLNnZ5azJENHUtSmpuMHBKUHBaSklrS25RbG1CSHo3eTlpcHNJV3E1S05JRXFPOTBDUEpBZzhZYmU2eTMzQmVtb2hfZWwwVEVNNmF2WVN1QzlMNEwzVkdTX0h5WThBcDVTR01uN0JlQ05n?oc=5",
         "timestamp": "2026-02-10T12:23:00",
         "timestamp_display": "10. 02. 2026 12:23",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,16 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTVYwS3dUbUhWVk9JNjVzQTBBejRKRGViMlhyQjlCbldEY1VTRXpZR2ROcHQwS2JoQlU2VlpEc1FzMUU0WVJPcXgycU4xeXczZWdZZ0d0bGFOLUx3OXhWMzFKZFNlZlJLLWVSaDhQWUZVTE9ybjFZNy1Pek5VNGE3T2FXLU03aDZkdUsyblhaQjZ3N0J4WjM2aDFmSmRsVVZDZ3M3ajNkZ3JYazJhY2hFRmpFcw?oc=5",
         "timestamp": "2026-02-10T11:00:00",
         "timestamp_display": "10. 02. 2026 11:00",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Lázeňství láká investory",
-        "summary": "Lázeňství se stává lákavým byznysem pro investory, kteří hledají stabilní a perspektivní odvětví.",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT2M3b2xyTEp2TjBieTFIczBrQWJLTDVGNU1Pa0RXdmdOcW0xN1RWak80amJWSHdvUlhpeTAweTFfMnN6Q0hlZWFvUTNJNC1YSXJmWWJxeTNZeE8xMzNaX3ZyV0NLMGV2RWJsV3ZmLThhMGQ0MFFnSEN6MEQzREJpZS1ucW1IdTF4MGtJLUJR?oc=5",
-        "timestamp": "2026-02-09T23:00:00",
-        "timestamp_display": "09. 02. 2026 23:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Medicína",
@@ -51,6 +51,15 @@
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOelFyWXFVQkNFcTZDM3lMTEszSEI3eGtFM2M5RzZyZlpJYVBqUWdaQ3hTSW1SM1VWSkQ0V3hKOVpILTh6d2JwZnRqeDlVUVpneThZNDhESC1iNXJnMFdSNXA2eWdjeW1HVS1vR0cxWDM0VXk3cHlTVnh3cFExdjNra2JOOXM1aHgteWUwOTZuc0lJcHZZQ0VaVHNxTE9ZYUVZeDhFY0NwQzRkaWpMdWdYanFFNElmTU5ETzBfamN4a29SbWtmWklTSGpSZw?oc=5",
         "timestamp": "2026-02-10T05:30:00",
         "timestamp_display": "10. 02. 2026 05:30",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Lázeňství láká investory",
+        "summary": "Lázeňství se stává lákavým byznysem pro investory, kteří hledají stabilní a perspektivní odvětví.",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT2M3b2xyTEp2TjBieTFIczBrQWJLTDVGNU1Pa0RXdmdOcW0xN1RWak80amJWSHdvUlhpeTAweTFfMnN6Q0hlZWFvUTNJNC1YSXJmWWJxeTNZeE8xMzNaX3ZyV0NLMGV2RWJsV3ZmLThhMGQ0MFFnSEN6MEQzREJpZS1ucW1IdTF4MGtJLUJR?oc=5",
+        "timestamp": "2026-02-09T23:00:00",
+        "timestamp_display": "09. 02. 2026 23:00",
         "is_new": false
     },
     {
