@@ -1,5 +1,23 @@
 [
     {
+        "category": "Medicína",
+        "title": "Kofein chrání mozek",
+        "summary": "Studie naznačuje, že kofeinové nápoje mohou pomáhat chránit mozek a zlepšovat kognitivní funkce.",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOVUtUUY3bU9JUEwtQlEzMGJfWm0wbzZzRkFfWVZucmFLV1p5SzNnR1VsM0Z2REdSbDNKZzhIRWs0SU1Ic1kwX2ZZTlc1ME5XUmxhM2J4QkFDaTBQTWd2eTZ5X01nSU5QcHEtaWNyYW9zcW5RRGViSmhYX25sd2t0TXNFREFKa3dYNlVsMWJROUMtRUJ3bkprNDhvMUg2bGh0TnBDTGZYcW5fNHZrWEhwVnFLakR3NVViUVdoMy1pN2xRdWZlYmYwTUlIZUlmV3hGSDYzSEx0OGVXYVFM?oc=5",
+        "timestamp": "2026-02-10T05:47:00",
+        "timestamp_display": "10. 02. 2026 05:47",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Oneplay vede český trh",
+        "summary": "Oneplay je nejsilnější na českém trhu ve streamingu, tvrdí manažerka Brachtlová.",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOelFyWXFVQkNFcTZDM3lMTEszSEI3eGtFM2M5RzZyZlpJYVBqUWdaQ3hTSW1SM1VWSkQ0V3hKOVpILTh6d2JwZnRqeDlVUVpneThZNDhESC1iNXJnMFdSNXA2eWdjeW1HVS1vR0cxWDM0VXk3cHlTVnh3cFExdjNra2JOOXM1aHgteWUwOTZuc0lJcHZZQ0VaVHNxTE9ZYUVZeDhFY0NwQzRkaWpMdWdYanFFNElmTU5ETzBfamN4a29SbWtmWklTSGpSZw?oc=5",
+        "timestamp": "2026-02-10T05:30:00",
+        "timestamp_display": "10. 02. 2026 05:30",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "Škoda Auto uvádí Epiq",
         "summary": "Škoda Auto představí nový elektromobil Epiq, který bude nejlevnějším modelem v nabídce.",
