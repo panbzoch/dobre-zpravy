@@ -1,21 +1,30 @@
 [
     {
         "category": "Byznys",
+        "title": "Nová Amerika v Brně",
+        "summary": "Crestyl investuje přes dvě miliardy do nového projektu v Brně, nazvaného Nová Amerika.",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQODVKQ3VuQlZrZnNQRTBxa2gtYkE3c1BKR3BFTW5HOGlJcVVhN1B0RUdTeVRnSmtKMFFWdGw0YTUwc0ZuSHg3RkpiQkl1Q2tIQUFjMm1CaXU2enZTNENweXlPZ0JDeEIwWDlmeVVablp5Vy1paHhwMmV5WlF6NmFRTG9jX3NHT0czUDdMa1ZLZzNUaG9TaV9ldFMwNF9QcnZHZlRxZ290emg4a0JqOExXNkpTSlBHNGNTQ21OSjNTLWIwRFNfR2czbUd3?oc=5",
+        "timestamp": "2026-02-11T08:53:00",
+        "timestamp_display": "11. 02. 2026 08:53",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Family office CSG",
+        "summary": "Majitel CSG buduje family office, získal klíčového muže Penty.",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ2paVC02WkZZYmh2NEdNMDNkN0h2Z0RJMW1EU3NVX0phZkJJSkFXNDZEeTM3ckRvemxseUY4VFRzSThOX1p4YVhxT28wbkF1LXlQN3VRdkpiLXl6MUVTc3ZUM2JEVzZWLTdobVRsWFBOLUZMZm9ySmN1MmdTek5DMHRDOG9GU2t6R2hYTkZGQVJoRnhtMzZOcjFPX3NRTm1HWUd1QVJRN0EtRzdUcXc?oc=5",
+        "timestamp": "2026-02-11T07:15:00",
+        "timestamp_display": "11. 02. 2026 07:15",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Nová huť v zisku",
         "summary": "Nová huť v Ostravě očekává zisk od dubna, říká šéf Strouhal.",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN29SdXBMTmhmWEw1TmI2eXZZN0VYY3RzUTdjWnd4VW9OYjRCZjhTeHBydDVYX3YxUHdwNnZUVlBsb2dRd3ltVWNFYWItOTdzMWNNenAxOWEwaUVzaFRIRmo1YjJ6UXdtUWpGZXRJc1NkVG55LVN0R1VpZjh0RWxYbG0xYkRDTFpWZEMwaDNtZWViOV9PT2ZPQjc4WmYzV3NDTFhsY3lFWlpMRENwQUlIb3VXN00wUQ?oc=5",
         "timestamp": "2026-02-11T04:00:00",
         "timestamp_display": "11. 02. 2026 04:00",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Náboráři dostávají platbu",
-        "summary": "Američané platí náborářům, aby jim našli kancelářskou práci, trend se mění.",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSk1ONkc3X2VSckZtQlN3cG9UYUNNMkw4b0RVSnlWYk01aUp5Q3RwSWpjQUo3QncwaFQ4SHl1eGl0aWZkb3dGUm1YNjYxc1QwWElSWnRraWdpQUsyVVhxYVNCMWhBWXhTNEJUVnpZdHdIVnJrME9qb01SQWNOWjZUWUIzQ0VxMUdkU01uUGJDRHVUbVhPZ3otSjc2Q3Z5a2g1LUY0TkJsS29TUGVFRTVWT292RjZaY3JvejUxbktyN1RfbUVH?oc=5",
-        "timestamp": "2026-02-09T13:30:00",
-        "timestamp_display": "09. 02. 2026 13:30",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -87,6 +96,15 @@
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdXUzdkhjbGNzMWZkNC1BTlU3ZXI3SGtHUTFONUN5S1JSMXM2dDBQV29BNnZQSE92TjNKY014a29ZempIR3ljUWJYTG1sQTNpdUFxUnhuZzNmOU9zbDZmaUdhbTJwSjNYc2FzWVBJbXhVUUNEVENwOUJyVXZ5bUozbHBsOVZ1Rm9WTmM3M2w1a0VoZU1VM1pZX3I3UUdjUFhQMFVOYW9NaUdxUVlMc28zQ2ZMM2d6Q2lWd2pNWkxB?oc=5",
         "timestamp": "2026-02-09T13:45:00",
         "timestamp_display": "09. 02. 2026 13:45",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Náboráři dostávají platbu",
+        "summary": "Američané platí náborářům, aby jim našli kancelářskou práci, trend se mění.",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSk1ONkc3X2VSckZtQlN3cG9UYUNNMkw4b0RVSnlWYk01aUp5Q3RwSWpjQUo3QncwaFQ4SHl1eGl0aWZkb3dGUm1YNjYxc1QwWElSWnRraWdpQUsyVVhxYVNCMWhBWXhTNEJUVnpZdHdIVnJrME9qb01SQWNOWjZUWUIzQ0VxMUdkU01uUGJDRHVUbVhPZ3otSjc2Q3Z5a2g1LUY0TkJsS29TUGVFRTVWT292RjZaY3JvejUxbktyN1RfbUVH?oc=5",
+        "timestamp": "2026-02-09T13:30:00",
+        "timestamp_display": "09. 02. 2026 13:30",
         "is_new": false
     },
     {
