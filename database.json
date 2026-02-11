@@ -1,12 +1,30 @@
 [
     {
         "category": "Byznys",
+        "title": "Nová huť v zisku",
+        "summary": "Nová huť v Ostravě očekává zisk od dubna, říká šéf Strouhal.",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN29SdXBMTmhmWEw1TmI2eXZZN0VYY3RzUTdjWnd4VW9OYjRCZjhTeHBydDVYX3YxUHdwNnZUVlBsb2dRd3ltVWNFYWItOTdzMWNNenAxOWEwaUVzaFRIRmo1YjJ6UXdtUWpGZXRJc1NkVG55LVN0R1VpZjh0RWxYbG0xYkRDTFpWZEMwaDNtZWViOV9PT2ZPQjc4WmYzV3NDTFhsY3lFWlpMRENwQUlIb3VXN00wUQ?oc=5",
+        "timestamp": "2026-02-11T04:00:00",
+        "timestamp_display": "11. 02. 2026 04:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Náboráři dostávají platbu",
+        "summary": "Američané platí náborářům, aby jim našli kancelářskou práci, trend se mění.",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSk1ONkc3X2VSckZtQlN3cG9UYUNNMkw4b0RVSnlWYk01aUp5Q3RwSWpjQUo3QncwaFQ4SHl1eGl0aWZkb3dGUm1YNjYxc1QwWElSWnRraWdpQUsyVVhxYVNCMWhBWXhTNEJUVnpZdHdIVnJrME9qb01SQWNOWjZUWUIzQ0VxMUdkU01uUGJDRHVUbVhPZ3otSjc2Q3Z5a2g1LUY0TkJsS29TUGVFRTVWT292RjZaY3JvejUxbktyN1RfbUVH?oc=5",
+        "timestamp": "2026-02-09T13:30:00",
+        "timestamp_display": "09. 02. 2026 13:30",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Spotify zvyšuje zisk",
         "summary": "Spotify zvýšil zisk a počet předplatitelů, rozšiřuje nabídku kvůli konkurenci.",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONUNCVmpjRGpiUDBxcXB3bWJSWGFfV2pjSHU2Y0YxZHlpZjFSU0RvNWdab1BwZERsVXhlTVlEN0hTb3dpSWNEU0EyNFR5QnBsam56eXdyVVBOdmtJSXppa05SaXRlWFd3Vm4xUFNsRmdTQks0bFZvdlRwMEhyMTZyLWJpSXRnUVJ2S1p3bHpUdGZuYmRyelB1ZTZ0cm5uWWE5a0RVMEdCVm9KbUVfb29FMHZTdlFaUlo3dDI2QktSM3BPVmJiUnU3aENn?oc=5",
         "timestamp": "2026-02-10T15:00:00",
         "timestamp_display": "10. 02. 2026 15:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
