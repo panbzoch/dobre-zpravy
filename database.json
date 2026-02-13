@@ -1,5 +1,32 @@
 [
     {
+        "category": "Technologie",
+        "title": "Evropa spouští čipovou linku",
+        "summary": "Evropa spouští nejvyspělejší výrobní linku na čipy, která má určovat další milníky v oboru.",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTjlEcXFyZHo0bktlalJNa09vUms0NjFmemk5d2FJdlZpN21lOE52enpLQXpXLTU1Ukp4ckhKVnQ2S0FGYkp0Y2MwRklLVFRUdEpaWFBHc3BTTVEwWkFiandYMzkyWEpHaVZTQTVLU0pOYTk5TGlwWTBoQW5NY19hSE5aMERQTHlaNUlyNHZ2UUJyU1lHSjctWFNJcjhURjRFbVdXVUJOcUVIeGg2YnU0cVlVazk1YmhqLWRYTDc0QjJRRlNV?oc=5",
+        "timestamp": "2026-02-13T04:30:00",
+        "timestamp_display": "13. 02. 2026 04:30",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investika vstupuje do Německa",
+        "summary": "Investika kupuje většinu v lipském nákupním centru, expanduje do Německa.",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTVF4bHpfR0FMaWpTT0hSTHRlYkotYXdoX1JnV1RpUDFtZmVSWGVrUzNPOHhLS25VQmUxU3JGcl9GNXMxemJQMmFhc2JBZ19SMF9zUE1RZWU1RGJicXFCMl9pM21PZUJOeWtXUDZTNFF5VVRNMm5OMnNXSHU2WXNlMURHQ0FNRGZUSDFEYXphZjNhSVhUTlNFQURQSWtqaWhWVk1SX2M0VkZtZEt2cEhPcnAwd3N2RFZGdlNYVWdwT2YtcTI1NmNSU3lHajhMZU1Dc1pPWTA3Nk5wSEZGT3MyQVU3TFIyY2pWczBN?oc=5",
+        "timestamp": "2026-02-12T11:00:00",
+        "timestamp_display": "12. 02. 2026 11:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Podnikatel roku",
+        "summary": "Jakub Gabriel z Ray Service vyhrál cenu EY Podnikatel roku na Zlínsku.",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMWc4Q1JDWkNaUlZXdGZod21BeVh3RmVETG1rdVRYUmdKVFJWWDVDOUtjVkt1TWpEQnZXN2JUWm5yczg3VXVjT2VKc3ZCYWdxLTJqQ1ZWMHBIN3BJOFpsalEyZWpwRm5MSmhLMmZoS0hWQ2pqUW83bFNTTHRyWm9KZy1aeEs2YTBrMHZNX2lHYXNBTkdDUlotT0xIT0pjN19UY24xTA?oc=5",
+        "timestamp": "2026-02-11T19:15:19",
+        "timestamp_display": "11. 02. 2026 19:15",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "Papelote expanduje",
         "summary": "Papelote má úspěšné období a plánuje novou pobočku.",
