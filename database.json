@@ -1,12 +1,21 @@
 [
     {
         "category": "Byznys",
+        "title": "Inovace po Expu 2025",
+        "summary": "Kansai hledá cesty, jak využít inovace z Expu 2025 v praxi a rozvíjet region.",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY3puZE8tN0gtaU1RTFZuTWxUTlFkREx3Ry0wVnVGY3hLNGp0YVI2UTE0bVU2SXJ5Z1VQbXg0V1phOXEwU3VkQXNnTm94QUJHenZsVnQ3X0IwLVRBazRMNmNuLXhUZWVDLWpTb3ZsZDViYUZVS05XYUxMTnVDMldTc0lhd3hjbHhxWVczOEhLUXdLTEdST09oQWptbmxBMm0tRXBOb2xn?oc=5",
+        "timestamp": "2026-02-13T14:31:00",
+        "timestamp_display": "13. 02. 2026 14:31",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Praha mezi nejbohatšími",
         "summary": "Praha přeskočila Kodaň nebo Brusel v HDP na obyvatele.",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMjRkTHZFb2VOY2pIMzRCRDQ4VmtmLVd5NDZ5YWV2RVEzRy1vNnFIbmlnbDFaN2VSTHZwQ3pPLUJxcE5kUUJKZVNUc3VkdzU4WHpQTTIzSVFDLS1MekZHZlVmalExUDE1NkE0UlRuaXd0WkNGUzJBZlllc2NvampLWWw3RkpZQlBnNWc4d05RNkEzNzUtTUNNblhJLVpKbkVKaUVYcUZlSGtnLUZmaXdORGxRWTRyVmFIOU90ZjNWeWQ?oc=5",
         "timestamp": "2026-02-14T05:00:00",
         "timestamp_display": "14. 02. 2026 05:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +24,7 @@
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNT000Vk1DVnZDZ3dlTmIyNlpLV0xENmo0M0c2bm1xYUVCdjh3aEtVX3hJMVV1c1hnRjdUb2lqeHpfRjFTUUY1YjZ3VGd1cXNmWTE4T3NtTXQyaVdqVWdMRFA5b1dOcmdTSXAzMGh3ZWNTX0FSa1BnTEJpdEt3aUpSSExFOGJpVU0ydERGOGZMb3NnOHprTlFhTDUwV0xKSXlMYTdjUXdzNk45YUhqSGlGc0JfN25rbXFBWm1MTkNvZEZYM20tVEtFVGpPYlV1S2NKRnNF?oc=5",
         "timestamp": "2026-02-14T04:30:00",
         "timestamp_display": "14. 02. 2026 04:30",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Společnost",
@@ -24,16 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc2JqcEVhSmlzaEZOdEhRcEpwQ2p0Q2VWOFFZdUNSQzdNSXJaYlVBM1dBTUhIY3JzajQ4U3lnbXlSc2dLaUhpVmN3VHlGbWR2c1lBVFdjQURoZ1haa2VZbFhYYTd3MXhYSlUxUmNudmI3MkV0RWthR0M3RV9PMWgwOVdJUDgtX0JQRXl6ZnNyZjBUMWh4Rm9rdVRzaVBPN2VBRmRpRmJoaEdueDh1eXhXWjNPLXdHV2l3UHJ3SFNsdTJmRUNiVHlfTA?oc=5",
         "timestamp": "2026-02-13T19:28:00",
         "timestamp_display": "13. 02. 2026 19:28",
-        "is_new": true
-    },
-    {
-        "category": "Medicína",
-        "title": "Péče o seniory",
-        "summary": "Pardubický kraj zvyšuje dostupnost péče o seniory s demencí.",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQW1hQzFIWTU3MGhiZHVza0FxajlPejhrNV8zWjAxWXZ2Z2hpYWtySEZ2ZFk0VjZ5VVZfUWZPdzNhcjVYTzJVNXJsa3l0d1gwV1NsWGNVaDBxZVFSWHFPT0J2Qkc1ZUJsbk9XeTRPdmd4MVRyNUZRWHlWT3VfTHpwd2tDc1RBUTdMNVRvaWtpRkxySGR4cU9GX0swdEpnOFU1QW5NM0tmZlZ1WGpPamRuNXc1bHhUaUM4OUlxX25FaUtHZw?oc=5",
-        "timestamp": "2026-02-12T19:31:00",
-        "timestamp_display": "12. 02. 2026 19:31",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -69,6 +69,15 @@
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTjlEcXFyZHo0bktlalJNa09vUms0NjFmemk5d2FJdlZpN21lOE52enpLQXpXLTU1Ukp4ckhKVnQ2S0FGYkp0Y2MwRklLVFRUdEpaWFBHc3BTTVEwWkFiandYMzkyWEpHaVZTQTVLU0pOYTk5TGlwWTBoQW5NY19hSE5aMERQTHlaNUlyNHZ2UUJyU1lHSjctWFNJcjhURjRFbVdXVUJOcUVIeGg2YnU0cVlVazk1YmhqLWRYTDc0QjJRRlNV?oc=5",
         "timestamp": "2026-02-13T04:30:00",
         "timestamp_display": "13. 02. 2026 04:30",
+        "is_new": false
+    },
+    {
+        "category": "Medicína",
+        "title": "Péče o seniory",
+        "summary": "Pardubický kraj zvyšuje dostupnost péče o seniory s demencí.",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQW1hQzFIWTU3MGhiZHVza0FxajlPejhrNV8zWjAxWXZ2Z2hpYWtySEZ2ZFk0VjZ5VVZfUWZPdzNhcjVYTzJVNXJsa3l0d1gwV1NsWGNVaDBxZVFSWHFPT0J2Qkc1ZUJsbk9XeTRPdmd4MVRyNUZRWHlWT3VfTHpwd2tDc1RBUTdMNVRvaWtpRkxySGR4cU9GX0swdEpnOFU1QW5NM0tmZlZ1WGpPamRuNXc1bHhUaUM4OUlxX25FaUtHZw?oc=5",
+        "timestamp": "2026-02-12T19:31:00",
+        "timestamp_display": "12. 02. 2026 19:31",
         "is_new": false
     },
     {
