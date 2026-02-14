@@ -1,15 +1,6 @@
 [
     {
         "category": "Byznys",
-        "title": "Inovace po Expu 2025",
-        "summary": "Kansai hledá cesty, jak využít inovace z Expu 2025 v praxi a rozvíjet region.",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY3puZE8tN0gtaU1RTFZuTWxUTlFkREx3Ry0wVnVGY3hLNGp0YVI2UTE0bVU2SXJ5Z1VQbXg0V1phOXEwU3VkQXNnTm94QUJHenZsVnQ3X0IwLVRBazRMNmNuLXhUZWVDLWpTb3ZsZDViYUZVS05XYUxMTnVDMldTc0lhd3hjbHhxWVczOEhLUXdLTEdST09oQWptbmxBMm0tRXBOb2xn?oc=5",
-        "timestamp": "2026-02-13T14:31:00",
-        "timestamp_display": "13. 02. 2026 14:31",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
         "title": "Praha mezi nejbohatšími",
         "summary": "Praha přeskočila Kodaň nebo Brusel v HDP na obyvatele.",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMjRkTHZFb2VOY2pIMzRCRDQ4VmtmLVd5NDZ5YWV2RVEzRy1vNnFIbmlnbDFaN2VSTHZwQ3pPLUJxcE5kUUJKZVNUc3VkdzU4WHpQTTIzSVFDLS1MekZHZlVmalExUDE1NkE0UlRuaXd0WkNGUzJBZlllc2NvampLWWw3RkpZQlBnNWc4d05RNkEzNzUtTUNNblhJLVpKbkVKaUVYcUZlSGtnLUZmaXdORGxRWTRyVmFIOU90ZjNWeWQ?oc=5",
@@ -33,6 +24,15 @@
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc2JqcEVhSmlzaEZOdEhRcEpwQ2p0Q2VWOFFZdUNSQzdNSXJaYlVBM1dBTUhIY3JzajQ4U3lnbXlSc2dLaUhpVmN3VHlGbWR2c1lBVFdjQURoZ1haa2VZbFhYYTd3MXhYSlUxUmNudmI3MkV0RWthR0M3RV9PMWgwOVdJUDgtX0JQRXl6ZnNyZjBUMWh4Rm9rdVRzaVBPN2VBRmRpRmJoaEdueDh1eXhXWjNPLXdHV2l3UHJ3SFNsdTJmRUNiVHlfTA?oc=5",
         "timestamp": "2026-02-13T19:28:00",
         "timestamp_display": "13. 02. 2026 19:28",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Inovace po Expu 2025",
+        "summary": "Kansai hledá cesty, jak využít inovace z Expu 2025 v praxi a rozvíjet region.",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY3puZE8tN0gtaU1RTFZuTWxUTlFkREx3Ry0wVnVGY3hLNGp0YVI2UTE0bVU2SXJ5Z1VQbXg0V1phOXEwU3VkQXNnTm94QUJHenZsVnQ3X0IwLVRBazRMNmNuLXhUZWVDLWpTb3ZsZDViYUZVS05XYUxMTnVDMldTc0lhd3hjbHhxWVczOEhLUXdLTEdST09oQWptbmxBMm0tRXBOb2xn?oc=5",
+        "timestamp": "2026-02-13T14:31:00",
+        "timestamp_display": "13. 02. 2026 14:31",
         "is_new": false
     },
     {
