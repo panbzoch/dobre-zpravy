@@ -1,6 +1,42 @@
 [
     {
         "category": "Byznys",
+        "title": "Praha mezi nejbohatšími",
+        "summary": "Praha přeskočila Kodaň nebo Brusel v HDP na obyvatele.",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMjRkTHZFb2VOY2pIMzRCRDQ4VmtmLVd5NDZ5YWV2RVEzRy1vNnFIbmlnbDFaN2VSTHZwQ3pPLUJxcE5kUUJKZVNUc3VkdzU4WHpQTTIzSVFDLS1MekZHZlVmalExUDE1NkE0UlRuaXd0WkNGUzJBZlllc2NvampLWWw3RkpZQlBnNWc4d05RNkEzNzUtTUNNblhJLVpKbkVKaUVYcUZlSGtnLUZmaXdORGxRWTRyVmFIOU90ZjNWeWQ?oc=5",
+        "timestamp": "2026-02-14T05:00:00",
+        "timestamp_display": "14. 02. 2026 05:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "České firmy expandují",
+        "summary": "České firmy začínají skupovat německou konkurenci, aby probudily stamiliardy ležící ladem.",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNT000Vk1DVnZDZ3dlTmIyNlpLV0xENmo0M0c2bm1xYUVCdjh3aEtVX3hJMVV1c1hnRjdUb2lqeHpfRjFTUUY1YjZ3VGd1cXNmWTE4T3NtTXQyaVdqVWdMRFA5b1dOcmdTSXAzMGh3ZWNTX0FSa1BnTEJpdEt3aUpSSExFOGJpVU0ydERGOGZMb3NnOHprTlFhTDUwV0xKSXlMYTdjUXdzNk45YUhqSGlGc0JfN25rbXFBWm1MTkNvZEZYM20tVEtFVGpPYlV1S2NKRnNF?oc=5",
+        "timestamp": "2026-02-14T04:30:00",
+        "timestamp_display": "14. 02. 2026 04:30",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Volnočasový areál",
+        "summary": "Frýdek-Místek investuje 60 milionů do nového volnočasového areálu pro děti i dospělé, který bude hotový v květnu.",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc2JqcEVhSmlzaEZOdEhRcEpwQ2p0Q2VWOFFZdUNSQzdNSXJaYlVBM1dBTUhIY3JzajQ4U3lnbXlSc2dLaUhpVmN3VHlGbWR2c1lBVFdjQURoZ1haa2VZbFhYYTd3MXhYSlUxUmNudmI3MkV0RWthR0M3RV9PMWgwOVdJUDgtX0JQRXl6ZnNyZjBUMWh4Rm9rdVRzaVBPN2VBRmRpRmJoaEdueDh1eXhXWjNPLXdHV2l3UHJ3SFNsdTJmRUNiVHlfTA?oc=5",
+        "timestamp": "2026-02-13T19:28:00",
+        "timestamp_display": "13. 02. 2026 19:28",
+        "is_new": true
+    },
+    {
+        "category": "Medicína",
+        "title": "Péče o seniory",
+        "summary": "Pardubický kraj zvyšuje dostupnost péče o seniory s demencí.",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQW1hQzFIWTU3MGhiZHVza0FxajlPejhrNV8zWjAxWXZ2Z2hpYWtySEZ2ZFk0VjZ5VVZfUWZPdzNhcjVYTzJVNXJsa3l0d1gwV1NsWGNVaDBxZVFSWHFPT0J2Qkc1ZUJsbk9XeTRPdmd4MVRyNUZRWHlWT3VfTHpwd2tDc1RBUTdMNVRvaWtpRkxySGR4cU9GX0swdEpnOFU1QW5NM0tmZlZ1WGpPamRuNXc1bHhUaUM4OUlxX25FaUtHZw?oc=5",
+        "timestamp": "2026-02-12T19:31:00",
+        "timestamp_display": "12. 02. 2026 19:31",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "FL Technics převzala opravny",
         "summary": "FL Technics převzala letecké opravny v Mošnově od CSG, rozšiřuje služby.",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLXZ1ck9xUVlDMktQOUNxMHRiUnBfUnJMc0x1QjBBZUFpSTdSc0xXMmNtZnJpVUN6SDNvbEdQdjhBZHhPaXk3TXI2bXVRbi1TeTNidjBYLW1ySWs3RlFVSWxvTGhyMnAwQUxoMmtxa3VEUG5BVUx0RTVqM1FkVndnRl95U0NwWnFHRzVmU1liZlhIWjBfUm52VFVXT3FYdw?oc=5",
