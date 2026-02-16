@@ -1,12 +1,48 @@
 [
     {
         "category": "Byznys",
+        "title": "České dráhy přepravily 168 milionů",
+        "summary": "České dráhy přepravily 168 milionů cestujících, RegioJet sedm milionů a Leo Express téměř pět milionů loni.",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOY3VRb1JVRy13cGhqdklLT3Q5M3VNdWhlWG1YU0FPaTZ6aGplSnR0VDlIOGFBMEpCbmFlZlE3SmxkU1pXYTVkTU5WX0dIS01FM3laRm01Z0taUy1jRmg2WDJQWUd3b3NPSU9fLUFwaGwzZ0pWVzhoU3ZYRHQ5M1FUNE9FNUFxekx2dHVmS180VEwzRnRFRlJxNE0xcjFnT1ZwQ2lOejlKNVRoRktjWnM3cWptZWsybjFtalR3LU5RVHhBU3UyNDVLaXpJcXl3ZU1RUktCd0JRR2FGVWt4SkdiT2NpaDRFblVM?oc=5",
+        "timestamp": "2026-02-16T10:56:09",
+        "timestamp_display": "16. 02. 2026 10:56",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Investice mohou změnit život, jeden dobrý tah může přinést úspěch a finanční růst.",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nX21fV20yNDQ5ZmdrZmNWN21DNTBJMHA0Q2pyZndjY3RfdFVKZnc0SHZqbUdNUlF1anAzaWR4cnBLQ1hPdjd2Vk54X2xTWnFfaC0wUFcxZlVlTmR0ZG9WOVZR?oc=5",
+        "timestamp": "2026-02-16T10:55:19",
+        "timestamp_display": "16. 02. 2026 10:55",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Úspěch TasteTown",
+        "summary": "Česká gastro aplikace ovládla telefony generace Z za 2 roky.",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdkZPdGJ3TVBRME5DR1pVZHRUMHl1SEt6aEFSQUVvMlNOTUdiRGlYekxfTnN2VlVjZGxGYTZNLWVpdkFvdVRkZjFZUzVMbm5YOGtsR2k5ZFpYaGdLN3AwdzBFWF9FajBwMVZpTy1ORnBEeTByaXRWbkdPWDRWMjN6Z1FQeDBDVTFESmN0ckg3ZGloZ0ZDQXJzYVFUcXVaNFFyeDJDV3U0QjN1T213THdycENidFZ1T0ZFbE9YaXZvdlc1TV9C?oc=5",
+        "timestamp": "2026-02-16T10:41:00",
+        "timestamp_display": "16. 02. 2026 10:41",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "AI agenti mění svět",
+        "summary": "Programátor vytvořil AI agenty, které vyvolaly rozruch, nyní spolupracuje s gigantem na změně světa.",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWGpkczM1UDBQdGozSjdfQVJ5OXVhYlYxeVdHalR4WW5EelBsR0VmYllZY3hYUWZpLVl3Ti1RREVlQXVlZ0h1a1d6WGlocmdRWDJ4WUoybzdxa0c1M3dFRFc5Qzltcl9qTHpqbURwc1BNRkhQcHRxcUhIVEpWeXEyUEZNS1l4Z0RaYnBvTkxERnFWUzVxZEpWOEJ4RUZRM2FfcXNxN2Mtd2tqOVVtZ3hVN3JDQ2xkajRUZ3c?oc=5",
+        "timestamp": "2026-02-16T10:22:29",
+        "timestamp_display": "16. 02. 2026 10:22",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Mahindra zlevňuje elektromobily",
         "summary": "Mahindra nabízí modernizovaný crossover za nižší cenu, startuje pod 320 tisíci korun.",
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcEVPcUhzZVVhMDVwT3FLVXFvY0dYQk1nSkV6WU1sdnUzTURYMzNVbUhoLVB0WUpBVi0tc1pfd09icmdZaE5mcnV6NHBidmNibFFLRjEyN3VhdHM3clUzZE5ac3d4NUZJb3RQMjY2YVRoNzVaRmdKMWlhdXFvT1EwUXI0elc4ZzRWUFhnRWxlM3VPX2YtdDBUekJEc0QzTkVoN0F0ektJbE1DUVVsYU5Qc2V1eDNFRDlBVU1VcXdOQ1ItV3o3cUJ3bV90RXBIX1FYcDgzS1hxRHprYnpf?oc=5",
         "timestamp": "2026-02-16T09:20:00",
         "timestamp_display": "16. 02. 2026 09:20",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWTZHNXNpang0MUtEYUNWUEx2SFRTTkFpN0R6VkxfVlBDM0hhSHE2LUVhRHRnRHNBQmEtTFpuVklvLTZseWtxVE0xVkN2Wnc0cDdFMWVuUDctNk9NSUFYamlxaWlnSDBHWERUbUo0UkRTcWlzMnZOblZmcHdQMF90dnU0WXAyQl9rZnNsYU5KSzF5c0xheWJfa0QxVnExX1NCamNMVy1MRjhoTDl1aFUtZkpvc0ZaakhaMU9kTk03cko5NWR5TG95Z3pmR2RFam5DN3NZMV9n?oc=5",
         "timestamp": "2026-02-16T08:30:00",
         "timestamp_display": "16. 02. 2026 08:30",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,7 +60,7 @@
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTlNlUE5yNV83YWtiUFM4S3FSRXBuSlNnN09ENHlYUzVlaEdnZks4cTNpNFpZQlF1RzFQd29xSXluOVd2d2Q0eURMdC1seW5YMW5jenJNdGxYbE9Mc2pQd0RtMHJTWG1hcDRDYzRkTWFzLUdLc3pfVXg3TWltczNwYWxWUG9ERHlMWHFZYzZOSDF5VGFJcmF1bkpFa0NMeF83a0Q2cWlNQ3hXWVFYMXFkWEtkRUlqNHNu?oc=5",
         "timestamp": "2026-02-16T05:13:40",
         "timestamp_display": "16. 02. 2026 05:13",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
