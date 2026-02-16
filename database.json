@@ -1,12 +1,30 @@
 [
     {
         "category": "Byznys",
+        "title": "Úspěšná firma",
+        "summary": "Zakladatelé firmy začali v hospodě, později taxikařili, aby firmu udrželi naživu, nyní zdůrazňují důležitost ziskovosti.",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeVNvaEtVSG5XWU5ZR3phTEVydTFUNXFhRDNYTERKOHVkZkthVnRzSWdfZUNwdTBIRm4zeVBnQVpjb2x2UVBqYWRGUnh1aC1lRHRfYkpZTU5ROWotT1hXcmJYeXJmZm5ESHh6ZnRjRnJpQkJMLTlQVlhKNU5JRlc2TXNMSWtmM3AxT3hWWW9EYUNTX0xCZlJ3NDNYVDFTdjA5UXNaQUZCc2NkYkk?oc=5",
+        "timestamp": "2026-02-16T05:21:32",
+        "timestamp_display": "16. 02. 2026 05:21",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Nová čistička odpadních vod",
+        "summary": "Jindřichův Hradec investuje půl miliardy do nové čističky, která lépe odbourává fosfor, dusík a tuky z odpadních vod.",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcmtWdVItZVM1bUx3UzVIVXRESmU2d1BQUUIydEdxR3h3emJyMlZmbzhickp0dmMwWVd1NmlkRjIyV0t3SDg3NWI1am1DYXczVlBWM0tzaVhZem43TWZWRWMyRzdxc3NzRGNneG10eUhycl9famNLek5oQnpUaWhRRzZmTnpZZkFaQW9nTlFKZW5UN3R1eUI2QVhXWnoybGdURndYWkdKUlZRM2Q1emFrS2dpR3M5VV9pMGJMNHhzUFJaR2pYdHlscWlzVQ?oc=5",
+        "timestamp": "2026-02-16T04:00:00",
+        "timestamp_display": "16. 02. 2026 04:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "České dráhy přepravily 168 milionů",
         "summary": "České dráhy přepravily 168 milionů cestujících, RegioJet sedm milionů a Leo Express téměř pět milionů loni.",
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOY3VRb1JVRy13cGhqdklLT3Q5M3VNdWhlWG1YU0FPaTZ6aGplSnR0VDlIOGFBMEpCbmFlZlE3SmxkU1pXYTVkTU5WX0dIS01FM3laRm01Z0taUy1jRmg2WDJQWUd3b3NPSU9fLUFwaGwzZ0pWVzhoU3ZYRHQ5M1FUNE9FNUFxekx2dHVmS180VEwzRnRFRlJxNE0xcjFnT1ZwQ2lOejlKNVRoRktjWnM3cWptZWsybjFtalR3LU5RVHhBU3UyNDVLaXpJcXl3ZU1RUktCd0JRR2FGVWt4SkdiT2NpaDRFblVM?oc=5",
         "timestamp": "2026-02-16T10:56:09",
         "timestamp_display": "16. 02. 2026 10:56",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nX21fV20yNDQ5ZmdrZmNWN21DNTBJMHA0Q2pyZndjY3RfdFVKZnc0SHZqbUdNUlF1anAzaWR4cnBLQ1hPdjd2Vk54X2xTWnFfaC0wUFcxZlVlTmR0ZG9WOVZR?oc=5",
         "timestamp": "2026-02-16T10:55:19",
         "timestamp_display": "16. 02. 2026 10:55",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,7 +42,7 @@
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdkZPdGJ3TVBRME5DR1pVZHRUMHl1SEt6aEFSQUVvMlNOTUdiRGlYekxfTnN2VlVjZGxGYTZNLWVpdkFvdVRkZjFZUzVMbm5YOGtsR2k5ZFpYaGdLN3AwdzBFWF9FajBwMVZpTy1ORnBEeTByaXRWbkdPWDRWMjN6Z1FQeDBDVTFESmN0ckg3ZGloZ0ZDQXJzYVFUcXVaNFFyeDJDV3U0QjN1T213THdycENidFZ1T0ZFbE9YaXZvdlc1TV9C?oc=5",
         "timestamp": "2026-02-16T10:41:00",
         "timestamp_display": "16. 02. 2026 10:41",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -33,7 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWGpkczM1UDBQdGozSjdfQVJ5OXVhYlYxeVdHalR4WW5EelBsR0VmYllZY3hYUWZpLVl3Ti1RREVlQXVlZ0h1a1d6WGlocmdRWDJ4WUoybzdxa0c1M3dFRFc5Qzltcl9qTHpqbURwc1BNRkhQcHRxcUhIVEpWeXEyUEZNS1l4Z0RaYnBvTkxERnFWUzVxZEpWOEJ4RUZRM2FfcXNxN2Mtd2tqOVVtZ3hVN3JDQ2xkajRUZ3c?oc=5",
         "timestamp": "2026-02-16T10:22:29",
         "timestamp_display": "16. 02. 2026 10:22",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
