@@ -1,12 +1,39 @@
 [
     {
         "category": "Byznys",
+        "title": "Mahindra zlevňuje elektromobily",
+        "summary": "Mahindra nabízí modernizovaný crossover za nižší cenu, startuje pod 320 tisíci korun.",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcEVPcUhzZVVhMDVwT3FLVXFvY0dYQk1nSkV6WU1sdnUzTURYMzNVbUhoLVB0WUpBVi0tc1pfd09icmdZaE5mcnV6NHBidmNibFFLRjEyN3VhdHM3clUzZE5ac3d4NUZJb3RQMjY2YVRoNzVaRmdKMWlhdXFvT1EwUXI0elc4ZzRWUFhnRWxlM3VPX2YtdDBUekJEc0QzTkVoN0F0ektJbE1DUVVsYU5Qc2V1eDNFRDlBVU1VcXdOQ1ItV3o3cUJ3bV90RXBIX1FYcDgzS1hxRHprYnpf?oc=5",
+        "timestamp": "2026-02-16T09:20:00",
+        "timestamp_display": "16. 02. 2026 09:20",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Amazon spustil evropský cloud",
+        "summary": "Amazon spustil evropský suverénní cloud, který má usnadnit evropským firmám a státním institucím uchování citlivých dat v souladu s evropskými předpisy.",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWTZHNXNpang0MUtEYUNWUEx2SFRTTkFpN0R6VkxfVlBDM0hhSHE2LUVhRHRnRHNBQmEtTFpuVklvLTZseWtxVE0xVkN2Wnc0cDdFMWVuUDctNk9NSUFYamlxaWlnSDBHWERUbUo0UkRTcWlzMnZOblZmcHdQMF90dnU0WXAyQl9rZnNsYU5KSzF5c0xheWJfa0QxVnExX1NCamNMVy1MRjhoTDl1aFUtZkpvc0ZaakhaMU9kTk03cko5NWR5TG95Z3pmR2RFam5DN3NZMV9n?oc=5",
+        "timestamp": "2026-02-16T08:30:00",
+        "timestamp_display": "16. 02. 2026 08:30",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Aplikace mění majitele",
+        "summary": "Česká aplikace pro placení obědů mění majitele, původně ji poháněli investoři Alzy.",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTlNlUE5yNV83YWtiUFM4S3FSRXBuSlNnN09ENHlYUzVlaEdnZks4cTNpNFpZQlF1RzFQd29xSXluOVd2d2Q0eURMdC1seW5YMW5jenJNdGxYbE9Mc2pQd0RtMHJTWG1hcDRDYzRkTWFzLUdLc3pfVXg3TWltczNwYWxWUG9ERHlMWHFZYzZOSDF5VGFJcmF1bkpFa0NMeF83a0Q2cWlNQ3hXWVFYMXFkWEtkRUlqNHNu?oc=5",
+        "timestamp": "2026-02-16T05:13:40",
+        "timestamp_display": "16. 02. 2026 05:13",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Úspěch globální elity",
         "summary": "Metoděj Jílek sdílí recept na úspěch a své zkušenosti z globální elity.",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14ZmhibnhxYkZWSl91ak93cE1pbEFhWUxBSUFKTEJXYmFiTUJmb20wR1dMUzNDR2oxZEhqNFVYVTJYYmkweVhlTXQzOGtaMHlOMG5ZVVExeEI5TkJrMW5KejVSY0FZeU0?oc=5",
         "timestamp": "2026-02-16T01:04:13",
         "timestamp_display": "16. 02. 2026 01:04",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
