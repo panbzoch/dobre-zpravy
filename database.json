@@ -1,12 +1,30 @@
 [
     {
         "category": "Byznys",
+        "title": "Uber Eats se vrací",
+        "summary": "Uber Eats opět rozjíždí službu rozvozu jídla a nákupů v Česku.",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM3ZDT3hVZ1dZb1hHeVFDOW1wcW5KRTY1MUxCUFJYc0FVY1FId3h1UmNJdEJBVXhMbkFkblpfeEQ3TmJhanY0Ty1VUGlfS3VfcE00cXhPVkQ4Q0pXanBnOTl6T1ZUbkFuNi0xYU52YW5NUnlKZXo0SGdva3pMVUZXQTNENjhFUkFGX3ZsOS1laWlVM2phVXVsOGFnUHJRaXFKck5rVGhORXhoVXhyVHlwRjBQcw?oc=5",
+        "timestamp": "2026-02-17T13:00:00",
+        "timestamp_display": "17. 02. 2026 13:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice do autonomních dronů",
+        "summary": "Investoři posílají desítky milionů na vývoj autonomních dronů.",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTjlCc2VXR3ZkbUkxcEVTZHoxLW9pSENnTkhUb2UtOUJ1QldVZHJQNlNIaWJLSjBIN0s5cTY5ZXpnV3E2Rjg4RUFkRnJSVW9OenktcmNhaVlBOGxnR0ctLTRXUWNmRDFiWlNrTzYxcXJhVEJlWWlUdnVCRXpuTGRac0lxZGJldmlsS1UwekpzMG9IYktoRml0Z3g3Z0N4S3MzcVRqTXdSaWk1Rl9WUEtiSmxaM01uQQ?oc=5",
+        "timestamp": "2026-02-11T07:00:54",
+        "timestamp_display": "11. 02. 2026 07:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Čepro zvýšilo zisk",
         "summary": "Čepro zvýšilo provozní zisk o 10 % meziročně, dosáhlo úspěchu.",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWWtod1FoUHh4YzVTYVFybmJHOU02a1R3VU4yTGFSRkw4NldybzBDYmN4NWU3Nm50QWR4dUFUZlplRUhiSVZicEtQSEhSQWZibXVOdWoyRlQ2TW1GZkFJMVdOTnhJeGp0ODlqaUtrOXh2eF9heGdtRTdtazhRVFBva1dLX05mcmNBWnVOSUx5ZFREWnZQcmRUS3BDNA?oc=5",
         "timestamp": "2026-02-17T09:30:00",
         "timestamp_display": "17. 02. 2026 09:30",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Medicína",
@@ -15,7 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbVZqd0N6dmNlajhxc3Z3NG02emNwNjh4dWpwSTFBeWtKdFpSUy1PRzBrQk83R0JMNFFQWjkyQUdlcGxyZ0d4WUx2SEVOMUliR3Y0M3lHNWFGcnhPRnNTVnZrN0xod1czZ3V6ekhJVTIxVjNKTFBwTkNJMUlkaUVZR1Juam1seGJ3V0d1d1h0MG14X0xuUDhUalZPWjU?oc=5",
         "timestamp": "2026-02-17T07:05:13",
         "timestamp_display": "17. 02. 2026 07:05",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,7 +42,7 @@
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWUI4VGxBeWxWSFVFd0tmZ3FFRUlEY01NSmlpRjdlMXhocS11OHRHb192a0dkejIzYlFya0pyaUI4RlVoa2hxeWJITXJQemV5MlNVZUI4WXlDZTlzT3NvMkxkNmxDYlBadERnYjhwTy1EcVFKdWQ0c1oyallVdnc3TncxaEtQLUpKTTNUTGtuRWw1V3cwOUhzcGFERGJuaWQ4Z3dzTW5ua24yLTVnUTlRZEhaeUpZQkpsamh3Vy1pSGZ5SUlvUjJn?oc=5",
         "timestamp": "2026-02-17T05:01:00",
         "timestamp_display": "17. 02. 2026 05:01",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,7 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcWcwazl6SnNrSThFZDlGZkJ4QjR5clduSzJ1bEpjdEp6RGVrcnFtbk5Ib0I3d1liUWt5ZGJDc0duT2JvRHhVTVBwc0Ffa3FlOWo0VUV6TldidmVtWGZIa01iREpaT2NZYmpPVVJVTUIyWVZiQktBUmhMbnJPVU94WmVmazBxaUJDMWVKYWFTbGd2Snp3QXh0VVVFejBpbU0?oc=5",
         "timestamp": "2026-02-16T16:14:52",
         "timestamp_display": "16. 02. 2026 16:14",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
