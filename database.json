@@ -1,30 +1,48 @@
 [
     {
         "category": "Byznys",
+        "title": "Čepro zvýšilo zisk",
+        "summary": "Čepro zvýšilo provozní zisk o 10 % meziročně, dosáhlo úspěchu.",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWWtod1FoUHh4YzVTYVFybmJHOU02a1R3VU4yTGFSRkw4NldybzBDYmN4NWU3Nm50QWR4dUFUZlplRUhiSVZicEtQSEhSQWZibXVOdWoyRlQ2TW1GZkFJMVdOTnhJeGp0ODlqaUtrOXh2eF9heGdtRTdtazhRVFBva1dLX05mcmNBWnVOSUx5ZFREWnZQcmRUS3BDNA?oc=5",
+        "timestamp": "2026-02-17T09:30:00",
+        "timestamp_display": "17. 02. 2026 09:30",
+        "is_new": true
+    },
+    {
+        "category": "Medicína",
+        "title": "Investice do dlouhověkosti",
+        "summary": "Klinika Yes Age nabízí luxusní péči pro podporu dlouhověkosti a zdraví.",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbVZqd0N6dmNlajhxc3Z3NG02emNwNjh4dWpwSTFBeWtKdFpSUy1PRzBrQk83R0JMNFFQWjkyQUdlcGxyZ0d4WUx2SEVOMUliR3Y0M3lHNWFGcnhPRnNTVnZrN0xod1czZ3V6ekhJVTIxVjNKTFBwTkNJMUlkaUVZR1Juam1seGJ3V0d1d1h0MG14X0xuUDhUalZPWjU?oc=5",
+        "timestamp": "2026-02-17T07:05:13",
+        "timestamp_display": "17. 02. 2026 07:05",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Seznamka elektřiny startuje",
+        "summary": "E.ON Propojeno spáruje výrobce a odběratele elektřiny, aby optimalizovali spotřebu a výrobu energie.",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWUI4VGxBeWxWSFVFd0tmZ3FFRUlEY01NSmlpRjdlMXhocS11OHRHb192a0dkejIzYlFya0pyaUI4RlVoa2hxeWJITXJQemV5MlNVZUI4WXlDZTlzT3NvMkxkNmxDYlBadERnYjhwTy1EcVFKdWQ0c1oyallVdnc3TncxaEtQLUpKTTNUTGtuRWw1V3cwOUhzcGFERGJuaWQ4Z3dzTW5ua24yLTVnUTlRZEhaeUpZQkpsamh3Vy1pSGZ5SUlvUjJn?oc=5",
+        "timestamp": "2026-02-17T05:01:00",
+        "timestamp_display": "17. 02. 2026 05:01",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "MIT Sloan nejlepší",
+        "summary": "MIT Sloan je poprvé nejlepší byznysovou školou, sází na umělou inteligenci a inovace.",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcWcwazl6SnNrSThFZDlGZkJ4QjR5clduSzJ1bEpjdEp6RGVrcnFtbk5Ib0I3d1liUWt5ZGJDc0duT2JvRHhVTVBwc0Ffa3FlOWo0VUV6TldidmVtWGZIa01iREpaT2NZYmpPVVJVTUIyWVZiQktBUmhMbnJPVU94WmVmazBxaUJDMWVKYWFTbGd2Snp3QXh0VVVFejBpbU0?oc=5",
+        "timestamp": "2026-02-16T16:14:52",
+        "timestamp_display": "16. 02. 2026 16:14",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Růst právního byznysu",
         "summary": "Legora dosáhla rekordního růstu a přepisuje pravidla právního byznysu se šesti miliardami.",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVGRJNHlMbDFHeG9YNDF4TlIwb2U2QVg0M1p4eXBwSGVxY3p1djFESlhhMFBIMlJIRHRKNUs0cXh3cGFobzJ1T0dNVURWa2ZhZGtZLUl0MGRSWDllUTdmSXhEeDhqU0hjUGJsSGlrQjRDM1RzRnYwWDdicnM1Q1N0UlJvTDBoZFdibHhqcC1iVUlLeFZHeDdGOWxiWFZOTjE4cngzbjVkMVBuUFZwaWRBc0N2NVotRlpIQnhQUTg4ZWtSLXFQLTdYbmJySzBFUGxz?oc=5",
         "timestamp": "2026-02-16T15:00:00",
         "timestamp_display": "16. 02. 2026 15:00",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Češi investují do kovů",
-        "summary": "Češi investují do drahých kovů, což způsobuje nedostatek zlatých a stříbrných slitků na trhu.",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMmg5T3YwR3NqUnlSU3BFVUF0b19NamR0bS11UjVrQ2llR1EzTEFjcFdyWVJQZjZSb3Uxa3ZnY2Z6R3FEWEUzVk9tVUVURFI5bzAyb2w1RWlOb1U0SkZ4TGR4emp5ekg4ZVdiUUZUMjNOTDhEdDdoNkZiTURpQVdWZUFqQ0ZqWUhZMFBsTGVFUGVGR3lwVDhaS0xPci0yVGhKVjhuOVBXSnFwdUhVZ2dVLVFFeC1rVFBJUDd1eWFjd1RydUotdGc?oc=5",
-        "timestamp": "2026-02-16T09:15:00",
-        "timestamp_display": "16. 02. 2026 09:15",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Změňte život technologií",
-        "summary": "Nová technologie může změnit životy lidí pozitivně, nabízí nové možnosti a řešení.",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE95WElhV0VGcnNlLTZnUThoako4SGtYb3lXTnlrODZDMUtJTGNHakp5dWtDU04tY3prWVlpTGRFS2dXMEo2a0RNdzFPdDlVVlZXeEV0bktUd3JwT0st?oc=5",
-        "timestamp": "2026-02-11T14:55:30",
-        "timestamp_display": "11. 02. 2026 14:55",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -69,6 +87,15 @@
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcEVPcUhzZVVhMDVwT3FLVXFvY0dYQk1nSkV6WU1sdnUzTURYMzNVbUhoLVB0WUpBVi0tc1pfd09icmdZaE5mcnV6NHBidmNibFFLRjEyN3VhdHM3clUzZE5ac3d4NUZJb3RQMjY2YVRoNzVaRmdKMWlhdXFvT1EwUXI0elc4ZzRWUFhnRWxlM3VPX2YtdDBUekJEc0QzTkVoN0F0ektJbE1DUVVsYU5Qc2V1eDNFRDlBVU1VcXdOQ1ItV3o3cUJ3bV90RXBIX1FYcDgzS1hxRHprYnpf?oc=5",
         "timestamp": "2026-02-16T09:20:00",
         "timestamp_display": "16. 02. 2026 09:20",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Češi investují do kovů",
+        "summary": "Češi investují do drahých kovů, což způsobuje nedostatek zlatých a stříbrných slitků na trhu.",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMmg5T3YwR3NqUnlSU3BFVUF0b19NamR0bS11UjVrQ2llR1EzTEFjcFdyWVJQZjZSb3Uxa3ZnY2Z6R3FEWEUzVk9tVUVURFI5bzAyb2w1RWlOb1U0SkZ4TGR4emp5ekg4ZVdiUUZUMjNOTDhEdDdoNkZiTURpQVdWZUFqQ0ZqWUhZMFBsTGVFUGVGR3lwVDhaS0xPci0yVGhKVjhuOVBXSnFwdUhVZ2dVLVFFeC1rVFBJUDd1eWFjd1RydUotdGc?oc=5",
+        "timestamp": "2026-02-16T09:15:00",
+        "timestamp_display": "16. 02. 2026 09:15",
         "is_new": false
     },
     {
@@ -258,6 +285,15 @@
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeWlkRDZfYjRfYlZQTkFlOEdOenFsUzFpWkN0NmZOMWk0aURoaGhWamQtanhaS1ZhWnQyWkFGU2RseU8wZGpfYUFjamZ6LTJNclc2ZTlLRmtOU0VRdjhSVzNiOXE1UHE1enZlUklXcWZCSFBxMGNqcjZpRzQ4azFuejdZVy1tOUV4emlILVpWMmhSbDVrQzRPbFF4SjFIeTZON2M2b2x3QTNRd1R6eXQ4Y2d3X0YxRVA2S0t4R3pWcEo?oc=5",
         "timestamp": "2026-02-11T15:12:00",
         "timestamp_display": "11. 02. 2026 15:12",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Změňte život technologií",
+        "summary": "Nová technologie může změnit životy lidí pozitivně, nabízí nové možnosti a řešení.",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE95WElhV0VGcnNlLTZnUThoako4SGtYb3lXTnlrODZDMUtJTGNHakp5dWtDU04tY3prWVlpTGRFS2dXMEo2a0RNdzFPdDlVVlZXeEV0bktUd3JwT0st?oc=5",
+        "timestamp": "2026-02-11T14:55:30",
+        "timestamp_display": "11. 02. 2026 14:55",
         "is_new": false
     },
     {
