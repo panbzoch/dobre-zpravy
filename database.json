@@ -1,21 +1,21 @@
 [
     {
+        "category": "Technologie",
+        "title": "3D tiskárna Fiber Navalis",
+        "summary": "Fiber Navalis vyrobí 12 metrů dlouhou loď za osm dnů pomocí 3D tisku.",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU3R6emF2cFJEUVJYLUpRY0lDZ2psOHJkMU54d01NVFoxYkljQ0hMVDVDSU1DTFNXN18tUVRCR3pQamxfcG1vT1BZeVRUOEEybGZTcEIwM3R0bmNyVjRQWDl4ZzFPcVFNc0RFVlJvT0JDaDBQZnpfSmxzeEdWRGdVNnpINko4RVRzZ0dxMUFQNEh4VTZMY0NsZkF2NE1SUy1uRS1zRVNjeHBfV183UGVnUWpqVDE2a0w3TGVBQUR4UnNsdVVrb3F5U3VZNHMzaGhfWTI3bEk0VkxHbDNMNFdNc0tUdjRHTjhXMEhpWXozUQ?oc=5",
+        "timestamp": "2026-02-17T15:23:57",
+        "timestamp_display": "17. 02. 2026 15:23",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "Uber Eats se vrací",
         "summary": "Uber Eats opět rozjíždí službu rozvozu jídla a nákupů v Česku.",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM3ZDT3hVZ1dZb1hHeVFDOW1wcW5KRTY1MUxCUFJYc0FVY1FId3h1UmNJdEJBVXhMbkFkblpfeEQ3TmJhanY0Ty1VUGlfS3VfcE00cXhPVkQ4Q0pXanBnOTl6T1ZUbkFuNi0xYU52YW5NUnlKZXo0SGdva3pMVUZXQTNENjhFUkFGX3ZsOS1laWlVM2phVXVsOGFnUHJRaXFKck5rVGhORXhoVXhyVHlwRjBQcw?oc=5",
         "timestamp": "2026-02-17T13:00:00",
         "timestamp_display": "17. 02. 2026 13:00",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Investice do autonomních dronů",
-        "summary": "Investoři posílají desítky milionů na vývoj autonomních dronů.",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTjlCc2VXR3ZkbUkxcEVTZHoxLW9pSENnTkhUb2UtOUJ1QldVZHJQNlNIaWJLSjBIN0s5cTY5ZXpnV3E2Rjg4RUFkRnJSVW9OenktcmNhaVlBOGxnR0ctLTRXUWNmRDFiWlNrTzYxcXJhVEJlWWlUdnVCRXpuTGRac0lxZGJldmlsS1UwekpzMG9IYktoRml0Z3g3Z0N4S3MzcVRqTXdSaWk1Rl9WUEtiSmxaM01uQQ?oc=5",
-        "timestamp": "2026-02-11T07:00:54",
-        "timestamp_display": "11. 02. 2026 07:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -357,6 +357,15 @@
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ2paVC02WkZZYmh2NEdNMDNkN0h2Z0RJMW1EU3NVX0phZkJJSkFXNDZEeTM3ckRvemxseUY4VFRzSThOX1p4YVhxT28wbkF1LXlQN3VRdkpiLXl6MUVTc3ZUM2JEVzZWLTdobVRsWFBOLUZMZm9ySmN1MmdTek5DMHRDOG9GU2t6R2hYTkZGQVJoRnhtMzZOcjFPX3NRTm1HWUd1QVJRN0EtRzdUcXc?oc=5",
         "timestamp": "2026-02-11T07:15:00",
         "timestamp_display": "11. 02. 2026 07:15",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice do autonomních dronů",
+        "summary": "Investoři posílají desítky milionů na vývoj autonomních dronů.",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTjlCc2VXR3ZkbUkxcEVTZHoxLW9pSENnTkhUb2UtOUJ1QldVZHJQNlNIaWJLSjBIN0s5cTY5ZXpnV3E2Rjg4RUFkRnJSVW9OenktcmNhaVlBOGxnR0ctLTRXUWNmRDFiWlNrTzYxcXJhVEJlWWlUdnVCRXpuTGRac0lxZGJldmlsS1UwekpzMG9IYktoRml0Z3g3Z0N4S3MzcVRqTXdSaWk1Rl9WUEtiSmxaM01uQQ?oc=5",
+        "timestamp": "2026-02-11T07:00:54",
+        "timestamp_display": "11. 02. 2026 07:00",
         "is_new": false
     },
     {
