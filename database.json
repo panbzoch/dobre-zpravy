@@ -1,12 +1,21 @@
 [
     {
+        "category": "Technologie",
+        "title": "Lego kontejnerová loď",
+        "summary": "Lego vydává model obří kontejnerové lodi Ane Mærsk, hybridní lodě.",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbVRudEllbDdIN0tGYldJR3RsWFZIbWxMc1VvZ0N0YUFBMEZ3bW51ZEkwMUJEbEo0dV81R0RySFVWLVhQRzVtSnMwVjNRVDlfLUNsNktfTGVNamswczItUzA3QXVXcUVjb0ZZeFpvMm8yXzlMajktWnBlVzVCV250SnhtVlNxcUstNWVRVm9wQUg1N0k?oc=5",
+        "timestamp": "2026-02-18T11:40:59",
+        "timestamp_display": "18. 02. 2026 11:40",
+        "is_new": true
+    },
+    {
         "category": "Věda",
         "title": "Koně obnovují Šumavu",
         "summary": "Divocí koně pomáhají obnovit ekologické vztahy na Šumavě, vrátit se má modrásek bahenní i dudek chochol.",
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTGhfY3Z4TjFTMGxtdlRUcjFtcGtaQUV2NmhwcFZ5MmJzSF9fejA3WUZOek1naDkzYlNGcElMa0FXSHZFcXE4R1U5ZVFVcUxPS2tMNmtucEJ1aGN4V0c0enk0VUNpN1hNSkRDcUl6SmtPek9jb1EteERFYU1MYl9ZSHVqVmI0R09UMWNMVi0yMFZzTGNsOGkzc0Y0YTBmd053UkFYZThQblBEVWs5aWM3dHhmb2F3VWJzQllnRjZYMDBnSEtPRFdscmlVOHRvaVFyMTlqQUIyUXRmcFZI?oc=5",
         "timestamp": "2026-02-18T10:05:00",
         "timestamp_display": "18. 02. 2026 10:05",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,16 +24,7 @@
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT2VHWU0tYVBtQ2RhRTVYMjE3ZVFtSTRneWpjLWJaNW1xaTF3VDA2d01acm1pbjRjV3hoNG1rd1lKTVVVLUgwWmFSVFFpZ1JUNThBNFpkaU42WXhRUXdjWm5NTXdIaTc4VGtGSG1XUHZad3ZkRHpHcV9MT0RPMFZlVzJ0ME5IMTJuRHd1R2pvVVc4LWs4c09hRnRpSmc2Y0dqb1lnT1RkVjVxaEV1LXhVcHJOR2pQdXV6RmgtZ3dXN2gwZ0dsUTdN?oc=5",
         "timestamp": "2026-02-18T09:02:00",
         "timestamp_display": "18. 02. 2026 09:02",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Nová výstavba bytů",
-        "summary": "Investoři plánují stavět stovky bytů v Pardubicích, povolení chtějí získat letos.",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQjNpRE9YM2paREF6REtkLUVyMVkxZC1hOVNiQWJCeVI1Q2JaN1VsS2lvdUtUaVR6VzVVZjhBbC1aUjhrYXc1ODZjbnltRFVNTV9QSmNWWFZ4aGhGa0M0NDJFUG1EZ25jMGF5R0VsSnZKTXNuejA0Ny1PZFJaZWUtd1FZNFpyWGRkYlFtWXktNFhmMDFLTlBOMnQ1aTVlRU91X0VRVXFha1hQZ2tEdk12Z3ZDWGtKSFJUYnd6SmdNcTYxZGQ2bkE?oc=5",
-        "timestamp": "2026-02-16T14:12:00",
-        "timestamp_display": "16. 02. 2026 14:12",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -96,6 +96,15 @@
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVGRJNHlMbDFHeG9YNDF4TlIwb2U2QVg0M1p4eXBwSGVxY3p1djFESlhhMFBIMlJIRHRKNUs0cXh3cGFobzJ1T0dNVURWa2ZhZGtZLUl0MGRSWDllUTdmSXhEeDhqU0hjUGJsSGlrQjRDM1RzRnYwWDdicnM1Q1N0UlJvTDBoZFdibHhqcC1iVUlLeFZHeDdGOWxiWFZOTjE4cngzbjVkMVBuUFZwaWRBc0N2NVotRlpIQnhQUTg4ZWtSLXFQLTdYbmJySzBFUGxz?oc=5",
         "timestamp": "2026-02-16T15:00:00",
         "timestamp_display": "16. 02. 2026 15:00",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Nová výstavba bytů",
+        "summary": "Investoři plánují stavět stovky bytů v Pardubicích, povolení chtějí získat letos.",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQjNpRE9YM2paREF6REtkLUVyMVkxZC1hOVNiQWJCeVI1Q2JaN1VsS2lvdUtUaVR6VzVVZjhBbC1aUjhrYXc1ODZjbnltRFVNTV9QSmNWWFZ4aGhGa0M0NDJFUG1EZ25jMGF5R0VsSnZKTXNuejA0Ny1PZFJaZWUtd1FZNFpyWGRkYlFtWXktNFhmMDFLTlBOMnQ1aTVlRU91X0VRVXFha1hQZ2tEdk12Z3ZDWGtKSFJUYnd6SmdNcTYxZGQ2bkE?oc=5",
+        "timestamp": "2026-02-16T14:12:00",
+        "timestamp_display": "16. 02. 2026 14:12",
         "is_new": false
     },
     {
