@@ -1,12 +1,39 @@
 [
     {
+        "category": "Věda",
+        "title": "Koně obnovují Šumavu",
+        "summary": "Divocí koně pomáhají obnovit ekologické vztahy na Šumavě, vrátit se má modrásek bahenní i dudek chochol.",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTGhfY3Z4TjFTMGxtdlRUcjFtcGtaQUV2NmhwcFZ5MmJzSF9fejA3WUZOek1naDkzYlNGcElMa0FXSHZFcXE4R1U5ZVFVcUxPS2tMNmtucEJ1aGN4V0c0enk0VUNpN1hNSkRDcUl6SmtPek9jb1EteERFYU1MYl9ZSHVqVmI0R09UMWNMVi0yMFZzTGNsOGkzc0Y0YTBmd053UkFYZThQblBEVWs5aWM3dHhmb2F3VWJzQllnRjZYMDBnSEtPRFdscmlVOHRvaVFyMTlqQUIyUXRmcFZI?oc=5",
+        "timestamp": "2026-02-18T10:05:00",
+        "timestamp_display": "18. 02. 2026 10:05",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Nová nabídka spořicích účtů",
+        "summary": "Nová nabídka spořicích účtů pro děti nabízí úrok až 5,01 procenta.",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT2VHWU0tYVBtQ2RhRTVYMjE3ZVFtSTRneWpjLWJaNW1xaTF3VDA2d01acm1pbjRjV3hoNG1rd1lKTVVVLUgwWmFSVFFpZ1JUNThBNFpkaU42WXhRUXdjWm5NTXdIaTc4VGtGSG1XUHZad3ZkRHpHcV9MT0RPMFZlVzJ0ME5IMTJuRHd1R2pvVVc4LWs4c09hRnRpSmc2Y0dqb1lnT1RkVjVxaEV1LXhVcHJOR2pQdXV6RmgtZ3dXN2gwZ0dsUTdN?oc=5",
+        "timestamp": "2026-02-18T09:02:00",
+        "timestamp_display": "18. 02. 2026 09:02",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Nová výstavba bytů",
+        "summary": "Investoři plánují stavět stovky bytů v Pardubicích, povolení chtějí získat letos.",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQjNpRE9YM2paREF6REtkLUVyMVkxZC1hOVNiQWJCeVI1Q2JaN1VsS2lvdUtUaVR6VzVVZjhBbC1aUjhrYXc1ODZjbnltRFVNTV9QSmNWWFZ4aGhGa0M0NDJFUG1EZ25jMGF5R0VsSnZKTXNuejA0Ny1PZFJaZWUtd1FZNFpyWGRkYlFtWXktNFhmMDFLTlBOMnQ1aTVlRU91X0VRVXFha1hQZ2tEdk12Z3ZDWGtKSFJUYnd6SmdNcTYxZGQ2bkE?oc=5",
+        "timestamp": "2026-02-16T14:12:00",
+        "timestamp_display": "16. 02. 2026 14:12",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "O2 vylepšuje tarify",
         "summary": "O2 nabízí více dat, vyšší rychlosti a silnější ekosystém ve svých mobilních tarifech.",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV3lqcjFzVklROTM2cGVzVE9rSWc2N2RDWWVnazhQaXpoenlXRU5hMzVTMzhJN2tZQnB2WDhZYTBSR3pTYThBWlhoMHo4cnFyZ1RkSHByNUJyYzJoUFBNY1E1Um5OQzJ1cHA4aGJ0NWpWU2d3MDFmaVEwTy1OMjQxZk9ZOGl3cnpTbDJmYkFfTG9EUEN6RXEyZGEwUHlVTS1pbThiZnJJcEdNQQ?oc=5",
         "timestamp": "2026-02-17T23:00:00",
         "timestamp_display": "17. 02. 2026 23:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
