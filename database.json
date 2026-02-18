@@ -1,12 +1,21 @@
 [
     {
+        "category": "Byznys",
+        "title": "O2 vylepšuje tarify",
+        "summary": "O2 nabízí více dat, vyšší rychlosti a silnější ekosystém ve svých mobilních tarifech.",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV3lqcjFzVklROTM2cGVzVE9rSWc2N2RDWWVnazhQaXpoenlXRU5hMzVTMzhJN2tZQnB2WDhZYTBSR3pTYThBWlhoMHo4cnFyZ1RkSHByNUJyYzJoUFBNY1E1Um5OQzJ1cHA4aGJ0NWpWU2d3MDFmaVEwTy1OMjQxZk9ZOGl3cnpTbDJmYkFfTG9EUEN6RXEyZGEwUHlVTS1pbThiZnJJcEdNQQ?oc=5",
+        "timestamp": "2026-02-17T23:00:00",
+        "timestamp_display": "17. 02. 2026 23:00",
+        "is_new": true
+    },
+    {
         "category": "Technologie",
         "title": "3D tiskárna Fiber Navalis",
         "summary": "Fiber Navalis vyrobí 12 metrů dlouhou loď za osm dnů pomocí 3D tisku.",
         "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU3R6emF2cFJEUVJYLUpRY0lDZ2psOHJkMU54d01NVFoxYkljQ0hMVDVDSU1DTFNXN18tUVRCR3pQamxfcG1vT1BZeVRUOEEybGZTcEIwM3R0bmNyVjRQWDl4ZzFPcVFNc0RFVlJvT0JDaDBQZnpfSmxzeEdWRGdVNnpINko4RVRzZ0dxMUFQNEh4VTZMY0NsZkF2NE1SUy1uRS1zRVNjeHBfV183UGVnUWpqVDE2a0w3TGVBQUR4UnNsdVVrb3F5U3VZNHMzaGhfWTI3bEk0VkxHbDNMNFdNc0tUdjRHTjhXMEhpWXozUQ?oc=5",
         "timestamp": "2026-02-17T15:23:57",
         "timestamp_display": "17. 02. 2026 15:23",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
