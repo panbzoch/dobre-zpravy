@@ -1,12 +1,21 @@
 [
     {
         "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Investice může změnit život, jeden dobrý tah může přinést úspěch a finanční růst.",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rUVdJYTQ0WWQ3SG9LLUxfUGFoN29EOW9iRlNUR2xJX0xZLS1ZSEpyUmxrNnNac0VaVGFEY3hfYVA3R1l4dlAzbTJHNmdsNTlDRFB6ck1xR2pqdw?oc=5",
+        "timestamp": "2026-02-19T15:39:16",
+        "timestamp_display": "19. 02. 2026 15:39",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Nová hala pro vlaky",
         "summary": "Dělníci staví moderní zázemí v olomouckém depu, nová hala bude měřit 120 metrů.",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTF9uSlBkQ3lkZ0dJUzNhV204X2ZXU0hodW9VY3dqdjNvZ09nYzdyMVk2RnBZLVVwaTlaOUVVUjF4RHJtQ25OV3FjNWpfelNCNkZNYTRacHJULW1IbWRTVUEyR2lvYklKOUt0bFBqWS1UZk9RcW5LbmNYcXFjdzg2MkVHbjktckZmdGpQWVQwbGVwVkxLZk1qVHZDdUJmOTV0dkY2ZGdGczBaRnNBX05FMVp0VmVpU1dLZElaMlNhWURVV2JlSS1jYg?oc=5",
         "timestamp": "2026-02-19T11:15:00",
         "timestamp_display": "19. 02. 2026 11:15",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -15,7 +24,7 @@
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYmZPNy1QOW9BYzgyQ3JNazJMbFF5X0J3ZFlpbkxvNGFlTHNHcWkySjkzd3JNVF9ZRXQ4dFBPa1pNdllRSnNzMHdaemoxSFpSMG9ER2hzcDJOVjl6cmVoZTVHd3FhVDlfeXFSV281ZjNjVFJuaDVhcEpWRWNJMEFQWklRbUdGRm1kMUVERktjS3JjbmVCSGRJMEFGUms0b283cEdTWnNaaEV2RHJyQklPRXYxZmhZRXo0WEluYVNUc1JvbktaNk1EOXEydFNudWNXd2hydHhUaDM?oc=5",
         "timestamp": "2026-02-19T10:56:31",
         "timestamp_display": "19. 02. 2026 10:56",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
