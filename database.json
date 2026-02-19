@@ -1,12 +1,30 @@
 [
     {
         "category": "Byznys",
+        "title": "Nová hala pro vlaky",
+        "summary": "Dělníci staví moderní zázemí v olomouckém depu, nová hala bude měřit 120 metrů.",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTF9uSlBkQ3lkZ0dJUzNhV204X2ZXU0hodW9VY3dqdjNvZ09nYzdyMVk2RnBZLVVwaTlaOUVVUjF4RHJtQ25OV3FjNWpfelNCNkZNYTRacHJULW1IbWRTVUEyR2lvYklKOUt0bFBqWS1UZk9RcW5LbmNYcXFjdzg2MkVHbjktckZmdGpQWVQwbGVwVkxLZk1qVHZDdUJmOTV0dkY2ZGdGczBaRnNBX05FMVp0VmVpU1dLZElaMlNhWURVV2JlSS1jYg?oc=5",
+        "timestamp": "2026-02-19T11:15:00",
+        "timestamp_display": "19. 02. 2026 11:15",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Gravitační díra pod Antarktidou",
+        "summary": "Vědci objevili největší gravitační díru na Zemi pod Antarktidou a odhalili její původ.",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYmZPNy1QOW9BYzgyQ3JNazJMbFF5X0J3ZFlpbkxvNGFlTHNHcWkySjkzd3JNVF9ZRXQ4dFBPa1pNdllRSnNzMHdaemoxSFpSMG9ER2hzcDJOVjl6cmVoZTVHd3FhVDlfeXFSV281ZjNjVFJuaDVhcEpWRWNJMEFQWklRbUdGRm1kMUVERktjS3JjbmVCSGRJMEFGUms0b283cEdTWnNaaEV2RHJyQklPRXYxZmhZRXo0WEluYVNUc1JvbktaNk1EOXEydFNudWNXd2hydHhUaDM?oc=5",
+        "timestamp": "2026-02-19T10:56:31",
+        "timestamp_display": "19. 02. 2026 10:56",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "PPL zavádí AlzaBoxy",
         "summary": "PPL spouští odesílání balíčků přes AlzaBoxy, zvyšuje tak pohodlí zákazníků.",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWDJScXB2X2ZkbXpreVZTRHptTGVSbjgyVnF6dG56SWpTUVFyMHRnOUUxckVySlpLYTNkaWF3VjRjbXdQbGZSVGtId0NncEhKdzhiZ2hUcWRyNEFFcU83QWxrSTcwWTlya3dZajNnMzF0eE0xbzlzVFJxQU1wSVh5bDVsS1RJZ3kwZnFFVTBhQm1EbVdfVjBOV253bEk?oc=5",
         "timestamp": "2026-02-19T08:53:00",
         "timestamp_display": "19. 02. 2026 08:53",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,25 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUVY0dnZVcTNfS3VWcHF3OGl2OFNoREg5OGxjOFNsTGlUWXVJcFVzZFI4OW82MlEwM0g2NVJrNlRxemxMUEd3N05ESlRreWJnc21LYXRGZTFfQldHZU9pYlFDUDFIVVRVSnV4WGJ0cjV0cVlLbmtSb1JMNkMyR1h6S0xYWEo4Q3ZGbmw2WlU3QTJfZlVNQjlSVVM2NExRTnlHYmJjY254NUNhVjk5RDItOHE2djczd1ZqOGRpa0tjYjAwNEdmUFB0eW16VmRYMHc1TVV6bWhyaEw?oc=5",
         "timestamp": "2026-02-19T07:30:00",
         "timestamp_display": "19. 02. 2026 07:30",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Nová metoda měření ajťáků",
-        "summary": "Nová metoda měří výkon ajťáků a jejich dopad na byznys, získala 50 milionů od investorů.",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaEt6V3pmWHVvLWpkSFVfazdmV2pEX1MtMjIyTjFtMmtwb25Za1R0a3lvejhVd1AxT3RPR2FMRV91R3ZzVkJHanBvTmxsZHZyQXJDa1lxcF9ndmJKVi1ZNnI5VF9tVWpKQ2VJTUxfTUV4NEpOc0ZyN3hkNXlnZmY0ZXRRRnlJNkpabEcyaGhCRm5qeWhYeXlfMFhGamVIYkNxSGN0eENkZGpldVU?oc=5",
-        "timestamp": "2026-02-18T14:02:43",
-        "timestamp_display": "18. 02. 2026 14:02",
-        "is_new": true
-    },
-    {
-        "category": "Společnost",
-        "title": "Nová rezervace divokých koní",
-        "summary": "Na Šumavě vznikla nová rezervace pro divoké koně, která má pomoci zachovat jejich populaci a přírodní rovnováhu.",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xSldaa21ndEhJSzVjQjBzbU84N3hiMlZEWWhfdmUwcG9hUTBoaTJ5MjVKUi0tSzNuX0paVHozT1JZRWFHam9LRHpWSVd5eGtWLVpfanJycGpuRmhXSEJEVFg0R1hjcjQ?oc=5",
-        "timestamp": "2026-02-18T11:53:18",
-        "timestamp_display": "18. 02. 2026 11:53",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -42,6 +42,24 @@
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMjJ2ZWZJeHBKQ3Zpbl9keEpsZl9zdnc5cGZkc2RELUc2WjFyZGY0M1czcWg2WVhYeHRrdmlEZkNMbGhOWE1qMGh0VHpOY3dWNDRLd3R1WXBhdHItQTFTMWNXa1U1ZjRfalFPdVBFNUdlMXhzTTVDOXl5ai01MDVIRzY4YTdjd0Y1X1RZVkFXVXUzeWxpUDJ4UlVyaVRXSWRUTU03cXE0NnJkdTBRbzlzNzFRampaZFlFX0h2ZzVvbk4zTlF3S0ZN?oc=5",
         "timestamp": "2026-02-18T16:15:00",
         "timestamp_display": "18. 02. 2026 16:15",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Nová metoda měření ajťáků",
+        "summary": "Nová metoda měří výkon ajťáků a jejich dopad na byznys, získala 50 milionů od investorů.",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaEt6V3pmWHVvLWpkSFVfazdmV2pEX1MtMjIyTjFtMmtwb25Za1R0a3lvejhVd1AxT3RPR2FMRV91R3ZzVkJHanBvTmxsZHZyQXJDa1lxcF9ndmJKVi1ZNnI5VF9tVWpKQ2VJTUxfTUV4NEpOc0ZyN3hkNXlnZmY0ZXRRRnlJNkpabEcyaGhCRm5qeWhYeXlfMFhGamVIYkNxSGN0eENkZGpldVU?oc=5",
+        "timestamp": "2026-02-18T14:02:43",
+        "timestamp_display": "18. 02. 2026 14:02",
+        "is_new": false
+    },
+    {
+        "category": "Společnost",
+        "title": "Nová rezervace divokých koní",
+        "summary": "Na Šumavě vznikla nová rezervace pro divoké koně, která má pomoci zachovat jejich populaci a přírodní rovnováhu.",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xSldaa21ndEhJSzVjQjBzbU84N3hiMlZEWWhfdmUwcG9hUTBoaTJ5MjVKUi0tSzNuX0paVHozT1JZRWFHam9LRHpWSVd5eGtWLVpfanJycGpuRmhXSEJEVFg0R1hjcjQ?oc=5",
+        "timestamp": "2026-02-18T11:53:18",
+        "timestamp_display": "18. 02. 2026 11:53",
         "is_new": false
     },
     {
