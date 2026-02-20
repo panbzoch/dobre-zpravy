@@ -1,11 +1,29 @@
 [
     {
-        "category": "Byznys",
-        "title": "Investoři do realit",
-        "summary": "Společnost ZDR má 22 tisíc investorů a 77 realit s cenou přes 20 miliard korun.",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSDRvZzVJaTUxanJSYngxbEV4dWpBcjNDa2phYlY3MnpZVGUzY0R1enBpcjM3MWp2MUhIcjU0RjNFRThVVzBoT2MtUkJoT0paS2VfY1JtaVIzejRfczBJMU94dE15Z1liV2E4UWlXbmlMR2NLMHBmeU9DWWtXOUJPMl80bElNclp6VERsdHREbWd5d2daQXpsMXlHX2JKQVhDNVNtR3lXY19jcU1vdE0wM1NHOHh2b1FQbmpQZA?oc=5",
-        "timestamp": "2026-02-17T15:46:23",
-        "timestamp_display": "17. 02. 2026 15:46",
+        "category": "Věda",
+        "title": "Gravitační díra pod Antarktidou",
+        "summary": "Vědci objevili největší gravitační díru na Zemi pod Antarktidou a odhalili její původ.",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQc2dWT2k4RWhFd1hnMUh4VVN2N2NCZERKb1hMOTdrei1lTEpTdjU3dGJKenBZRTgyRW4xcWpNUVVZSmpKc0duSm45VHowUUhJWmJZeUxHY0k0WDFWWWpuVzdSRl82QkJiUnRHMnhlcVI0b1FxVUtpZEM4RG12OEY4X1hKZlB4NmowLWN4RjYydUstbXFmdnh3cHkwM3BPZE5oZ056YlY5MVloNFRheHJlempYcUY2UUJKNGcyN3RTcGJ4bGo4RHFjQ1pCOFhTTnBKYnRzNHRsdEFsSkNBbFJoTjQxdG9xbURiYzZN?oc=5",
+        "timestamp": "2026-02-20T15:36:57",
+        "timestamp_display": "20. 02. 2026 15:36",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Autopilot sám přistál",
+        "summary": "Garminův autopilot úspěšně přistál s letadlem po náhlé ztrátě tlaku.",
+        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPdW1kOWdjVnM4NFhoZzY3VnlMQ0RtQk15cjVFcFhZU0FEOXVLYmJ2LW9ab25LVU0yM3pPejFEZ1V1dmQxSlZONXROR29Nd2NQSDZPLUtZaUdtQWx3T3UyeWVRVXdXNTh5dmZERTZBaDNrOTVyOEsyZXJzMTk4WDl3X25KZDVuV0VNQnJLY1hpdkpzZ0RacGR2LUFxcmkwUGFQaXM3MjgxR0lXZ204S2NYaXhrTWJpV1Izall2Yk5CcHQxNEU1c25Ic000NjVGS1d2R21wRTVOX2JXV2tCOTl5eGRMcVZzZEhSdEdfbmZ4LTF5NFlnYlN1WC03UFZxSm9HQ1BudQ?oc=5",
+        "timestamp": "2026-02-20T15:36:57",
+        "timestamp_display": "20. 02. 2026 15:36",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Nejvhodnější palivové dřevo",
+        "summary": "Nejvhodnější palivové dřevo je suché a tvrdé, jako je dub nebo buk, které poskytují nejvyšší energetickou hodnotu.",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSms3NEEtampISFUzajE5UjFJX0NwYkE3S2Z6TjNKNXdsOHJYUGxaYzhDR3l6UEhWblRUbTJxcE5aTG9WRzM5eDIwWjM5bk5ZSGJYbGVQTHZ1NG5ISC1hQ1hnY1pVQ0FmN2dfMTRzMkFEZUpCdkxlWUFfUkFFcFEyaHdELV9VQW13WlUxMFdn?oc=5",
+        "timestamp": "2026-02-19T23:00:00",
+        "timestamp_display": "19. 02. 2026 23:00",
         "is_new": true
     },
     {
@@ -150,6 +168,15 @@
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV3lqcjFzVklROTM2cGVzVE9rSWc2N2RDWWVnazhQaXpoenlXRU5hMzVTMzhJN2tZQnB2WDhZYTBSR3pTYThBWlhoMHo4cnFyZ1RkSHByNUJyYzJoUFBNY1E1Um5OQzJ1cHA4aGJ0NWpWU2d3MDFmaVEwTy1OMjQxZk9ZOGl3cnpTbDJmYkFfTG9EUEN6RXEyZGEwUHlVTS1pbThiZnJJcEdNQQ?oc=5",
         "timestamp": "2026-02-17T23:00:00",
         "timestamp_display": "17. 02. 2026 23:00",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Investoři do realit",
+        "summary": "Společnost ZDR má 22 tisíc investorů a 77 realit s cenou přes 20 miliard korun.",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSDRvZzVJaTUxanJSYngxbEV4dWpBcjNDa2phYlY3MnpZVGUzY0R1enBpcjM3MWp2MUhIcjU0RjNFRThVVzBoT2MtUkJoT0paS2VfY1JtaVIzejRfczBJMU94dE15Z1liV2E4UWlXbmlMR2NLMHBmeU9DWWtXOUJPMl80bElNclp6VERsdHREbWd5d2daQXpsMXlHX2JKQVhDNVNtR3lXY19jcU1vdE0wM1NHOHh2b1FQbmpQZA?oc=5",
+        "timestamp": "2026-02-17T15:46:23",
+        "timestamp_display": "17. 02. 2026 15:46",
         "is_new": false
     },
     {
