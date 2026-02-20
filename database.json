@@ -1,30 +1,21 @@
 [
     {
         "category": "Byznys",
+        "title": "Mladí investoři přibývají",
+        "summary": "Čtyři z deseti Čechů už investují, přibývá mladých a pravidelných investorů.",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORWpJREVLMWQ2MnNmWmtYcjJFQmdjMUdFdjhjWHlCZEROQU1ZWnE3eVFiREsweGdaZDJhbGtYQTVIOGRicktKRFpZTEp6REI2aThmeURlNjNEZWwtTElnSGs0eGxCd2RacjFpeHNLNEhYMUhoQ01WaW1JU1FKWXczSzdHT2cwR3FVeWVTTnBGREhTN2lmWmZaRzZjVDFDMnNUaTNGUVBvenBqSTUtUThhcUY3a19VQzlPWnp4VjZHa2FyUQ?oc=5",
+        "timestamp": "2026-02-20T07:55:00",
+        "timestamp_display": "20. 02. 2026 07:55",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Lovci ruských dronů",
         "summary": "Firma U&C UAS dodává lovce dronů zemím NATO, očekává miliardové tržby.",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLWRtLXhKdzJJb1l6dktsazdiZi1jRmprdmJBbUZwWFZ6cjhseThlNUZNaEljVmNZSlcwZC1Gc3BNWHZ2RFExLW5wdzBxc3ZKSTBmQWF5Y29jR25DVGxIVXJoUlZ3THY0Z3NRY2FFSDBUVXk5b3JyTW56MlluYS1wdnY4MVFYRWg4WEpEY2llYWdqRnM5MUhrVElfQTlSbjR0eFBteTJCazZIZjhaT2Z3aHkyQXhxdG01NjY4TjBaT2hNWGxjczJxM2JOOA?oc=5",
         "timestamp": "2026-02-20T05:00:00",
         "timestamp_display": "20. 02. 2026 05:00",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Investice do AI",
-        "summary": "Roman Staněk investuje do firmy, která vyvíjí umělou inteligenci s pamětí.",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR3FBTHpldjgwUzc4WFc2ZzhMUklPWDFlbHc5TWlDNGhfRjRmeEFRMjVOcnVOc0VyOGV1aHhPRmY2eFNoTE80UFRWLXNDQndvZEdSeElRclB1Um9xdWhkRGdDbmNrMnRJOUJsbFBzUnJYRXluVllJUlNJOE01cVV4ZFZUcFlfUWhIUmpuLWxSOVZsZmxqM3hjQUxwc1FabTl2eTNieDhWM0EzUzE0U1A1blY4bTBkZHNfRzN6WQ?oc=5",
-        "timestamp": "2026-02-19T15:20:48",
-        "timestamp_display": "19. 02. 2026 15:20",
-        "is_new": true
-    },
-    {
-        "category": "Společnost",
-        "title": "Škola Open Gate",
-        "summary": "Renáta Kellnerová stojí v čele školy Open Gate, která nabízí vzdělání a rozvoj pro studenty.",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOODhESGh6MWpSSUhTZDBtUmh1c0o0ZDhmTEF5Q2NnQU1LMjlsY3hSdVA5OF9yZFA0NGs5cEdZMTJiYzZwVE5rdHlLZ3JsakNLdUh2MmY2eURmM0VsR2ZhUjVKU3VhMHk4T0djQmhLR21iTXR0cXVLdHk2dERhLUZBYVNMX1VBZnE4RFo4NHNuNGxJSm8zMkZoVHJpM1hnLVNBNzh4N0FKVXREUQ?oc=5",
-        "timestamp": "2026-02-19T05:30:00",
-        "timestamp_display": "19. 02. 2026 05:30",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,6 +24,15 @@
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rUVdJYTQ0WWQ3SG9LLUxfUGFoN29EOW9iRlNUR2xJX0xZLS1ZSEpyUmxrNnNac0VaVGFEY3hfYVA3R1l4dlAzbTJHNmdsNTlDRFB6ck1xR2pqdw?oc=5",
         "timestamp": "2026-02-19T15:39:16",
         "timestamp_display": "19. 02. 2026 15:39",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Investice do AI",
+        "summary": "Roman Staněk investuje do firmy, která vyvíjí umělou inteligenci s pamětí.",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR3FBTHpldjgwUzc4WFc2ZzhMUklPWDFlbHc5TWlDNGhfRjRmeEFRMjVOcnVOc0VyOGV1aHhPRmY2eFNoTE80UFRWLXNDQndvZEdSeElRclB1Um9xdWhkRGdDbmNrMnRJOUJsbFBzUnJYRXluVllJUlNJOE01cVV4ZFZUcFlfUWhIUmpuLWxSOVZsZmxqM3hjQUxwc1FabTl2eTNieDhWM0EzUzE0U1A1blY4bTBkZHNfRzN6WQ?oc=5",
+        "timestamp": "2026-02-19T15:20:48",
+        "timestamp_display": "19. 02. 2026 15:20",
         "is_new": false
     },
     {
@@ -69,6 +69,15 @@
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUVY0dnZVcTNfS3VWcHF3OGl2OFNoREg5OGxjOFNsTGlUWXVJcFVzZFI4OW82MlEwM0g2NVJrNlRxemxMUEd3N05ESlRreWJnc21LYXRGZTFfQldHZU9pYlFDUDFIVVRVSnV4WGJ0cjV0cVlLbmtSb1JMNkMyR1h6S0xYWEo4Q3ZGbmw2WlU3QTJfZlVNQjlSVVM2NExRTnlHYmJjY254NUNhVjk5RDItOHE2djczd1ZqOGRpa0tjYjAwNEdmUFB0eW16VmRYMHc1TVV6bWhyaEw?oc=5",
         "timestamp": "2026-02-19T07:30:00",
         "timestamp_display": "19. 02. 2026 07:30",
+        "is_new": false
+    },
+    {
+        "category": "Společnost",
+        "title": "Škola Open Gate",
+        "summary": "Renáta Kellnerová stojí v čele školy Open Gate, která nabízí vzdělání a rozvoj pro studenty.",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOODhESGh6MWpSSUhTZDBtUmh1c0o0ZDhmTEF5Q2NnQU1LMjlsY3hSdVA5OF9yZFA0NGs5cEdZMTJiYzZwVE5rdHlLZ3JsakNLdUh2MmY2eURmM0VsR2ZhUjVKU3VhMHk4T0djQmhLR21iTXR0cXVLdHk2dERhLUZBYVNMX1VBZnE4RFo4NHNuNGxJSm8zMkZoVHJpM1hnLVNBNzh4N0FKVXREUQ?oc=5",
+        "timestamp": "2026-02-19T05:30:00",
+        "timestamp_display": "19. 02. 2026 05:30",
         "is_new": false
     },
     {
