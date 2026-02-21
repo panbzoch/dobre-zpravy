@@ -1,11 +1,11 @@
 [
     {
-        "category": "Byznys",
-        "title": "Trh s pokémony roste",
-        "summary": "Trh s karetními hrami Pokémon roste, některé karty se prodávají za statisíce korun.",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQmFVWlpjZjNjYXJYUkVPN0ZnVHlZWjNBbVpPbXAtZkM0QUl2dndkNmZLeTJNNDZNdVBpMUJFU0ZBTHZ5Ym9QMk04dm5RVkdvQmVXMEJkQjNBaEtaUktSUmhwWktIYW1GN29jNkViYkxnX24xV09qVHhnWlJ3UVczTDl5ZXJFeUJWUk05c09TbjlVcWdudjlKVG9hdHJOVkRp?oc=5",
-        "timestamp": "2026-02-19T13:00:41",
-        "timestamp_display": "19. 02. 2026 13:00",
+        "category": "Společnost",
+        "title": "Změň život jednu větou",
+        "summary": "Motivační článek nabízí inspiraci pro změnu života pomocí jedné věty.",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8weGZ4TU0yT3laYUxKOHp0czJ3cldlQ3hzUGVCNTdHV3Q0YWNXSVhkRWc0d1BUVUw4dU5sY0lJazBtbkJyT1NQMVNWa0tJOC1hclNfVW1XeTlWdVk?oc=5",
+        "timestamp": "2026-02-16T22:53:38",
+        "timestamp_display": "16. 02. 2026 22:53",
         "is_new": true
     },
     {
@@ -78,6 +78,15 @@
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR3FBTHpldjgwUzc4WFc2ZzhMUklPWDFlbHc5TWlDNGhfRjRmeEFRMjVOcnVOc0VyOGV1aHhPRmY2eFNoTE80UFRWLXNDQndvZEdSeElRclB1Um9xdWhkRGdDbmNrMnRJOUJsbFBzUnJYRXluVllJUlNJOE01cVV4ZFZUcFlfUWhIUmpuLWxSOVZsZmxqM3hjQUxwc1FabTl2eTNieDhWM0EzUzE0U1A1blY4bTBkZHNfRzN6WQ?oc=5",
         "timestamp": "2026-02-19T15:20:48",
         "timestamp_display": "19. 02. 2026 15:20",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Trh s pokémony roste",
+        "summary": "Trh s karetními hrami Pokémon roste, některé karty se prodávají za statisíce korun.",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQmFVWlpjZjNjYXJYUkVPN0ZnVHlZWjNBbVpPbXAtZkM0QUl2dndkNmZLeTJNNDZNdVBpMUJFU0ZBTHZ5Ym9QMk04dm5RVkdvQmVXMEJkQjNBaEtaUktSUmhwWktIYW1GN29jNkViYkxnX24xV09qVHhnWlJ3UVczTDl5ZXJFeUJWUk05c09TbjlVcWdudjlKVG9hdHJOVkRp?oc=5",
+        "timestamp": "2026-02-19T13:00:41",
+        "timestamp_display": "19. 02. 2026 13:00",
         "is_new": false
     },
     {
