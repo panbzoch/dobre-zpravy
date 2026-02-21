@@ -1,29 +1,11 @@
 [
     {
-        "category": "Společnost",
-        "title": "Výstava Mraveniště",
-        "summary": "Nová výstava o mravencích se otevřela v písecké Sladovně a brzy se rozšíří.",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUXE4OWZnRjRaS3JPbDQwTEgzLUYxR1ZUek8yVlZ3Y0pVWll3UDNIRmlPZFNTeERlSmgzbFJkYl80MGYyQVhWMUJnSFFDd2d4WDgwVVNXaFNjVV9DeFROWWZxQ0pHR1oza1RTTzA1VG9DQ3ctX2lVTDJpWWRkNXNWaHdGZG8wdTdweTRQcS1zNGYtYkZlaFNfVDFWalpnOWFSamMzQ25ObUxkbFotbjBxVjZEbEZpdS1PM05YYTVOeXMwa2JlZVhKUmJvc2JUbEJiYWxaOTU4eU5Ibm8?oc=5",
-        "timestamp": "2026-02-20T08:14:00",
-        "timestamp_display": "20. 02. 2026 08:14",
-        "is_new": true
-    },
-    {
         "category": "Byznys",
-        "title": "Nová hra učí děti",
-        "summary": "Česká spořitelna a Bohemia Interactive chystají hru Cosmo Tales, která má učit děti finanční gramotnosti.",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQ1lTVnVsZnB1ODlRbUJpU0pYWEJjaDFEcmlTbkU3blhuMGZiT2lhSHZ3anI2QTJjamVFWmtLZ3Z4VG9GUWwtWmpQZmZhZ3hPX3g1MXBYNWtoWTBYWEZDUHMtVmxJM3JPWXV5Y1QxUGtmbmNnQW1xeVJwcDd1ZU5PUUVWZ0tjVVVhdi1JZVVzQjNvblFlMFNnbE9VSnZlczR0Unowa0E1eGlxRFE3QnNQcGU5QnlNUkpnU09ic2l3VVByQWZJemFTMnpLQ2hjaGtqYldwb3o0THJiZDFwd0E?oc=5",
-        "timestamp": "2026-02-19T07:30:00",
-        "timestamp_display": "19. 02. 2026 07:30",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Miliardová firma vylepšena",
-        "summary": "Zakladatel firmy použil AI k vylepšení své miliardové firmy během 15 hodin, aby ukázal kolegům, že to jde.",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ293NmlXMXpnMGV4MzFaR0hsZXlZSFVzVkZEdEU0MWVlNk1HN01qTTZpTklGOFhxT3E4TDBiQV9Od1lIV3l5VjhGd0E2Wk11OEx6ODdqVTNTUE0zMHJOUVhOT3RzNHBocm1aWXZKZGZEUEJycHN5eU9hNHJTdl94c0RQdGZWN25nTjE0LU5tTkZEMDFuaDhCc19uN2FRRDdUZVN3aVo0OU5oLTJnczA4c2VSYVZDWlNsZzFrV1JB?oc=5",
-        "timestamp": "2026-02-19T06:01:04",
-        "timestamp_display": "19. 02. 2026 06:01",
+        "title": "Trh s pokémony roste",
+        "summary": "Trh s karetními hrami Pokémon roste, některé karty se prodávají za statisíce korun.",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQmFVWlpjZjNjYXJYUkVPN0ZnVHlZWjNBbVpPbXAtZkM0QUl2dndkNmZLeTJNNDZNdVBpMUJFU0ZBTHZ5Ym9QMk04dm5RVkdvQmVXMEJkQjNBaEtaUktSUmhwWktIYW1GN29jNkViYkxnX24xV09qVHhnWlJ3UVczTDl5ZXJFeUJWUk05c09TbjlVcWdudjlKVG9hdHJOVkRp?oc=5",
+        "timestamp": "2026-02-19T13:00:41",
+        "timestamp_display": "19. 02. 2026 13:00",
         "is_new": true
     },
     {
@@ -42,6 +24,15 @@
         "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPdW1kOWdjVnM4NFhoZzY3VnlMQ0RtQk15cjVFcFhZU0FEOXVLYmJ2LW9ab25LVU0yM3pPejFEZ1V1dmQxSlZONXROR29Nd2NQSDZPLUtZaUdtQWx3T3UyeWVRVXdXNTh5dmZERTZBaDNrOTVyOEsyZXJzMTk4WDl3X25KZDVuV0VNQnJLY1hpdkpzZ0RacGR2LUFxcmkwUGFQaXM3MjgxR0lXZ204S2NYaXhrTWJpV1Izall2Yk5CcHQxNEU1c25Ic000NjVGS1d2R21wRTVOX2JXV2tCOTl5eGRMcVZzZEhSdEdfbmZ4LTF5NFlnYlN1WC03UFZxSm9HQ1BudQ?oc=5",
         "timestamp": "2026-02-20T15:36:57",
         "timestamp_display": "20. 02. 2026 15:36",
+        "is_new": false
+    },
+    {
+        "category": "Společnost",
+        "title": "Výstava Mraveniště",
+        "summary": "Nová výstava o mravencích se otevřela v písecké Sladovně a brzy se rozšíří.",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUXE4OWZnRjRaS3JPbDQwTEgzLUYxR1ZUek8yVlZ3Y0pVWll3UDNIRmlPZFNTeERlSmgzbFJkYl80MGYyQVhWMUJnSFFDd2d4WDgwVVNXaFNjVV9DeFROWWZxQ0pHR1oza1RTTzA1VG9DQ3ctX2lVTDJpWWRkNXNWaHdGZG8wdTdweTRQcS1zNGYtYkZlaFNfVDFWalpnOWFSamMzQ25ObUxkbFotbjBxVjZEbEZpdS1PM05YYTVOeXMwa2JlZVhKUmJvc2JUbEJiYWxaOTU4eU5Ibm8?oc=5",
+        "timestamp": "2026-02-20T08:14:00",
+        "timestamp_display": "20. 02. 2026 08:14",
         "is_new": false
     },
     {
@@ -118,11 +109,29 @@
     },
     {
         "category": "Byznys",
+        "title": "Nová hra učí děti",
+        "summary": "Česká spořitelna a Bohemia Interactive chystají hru Cosmo Tales, která má učit děti finanční gramotnosti.",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQ1lTVnVsZnB1ODlRbUJpU0pYWEJjaDFEcmlTbkU3blhuMGZiT2lhSHZ3anI2QTJjamVFWmtLZ3Z4VG9GUWwtWmpQZmZhZ3hPX3g1MXBYNWtoWTBYWEZDUHMtVmxJM3JPWXV5Y1QxUGtmbmNnQW1xeVJwcDd1ZU5PUUVWZ0tjVVVhdi1JZVVzQjNvblFlMFNnbE9VSnZlczR0Unowa0E1eGlxRFE3QnNQcGU5QnlNUkpnU09ic2l3VVByQWZJemFTMnpLQ2hjaGtqYldwb3o0THJiZDFwd0E?oc=5",
+        "timestamp": "2026-02-19T07:30:00",
+        "timestamp_display": "19. 02. 2026 07:30",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
         "title": "Nová hra Cosmo Tales",
         "summary": "Česká spořitelna a Bohemia Interactive chystají hru, která podporuje finanční gramotnost.",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUVY0dnZVcTNfS3VWcHF3OGl2OFNoREg5OGxjOFNsTGlUWXVJcFVzZFI4OW82MlEwM0g2NVJrNlRxemxMUEd3N05ESlRreWJnc21LYXRGZTFfQldHZU9pYlFDUDFIVVRVSnV4WGJ0cjV0cVlLbmtSb1JMNkMyR1h6S0xYWEo4Q3ZGbmw2WlU3QTJfZlVNQjlSVVM2NExRTnlHYmJjY254NUNhVjk5RDItOHE2djczd1ZqOGRpa0tjYjAwNEdmUFB0eW16VmRYMHc1TVV6bWhyaEw?oc=5",
         "timestamp": "2026-02-19T07:30:00",
         "timestamp_display": "19. 02. 2026 07:30",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Miliardová firma vylepšena",
+        "summary": "Zakladatel firmy použil AI k vylepšení své miliardové firmy během 15 hodin, aby ukázal kolegům, že to jde.",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ293NmlXMXpnMGV4MzFaR0hsZXlZSFVzVkZEdEU0MWVlNk1HN01qTTZpTklGOFhxT3E4TDBiQV9Od1lIV3l5VjhGd0E2Wk11OEx6ODdqVTNTUE0zMHJOUVhOT3RzNHBocm1aWXZKZGZEUEJycHN5eU9hNHJTdl94c0RQdGZWN25nTjE0LU5tTkZEMDFuaDhCc19uN2FRRDdUZVN3aVo0OU5oLTJnczA4c2VSYVZDWlNsZzFrV1JB?oc=5",
+        "timestamp": "2026-02-19T06:01:04",
+        "timestamp_display": "19. 02. 2026 06:01",
         "is_new": false
     },
     {
