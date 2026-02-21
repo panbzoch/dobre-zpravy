@@ -1,11 +1,11 @@
 [
     {
-        "category": "Společnost",
-        "title": "Změň život jednu větou",
-        "summary": "Motivační článek nabízí inspiraci pro změnu života pomocí jedné věty.",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8weGZ4TU0yT3laYUxKOHp0czJ3cldlQ3hzUGVCNTdHV3Q0YWNXSVhkRWc0d1BUVUw4dU5sY0lJazBtbkJyT1NQMVNWa0tJOC1hclNfVW1XeTlWdVk?oc=5",
-        "timestamp": "2026-02-16T22:53:38",
-        "timestamp_display": "16. 02. 2026 22:53",
+        "category": "Technologie",
+        "title": "Skleněné destičky místo SSD",
+        "summary": "Microsoft vyvíjí skleněné destičky pro uložení dat, které slibují trvanlivost více než 10 000 let.",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSmd0Vjl6R2pTZWJfNnFSb3ZtczluRm1ob3hTWHJCRDZVN1Q4ckstSnFqcGx5eGVWVEpRTXMxYVZLcDZkdmVQZ2tEWGNXNERKRXNDQ1psMnAyZzRsWFVsSHEzQkJjQXU4SGpfcmcwNlNDbzhqYVdBVkZBVzdta0NxTGVKMjNwYUtFRUptb2lpcEloS0pCbG91cEZJRFhqalNiS2FINVhEYlNUcTlqbTEwYUlOOTM2Q1Fya2x6bWtVdXdlOURycVlwVEt6TGRpdGIzVW5OZzZjQTlKOFY2N2hHb1REVlVvY3Vyemc?oc=5",
+        "timestamp": "2026-02-20T06:47:58",
+        "timestamp_display": "20. 02. 2026 06:47",
         "is_new": true
     },
     {
@@ -267,6 +267,15 @@
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWUI4VGxBeWxWSFVFd0tmZ3FFRUlEY01NSmlpRjdlMXhocS11OHRHb192a0dkejIzYlFya0pyaUI4RlVoa2hxeWJITXJQemV5MlNVZUI4WXlDZTlzT3NvMkxkNmxDYlBadERnYjhwTy1EcVFKdWQ0c1oyallVdnc3TncxaEtQLUpKTTNUTGtuRWw1V3cwOUhzcGFERGJuaWQ4Z3dzTW5ua24yLTVnUTlRZEhaeUpZQkpsamh3Vy1pSGZ5SUlvUjJn?oc=5",
         "timestamp": "2026-02-17T05:01:00",
         "timestamp_display": "17. 02. 2026 05:01",
+        "is_new": false
+    },
+    {
+        "category": "Společnost",
+        "title": "Změň život jednu větou",
+        "summary": "Motivační článek nabízí inspiraci pro změnu života pomocí jedné věty.",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8weGZ4TU0yT3laYUxKOHp0czJ3cldlQ3hzUGVCNTdHV3Q0YWNXSVhkRWc0d1BUVUw4dU5sY0lJazBtbkJyT1NQMVNWa0tJOC1hclNfVW1XeTlWdVk?oc=5",
+        "timestamp": "2026-02-16T22:53:38",
+        "timestamp_display": "16. 02. 2026 22:53",
         "is_new": false
     },
     {
