@@ -1,14 +1,5 @@
 [
     {
-        "category": "Technologie",
-        "title": "Skleněné destičky místo SSD",
-        "summary": "Microsoft vyvíjí skleněné destičky pro uložení dat, které slibují trvanlivost více než 10 000 let.",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSmd0Vjl6R2pTZWJfNnFSb3ZtczluRm1ob3hTWHJCRDZVN1Q4ckstSnFqcGx5eGVWVEpRTXMxYVZLcDZkdmVQZ2tEWGNXNERKRXNDQ1psMnAyZzRsWFVsSHEzQkJjQXU4SGpfcmcwNlNDbzhqYVdBVkZBVzdta0NxTGVKMjNwYUtFRUptb2lpcEloS0pCbG91cEZJRFhqalNiS2FINVhEYlNUcTlqbTEwYUlOOTM2Q1Fya2x6bWtVdXdlOURycVlwVEt6TGRpdGIzVW5OZzZjQTlKOFY2N2hHb1REVlVvY3Vyemc?oc=5",
-        "timestamp": "2026-02-20T06:47:58",
-        "timestamp_display": "20. 02. 2026 06:47",
-        "is_new": true
-    },
-    {
         "category": "Věda",
         "title": "Gravitační díra pod Antarktidou",
         "summary": "Vědci objevili největší gravitační díru na Zemi pod Antarktidou a odhalili její původ.",
@@ -42,6 +33,15 @@
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORWpJREVLMWQ2MnNmWmtYcjJFQmdjMUdFdjhjWHlCZEROQU1ZWnE3eVFiREsweGdaZDJhbGtYQTVIOGRicktKRFpZTEp6REI2aThmeURlNjNEZWwtTElnSGs0eGxCd2RacjFpeHNLNEhYMUhoQ01WaW1JU1FKWXczSzdHT2cwR3FVeWVTTnBGREhTN2lmWmZaRzZjVDFDMnNUaTNGUVBvenBqSTUtUThhcUY3a19VQzlPWnp4VjZHa2FyUQ?oc=5",
         "timestamp": "2026-02-20T07:55:00",
         "timestamp_display": "20. 02. 2026 07:55",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Skleněné destičky místo SSD",
+        "summary": "Microsoft vyvíjí skleněné destičky pro uložení dat, které slibují trvanlivost více než 10 000 let.",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSmd0Vjl6R2pTZWJfNnFSb3ZtczluRm1ob3hTWHJCRDZVN1Q4ckstSnFqcGx5eGVWVEpRTXMxYVZLcDZkdmVQZ2tEWGNXNERKRXNDQ1psMnAyZzRsWFVsSHEzQkJjQXU4SGpfcmcwNlNDbzhqYVdBVkZBVzdta0NxTGVKMjNwYUtFRUptb2lpcEloS0pCbG91cEZJRFhqalNiS2FINVhEYlNUcTlqbTEwYUlOOTM2Q1Fya2x6bWtVdXdlOURycVlwVEt6TGRpdGIzVW5OZzZjQTlKOFY2N2hHb1REVlVvY3Vyemc?oc=5",
+        "timestamp": "2026-02-20T06:47:58",
+        "timestamp_display": "20. 02. 2026 06:47",
         "is_new": false
     },
     {
