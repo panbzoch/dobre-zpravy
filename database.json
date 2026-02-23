@@ -1,12 +1,30 @@
 [
     {
         "category": "Byznys",
+        "title": "Virální sláva vyhoří",
+        "summary": "Společnost WELOVEFUN podporuje influencery na dlouhodobou spolupráci a budování jejich osobního brandu.",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbDFGQ2FWQWJ5dXBjdHNQa1pVcWtNRUk2M2ZIcjNfRG1Lcng1LUJHRng5YkRkbEF1T0luQ282TXNpWUlCQmRnUFJWb28zSEtzczF0dDJlSEU5VFdlVDRRYWJWNXpvS0o0c2RFbXFHa3ZBUXpmWTdYem9mbnFuMlNlNDhPY2k3cmg0Mk9CYy03T1Z0dldtMlcxb0NuSHpXZWMtbm94YW44SEhFRG1BMjFqaW00cU8?oc=5",
+        "timestamp": "2026-02-23T07:30:00",
+        "timestamp_display": "23. 02. 2026 07:30",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "SpaceX vstup na burzu",
+        "summary": "SpaceX plánuje vstup na burzu, nabízí možnost vydělat předtím.",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUW5iR1cyQlBENjk0Q1VsVzI3NnlXREduS0Znd1hEMnhsajd4V3JzWUpwVG81U1FMZzkydllucmI0a1VlZHFKaGE2T1JRTFRWTFJXZXYySzN1UlB2ZmRHMTFKbmxVRVJRUDdsbDRnMko4VU03aTY0WXQyOVB2MEd5OUhwODlJbVgyblpIak5hcWpZX0cxTEg2WENYbjFSSUZFSnVqWHRibGhUTnNoTjRjTTNKcTV1Z25hMTd6MHV0T2RVQmtOaDdyUEY5X3Jody00SG53?oc=5",
+        "timestamp": "2026-02-21T16:00:00",
+        "timestamp_display": "21. 02. 2026 16:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Nová bateriová úložiště",
         "summary": "Firma SUAS Group buduje velké bateriové úložiště v Česku pro ukládání energie.",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNFZiakFhUFlVcHVrelAteEhmRjl4QS1PRHlKTFk5MTM3Q0xMdWczbWxBNUhiRWMzdGtwQlNEU08xOVJTTTJMVjZnS0xYczFxQmVldFZ6dUo2b3NDZ0xsS19XaldCamJMY2dTRUQtTmJlWjB3RkdoUXE0OWhsQmxDS3pkeXVpNVczSmJITG9zcEpVMDlFVWhlZHNTaWlUUEJHa3VJMC0wdXdMZDhaZ2cyZm5Zek9VRno3ZTkxNlR3?oc=5",
         "timestamp": "2026-02-23T05:30:00",
         "timestamp_display": "23. 02. 2026 05:30",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLWZUN0RNcjRyMDdSRUNwUDEySG90Z1ZCQjBFdVpuazI2bnh1OHlNMlJoSGRRcVNjRTcyT0RqRHg4aGlDY1dVSHRUbEhJVjF2ejhlUWRKUUZkUTlNaWVQR0FHUkVqbkpzZHlWYXQybUlSWUhfemJidHJJMUVUT3Q4MmxGeUZyZkI0MF9ERzZZcXNwQUdUTU9kdVdxTWNQRkp6MS0tcXNCdzlwcGdpbW1lZ3ZNNU5wU3U4?oc=5",
         "timestamp": "2026-02-22T16:26:43",
         "timestamp_display": "22. 02. 2026 16:26",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Medicína",
