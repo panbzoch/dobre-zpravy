@@ -1,12 +1,30 @@
 [
     {
+        "category": "Byznys",
+        "title": "Nová bateriová úložiště",
+        "summary": "Firma SUAS Group buduje velké bateriové úložiště v Česku pro ukládání energie.",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNFZiakFhUFlVcHVrelAteEhmRjl4QS1PRHlKTFk5MTM3Q0xMdWczbWxBNUhiRWMzdGtwQlNEU08xOVJTTTJMVjZnS0xYczFxQmVldFZ6dUo2b3NDZ0xsS19XaldCamJMY2dTRUQtTmJlWjB3RkdoUXE0OWhsQmxDS3pkeXVpNVczSmJITG9zcEpVMDlFVWhlZHNTaWlUUEJHa3VJMC0wdXdMZDhaZ2cyZm5Zek9VRno3ZTkxNlR3?oc=5",
+        "timestamp": "2026-02-23T05:30:00",
+        "timestamp_display": "23. 02. 2026 05:30",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Google nástroj pro e-shopy",
+        "summary": "Google představil nástroj pro malé e-shopy, který usnadňuje marketing a ušetří tisíce korun.",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLWZUN0RNcjRyMDdSRUNwUDEySG90Z1ZCQjBFdVpuazI2bnh1OHlNMlJoSGRRcVNjRTcyT0RqRHg4aGlDY1dVSHRUbEhJVjF2ejhlUWRKUUZkUTlNaWVQR0FHUkVqbkpzZHlWYXQybUlSWUhfemJidHJJMUVUT3Q4MmxGeUZyZkI0MF9ERzZZcXNwQUdUTU9kdVdxTWNQRkp6MS0tcXNCdzlwcGdpbW1lZ3ZNNU5wU3U4?oc=5",
+        "timestamp": "2026-02-22T16:26:43",
+        "timestamp_display": "22. 02. 2026 16:26",
+        "is_new": true
+    },
+    {
         "category": "Medicína",
         "title": "Přerušovaný půst",
         "summary": "Přerušovaný půst může přinést zdravotní benefity, jako je zlepšení metabolismu a snížení rizika chronických onemocnění.",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOFVlSFQxOWlPa1dOUjNPSk05ZzhWZ2xMX0p6NGVmZ2tDSFlLa1dWb3VsQVdkRDlCV2gyLWxrLXduM2pUT1YwaXd1VzlmV1E0RlQyTVUwOVZXUGpQZm15WkpRS3FHbTNpRVRmazJTX3VaM2ZCdHZyMmxPUEljc193N0R3MXNLNHBhbXdHS2V0eXNRdWtzYmpCVVV1Yy1VaWh0ZUw3SC1Sc2NSS1luUHNPN0hIMFRScEJPOVhpY3Y1NmpHOW5tQW9KalFMa2RVcnNuRW9RaFZ3?oc=5",
         "timestamp": "2026-02-22T06:43:08",
         "timestamp_display": "22. 02. 2026 06:43",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Společnost",
