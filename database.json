@@ -1,12 +1,21 @@
 [
     {
         "category": "Byznys",
+        "title": "Nová šéfka vrací lesk",
+        "summary": "Nová šéfka obnovuje lesk miliardové značky, která dříve předváděla na molech.",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeDRScG5aZUIxSkZ6VkpHTjB5UjNyUk9QTXZJSjFET1NjOXB0cEZYZmJILVN4aXdEb1dYMExwWGJPd0NMREtnTzVEamNELUhQaHprb19LRGxKTURKTFFLb05JbUJwN2JFRXBDUWc5X1hvdkY4d2xfLXhpc3VWUU53bnBLeDAtY3pVWFI1YzNvRGd2YXZaQW05b0l6czF0RnR2SzA3VnI0Q0VqaWlvOE9FeTFn?oc=5",
+        "timestamp": "2026-02-23T05:27:57",
+        "timestamp_display": "23. 02. 2026 05:27",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Nová rezidence V2",
         "summary": "Developer nabízí nové byty s hotovými interiéry navržené architektem v Košířích.",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSE9RSWJwdmVGandjOGxZdzEtN3FXU004ZVNIeXlHZE9kbWlzZzZueTE2bkZtSkNNbXJKelRHZTllemp5bGRrRzFadXoxODFCOTZfcnB6Umk3UEtTZWR2SDh6M0VhNDBLd3QtQ2dTbTNiUUJoSWZDRW54VjhKQnFtVF9pYmZxUm9iYkRpVVN2cFNhOUNRUnZLdTRPVVNFeDZaMkpnS1RveE5INUNydklZTkJfR0lJZUxBeFRBcWNpQ3hnT3Zo?oc=5",
         "timestamp": "2026-02-23T13:34:00",
         "timestamp_display": "23. 02. 2026 13:34",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,16 +24,7 @@
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcW9tNVZFN0lNNk5kSDBaT1duVjRLTWd0Yk9VUVVmenk0aHpFa09xSXpORjRqUE9XalRmbU50TWpqSkdfbGJyaFJqR0RseUpHVmVlN0lScGFuQXdfbnFpNFZrUTFIUWNRZDRORk1uUzlNYkZsZ3Rja3JSWldxMnVkTk5MVE9IcVc4dGlQd1l2WnU2Q3lrTUx1eXBLNDg0V0oycnVqaW5OcV90M1Jwclc2R3BRR25SZUl3VEVfbG52QWk5QjlFUk1uZnBCRzI?oc=5",
         "timestamp": "2026-02-23T12:00:00",
         "timestamp_display": "23. 02. 2026 12:00",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Mladí investoři přibývají",
-        "summary": "Počet mladých a pravidelných investorů roste, většina z nich sází na dlouhodobý investiční přístup.",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd1B3aHJ1VnhzdnN1b2tuUE91NklQbDVwNU95SS1Wb2lWbVQ2MnA3TmF0by1Fa1BGMzRVZ3hMQjZWcWhxeXdmX3NYbTNnUk83aFpteUhyS1QzVWVRM2JHcVMtUGhzSmpQaW04dXdWOXJlcmgxaVpUTDMyX050QTh0eFlKaVRGV3lwNE5EaGFmOFkyVGk3b2V3YlZ6Unl1Q3dNeDkwa1VOWTRKY1k3Y3FCZjdNWnlNWlFQYllzWjM3Q1ZpSTA?oc=5",
-        "timestamp": "2026-02-20T07:55:00",
-        "timestamp_display": "20. 02. 2026 07:55",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -105,6 +105,15 @@
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUXE4OWZnRjRaS3JPbDQwTEgzLUYxR1ZUek8yVlZ3Y0pVWll3UDNIRmlPZFNTeERlSmgzbFJkYl80MGYyQVhWMUJnSFFDd2d4WDgwVVNXaFNjVV9DeFROWWZxQ0pHR1oza1RTTzA1VG9DQ3ctX2lVTDJpWWRkNXNWaHdGZG8wdTdweTRQcS1zNGYtYkZlaFNfVDFWalpnOWFSamMzQ25ObUxkbFotbjBxVjZEbEZpdS1PM05YYTVOeXMwa2JlZVhKUmJvc2JUbEJiYWxaOTU4eU5Ibm8?oc=5",
         "timestamp": "2026-02-20T08:14:00",
         "timestamp_display": "20. 02. 2026 08:14",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Mladí investoři přibývají",
+        "summary": "Počet mladých a pravidelných investorů roste, většina z nich sází na dlouhodobý investiční přístup.",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd1B3aHJ1VnhzdnN1b2tuUE91NklQbDVwNU95SS1Wb2lWbVQ2MnA3TmF0by1Fa1BGMzRVZ3hMQjZWcWhxeXdmX3NYbTNnUk83aFpteUhyS1QzVWVRM2JHcVMtUGhzSmpQaW04dXdWOXJlcmgxaVpUTDMyX050QTh0eFlKaVRGV3lwNE5EaGFmOFkyVGk3b2V3YlZ6Unl1Q3dNeDkwa1VOWTRKY1k3Y3FCZjdNWnlNWlFQYllzWjM3Q1ZpSTA?oc=5",
+        "timestamp": "2026-02-20T07:55:00",
+        "timestamp_display": "20. 02. 2026 07:55",
         "is_new": false
     },
     {
