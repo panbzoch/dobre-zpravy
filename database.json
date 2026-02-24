@@ -1,15 +1,6 @@
 [
     {
         "category": "Byznys",
-        "title": "Nová šéfka vrací lesk",
-        "summary": "Nová šéfka obnovuje lesk miliardové značky, která dříve předváděla na molech.",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeDRScG5aZUIxSkZ6VkpHTjB5UjNyUk9QTXZJSjFET1NjOXB0cEZYZmJILVN4aXdEb1dYMExwWGJPd0NMREtnTzVEamNELUhQaHprb19LRGxKTURKTFFLb05JbUJwN2JFRXBDUWc5X1hvdkY4d2xfLXhpc3VWUU53bnBLeDAtY3pVWFI1YzNvRGd2YXZaQW05b0l6czF0RnR2SzA3VnI0Q0VqaWlvOE9FeTFn?oc=5",
-        "timestamp": "2026-02-23T05:27:57",
-        "timestamp_display": "23. 02. 2026 05:27",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
         "title": "Nová rezidence V2",
         "summary": "Developer nabízí nové byty s hotovými interiéry navržené architektem v Košířích.",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSE9RSWJwdmVGandjOGxZdzEtN3FXU004ZVNIeXlHZE9kbWlzZzZueTE2bkZtSkNNbXJKelRHZTllemp5bGRrRzFadXoxODFCOTZfcnB6Umk3UEtTZWR2SDh6M0VhNDBLd3QtQ2dTbTNiUUJoSWZDRW54VjhKQnFtVF9pYmZxUm9iYkRpVVN2cFNhOUNRUnZLdTRPVVNFeDZaMkpnS1RveE5INUNydklZTkJfR0lJZUxBeFRBcWNpQ3hnT3Zo?oc=5",
@@ -42,6 +33,15 @@
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNFZiakFhUFlVcHVrelAteEhmRjl4QS1PRHlKTFk5MTM3Q0xMdWczbWxBNUhiRWMzdGtwQlNEU08xOVJTTTJMVjZnS0xYczFxQmVldFZ6dUo2b3NDZ0xsS19XaldCamJMY2dTRUQtTmJlWjB3RkdoUXE0OWhsQmxDS3pkeXVpNVczSmJITG9zcEpVMDlFVWhlZHNTaWlUUEJHa3VJMC0wdXdMZDhaZ2cyZm5Zek9VRno3ZTkxNlR3?oc=5",
         "timestamp": "2026-02-23T05:30:00",
         "timestamp_display": "23. 02. 2026 05:30",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Nová šéfka vrací lesk",
+        "summary": "Nová šéfka obnovuje lesk miliardové značky, která dříve předváděla na molech.",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeDRScG5aZUIxSkZ6VkpHTjB5UjNyUk9QTXZJSjFET1NjOXB0cEZYZmJILVN4aXdEb1dYMExwWGJPd0NMREtnTzVEamNELUhQaHprb19LRGxKTURKTFFLb05JbUJwN2JFRXBDUWc5X1hvdkY4d2xfLXhpc3VWUU53bnBLeDAtY3pVWFI1YzNvRGd2YXZaQW05b0l6czF0RnR2SzA3VnI0Q0VqaWlvOE9FeTFn?oc=5",
+        "timestamp": "2026-02-23T05:27:57",
+        "timestamp_display": "23. 02. 2026 05:27",
         "is_new": false
     },
     {
