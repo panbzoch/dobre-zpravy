@@ -1,12 +1,39 @@
 [
     {
         "category": "Byznys",
+        "title": "Cider Pragers",
+        "summary": "Firma Prager's expanduje se svými cidery na zahraniční trhy.",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM19NMnYzdnpRbS10NFM3ZTRPSUdVa1oxWDBPdmFWWDA4ak14bVlROWR4ay1qZno0MllKUEZqUzU5cTBRWFhCUzlpOGdra2tzOUU1Z0hJdThEMUZNV0FIM3VBYlB2UThJRzZOakNuNVFvWDVncXhFckY4ZUlNUzJQbEV5c1lEYzNRZE5fdF9nTldHaTJXbW1zTWJPMGw5aUMxVXRlZQ?oc=5",
+        "timestamp": "2026-02-25T10:00:10",
+        "timestamp_display": "25. 02. 2026 10:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Nová telekomunikační aliance",
+        "summary": "PPF vstupuje do další fáze na maďarském trhu s novou telekomunikační aliancí.",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZ3lQdm1IS2k5ZEVtX2pUY1RnYTd4bG1kWWI2aTh6VkZGSDdYWFFseUZYbW80NmlfWUpqb3FDOU5xOUM1c1VGU00wWFBuNTBDcUxac2Q5d1dqM2tybHVzdUJidXpjQWNxYUZ1cFF4SVprQ2EzRGtLNXRMa0ZEQ2JyYmNCeE1JVHlkY1pMMjM2RWM5X01JVEdJMkVudFBTcFR3OTBNd2k5NVU0X3RHRDlXcFZ3bWZnMVI0Ymx3Vnp4VV9TOVJoWUZuNHhKY2lrbm1tRDNzamExMU11a2RmdUJUbVNyWUhYWWE0?oc=5",
+        "timestamp": "2026-02-25T09:12:00",
+        "timestamp_display": "25. 02. 2026 09:12",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Nejúspěšnější fondy",
+        "summary": "Žebříček hodnotí úspěšnost fondů na českém trhu, zveřejňuje výsledky a porovnává jejich výkony.",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdGdWNTlHRkhmejA2Y0VkaUhLS3RfaTBwQ0xwbElLRVQ0bmROVWNIMWNvRjRWaWlaTnZkdWt5aThvQjc5SFA0NWNteVcwYzhYejdOMUVuZXRiSW9aN3JvcXl1cUZkXzJRSUdYOUNucmZtbzM3TjRVTXpUQmVFcHFoUTFXYXNHVzBySGRxcDJwSjNRNnBCT0FXMnlPTQ?oc=5",
+        "timestamp": "2026-02-25T06:39:00",
+        "timestamp_display": "25. 02. 2026 06:39",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Cider do světa",
         "summary": "Společnost expanduje s cidery na zahraniční trhy a rozšiřuje svůj byznys.",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZWhab0xOdDlZb2ZFeTBXMS1KdV9tVS1rWi1ZXzhFVExyYlN4dTJEWVo0b0ZoQ1c2UDh2TjNuZnV1aU9rSldWRVRaWkdaeXNVUkNjUFI5eEZRWTVReWkyOHJJM05XU09aM0pNdGRMcW1aV3YtVXB6LUdKSEFURFh3T3VqUXVFcFh3SVA1YjBwOHRwbUVaX3dv?oc=5",
         "timestamp": "2026-02-25T05:00:00",
         "timestamp_display": "25. 02. 2026 05:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +42,7 @@
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMVdUeGpFVklwRjZBT0dWSG51cGRCSXV2ZjRrTUJrN0xTMkdFZWZxZllCR3hmVWp3X0ZpTXh4eldYUVNzV044UHJrUnNVTTRRVlZOX0I5RlFmY1ZUM1B2XzUtWl9oUWZudG9DakFzblhiUHo0MWhBRkJVU2ZBaXl0SFpoZEtSUmZRRi1nVkxhOUt4Q0VRN3FUeGoyZm1KejJXT1RNWGd6bVEyblpPYWVFOG15Ym1TZ2NERG1ZY2EzRnZTOWMwbWNtSWp3?oc=5",
         "timestamp": "2026-02-25T04:35:00",
         "timestamp_display": "25. 02. 2026 04:35",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,7 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbTY1Wi1TOGpjcDdxRWlYX2l6RmN5UXhwcHprbWpYVGVWc3ZpREdPUjhBY3JTenFDaHdVbklMVzBnOXRvcERCX1g0dVp2bTg2SEltRHV5bFRLamxSNFpGWkhpdzQ3c3d4RUJ6djVMVnhVZF9kczBESXZoRGhNVlBGZHdDUVVscGZPSXBxYUtCX1FyeUh3V25BTXMzbEktQXFu?oc=5",
         "timestamp": "2026-02-24T23:00:00",
         "timestamp_display": "24. 02. 2026 23:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -33,7 +60,7 @@
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQUN0ZHFvUGRQVkpSSG8wZFBuSWhPaHFPLS0zeEdZal93NXVmV0JmdEVwd1FMR3FHTDZKQVZjbWZMMlhUa2dwSWF5cElTX0QybWV1XzVBd1V0NG5fdUpWWmY1RU5CYzVhU1ZidmdsVmc1bnFCdGdJWEhvTDVxNDBHMjhtSkxzNlVRRmRTZ1V2TU16Y0E4VTUwQy00Q25wQUwyOUM1UDJxbzlKWHI4M2VtenpfbUhMa3o3YXJyNVBBanQ3OElIdTM4Z1N4bHV5VEJoQU04bWhjLUxQSXFW?oc=5",
         "timestamp": "2026-02-24T20:32:00",
         "timestamp_display": "24. 02. 2026 20:32",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
