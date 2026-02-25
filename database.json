@@ -1,12 +1,48 @@
 [
     {
+        "category": "Byznys",
+        "title": "Cider do světa",
+        "summary": "Společnost expanduje s cidery na zahraniční trhy a rozšiřuje svůj byznys.",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZWhab0xOdDlZb2ZFeTBXMS1KdV9tVS1rWi1ZXzhFVExyYlN4dTJEWVo0b0ZoQ1c2UDh2TjNuZnV1aU9rSldWRVRaWkdaeXNVUkNjUFI5eEZRWTVReWkyOHJJM05XU09aM0pNdGRMcW1aV3YtVXB6LUdKSEFURFh3T3VqUXVFcFh3SVA1YjBwOHRwbUVaX3dv?oc=5",
+        "timestamp": "2026-02-25T05:00:00",
+        "timestamp_display": "25. 02. 2026 05:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Nová obytná čtvrť",
+        "summary": "V Pardubicích vznikne nová obytná čtvrť za 790 milionů korun.",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMVdUeGpFVklwRjZBT0dWSG51cGRCSXV2ZjRrTUJrN0xTMkdFZWZxZllCR3hmVWp3X0ZpTXh4eldYUVNzV044UHJrUnNVTTRRVlZOX0I5RlFmY1ZUM1B2XzUtWl9oUWZudG9DakFzblhiUHo0MWhBRkJVU2ZBaXl0SFpoZEtSUmZRRi1nVkxhOUt4Q0VRN3FUeGoyZm1KejJXT1RNWGd6bVEyblpPYWVFOG15Ym1TZ2NERG1ZY2EzRnZTOWMwbWNtSWp3?oc=5",
+        "timestamp": "2026-02-25T04:35:00",
+        "timestamp_display": "25. 02. 2026 04:35",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Finance s vyšším smyslem",
+        "summary": "Aleš Lindovský z Takedy mluví o využití AI pro pomoc pacientům a lepší financování zdravotní péče.",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbTY1Wi1TOGpjcDdxRWlYX2l6RmN5UXhwcHprbWpYVGVWc3ZpREdPUjhBY3JTenFDaHdVbklMVzBnOXRvcERCX1g0dVp2bTg2SEltRHV5bFRLamxSNFpGWkhpdzQ3c3d4RUJ6djVMVnhVZF9kczBESXZoRGhNVlBGZHdDUVVscGZPSXBxYUtCX1FyeUh3V25BTXMzbEktQXFu?oc=5",
+        "timestamp": "2026-02-24T23:00:00",
+        "timestamp_display": "24. 02. 2026 23:00",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Kočka chrání zkameněliny",
+        "summary": "Nová přírodní památka chrání unikátní naleziště zkamenělin, které je jedinečné ve světovém měřítku.",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQUN0ZHFvUGRQVkpSSG8wZFBuSWhPaHFPLS0zeEdZal93NXVmV0JmdEVwd1FMR3FHTDZKQVZjbWZMMlhUa2dwSWF5cElTX0QybWV1XzVBd1V0NG5fdUpWWmY1RU5CYzVhU1ZidmdsVmc1bnFCdGdJWEhvTDVxNDBHMjhtSkxzNlVRRmRTZ1V2TU16Y0E4VTUwQy00Q25wQUwyOUM1UDJxbzlKWHI4M2VtenpfbUhMa3o3YXJyNVBBanQ3OElIdTM4Z1N4bHV5VEJoQU04bWhjLUxQSXFW?oc=5",
+        "timestamp": "2026-02-24T20:32:00",
+        "timestamp_display": "24. 02. 2026 20:32",
+        "is_new": true
+    },
+    {
         "category": "Technologie",
         "title": "Nejrychlejší AI chatbot",
         "summary": "Představený je nejrychlejší AI chatbot na světě, poháněný unikátním procesorem.",
         "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPWmxaYjM1WlNERF9yU2EyeDFleFVQQk1CWEV5WFRhbjdQcGVvZlE2M212QUtvcVRXSnRPWTZxdDBFV3VLeFlpZXYycmtDSHVDZnUxY1JvVzMyMVhKTk1FWHFRb01mVno3X01IZTREZG5lX3kydGRIUUljZ2ZtMFVYZlFQUktXbzhubmRCTFc0TXlFd2RRQ2hMT2JTcGtvT2NJZGNkNlctcjROVXJnSXItdjlMYUJoYmcyWHp6SFBfLVRIejNTTFFpbzRFek5FM0t5YktVZFltVkhpZkMyUzRJbGhRNlpBTWtqQkh6UUtpNjAzZHl5STlpeXZ3M0JVcnRQYVdEb1d5NUJqY3JlMGdXQnl1NmJMNnFE?oc=5",
         "timestamp": "2026-02-24T16:24:33",
         "timestamp_display": "24. 02. 2026 16:24",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -15,7 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPWlBwVmtvcjNKdndYbTdGYUpfZXhDdFhwU2xURGFOY3VsS3VPdFBFTkxNQWdiNWVHUk9TemdBRXFqY2xsRGc5ZW1DWUpSQUVIWkJDME12eXU4OG1VN0JlZV9vYkxORkpxbHNSaHcycmxtYWNFWF9vR2xTNXFWNWpOTU9xYkpoOUZ2LUs4RHVLZnctcUFkblJTQWtLZTlrZmg2Ym8tSXhBd3NOMHZKbzhGc3RjTHluZ2Etb3pFanRrTjRFMkhxdTVpQjhpNUxyWXdPd3d6VllkR2VKdjhnWWRjdTM0bFgyaW9hVl9mSnVnWTIxSzVqS0xXMVM3UzRZcVlUT1lnall3?oc=5",
         "timestamp": "2026-02-24T15:31:29",
         "timestamp_display": "24. 02. 2026 15:31",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Medicína",
@@ -24,7 +60,7 @@
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd2dYcDRLRHdtR1ZLREhnRUcxLUlEU2w0S2pyazR1OVdxUERvbHB5dWN3am9SXzlNbm8telFCeEMzWjVwRWJxeGEwVUU0aERmV1BnQzV3STdsemVpTGc0TS05U3RiY1FpeDVBUDBlZkkyTTB0Z05fM1RXVFJlUUVSS0Y2MnJmalhlVUdzRU43TlE5SEtidFF1V2RrdVUyc3hOWWxkOWg1SGdwVmd3M0E4T0dMRVctanprdmVZMUs3SWNzZThRRFZV?oc=5",
         "timestamp": "2026-02-24T12:56:00",
         "timestamp_display": "24. 02. 2026 12:56",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -33,7 +69,7 @@
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ3ppTjN1RFl3S1NENllLdDhKTDc3d3NiQWxNczVkT01uN3FTR2NjZEJkX085QUc1LTdZTFpyWlFEZXFWZXdINGF1V3ExYjFjUU5ZWGc5b2dZZUhQRkpEQkd4SGd5S3gwbDFXVFNHQ2RQdnBmczAyYmdDdVJOb1psVmpvUlVjS3M?oc=5",
         "timestamp": "2026-02-24T10:44:09",
         "timestamp_display": "24. 02. 2026 10:44",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
