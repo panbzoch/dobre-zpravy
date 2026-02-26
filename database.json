@@ -1,11 +1,29 @@
 [
     {
+        "category": "Medicína",
+        "title": "AI hlídá srdce lidí",
+        "summary": "Česká AI sleduje zdraví 3 500 lidí, spolupracuje se zdravotními pojišťovnami.",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSWR0bC03UXpVM0JySHMzcDQ3bW1keXVPSTRxVWlZSm01QmMxWDRZbG5QVzNnMjNGMk0wQllnUzdydnFaZVRVdFAxUi1YbHJqdkZXWmYtTGl0WVFOR0ZiNEFjQ1dReDlvYjZiN04zR0ZLMmhtcEwtNURoOHJPMkJzN3c1SnJTdnZzVTJsNXNma0NwZFpvZGZxd1VzcjM4c2xaZnRPNDV5dGZWNDhZdEpr?oc=5",
+        "timestamp": "2026-02-26T08:14:24",
+        "timestamp_display": "26. 02. 2026 08:14",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
-        "title": "Úspěšný český startup",
-        "summary": "Český startup dosáhl úspěchu, jeho zakladatel buduje firmu s cílem udělat z lidí milionáře, odmítá stavět firmu na prodej.",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZHpJQUoxU1VEZnZJRlJ2Y0J4ZEtfcjNxWFBoZlB1UXc0bUtCTERZMGZTVXhwamJubkNsUHFVSDdVcXYySWpQSUpLclVpblVEaXN4bXpJY3F3NlJ5YXNBNmJJUDRRNWZRdHNnWllsaXBRamM4Y0JCVWQtVE4zX2hVUzJtSUVPUnBMSXBpRjZjS3hnRXZiZUNfc1RZQjVPd3A0WHluWGd2ZzRaY3hpS1BfTS1fcG0yRkRiWHU4QzFn?oc=5",
-        "timestamp": "2026-02-25T05:29:23",
-        "timestamp_display": "25. 02. 2026 05:29",
+        "title": "Nvidia zisk vzrostl",
+        "summary": "Nvidia zvýšila zisk o 100 % díky investicím do umělé inteligence.",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMms2QlRTNWdqdXF4R0t4VU02X3NNWnFmUF9yNGJYcV9hZmR2RE8zT3MwbjJHTUZjVmVyTmlpcGhraXJtcy1oeTczcWhGdjM1bmFaVnhMNlpIei1MbU1uU25EYjBVTUUtOXBJXy1NY056QXNJa2lkRkJzb3B1c25pU1h1VUIxa0l0ZURDbHZyTGlKeld4WTBlcjRncXhsd2ZNR0FsSGNMTGR0SnZsRUZkZ3dLNWlBZVEzeHBhZWZUX3pXOW1aZ0I5czBB?oc=5",
+        "timestamp": "2026-02-26T07:15:00",
+        "timestamp_display": "26. 02. 2026 07:15",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Česká spořitelna roste",
+        "summary": "Česká spořitelna zaznamenala růst díky vysokým příjmům z úroků a poplatků.",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMDYzd0ZvTzJPNG9XRHYxazViUGdzdlhtM1JPRlRwVXh6X3l4ZVFhUnV3Q2R0cFAxb05Bbmp2X2g5Z3NKUkJ5UkxnN0ZPOFJoME0zNFlsc0VJYk4xLVZFb1NSMWdLZ1ZQbXEzSFVvejUyY2tiTWZ2RVlpT29pUXpvYVJodHBObHl3QUkwNldTMDBubWVUanhWYksyMWxyNnZucTRSbEZBOGRDUUNyNFpqYVlHaVdhdG42bUxXSllIUkduMENsU1ZtTkRxOEZLejVpN3l6b05CMA?oc=5",
+        "timestamp": "2026-02-26T07:11:00",
+        "timestamp_display": "26. 02. 2026 07:11",
         "is_new": true
     },
     {
@@ -42,6 +60,15 @@
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdGdWNTlHRkhmejA2Y0VkaUhLS3RfaTBwQ0xwbElLRVQ0bmROVWNIMWNvRjRWaWlaTnZkdWt5aThvQjc5SFA0NWNteVcwYzhYejdOMUVuZXRiSW9aN3JvcXl1cUZkXzJRSUdYOUNucmZtbzM3TjRVTXpUQmVFcHFoUTFXYXNHVzBySGRxcDJwSjNRNnBCT0FXMnlPTQ?oc=5",
         "timestamp": "2026-02-25T06:39:00",
         "timestamp_display": "25. 02. 2026 06:39",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Úspěšný český startup",
+        "summary": "Český startup dosáhl úspěchu, jeho zakladatel buduje firmu s cílem udělat z lidí milionáře, odmítá stavět firmu na prodej.",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZHpJQUoxU1VEZnZJRlJ2Y0J4ZEtfcjNxWFBoZlB1UXc0bUtCTERZMGZTVXhwamJubkNsUHFVSDdVcXYySWpQSUpLclVpblVEaXN4bXpJY3F3NlJ5YXNBNmJJUDRRNWZRdHNnWllsaXBRamM4Y0JCVWQtVE4zX2hVUzJtSUVPUnBMSXBpRjZjS3hnRXZiZUNfc1RZQjVPd3A0WHluWGd2ZzRaY3hpS1BfTS1fcG0yRkRiWHU4QzFn?oc=5",
+        "timestamp": "2026-02-25T05:29:23",
+        "timestamp_display": "25. 02. 2026 05:29",
         "is_new": false
     },
     {
