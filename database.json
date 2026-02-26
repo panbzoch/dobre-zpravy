@@ -1,12 +1,30 @@
 [
     {
+        "category": "Věda",
+        "title": "Evropská družice Proba-2",
+        "summary": "Evropská družice Proba-2 zachytila prstencové zatmění Slunce z vesmíru.",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPQTkyWWtwc1RVMmxRTUluSHdDUkhLZUZKTnd4cG1oNVlUZWVMODl3MkY5LTN0WkpFREhTUGFGblkyajNmMGl3NkRaUjh5NkdYREh6Vnl2a3VfMURxdldPNFVkUTc3M2FZNHdpaVVDUGkwajMxTk8xb0ctZlNXRlY3UUZBdWV1ZEswNFhoT2FhWWQyQmtWa3pLTHg2ZjYwYmdCdm1lTlhXbl91WXd2cm5zbVhMeGFTc2pNN2VSOUNLV3pKSkdxWmZRZ1RSc2hRTXhtdmM0LWNvMkZqYWFaYk1UOEpCQ25DcVBGYmlDVGpUbXZCWm9KUjNjTzkxV3BYUnUz?oc=5",
+        "timestamp": "2026-02-26T12:50:00",
+        "timestamp_display": "26. 02. 2026 12:50",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Investice do AI",
+        "summary": "Investice do kapacit a infrastruktury pro umělou inteligenci může přinést zisk.",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONHB4UmRSWENKQTFyU1NET1VYZ1dzemNGR295cDNCVEZSNkxrSnU5bXVFWG9Wblp4SnJDTW9pUEhsRVlpemNxVUhuLXY2TzAtQ0x6VGNRS2xQNEo1RGlrS1I2TG1WZzNvbG1DRUo5anhfUDRwUHl1NjQ5TTMxWVVReTV3amx3cld6bURST19QMjh6RUFyR1BYcmpPcTFNMm9zUk1fVGwweG9wWEZkV2pPWkVZSjMtakdBNHB2VzNzV2hBMWdJVXBoM0tBeDgtUE90NVVaQnhxTE83c2taQXJMMTFiOHU2R0JoR3RF?oc=5",
+        "timestamp": "2026-02-26T11:10:00",
+        "timestamp_display": "26. 02. 2026 11:10",
+        "is_new": true
+    },
+    {
         "category": "Medicína",
         "title": "AI hlídá srdce lidí",
         "summary": "Česká AI sleduje zdraví 3 500 lidí, spolupracuje se zdravotními pojišťovnami.",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSWR0bC03UXpVM0JySHMzcDQ3bW1keXVPSTRxVWlZSm01QmMxWDRZbG5QVzNnMjNGMk0wQllnUzdydnFaZVRVdFAxUi1YbHJqdkZXWmYtTGl0WVFOR0ZiNEFjQ1dReDlvYjZiN04zR0ZLMmhtcEwtNURoOHJPMkJzN3c1SnJTdnZzVTJsNXNma0NwZFpvZGZxd1VzcjM4c2xaZnRPNDV5dGZWNDhZdEpr?oc=5",
         "timestamp": "2026-02-26T08:14:24",
         "timestamp_display": "26. 02. 2026 08:14",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMms2QlRTNWdqdXF4R0t4VU02X3NNWnFmUF9yNGJYcV9hZmR2RE8zT3MwbjJHTUZjVmVyTmlpcGhraXJtcy1oeTczcWhGdjM1bmFaVnhMNlpIei1MbU1uU25EYjBVTUUtOXBJXy1NY056QXNJa2lkRkJzb3B1c25pU1h1VUIxa0l0ZURDbHZyTGlKeld4WTBlcjRncXhsd2ZNR0FsSGNMTGR0SnZsRUZkZ3dLNWlBZVEzeHBhZWZUX3pXOW1aZ0I5czBB?oc=5",
         "timestamp": "2026-02-26T07:15:00",
         "timestamp_display": "26. 02. 2026 07:15",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,7 +42,7 @@
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMDYzd0ZvTzJPNG9XRHYxazViUGdzdlhtM1JPRlRwVXh6X3l4ZVFhUnV3Q2R0cFAxb05Bbmp2X2g5Z3NKUkJ5UkxnN0ZPOFJoME0zNFlsc0VJYk4xLVZFb1NSMWdLZ1ZQbXEzSFVvejUyY2tiTWZ2RVlpT29pUXpvYVJodHBObHl3QUkwNldTMDBubWVUanhWYksyMWxyNnZucTRSbEZBOGRDUUNyNFpqYVlHaVdhdG42bUxXSllIUkduMENsU1ZtTkRxOEZLejVpN3l6b05CMA?oc=5",
         "timestamp": "2026-02-26T07:11:00",
         "timestamp_display": "26. 02. 2026 07:11",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
