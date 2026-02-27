@@ -1,12 +1,30 @@
 [
     {
+        "category": "Technologie",
+        "title": "Investice do AI",
+        "summary": "Český fond Tilia Impact Ventures investuje do umělé inteligence, která umožňuje komunikaci se zvířaty.",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT0RvMHY3RDZRekRobEM5ZmduOEVRUDNCaS1VS2Z5TEJRV0NvcEp1VzRlRDU4UFVlakVaV1NPM1E0V3VmMjNxVk9HZEFWYk5QY3pqWmx0ZWhibDVSMnlhVU55a08zQWVRRWN0ME4ya0JDZ3JTYjJBME5ITEhuWWVvQXpTdFBhS3JrOXJWU0lWYWR6Wm1RYTlWaFNHZmh2RkVKM3piSHhBTnFpLVE?oc=5",
+        "timestamp": "2026-02-27T17:40:41",
+        "timestamp_display": "27. 02. 2026 17:40",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Investice může změnit život jedné věty, nabízí nové příležitosti a růst.",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yRnNoeG52S3Mwb1J3d3FEczlwNDI2RWZtcEY5MzJCekl4RkNCa0JYWXRBb1JUX3QzdHpUa29WUzJFN04wV0c3U2xvSlJJVlpiRGR0dDIwa005QQ?oc=5",
+        "timestamp": "2026-02-27T15:16:33",
+        "timestamp_display": "27. 02. 2026 15:16",
+        "is_new": true
+    },
+    {
         "category": "Věda",
         "title": "Chameleoni zelení",
         "summary": "Zoopark Zájezd chová a rozmnožuje chameleony zelené jako jediná zoo na světě.",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVHNFenNOOFpOZFFyUGQzdkVlN25pQWlFSWJFaGVRQk94MkJlbUtiZHRUMXJXbGFQRTIxWDRvM2d0V3g5LXpNZXl4M2tRVjBNRUJhOEpDM2JwVG1kMkVSZGR6SXZGNElVT3YzTzhhX1FIeW5iN0FmWEEyT2xZU1dqZVpSWm91SXExbUdfQ2FOSV9CTGpWLThSYUE3bTFKT3pHTlpQbXJJNTB5UktoMmFmN001MnUxZ0dQMjRFNHZERWF3emdWMkllNVI2ekNqR1NmTXN1cDExVkNRdw?oc=5",
         "timestamp": "2026-02-27T12:22:00",
         "timestamp_display": "27. 02. 2026 12:22",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQ0I5eTl0aFlsMlQ1YUtTR0RIbWNlX09zOUkwenU4aGZuNVJLckxhelc1dmZ2MXpnWE5icTRkdDNndDkydE9NM3VTVW9MeWJpUEczWmVHQVNtY1E1X3RxTEFTc0NZVWJtWmIxUWVZSXhtNmgtV0VlX1RDdl9IU0xDbHBVZ3NuQzVPVFNKMGthdU1xNWI1WldVTkNWcUhtS19CcE1fblMwUGZDSENXXzhDZXlRaVZ4R2VSVTNxRG5tNXhvSHBmT0FUSGptTkc1VHJHV2d3N2pMZTNQbkVhVVRSekRVdEpzU2Ri?oc=5",
         "timestamp": "2026-02-27T12:00:00",
         "timestamp_display": "27. 02. 2026 12:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -24,16 +42,7 @@
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6Y0ZaMm56cWU2djM0SU45amtRazh0VTdqYThVX0o3dTBYdHlQRTJQUUU4a0V4MUpRQzdpbDdCMHdrb2pnTUFfR3M0SFhJN3FhWWsteHRQa0RJc1Zr?oc=5",
         "timestamp": "2026-02-27T11:23:51",
         "timestamp_display": "27. 02. 2026 11:23",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Investice do Unity Care",
-        "summary": "Enterprise Investors investuje 12 milionů euro do platformy Unity Care, která se zaměřuje na péči o seniory a osoby se zdravotním postižením.",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdlZvX09ycl90QWxKTVc0UncwV3FtU1RwNmQ0azZHTE9WVUdVaVdVbmlYajBUdTdiWFR6Vnl2NzFPMkZoa1hpUVRfdmlueHB6b1VLanE1YTZmdVlSRUNlV29KbndmRXBUV0tUOHgwTlFxZDVWNnJtU2NVMHFvSk8zcFdvSjFpM2tBSzVla0NMSkV1akx5MEMxVTRNTkQ5TnJjZ19JRXUzQW5PRk5EUDQ4NWMtbjZYUWtEZUl4bkl3dERsQk8tQ09r?oc=5",
-        "timestamp": "2026-02-27T09:33:00",
-        "timestamp_display": "27. 02. 2026 09:33",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -42,6 +51,15 @@
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcW9FVmdpNkVYS1BfOVBmRGg5RU5MS0c1VXd5V3pxZmNHVUo4RlBhOUpmdkFWVTVybUFybjF1VFliZGZDd25rVVMwcHJXb25MTFpPOUhreVI0Y1hXbEhMNWlOS2pEUEVWYU5UeENtN1JsdnA5Uk5MYU5YRDRuek95YUNMdDZ2UzFENWd2aDJhZ2M2WlRpcHBpMXlWUlZndmJRVzhSY2RvRnh1dDdITUlEejF6ZzdXMFZTY0lQZFZReUZ1ZDI3VHc?oc=5",
         "timestamp": "2026-02-27T10:00:00",
         "timestamp_display": "27. 02. 2026 10:00",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice do Unity Care",
+        "summary": "Enterprise Investors investuje 12 milionů euro do platformy Unity Care, která se zaměřuje na péči o seniory a osoby se zdravotním postižením.",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdlZvX09ycl90QWxKTVc0UncwV3FtU1RwNmQ0azZHTE9WVUdVaVdVbmlYajBUdTdiWFR6Vnl2NzFPMkZoa1hpUVRfdmlueHB6b1VLanE1YTZmdVlSRUNlV29KbndmRXBUV0tUOHgwTlFxZDVWNnJtU2NVMHFvSk8zcFdvSjFpM2tBSzVla0NMSkV1akx5MEMxVTRNTkQ5TnJjZ19JRXUzQW5PRk5EUDQ4NWMtbjZYUWtEZUl4bkl3dERsQk8tQ09r?oc=5",
+        "timestamp": "2026-02-27T09:33:00",
+        "timestamp_display": "27. 02. 2026 09:33",
         "is_new": false
     },
     {
