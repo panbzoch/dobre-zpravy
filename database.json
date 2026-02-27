@@ -1,12 +1,21 @@
 [
     {
+        "category": "Byznys",
+        "title": "Samaras junior expanduje",
+        "summary": "Společnost Prager's expanduje na zahraniční trhy se svými produkty.",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc0YtVlRYenoxRkI0dnNyemotdzVnWWtabmU3OWdXZmN5U3hGZjBDSWdnUTZJeVpBMHN1U0RYT3o4TmZVRVhWcldtMW1GVkhKMUpNOV9XQjQ4Z3JGVlEyRmlSczd0UXgyQXMzVGlGMnZXbFoyTFFZQVBJWURaVE1UampkQVZPbGU5MjFQUUtjbzlYOUVva0FzdEln?oc=5",
+        "timestamp": "2026-02-25T05:00:00",
+        "timestamp_display": "25. 02. 2026 05:00",
+        "is_new": true
+    },
+    {
         "category": "Technologie",
         "title": "AMD dodá akcelerátory",
         "summary": "AMD dodá Metě akcelerátory se spotřebou, jako má celé Česko, pro umělé inteligence.",
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUkh4Z2NZQk9rLWYtbFZqUHNZOFJ5ZmVOcXBKQVpNUHJLUzhpSHNoaTFXbGt0Uk83Qk5KUnpRRWU3NXBsNjB4akFld2EyXzc1aU1waGpPMWRfNUZFNXJhcHJrY09OaEQ2dVZobDR4YmpXTGxRbFZ2Y3pDWHVXZExyc1NDYWs5eFRzY0JTbEsxZ3NfVHlNYzB6RXBORXFUYVlIczVCbFZYTGZPZnlBQVh5aUJVT3pISk1mVTBqdUtDWGVxQm02MWFQazRIV0s4ZkM5QThxZ0JRT2xlRG1JRFE?oc=5",
         "timestamp": "2026-02-26T18:13:37",
         "timestamp_display": "26. 02. 2026 18:13",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Společnost",
@@ -15,7 +24,7 @@
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeFlCMWExUjM0SVUtRnJ3LXhLUXZZSkhlUDAzYnhKVndmMkJqRm9Xa2dERC01VVFxRzdxdEY3YlVoM2pnT05GQ3ZzWER3NVRJZG9md0dhNVZZQjB2WnJLN1U0MGpSTW9hLVZjeTBjOGh0ZWJ0TENJZmZISDgwUVB5SEFvV1VhSFVwRVZGaXVjSHkyZTlGbmV1S1VVR2ZFV1hXQTJNdFZycnFkUQ?oc=5",
         "timestamp": "2026-02-26T18:12:28",
         "timestamp_display": "26. 02. 2026 18:12",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -24,16 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWmx6U1UzLXFMOU9xYkVNT3NRcUFObUF4MUY4WDdjV29Ob1pfbEFLYWUxWDVhMmI5STZHZFdxNjA3NzdpdE1VV1pGZ3pTMUR6OVJhcGdLX05lUGt2SkRMZWczcUh6SEpqRXNSeDBaQ1hLd3JMejlzVVIwdkJlaExvS3NxSmF2bFJ4UmpycDlZaHZoeDJkdjdr?oc=5",
         "timestamp": "2026-02-26T16:33:54",
         "timestamp_display": "26. 02. 2026 16:33",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Investiční vína rostou",
-        "summary": "Investiční vína nabízejí zhodnocení 8-10 % ročně, české edice expandují na zahraniční trhy.",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYjlIS3FKdlE3YkgteUU0R3VMcXFBR1MxRjd4dTdkVkk2VDhRX24xeTQ2bjdOX2hRQU5FTGozMWRIUFk5ekRxQWJKUVVTeVpHeFRSYzRKeVQwMHVRcjJOeHFrNU1WQlBJUnNqYl9fOWJZUndZaUdsR1N4anV4aF9kek9uTGVEc0xaQmtrMzhVSTUyNVM2U2VuMElLNVBJbFVSS2RGc09ELWNyN01IVmMwOUJ0c3FfSktSbHdLTXVR?oc=5",
-        "timestamp": "2026-02-26T11:42:00",
-        "timestamp_display": "26. 02. 2026 11:42",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -42,6 +42,15 @@
         "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPQTkyWWtwc1RVMmxRTUluSHdDUkhLZUZKTnd4cG1oNVlUZWVMODl3MkY5LTN0WkpFREhTUGFGblkyajNmMGl3NkRaUjh5NkdYREh6Vnl2a3VfMURxdldPNFVkUTc3M2FZNHdpaVVDUGkwajMxTk8xb0ctZlNXRlY3UUZBdWV1ZEswNFhoT2FhWWQyQmtWa3pLTHg2ZjYwYmdCdm1lTlhXbl91WXd2cm5zbVhMeGFTc2pNN2VSOUNLV3pKSkdxWmZRZ1RSc2hRTXhtdmM0LWNvMkZqYWFaYk1UOEpCQ25DcVBGYmlDVGpUbXZCWm9KUjNjTzkxV3BYUnUz?oc=5",
         "timestamp": "2026-02-26T12:50:00",
         "timestamp_display": "26. 02. 2026 12:50",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Investiční vína rostou",
+        "summary": "Investiční vína nabízejí zhodnocení 8-10 % ročně, české edice expandují na zahraniční trhy.",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYjlIS3FKdlE3YkgteUU0R3VMcXFBR1MxRjd4dTdkVkk2VDhRX24xeTQ2bjdOX2hRQU5FTGozMWRIUFk5ekRxQWJKUVVTeVpHeFRSYzRKeVQwMHVRcjJOeHFrNU1WQlBJUnNqYl9fOWJZUndZaUdsR1N4anV4aF9kek9uTGVEc0xaQmtrMzhVSTUyNVM2U2VuMElLNVBJbFVSS2RGc09ELWNyN01IVmMwOUJ0c3FfSktSbHdLTXVR?oc=5",
+        "timestamp": "2026-02-26T11:42:00",
+        "timestamp_display": "26. 02. 2026 11:42",
         "is_new": false
     },
     {
