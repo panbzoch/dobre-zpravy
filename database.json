@@ -1,11 +1,29 @@
 [
     {
         "category": "Byznys",
-        "title": "Samaras junior expanduje",
-        "summary": "Společnost Prager's expanduje na zahraniční trhy se svými produkty.",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc0YtVlRYenoxRkI0dnNyemotdzVnWWtabmU3OWdXZmN5U3hGZjBDSWdnUTZJeVpBMHN1U0RYT3o4TmZVRVhWcldtMW1GVkhKMUpNOV9XQjQ4Z3JGVlEyRmlSczd0UXgyQXMzVGlGMnZXbFoyTFFZQVBJWURaVE1UampkQVZPbGU5MjFQUUtjbzlYOUVva0FzdEln?oc=5",
-        "timestamp": "2026-02-25T05:00:00",
-        "timestamp_display": "25. 02. 2026 05:00",
+        "title": "Rekordní rok pro Broker",
+        "summary": "Broker Consulting hlásí rekordní rok s objemem realitních transakcí 23 mld. korun.",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcW9FVmdpNkVYS1BfOVBmRGg5RU5MS0c1VXd5V3pxZmNHVUo4RlBhOUpmdkFWVTVybUFybjF1VFliZGZDd25rVVMwcHJXb25MTFpPOUhreVI0Y1hXbEhMNWlOS2pEUEVWYU5UeENtN1JsdnA5Uk5MYU5YRDRuek95YUNMdDZ2UzFENWd2aDJhZ2M2WlRpcHBpMXlWUlZndmJRVzhSY2RvRnh1dDdITUlEejF6ZzdXMFZTY0lQZFZReUZ1ZDI3VHc?oc=5",
+        "timestamp": "2026-02-27T10:00:00",
+        "timestamp_display": "27. 02. 2026 10:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Trh luxusu roste",
+        "summary": "Trh s luxusem táhnou čtyři regiony světa, kde se nachází nejmovitější zákazníci.",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa3RGeWRkRGt4cUI1bUhxSUdsOURhRHhhMlN0S3ZVWkNUdm1zZXR4QU5hNjJaYi04SDEwd1dOamd1T1VUazd4YllPNm9RVEhEUG0yMjNFZUNNZF9SMzVBUEs4ZnNoR2w3Uk1nQzRUa2Q1ZVN2dkJjVUoxeXVtUTBmSEozcHh3b1VKNHJBSzhTalRycEJfeGZJZ2xZQ01FUQ?oc=5",
+        "timestamp": "2026-02-27T09:14:23",
+        "timestamp_display": "27. 02. 2026 09:14",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "ČEZ prodává větrné parky",
+        "summary": "ČEZ rozjel prodej větrných parků v Německu a Francii, ve hře je přes 10 miliard.",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWnZaS2ZYRWdjTWhkN01XMlhTMTVMU2FieDlDUWtuMi0tVXF3REc0ck5JUDZNYTFPOVphMFE3am5xaHNPMnJEdVRWMDllZEVDeVJLS2RTNV9kV2k1WDBlUGNTR2ZlM1Y2VU1tNDNrOWJyRXRHZ2dOeFRkWEtIeHMzRlRJd3NMUTdSb015OVRRUFY1dk42a194VGpqdFZwM010QURPSnEtdFRSMGxudTEtaERXcUo0cG1Ta3A1Y3hjVnFWRl9JSnkyWmdGRGFlWEdtSlE?oc=5",
+        "timestamp": "2026-02-27T09:00:00",
+        "timestamp_display": "27. 02. 2026 09:00",
         "is_new": true
     },
     {
@@ -132,6 +150,15 @@
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZHpJQUoxU1VEZnZJRlJ2Y0J4ZEtfcjNxWFBoZlB1UXc0bUtCTERZMGZTVXhwamJubkNsUHFVSDdVcXYySWpQSUpLclVpblVEaXN4bXpJY3F3NlJ5YXNBNmJJUDRRNWZRdHNnWllsaXBRamM4Y0JCVWQtVE4zX2hVUzJtSUVPUnBMSXBpRjZjS3hnRXZiZUNfc1RZQjVPd3A0WHluWGd2ZzRaY3hpS1BfTS1fcG0yRkRiWHU4QzFn?oc=5",
         "timestamp": "2026-02-25T05:29:23",
         "timestamp_display": "25. 02. 2026 05:29",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Samaras junior expanduje",
+        "summary": "Společnost Prager's expanduje na zahraniční trhy se svými produkty.",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc0YtVlRYenoxRkI0dnNyemotdzVnWWtabmU3OWdXZmN5U3hGZjBDSWdnUTZJeVpBMHN1U0RYT3o4TmZVRVhWcldtMW1GVkhKMUpNOV9XQjQ4Z3JGVlEyRmlSczd0UXgyQXMzVGlGMnZXbFoyTFFZQVBJWURaVE1UampkQVZPbGU5MjFQUUtjbzlYOUVva0FzdEln?oc=5",
+        "timestamp": "2026-02-25T05:00:00",
+        "timestamp_display": "25. 02. 2026 05:00",
         "is_new": false
     },
     {
