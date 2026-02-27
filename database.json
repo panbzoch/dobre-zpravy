@@ -1,12 +1,48 @@
 [
     {
+        "category": "Věda",
+        "title": "Chameleoni zelení",
+        "summary": "Zoopark Zájezd chová a rozmnožuje chameleony zelené jako jediná zoo na světě.",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVHNFenNOOFpOZFFyUGQzdkVlN25pQWlFSWJFaGVRQk94MkJlbUtiZHRUMXJXbGFQRTIxWDRvM2d0V3g5LXpNZXl4M2tRVjBNRUJhOEpDM2JwVG1kMkVSZGR6SXZGNElVT3YzTzhhX1FIeW5iN0FmWEEyT2xZU1dqZVpSWm91SXExbUdfQ2FOSV9CTGpWLThSYUE3bTFKT3pHTlpQbXJJNTB5UktoMmFmN001MnUxZ0dQMjRFNHZERWF3emdWMkllNVI2ekNqR1NmTXN1cDExVkNRdw?oc=5",
+        "timestamp": "2026-02-27T12:22:00",
+        "timestamp_display": "27. 02. 2026 12:22",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Rodina Meinlů expanduje",
+        "summary": "Rodina Meinlů rozšiřuje aparthotelový byznys do západní Evropy, konkrétně do Berlína.",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQ0I5eTl0aFlsMlQ1YUtTR0RIbWNlX09zOUkwenU4aGZuNVJLckxhelc1dmZ2MXpnWE5icTRkdDNndDkydE9NM3VTVW9MeWJpUEczWmVHQVNtY1E1X3RxTEFTc0NZVWJtWmIxUWVZSXhtNmgtV0VlX1RDdl9IU0xDbHBVZ3NuQzVPVFNKMGthdU1xNWI1WldVTkNWcUhtS19CcE1fblMwUGZDSENXXzhDZXlRaVZ4R2VSVTNxRG5tNXhvSHBmT0FUSGptTkc1VHJHV2d3N2pMZTNQbkVhVVRSekRVdEpzU2Ri?oc=5",
+        "timestamp": "2026-02-27T12:00:00",
+        "timestamp_display": "27. 02. 2026 12:00",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Umělá inteligence",
+        "summary": "Forbes informuje o novinkách v oblasti umělé inteligence a jejích aplikacích.",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6Y0ZaMm56cWU2djM0SU45amtRazh0VTdqYThVX0o3dTBYdHlQRTJQUUU4a0V4MUpRQzdpbDdCMHdrb2pnTUFfR3M0SFhJN3FhWWsteHRQa0RJc1Zr?oc=5",
+        "timestamp": "2026-02-27T11:23:51",
+        "timestamp_display": "27. 02. 2026 11:23",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice do Unity Care",
+        "summary": "Enterprise Investors investuje 12 milionů euro do platformy Unity Care, která se zaměřuje na péči o seniory a osoby se zdravotním postižením.",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdlZvX09ycl90QWxKTVc0UncwV3FtU1RwNmQ0azZHTE9WVUdVaVdVbmlYajBUdTdiWFR6Vnl2NzFPMkZoa1hpUVRfdmlueHB6b1VLanE1YTZmdVlSRUNlV29KbndmRXBUV0tUOHgwTlFxZDVWNnJtU2NVMHFvSk8zcFdvSjFpM2tBSzVla0NMSkV1akx5MEMxVTRNTkQ5TnJjZ19JRXUzQW5PRk5EUDQ4NWMtbjZYUWtEZUl4bkl3dERsQk8tQ09r?oc=5",
+        "timestamp": "2026-02-27T09:33:00",
+        "timestamp_display": "27. 02. 2026 09:33",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "Rekordní rok pro Broker",
         "summary": "Broker Consulting hlásí rekordní rok s objemem realitních transakcí 23 mld. korun.",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcW9FVmdpNkVYS1BfOVBmRGg5RU5MS0c1VXd5V3pxZmNHVUo4RlBhOUpmdkFWVTVybUFybjF1VFliZGZDd25rVVMwcHJXb25MTFpPOUhreVI0Y1hXbEhMNWlOS2pEUEVWYU5UeENtN1JsdnA5Uk5MYU5YRDRuek95YUNMdDZ2UzFENWd2aDJhZ2M2WlRpcHBpMXlWUlZndmJRVzhSY2RvRnh1dDdITUlEejF6ZzdXMFZTY0lQZFZReUZ1ZDI3VHc?oc=5",
         "timestamp": "2026-02-27T10:00:00",
         "timestamp_display": "27. 02. 2026 10:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa3RGeWRkRGt4cUI1bUhxSUdsOURhRHhhMlN0S3ZVWkNUdm1zZXR4QU5hNjJaYi04SDEwd1dOamd1T1VUazd4YllPNm9RVEhEUG0yMjNFZUNNZF9SMzVBUEs4ZnNoR2w3Uk1nQzRUa2Q1ZVN2dkJjVUoxeXVtUTBmSEozcHh3b1VKNHJBSzhTalRycEJfeGZJZ2xZQ01FUQ?oc=5",
         "timestamp": "2026-02-27T09:14:23",
         "timestamp_display": "27. 02. 2026 09:14",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,7 +60,7 @@
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWnZaS2ZYRWdjTWhkN01XMlhTMTVMU2FieDlDUWtuMi0tVXF3REc0ck5JUDZNYTFPOVphMFE3am5xaHNPMnJEdVRWMDllZEVDeVJLS2RTNV9kV2k1WDBlUGNTR2ZlM1Y2VU1tNDNrOWJyRXRHZ2dOeFRkWEtIeHMzRlRJd3NMUTdSb015OVRRUFY1dk42a194VGpqdFZwM010QURPSnEtdFRSMGxudTEtaERXcUo0cG1Ta3A1Y3hjVnFWRl9JSnkyWmdGRGFlWEdtSlE?oc=5",
         "timestamp": "2026-02-27T09:00:00",
         "timestamp_display": "27. 02. 2026 09:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
