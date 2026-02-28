@@ -1,12 +1,30 @@
 [
     {
         "category": "Byznys",
+        "title": "AI sleduje zaměstnance",
+        "summary": "Burger King nasazuje AI, která sleduje vstřícnost zaměstnanců a pomáhá jim s přípravou jídel.",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcVVCX28yRXFWeHZNSjd6Q1lYS0JCd3pITmY5VDMyalFnV1dMay16X3UyaWU1M1NzQ2dhM0FYblhnZTVTN2xSX0NIcEFBeFpzQTRlUFF3TEJfVGRLYVdoWGhOZ2lsNHVYUF9yZUp4NENZZGNFSkc1NFlFZEUwbTAyNHMwWVNoV0c3c0FEOVRrSUZmZmVOQWI0a2NzUmUzb09mV0JxZVhZNHRWYnVOaXpMaFNCTGY4aTdzSklvM3ItMkdvSTB0QUVVLUpmXzZ3U1hMbHpaYXJHeUNXQnVDQWlRU0VOMnlTYTF5YktiODNNdXNNMFJh?oc=5",
+        "timestamp": "2026-02-28T14:38:00",
+        "timestamp_display": "28. 02. 2026 14:38",
+        "is_new": true
+    },
+    {
+        "category": "Medicína",
+        "title": "Poradna pro odvykání kouření",
+        "summary": "V Českém Krumlově otevřena poradna pro pomoc s odvykáním kouření, nabízí podporu a rady.",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRVRkYkZ1alZTSXhkME9NZk5vVkFKZ0hrOEFVekZHYlhHTFpvZndJUlFFenFvXzRxMi12X2FNb1JadmZyMDAwdVY2M0p0RnR5RlB2bmtwbWZFbEIzcVBrYWNfU2k3YVRIUi16UVdjLUwxS1JkWG1UdTYtN1pOUWVKTXluMjRDSjhEdWdfV215Q1VQeXZnZmNnRGlYdXNOZFNpdFpXaWUyWGx4Zw?oc=5",
+        "timestamp": "2026-02-26T07:22:00",
+        "timestamp_display": "26. 02. 2026 07:22",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Rodinný byznys",
         "summary": "Rodinný byznys vznikl kolem obytných dodávek, manželé vyrazili na cesty a vytvořili úspěšný podnik.",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNmhSdGtQLUFDb3hITGY1d2lEbDNjVHQ3UDhrV2xpSUdfRjhJYXBZSXZwNGdDRDRJa1lyU29DTHlXLW9leWZOU19lQzZVcEoydjgxZTN3aVRlRHdnMDNsanRnVHRmeGY5ZDA3LTVvQmhiM0RVTDhVVGtoMmx0U1NQenJpZ0czR1o1NFdmc3I1QzJRZVlqcERsNi1mX1NWMWczektuYnMzT0VnZU5VYU1xUVdSYzltQWJDRVd0N3RHcjJNR2NsY0hz?oc=5",
         "timestamp": "2026-02-28T11:25:55",
         "timestamp_display": "28. 02. 2026 11:25",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -15,7 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTVVWWlZUUlFLemREM1MtaHJNWHB1SWgzMTNsT2RfV2UyRmlFTDB5LUN1R1htVTJnYmJUOVhKYUh6X1JOT1Y5c2ZGYVZoam5GQWVlRnczcnpvNGRNT2VoQ2xBVGJYZmVyY01RY2JBYmRUYlRxVDZ5R1lfY2tTZ3VpcURhZDZJMjZ5QzFEN3BuRzFRanI4VE1LbFRxcVRKWl8tTUYxeTBSeUJxS1JINVVlV0VBOTA0eVV0RlRxTElHQnRXcGtoTFRNd3FlQl8?oc=5",
         "timestamp": "2026-02-28T10:55:00",
         "timestamp_display": "28. 02. 2026 10:55",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
