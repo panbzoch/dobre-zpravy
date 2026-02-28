@@ -1,11 +1,20 @@
 [
     {
         "category": "Byznys",
-        "title": "Škoda otevřela halu",
-        "summary": "Škoda Auto otevřela novou halu na baterie v Mladé Boleslavi za téměř 5 miliard Kč.",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GWjhvVVY5cWlYRFI4SzlkZFNvVF9uN1FHRy1fUTNwMUx1R3h3dzF6QmlPMmtnZFdtRmt6ZW5XZ1FocnA4Z1VvT3A0ZGlIUWF4ZUQw?oc=5",
-        "timestamp": "2026-02-27T12:05:00",
-        "timestamp_display": "27. 02. 2026 12:05",
+        "title": "Rodinný byznys",
+        "summary": "Rodinný byznys vznikl kolem obytných dodávek, manželé vyrazili na cesty a vytvořili úspěšný podnik.",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNmhSdGtQLUFDb3hITGY1d2lEbDNjVHQ3UDhrV2xpSUdfRjhJYXBZSXZwNGdDRDRJa1lyU29DTHlXLW9leWZOU19lQzZVcEoydjgxZTN3aVRlRHdnMDNsanRnVHRmeGY5ZDA3LTVvQmhiM0RVTDhVVGtoMmx0U1NQenJpZ0czR1o1NFdmc3I1QzJRZVlqcERsNi1mX1NWMWczektuYnMzT0VnZU5VYU1xUVdSYzltQWJDRVd0N3RHcjJNR2NsY0hz?oc=5",
+        "timestamp": "2026-02-28T11:25:55",
+        "timestamp_display": "28. 02. 2026 11:25",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Výstava kosmonautiky",
+        "summary": "Nová výstava v Hradci Králové představuje český přínos světové kosmonautice.",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTVVWWlZUUlFLemREM1MtaHJNWHB1SWgzMTNsT2RfV2UyRmlFTDB5LUN1R1htVTJnYmJUOVhKYUh6X1JOT1Y5c2ZGYVZoam5GQWVlRnczcnpvNGRNT2VoQ2xBVGJYZmVyY01RY2JBYmRUYlRxVDZ5R1lfY2tTZ3VpcURhZDZJMjZ5QzFEN3BuRzFRanI4VE1LbFRxcVRKWl8tTUYxeTBSeUJxS1JINVVlV0VBOTA0eVV0RlRxTElHQnRXcGtoTFRNd3FlQl8?oc=5",
+        "timestamp": "2026-02-28T10:55:00",
+        "timestamp_display": "28. 02. 2026 10:55",
         "is_new": true
     },
     {
@@ -69,6 +78,15 @@
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVHNFenNOOFpOZFFyUGQzdkVlN25pQWlFSWJFaGVRQk94MkJlbUtiZHRUMXJXbGFQRTIxWDRvM2d0V3g5LXpNZXl4M2tRVjBNRUJhOEpDM2JwVG1kMkVSZGR6SXZGNElVT3YzTzhhX1FIeW5iN0FmWEEyT2xZU1dqZVpSWm91SXExbUdfQ2FOSV9CTGpWLThSYUE3bTFKT3pHTlpQbXJJNTB5UktoMmFmN001MnUxZ0dQMjRFNHZERWF3emdWMkllNVI2ekNqR1NmTXN1cDExVkNRdw?oc=5",
         "timestamp": "2026-02-27T12:22:00",
         "timestamp_display": "27. 02. 2026 12:22",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Škoda otevřela halu",
+        "summary": "Škoda Auto otevřela novou halu na baterie v Mladé Boleslavi za téměř 5 miliard Kč.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GWjhvVVY5cWlYRFI4SzlkZFNvVF9uN1FHRy1fUTNwMUx1R3h3dzF6QmlPMmtnZFdtRmt6ZW5XZ1FocnA4Z1VvT3A0ZGlIUWF4ZUQw?oc=5",
+        "timestamp": "2026-02-27T12:05:00",
+        "timestamp_display": "27. 02. 2026 12:05",
         "is_new": false
     },
     {
