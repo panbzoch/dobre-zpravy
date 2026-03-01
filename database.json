@@ -1,12 +1,21 @@
 [
     {
         "category": "Byznys",
+        "title": "Startup rozdělí miliardy",
+        "summary": "Zakladatel nejhodnotnějšího českého startupu plánuje rozdělit miliardy korun mezi lidi, aby podpořil jejich podnikání a inovace.",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOT3lEM3ctUkRBVmhxRWNkQlZidklPSUtWSllNaEVNaV9fVkJYbE4xQ3I5T1lidDJmSFNtdmQwbE5wTmxzTmZYRi1Od3hLWko4V3p2a05ZU3hlcHFtMHdya2xIVG5FZzNvcV8zVXRNaDdrUENLSVJjNXloNVA3Q2JDYm03cXNFbmpBb0FTUzVjU2hBdmZ6NTlBR1ViazRtc1FJR1dIVTNYaFp4T2xEU0hWaGkxaUxPa1B4SnBZWA?oc=5",
+        "timestamp": "2026-03-01T06:00:52",
+        "timestamp_display": "01. 03. 2026 06:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Nová platební platforma",
         "summary": "David Kašper buduje globální platební a investiční platformu pro firmy a influencery.",
         "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRDhQNTNxVGxnTWU3bkUwSEJiRnlYZFYyb1Z3ZXVkeXJ0SThwMTYwaGFlcV9LS2lLSGRtY3ZKRE96NW84d0xDQ1dSQVRoMTVFNnh1UEltMHNwSDVPVG1qaHRJRjBCaThjOUFQbTk2cThhdmp5Q21GWGZPVFp3S0RZZEl6M3BVQ3BoOGFyTG1hVGdBN0hHWWVydkt5ZUQxUUlvLUFWSEx4VzZMazFwRGVoTWJHUzlNZUNVWFVad180a3VCbWZCaGFpNndGQVU1OWZoQjNyT1YtbExRVDItLXBSU1pDZHhUTjlQNXBubE1UaklhUQ?oc=5",
         "timestamp": "2026-03-01T04:00:00",
         "timestamp_display": "01. 03. 2026 04:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
