@@ -1,12 +1,57 @@
 [
     {
         "category": "Byznys",
+        "title": "Malý byt není stísněný",
+        "summary": "Architekti ukazují, jak účinně využít malý prostor, například sedmnáctimetrový byt.",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNREVsQ0RHR2tJVUhCTVlocHNfNDltUHJQeEV3cTNWVTNiNEh5TE96c3FhRTBHUDBvb3poQ0JnRVhEdXZVeXdscHRFV1BDQ1JuMUVobktPajZjV0RuS3JzOENKam9udnp6aDE5SGlUZ0ZCamVLNXVHeDVwR0tRV2kzVko3OUxKV0Fwa1U4MG9ROWVOQUxHV0x6NGlmMTgxbU81TFRWVHRPZ3g0eHMzV3Q1REdhOFJZaVE1LWhLVWZkbmk4NTl2aDR4SzdJSzNuZFZzUjhJeA?oc=5",
+        "timestamp": "2026-03-01T12:30:00",
+        "timestamp_display": "01. 03. 2026 12:30",
+        "is_new": true
+    },
+    {
+        "category": "Medicína",
+        "title": "Univerzální nosní vakcína",
+        "summary": "Testy univerzální nosní vakcíny proti respiračním infekcím včetně covidu-19 jsou v průběhu.",
+        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQNld5QmxOWnRaZVpBbHdOR1Ita3lQUDZCOVc0WkxFdjlFeVBRVGFnVjNnOERhOEVhLVFPZ2NQaDFSYWEyOWJ2Sm9tUjdpbkxoY202eDhXcWZ0Q0Fmb29UY0tTODhWNmtwZW9YVlM5TWVBRURHbnJFV3YxeFNSX3I0SWFPaHVCSm1VSXMtby0wdk52QmkyRFA2UUtxWXh1ZEpzRm5IV0dma2RPNDh3MGFUek5kRWgxQk5yNFlSaHpFSVRDUFV5N0VnclpwcWdJNEZSWjBnLUt3VkZmd1pSNmlyWEhpazdtWTdDRXd5N2cwQ2dRUWhIVzlhQ093eG5qZmh0X2FKcnlQVVg2WGo2di12U0M0bXdPQnNm?oc=5",
+        "timestamp": "2026-03-01T11:58:57",
+        "timestamp_display": "01. 03. 2026 11:58",
+        "is_new": true
+    },
+    {
+        "category": "Medicína",
+        "title": "Univerzální nosní vakcína",
+        "summary": "Vědci testují novou univerzální nosní vakcínu proti respiračním infekcím, včetně covidu-19, která neobsahuje oslabené viry ani mRNA.",
+        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNZGtEY3FLS1F2NTRwcWIxRDRtTGVsaldoaFJvZFRTTjBUeFQwd0FKRTNoeV85V3ptaExsc0pYSHJNREdzZkswQVZsdjBIWFFEOFAzaU1VNERuWDlzTlppaW83emp0bjd6cUJlSjNXaTJ6akg5MFFvX2FFLWprblo1X2lNNVVaMUZfR3UzVks0dTFYOXdjeHJtandkNmVZdmhsWGd4dDJfRHJsWTk4bk51emUzdDV6R0xQUlVFTzc1ZWdQSDZmWkVla0hqZXEyQy1fVVl1UjFEbnpLQ0hQQnhicFRHU1FrWXJMVWMwUEJBZVdOWjlZSmJabm5QcDZ4Z2xNd2VkM2lR?oc=5",
+        "timestamp": "2026-03-01T10:43:14",
+        "timestamp_display": "01. 03. 2026 10:43",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Společné rysy lidí a rostlin",
+        "summary": "Nová výstava v Ústí nad Labem zkoumá podobnosti mezi lidmi a rostlinami.",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQX08yczZsazVVZmpMY0MyajFJcERNR05nQW9sTDBVTmdhSWlTN0xIdXNsMEJ0a0JQV183cjBnc21MMnRlT2ZsQThTUUFHSTZOR2tEdW05X0VLYVN1Zk1fS2F4UjNFWmNJRm5hUzhwY2lwNktoU3kzUDBsSm1rU3dqTG8zRXdlM1o5SEQ3NEVlSTNkRlBQd2t4Q3U4Mkk1azNPdmZTdmtiOHoweVJwS2pLRXF5WFRoRWhsVGt3RmZSRmFxc2NadFRBSkRKZjFUS19YNjd2SjZaUQ?oc=5",
+        "timestamp": "2026-02-28T06:18:00",
+        "timestamp_display": "28. 02. 2026 06:18",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Český startup roste",
+        "summary": "Český startup využívá umělou inteligenci a dosahuje stovky procent růstu tržeb.",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcEgzcmtZdjg5X0RWZmFFOTA0M0FDVkJRYzJkWWZkNlRjQ3VsQWhucnFWU2JnVjdhcm5VNlhERkYxY2hWSVpNLXZBNXUwdHN6ZkoxUzhKMDcxT3B0MmgwTWlBd18ybzFEN2dPSWstNjYzSWlMREI2dXZDbzlPU3hfSi0ybTRBWkRtc1JpLU84OXg3UF9ndGdCSlJ2NG1LY3l4UlFHTC1IaU44eFNsYzUzcEN0NV8ycGFtY2RJ?oc=5",
+        "timestamp": "2026-02-25T05:27:18",
+        "timestamp_display": "25. 02. 2026 05:27",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Startup rozdělí miliardy",
         "summary": "Zakladatel nejhodnotnějšího českého startupu plánuje rozdělit miliardy korun mezi lidi, aby podpořil jejich podnikání a inovace.",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOT3lEM3ctUkRBVmhxRWNkQlZidklPSUtWSllNaEVNaV9fVkJYbE4xQ3I5T1lidDJmSFNtdmQwbE5wTmxzTmZYRi1Od3hLWko4V3p2a05ZU3hlcHFtMHdya2xIVG5FZzNvcV8zVXRNaDdrUENLSVJjNXloNVA3Q2JDYm03cXNFbmpBb0FTUzVjU2hBdmZ6NTlBR1ViazRtc1FJR1dIVTNYaFp4T2xEU0hWaGkxaUxPa1B4SnBZWA?oc=5",
         "timestamp": "2026-03-01T06:00:52",
         "timestamp_display": "01. 03. 2026 06:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
