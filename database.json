@@ -1,12 +1,39 @@
 [
     {
+        "category": "Medicína",
+        "title": "Nová ordinace v Kynšperku",
+        "summary": "Otevřena nová ordinace v Kynšperku nad Ohří, nabízí oční a optické služby místním obyvatelům.",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQXZWdl9JanRwYWhGOFNvZ0RfQ1E4d0U2YU45QjRjc1NnQnBUaVdsZUNxZjFEUTg1WlhKaU5MempuS21wd0NGM0ZFRHM1cGphdlJDN3h1Wi1DQkxIajRYc29QNXNfbGRlaVRpLWhlaGN6Z1BBblBGWW9Rall5WWxMMHI5dC01TU9ZQlFmX3ZWVTRCbjRweWJMNF8wOHp1X003bS1lMXlSb2ZjY0VIODZpb1lqUlFkLUtjVlZwQTAwOGI1NW5vd0x5Rw?oc=5",
+        "timestamp": "2026-03-02T07:51:00",
+        "timestamp_display": "02. 03. 2026 07:51",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "CSG AI expanduje",
+        "summary": "Šéf CSG AI Tomáš Richtr plánuje expandovat na globální trh se svými produkty.",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSGlSTmJwSlFfY0EycUlLamRDUjVVb0pEcVM1clg2ZEdUcGdEQVV4VnktMmhrR2Qtc0FmNjZDZWFFdGktVG5fOFlkQUVuRUd3d2lpSmlPZ081aW9mdHJtcDVtZ0tYWGx0d0EwZ09vVEdObmZncjFKTHNiam16dkhQRzZEOW1MS1pTQi1vdWVOQ2lmMXRKQUNUM19qUG55OWNFWlhMbmtvNWZuRnAtVEhBOTg2cnhUQ1JyQVNQWU5OWkgzLWE3cE9uN29jb0paelE?oc=5",
+        "timestamp": "2026-03-02T07:00:00",
+        "timestamp_display": "02. 03. 2026 07:00",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Obří bateriové úložiště",
+        "summary": "Vzniká u Teplic, dokončeno má být letos, slouží k ukládání energie.",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeEZ5a3lJRW1FeThCYzV6dVJxNnpVamZtTjBNLVM5RmtCOHk5aGlsaVBnNUdtVUhFV3NjTTZnYlp2c1FodWlTVnhpVHBZaTJILU4zQWVVWkRGR25BSXNBcFVNTlFmQzhqNm5BWWVmTERqYTlrWDJjWUVJbkROX2I0SmhCcnByNGFPeklBYkdhVkdSbW9hN2ZBaHBNNkxFUndKakxOaFNDZmJEQ3FEenpDNkVRYnVDNjZzaVdVRw?oc=5",
+        "timestamp": "2026-03-02T04:30:00",
+        "timestamp_display": "02. 03. 2026 04:30",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "Český startup vydělává",
         "summary": "Český startup vydělává na AI modelech bez investorů, ukazuje rychlý úspěch.",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYzNnck1Ld1ZOelB0WkZ3dkdzN1NCcTlFb0pIb19CLTg2eU9Iejg1emlXQmNPcC1lcWQwZktXSmlNcGJYWXI2RFo1SVRyOWhVOUx5T1VSajAzQ2dOVUlyUldXTnVhWS0ycWRBZnpiWFVYWmFLa0M2dERaWW14Vk9HU2lFVXlrbVNwOWNwUW8zWWhVRnctc1NPWXFvc1lzWHdoSmE0MXlaRGtTVmp5UDVURFNpYTFKYnhFNkNvMGN2Mko1Y1hUODRRZ1FfNVdoSXROU2p3UXBn?oc=5",
         "timestamp": "2026-03-02T05:35:54",
         "timestamp_display": "02. 03. 2026 05:35",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -15,7 +42,7 @@
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaTB2czBVSFFuOVVpRDFuMU5VT1BGZnN1Z3kwc1FmS3lQY2piWTk4RVBrYThJNjVrWFBlYm5HVDJfbFRjbGVQZ0VlRjBTLXd1Nk80dFlvTUxiSG9aNnAwdDlvMW1RU1hIVTJNWjVxSmdHb3ZOTzNnN3Z5Yk9HRlF5UmV5REozLWQ1aDlUREpMWXFZOG4tSVVjLWNmMUNUb0pXU0xsM3dwUEV3NFQya0M2blV4OWw0aENPanFUQWVyWEs1Vmg0NGRDZTg3cWo?oc=5",
         "timestamp": "2026-03-02T04:30:00",
         "timestamp_display": "02. 03. 2026 04:30",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -24,16 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeFRlUWhiWldxXzgzZHFISnRHTmpldlZ1aDQ3dDNDY0FDVDBOUlkwTFJWTkVYX3ZZc3EzNHFXLUpSdk1EckU4MW4wWV9sc1gzcEMtOEVycUVpZ09jQ2lLYjk3SE1HYkdZX2J0NmM3cUlTVkY1b0F0NEp6YzJMNnhaWERoTk54M2dndE5fdlNGNFRRUGJpeW9FajVVWjFjQjdlT1RXWXpYWVJaMHNpck43VUp6eDg5UVQ0azBFNU1wV0sySE5yNkg1Mm1yTzhkTms?oc=5",
         "timestamp": "2026-03-01T18:01:49",
         "timestamp_display": "01. 03. 2026 18:01",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Seznam inovoval slovník",
-        "summary": "Seznam spustil novou verzi slovníku s lepšími vyhledávacími funkcemi a interaktivní výukou.",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRm9NS09rRTFBQlRmRlBwd1RFN05oYTR0SVA3WjlrQkpGVllmNEFhV3R0bXdQVFNaRUV5U2lFVXhrNjJZX1pfR0JObjBjZXZHd2R1SWJEN1dndVU1Vi02UzhHYnJXRXBkUkU4STNwOTd2ZlAwQ29tT1lHS2V4S1MyZlQyZXdzYl94cU9aNWdtQVQ4T0V6NnlFaUd6RHp0MkxjT2ZDUjBqalhYcnJiOTZ0bGxjRTZVUzgyMGRneVRuNFY2b202V2c?oc=5",
-        "timestamp": "2026-02-25T11:23:47",
-        "timestamp_display": "25. 02. 2026 11:23",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -357,6 +375,15 @@
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd0d2UHphbEJwVFJSUEZTOTUteER0SFcxcEd2OVdqX0lUSTc4R21iaDI4cEFMbG5STE9RczVXd2V2QUxTd3BmV3QyWU13S2J5dE5pc0dNU2lpQlhSRVpaQ2J3eG85Y3owdnNQN3pRYmZHRnQ4R3VjUHBOdDdxQ0JmaGh3QllvdU9hV25UYTdHTV9YeXFGcVZDT2gtLUZyeDNtTHZMcG0tM25hdkpqZzJZbA?oc=5",
         "timestamp": "2026-02-25T14:27:49",
         "timestamp_display": "25. 02. 2026 14:27",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Seznam inovoval slovník",
+        "summary": "Seznam spustil novou verzi slovníku s lepšími vyhledávacími funkcemi a interaktivní výukou.",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRm9NS09rRTFBQlRmRlBwd1RFN05oYTR0SVA3WjlrQkpGVllmNEFhV3R0bXdQVFNaRUV5U2lFVXhrNjJZX1pfR0JObjBjZXZHd2R1SWJEN1dndVU1Vi02UzhHYnJXRXBkUkU4STNwOTd2ZlAwQ29tT1lHS2V4S1MyZlQyZXdzYl94cU9aNWdtQVQ4T0V6NnlFaUd6RHp0MkxjT2ZDUjBqalhYcnJiOTZ0bGxjRTZVUzgyMGRneVRuNFY2b202V2c?oc=5",
+        "timestamp": "2026-02-25T11:23:47",
+        "timestamp_display": "25. 02. 2026 11:23",
         "is_new": false
     },
     {
