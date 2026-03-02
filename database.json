@@ -1,12 +1,30 @@
 [
     {
         "category": "Technologie",
+        "title": "Nová technologie varuje řidiče",
+        "summary": "Nová technologie upozorňuje řidiče na blížící se vozidla záchranných složek dříve, než uslyší sirénu.",
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPRkFUMUNzcThQa3JsUHFMaXFGakE0TUJkd1VMZFJUMVVPRVJzeXA0MDdoVE1saEN2RGtKRWZuLW9iREFNLTVDWnM2dWVXWjAyTVdfTU51SW00elhFMko3LUtrZlpWQy13ZjdjSVhiTDR6QUllMHNMNnp2a0tMWlZxT3dZUkh1dHhnd1RfX0Nya3Uwc2I5d2x2MjVCcVVqZ01QRDE0LUFqYlJiQi1nckhiVElLeEVzQXM5Z2p5VlhWZVVLd0lUR1dRU21yN3NNeVlHSlIzdVhJUm1TcTl1RmYtNzVuR1YtUVlWNGpKZkhEY05LR0RmV1ZCZS1R?oc=5",
+        "timestamp": "2026-03-02T15:20:57",
+        "timestamp_display": "02. 03. 2026 15:20",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Nová ředitelka pražské zoo",
+        "summary": "Nová ředitelka pražské zoo Poliaková se zaměří na komunikaci se zaměstnanci a další rozvoj zoo.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MVlVycGJvcEtLZzhrX3JGaTU1U2FDOHdMUDRDVGdudlktcEJONkhvTHBFYlppY3laWHZKSGswd2Ftek13QVdGWFp1a05GT1pvbm9R?oc=5",
+        "timestamp": "2026-03-02T10:52:00",
+        "timestamp_display": "02. 03. 2026 10:52",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
         "title": "Claude vede přetahovanou",
         "summary": "Claude se stal nejstahovanější aplikací v USA, předstihl ChatGPT.",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRGhJUjBmOGt2MEZpcldTV3RKcWVBRFJHNXdEdnB3ajFHcWVWT0ZRMzFDTUlnb1V0bVdqeTBETERIYUhJQlFvVnl2MFBhaUdEUDZIS09yQkRXaG9XVkYyaHhaSEduYk05eFM0RWU0S0owV2Y3a3lOMHNSSWZydXQ4SHBCSEU3TFB4WXZVdUNrU2gtUkxlbkJ3?oc=5",
         "timestamp": "2026-03-02T13:29:43",
         "timestamp_display": "02. 03. 2026 13:29",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Společnost",
@@ -15,7 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUFdrc0hSNE5pTG9Xd3dSbk84b3EyVUw2cGdMbVBDYnp5bUo2dnI3QUtiSmpfaTdVdEE2RTVNdFVYaV9WYVRfQVNycFlQOG81QkpqNXJnbmhEbjhfRXRYd3A1YVFYWVJJb09TallhYWR4WTd2bGk5eEJJLUdacGlWblcyMzVya0RNclE2WE41TDVjYlNvelNiLTFEazdXbEZLU29pTHRjOV91bXAxT2lRWmVIbTc3OUczcDdlRGd2QQ?oc=5",
         "timestamp": "2026-03-02T10:52:00",
         "timestamp_display": "02. 03. 2026 10:52",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Medicína",
