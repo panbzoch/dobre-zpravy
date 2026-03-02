@@ -1,11 +1,38 @@
 [
     {
         "category": "Byznys",
-        "title": "Evropské akcie rekord",
-        "summary": "Evropské akcie dosáhly rekordu a míří k nejdelší růstové sérii za více než deset let.",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUHlaQXZjVkR2MkZJc1JPYnZIY0drZ2VzVDRGVElCRU1wUkpsaTBzM3JTaVpGNTV0TnZ2V3ByRDlZcTh3OG9sOFZtUmVqQnh4SDhVT3h6QTRodlR1LVQ1VkFiSmwzeVgtaUVEbkhrT1dWWTBhUUpVOGJETFZZWW9nY3dxenhwMW5ILWJlWjZwNktsSUZHUFFlRjVXanMyVmdsOXpEdTkwbHdUemxwSk9hRnNaWmdxMFNuazlfSWQ1REpheldFektNQTFoaw?oc=5",
-        "timestamp": "2026-02-27T13:50:00",
-        "timestamp_display": "27. 02. 2026 13:50",
+        "title": "Český startup vydělává",
+        "summary": "Český startup vydělává na AI modelech bez investorů, ukazuje rychlý úspěch.",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYzNnck1Ld1ZOelB0WkZ3dkdzN1NCcTlFb0pIb19CLTg2eU9Iejg1emlXQmNPcC1lcWQwZktXSmlNcGJYWXI2RFo1SVRyOWhVOUx5T1VSajAzQ2dOVUlyUldXTnVhWS0ycWRBZnpiWFVYWmFLa0M2dERaWW14Vk9HU2lFVXlrbVNwOWNwUW8zWWhVRnctc1NPWXFvc1lzWHdoSmE0MXlaRGtTVmp5UDVURFNpYTFKYnhFNkNvMGN2Mko1Y1hUODRRZ1FfNVdoSXROU2p3UXBn?oc=5",
+        "timestamp": "2026-03-02T05:35:54",
+        "timestamp_display": "02. 03. 2026 05:35",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Největší bateriové úložiště",
+        "summary": "Největší bateriové úložiště v Evropě se staví u Teplic a dokončeno má být letos.",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaTB2czBVSFFuOVVpRDFuMU5VT1BGZnN1Z3kwc1FmS3lQY2piWTk4RVBrYThJNjVrWFBlYm5HVDJfbFRjbGVQZ0VlRjBTLXd1Nk80dFlvTUxiSG9aNnAwdDlvMW1RU1hIVTJNWjVxSmdHb3ZOTzNnN3Z5Yk9HRlF5UmV5REozLWQ1aDlUREpMWXFZOG4tSVVjLWNmMUNUb0pXU0xsM3dwUEV3NFQya0M2blV4OWw0aENPanFUQWVyWEs1Vmg0NGRDZTg3cWo?oc=5",
+        "timestamp": "2026-03-02T04:30:00",
+        "timestamp_display": "02. 03. 2026 04:30",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Kvantové počítače jdou na burzu",
+        "summary": "Evropská firma uvede kvantové počítače na burzu, představuje kvantový systém v robotovi a kvantové provázání v síti New Yorku.",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeFRlUWhiWldxXzgzZHFISnRHTmpldlZ1aDQ3dDNDY0FDVDBOUlkwTFJWTkVYX3ZZc3EzNHFXLUpSdk1EckU4MW4wWV9sc1gzcEMtOEVycUVpZ09jQ2lLYjk3SE1HYkdZX2J0NmM3cUlTVkY1b0F0NEp6YzJMNnhaWERoTk54M2dndE5fdlNGNFRRUGJpeW9FajVVWjFjQjdlT1RXWXpYWVJaMHNpck43VUp6eDg5UVQ0azBFNU1wV0sySE5yNkg1Mm1yTzhkTms?oc=5",
+        "timestamp": "2026-03-01T18:01:49",
+        "timestamp_display": "01. 03. 2026 18:01",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Seznam inovoval slovník",
+        "summary": "Seznam spustil novou verzi slovníku s lepšími vyhledávacími funkcemi a interaktivní výukou.",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRm9NS09rRTFBQlRmRlBwd1RFN05oYTR0SVA3WjlrQkpGVllmNEFhV3R0bXdQVFNaRUV5U2lFVXhrNjJZX1pfR0JObjBjZXZHd2R1SWJEN1dndVU1Vi02UzhHYnJXRXBkUkU4STNwOTd2ZlAwQ29tT1lHS2V4S1MyZlQyZXdzYl94cU9aNWdtQVQ4T0V6NnlFaUd6RHp0MkxjT2ZDUjBqalhYcnJiOTZ0bGxjRTZVUzgyMGRneVRuNFY2b202V2c?oc=5",
+        "timestamp": "2026-02-25T11:23:47",
+        "timestamp_display": "25. 02. 2026 11:23",
         "is_new": true
     },
     {
@@ -141,6 +168,15 @@
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yRnNoeG52S3Mwb1J3d3FEczlwNDI2RWZtcEY5MzJCekl4RkNCa0JYWXRBb1JUX3QzdHpUa29WUzJFN04wV0c3U2xvSlJJVlpiRGR0dDIwa005QQ?oc=5",
         "timestamp": "2026-02-27T15:16:33",
         "timestamp_display": "27. 02. 2026 15:16",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Evropské akcie rekord",
+        "summary": "Evropské akcie dosáhly rekordu a míří k nejdelší růstové sérii za více než deset let.",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUHlaQXZjVkR2MkZJc1JPYnZIY0drZ2VzVDRGVElCRU1wUkpsaTBzM3JTaVpGNTV0TnZ2V3ByRDlZcTh3OG9sOFZtUmVqQnh4SDhVT3h6QTRodlR1LVQ1VkFiSmwzeVgtaUVEbkhrT1dWWTBhUUpVOGJETFZZWW9nY3dxenhwMW5ILWJlWjZwNktsSUZHUFFlRjVXanMyVmdsOXpEdTkwbHdUemxwSk9hRnNaWmdxMFNuazlfSWQ1REpheldFektNQTFoaw?oc=5",
+        "timestamp": "2026-02-27T13:50:00",
+        "timestamp_display": "27. 02. 2026 13:50",
         "is_new": false
     },
     {
