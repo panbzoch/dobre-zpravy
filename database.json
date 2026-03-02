@@ -1,12 +1,30 @@
 [
     {
+        "category": "Technologie",
+        "title": "Claude vede přetahovanou",
+        "summary": "Claude se stal nejstahovanější aplikací v USA, předstihl ChatGPT.",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRGhJUjBmOGt2MEZpcldTV3RKcWVBRFJHNXdEdnB3ajFHcWVWT0ZRMzFDTUlnb1V0bVdqeTBETERIYUhJQlFvVnl2MFBhaUdEUDZIS09yQkRXaG9XVkYyaHhaSEduYk05eFM0RWU0S0owV2Y3a3lOMHNSSWZydXQ4SHBCSEU3TFB4WXZVdUNrU2gtUkxlbkJ3?oc=5",
+        "timestamp": "2026-03-02T13:29:43",
+        "timestamp_display": "02. 03. 2026 13:29",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Nová ředitelka zoo",
+        "summary": "Nová ředitelka pražské zoo se zaměří na komunikaci se zaměstnanci a rozvoj zoo.",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUFdrc0hSNE5pTG9Xd3dSbk84b3EyVUw2cGdMbVBDYnp5bUo2dnI3QUtiSmpfaTdVdEE2RTVNdFVYaV9WYVRfQVNycFlQOG81QkpqNXJnbmhEbjhfRXRYd3A1YVFYWVJJb09TallhYWR4WTd2bGk5eEJJLUdacGlWblcyMzVya0RNclE2WE41TDVjYlNvelNiLTFEazdXbEZLU29pTHRjOV91bXAxT2lRWmVIbTc3OUczcDdlRGd2QQ?oc=5",
+        "timestamp": "2026-03-02T10:52:00",
+        "timestamp_display": "02. 03. 2026 10:52",
+        "is_new": true
+    },
+    {
         "category": "Medicína",
         "title": "Nová ordinace v Kynšperku",
         "summary": "Otevřena nová ordinace v Kynšperku nad Ohří, nabízí oční a optické služby místním obyvatelům.",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQXZWdl9JanRwYWhGOFNvZ0RfQ1E4d0U2YU45QjRjc1NnQnBUaVdsZUNxZjFEUTg1WlhKaU5MempuS21wd0NGM0ZFRHM1cGphdlJDN3h1Wi1DQkxIajRYc29QNXNfbGRlaVRpLWhlaGN6Z1BBblBGWW9Rall5WWxMMHI5dC01TU9ZQlFmX3ZWVTRCbjRweWJMNF8wOHp1X003bS1lMXlSb2ZjY0VIODZpb1lqUlFkLUtjVlZwQTAwOGI1NW5vd0x5Rw?oc=5",
         "timestamp": "2026-03-02T07:51:00",
         "timestamp_display": "02. 03. 2026 07:51",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,16 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSGlSTmJwSlFfY0EycUlLamRDUjVVb0pEcVM1clg2ZEdUcGdEQVV4VnktMmhrR2Qtc0FmNjZDZWFFdGktVG5fOFlkQUVuRUd3d2lpSmlPZ081aW9mdHJtcDVtZ0tYWGx0d0EwZ09vVEdObmZncjFKTHNiam16dkhQRzZEOW1MS1pTQi1vdWVOQ2lmMXRKQUNUM19qUG55OWNFWlhMbmtvNWZuRnAtVEhBOTg2cnhUQ1JyQVNQWU5OWkgzLWE3cE9uN29jb0paelE?oc=5",
         "timestamp": "2026-03-02T07:00:00",
         "timestamp_display": "02. 03. 2026 07:00",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Obří bateriové úložiště",
-        "summary": "Vzniká u Teplic, dokončeno má být letos, slouží k ukládání energie.",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeEZ5a3lJRW1FeThCYzV6dVJxNnpVamZtTjBNLVM5RmtCOHk5aGlsaVBnNUdtVUhFV3NjTTZnYlp2c1FodWlTVnhpVHBZaTJILU4zQWVVWkRGR25BSXNBcFVNTlFmQzhqNm5BWWVmTERqYTlrWDJjWUVJbkROX2I0SmhCcnByNGFPeklBYkdhVkdSbW9hN2ZBaHBNNkxFUndKakxOaFNDZmJEQ3FEenpDNkVRYnVDNjZzaVdVRw?oc=5",
-        "timestamp": "2026-03-02T04:30:00",
-        "timestamp_display": "02. 03. 2026 04:30",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,6 +42,15 @@
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYzNnck1Ld1ZOelB0WkZ3dkdzN1NCcTlFb0pIb19CLTg2eU9Iejg1emlXQmNPcC1lcWQwZktXSmlNcGJYWXI2RFo1SVRyOWhVOUx5T1VSajAzQ2dOVUlyUldXTnVhWS0ycWRBZnpiWFVYWmFLa0M2dERaWW14Vk9HU2lFVXlrbVNwOWNwUW8zWWhVRnctc1NPWXFvc1lzWHdoSmE0MXlaRGtTVmp5UDVURFNpYTFKYnhFNkNvMGN2Mko1Y1hUODRRZ1FfNVdoSXROU2p3UXBn?oc=5",
         "timestamp": "2026-03-02T05:35:54",
         "timestamp_display": "02. 03. 2026 05:35",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Obří bateriové úložiště",
+        "summary": "Vzniká u Teplic, dokončeno má být letos, slouží k ukládání energie.",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeEZ5a3lJRW1FeThCYzV6dVJxNnpVamZtTjBNLVM5RmtCOHk5aGlsaVBnNUdtVUhFV3NjTTZnYlp2c1FodWlTVnhpVHBZaTJILU4zQWVVWkRGR25BSXNBcFVNTlFmQzhqNm5BWWVmTERqYTlrWDJjWUVJbkROX2I0SmhCcnByNGFPeklBYkdhVkdSbW9hN2ZBaHBNNkxFUndKakxOaFNDZmJEQ3FEenpDNkVRYnVDNjZzaVdVRw?oc=5",
+        "timestamp": "2026-03-02T04:30:00",
+        "timestamp_display": "02. 03. 2026 04:30",
         "is_new": false
     },
     {
