@@ -1,12 +1,48 @@
 [
     {
+        "category": "Byznys",
+        "title": "Investice do energetiky",
+        "summary": "EPH investuje do energetiky, Allwyn roste díky fúzi s OPAP, přibylo významných akvizic.",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObk9hSGlJc1BJTGR2UmNJR2FtVUhIV1ZyZDQ2TmxlMEVXMTdmNDdMeldlUWlYUHBzdE52bVhUbzlSckFFYkppZ1Nabkl5cDJGS1ZwSFAtOHZlOTZ3dzNIci1EdUNvd19qeExiV1JnRWdCZVNib3NybEx5NzZiYXczWlpuWUFwNTI5QW1XSVJ0NVRjN3hLWXVNOThTdVBNYWdTWW9XZXVjZldJMlpobjJlY0pTVkFXWWpJWkI3TkpidmtObDBSVmpHcklPZ0lTLUJqaHgwMUtQRF82WWlvQzRueDBKWElZeXk1?oc=5",
+        "timestamp": "2026-03-03T17:40:00",
+        "timestamp_display": "03. 03. 2026 17:40",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Přenosná supernova",
+        "summary": "Kutil postavil unikátní přenosnou supernovu s 1500W LED, která vyžaduje 18 ventilátorů pro uchlazení.",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdy1ZV1JKR0hGNDJxa2pJLVhCeDBzWmtXcUpITG44aTdrTmRFYW5rSVdPckIzSDVQQUhIaWFKUmVSa2dTYmUtWnlBcUx2V2xOZXpONU53UzM1U2NQWVZVVnFMZlNHeERTaTFDNXNSLWYwSGpfc2tVck5WUmplYUlJX1RWcy1OemdaOUg1R09kX2JhT0dvWTFWSnNiSW5JcmlEODB0TU43VUg2MFU1bGdlZjNhbTV1dnRoRDZ0Wl9Pa3RoLXR3TkVSd0VNMXZ4ZF95dDNNS2ptQk1EWTctNmZQc0NPdw?oc=5",
+        "timestamp": "2026-03-03T14:58:24",
+        "timestamp_display": "03. 03. 2026 14:58",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Projekt Refresh",
+        "summary": "Projekt Refresh přispívá k udržitelné budoucnosti vývojem antibiotik a metod čištění vody.",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONkdpM2JmUzFDR2ZmY1RMcThXMzNWU1dDdFE5QzVSbTY2QnM4RW81SFFncXNIRlBjRmRpeWFEREl3QmZ3X0UwUzh1WU02RG16UEROX3BHSGV2dkZIVjE2UW14clNXMnVkTXhzRFhiMzJPTjZBVktUakVNMGRQX09nbjl4bHc5Z2pCT2xlY3hrOUhqM0JZNEg2dzRDTVNwbVZGLU85QzJ4WHBzYUMyVWRSWVhPOGdIWkxJMnJfQ2ZDUmhQWWd6TzN4VS1FWjRPQVpl?oc=5",
+        "timestamp": "2026-03-03T11:06:00",
+        "timestamp_display": "03. 03. 2026 11:06",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Český startup expanduje",
+        "summary": "Český startup expanduje do Německa akvizicí tamní platformy, pomáhá financovat firmy pomocí AI.",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbkZtODhOemRsS2dacVVjYXZnbkxCVmNfYWZLMmhadjdKOExWRDNlMWFzWlJGZGM2S0xfU2lFV3RyWVVIakVZOElXaDluUE4yWVgtUVBFXzBYTlZuZTQtMlRXbVRaSGN2MmZRZVBtcG1Ja2h1MWpvUnJWUi12cVpWVUFsdVliWHhmUENZNU5HU0JlR1JUWnRkckZUYVl1LWpuaFRWdThxVGFnV3lEc01EMkgxZERTaWRydGEwLWx3b0I?oc=5",
+        "timestamp": "2026-03-01T08:00:00",
+        "timestamp_display": "01. 03. 2026 08:00",
+        "is_new": true
+    },
+    {
         "category": "Společnost",
         "title": "Úspěch Ester Paraskové",
         "summary": "Ester Parasková slaví úspěch se svými dětskými postavičkami, které nadchly i zahraniční sběratele.",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYkk2X18yUHVWaDZlM1RmbUdYSkl4THpXUmJ2ZHllc1hETXZIdnA5ZVlMM1BvLWJxQk5MWC1UWFZwUUwxRWx1VmdHR3pyR1pURzRfTXBhUWZ3eUNQWUJVN013YUF1Y1MyS1dKb2FfRnVxSjFDWVVycEJmQUVqQlhHd090ejRydnBpckRmaklMM1pGY1VsWlBKd1R4NzJLcXBVVDY5d3A5OFF2V1E?oc=5",
         "timestamp": "2026-03-03T14:07:19",
         "timestamp_display": "03. 03. 2026 14:07",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSGozM2I0YTc2S21Yd1hoWlFnN1dHU1haeFRVbjlhT2ZTV0RFaEpSLXR0ZTJNSXRBakRSeF9Jb2U2bXBscE5xR2RyZGR5ajBab3VwNF9MY0J1WERrbFJsc1lUMHM3cGdkdTBnZnNtRm1SMjhaaVlLSGJrbnpMUTJ4TWt0ODVjYUpSdGNSelgwbVRZWmNyREk0YUhvOWtKTVN1TU5EYU9mNFRIOG04UGx5dWhOMEt5eUNZbnpXa2prZUF6SUdxMHI3VGRJQWtuZVlFcElZ?oc=5",
         "timestamp": "2026-03-03T13:02:00",
         "timestamp_display": "03. 03. 2026 13:02",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
