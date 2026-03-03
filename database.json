@@ -1,12 +1,30 @@
 [
     {
+        "category": "Společnost",
+        "title": "Úspěch Ester Paraskové",
+        "summary": "Ester Parasková slaví úspěch se svými dětskými postavičkami, které nadchly i zahraniční sběratele.",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYkk2X18yUHVWaDZlM1RmbUdYSkl4THpXUmJ2ZHllc1hETXZIdnA5ZVlMM1BvLWJxQk5MWC1UWFZwUUwxRWx1VmdHR3pyR1pURzRfTXBhUWZ3eUNQWUJVN013YUF1Y1MyS1dKb2FfRnVxSjFDWVVycEJmQUVqQlhHd090ejRydnBpckRmaklMM1pGY1VsWlBKd1R4NzJLcXBVVDY5d3A5OFF2V1E?oc=5",
+        "timestamp": "2026-03-03T14:07:19",
+        "timestamp_display": "03. 03. 2026 14:07",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Inovace pojištění majetku",
+        "summary": "Kooperativa umožňuje pokrýt více adres v jedné smlouvě, zjednodušuje pojištění majetku.",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSGozM2I0YTc2S21Yd1hoWlFnN1dHU1haeFRVbjlhT2ZTV0RFaEpSLXR0ZTJNSXRBakRSeF9Jb2U2bXBscE5xR2RyZGR5ajBab3VwNF9MY0J1WERrbFJsc1lUMHM3cGdkdTBnZnNtRm1SMjhaaVlLSGJrbnpMUTJ4TWt0ODVjYUpSdGNSelgwbVRZWmNyREk0YUhvOWtKTVN1TU5EYU9mNFRIOG04UGx5dWhOMEt5eUNZbnpXa2prZUF6SUdxMHI3VGRJQWtuZVlFcElZ?oc=5",
+        "timestamp": "2026-03-03T13:02:00",
+        "timestamp_display": "03. 03. 2026 13:02",
+        "is_new": true
+    },
+    {
         "category": "Technologie",
         "title": "Český startup",
         "summary": "Český startup umožňuje vytvářet weby a aplikace bez programátorů, pomocí jednoduchého zadávání požadavků.",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNnIycnQwQzUwTXNUaEV1RXZ1VDRWUldZTmhiOF94ZnNlTTh3ZnpFQ0hiTkNGZFlreGZveEhTNGJVM0tubmR6Y0xyOW1NZlhHX0lhOEtXc1Zmb3prNkxIcTdBNUZaOGQwbnR1ZURBdmlYZ1ZoLVdocWl6d3VQNlZfaHZfelBiSVZSclNrS0picXliN2tmMWl2cWFsaw?oc=5",
         "timestamp": "2026-03-03T07:07:30",
         "timestamp_display": "03. 03. 2026 07:07",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
