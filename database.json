@@ -1,21 +1,39 @@
 [
     {
+        "category": "Byznys",
+        "title": "Český Flowbox partnerství",
+        "summary": "Český Flowbox uzavírá partnerství s americkým gigantem, díky energetické krizi.",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYVRSUHFMR3p0aGQ3UWwxM29oRnVYS09UazdWRDRSczRFcTM3cmNrMXRmY2ZZdFR0ZTlqSndPRTBGNHZScXJHOFFIRHpkYWFiUHpGT1hLdzRYQl9rZVZZZ1lEc0VzVjBGYlhGd29zck9tUjNkSkIzVXFabTNxVWxNSU40bVFZd21ScURKVTNEbFA5aDFnYmJESk9rZGYyUXZrSlN6UHh2TjlCcE5rZDZuWGppSkROSUFHd19Db0xhU3dYTmd4dEhyMzlSY2g5WnZYXzA5eWFHelowa3hZ?oc=5",
+        "timestamp": "2026-03-03T05:00:00",
+        "timestamp_display": "03. 03. 2026 05:00",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Obří bateriové úložiště",
+        "summary": "U Teplic vzniká obří bateriové úložiště se solární energií, dokončeno má být letos.",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNS1kMDRYQ3daYWhQQ0cwLVlQY0I4UEtYS1o3RXprUGhzYV8yTE1Pd0NMd2k0Rk9VU2g4YU1OVmtQYkx1bzFjLV8ybG1KTHk4eHhSaGtXUUdqTHhoMXROR2N6bW9iYURFdUhJbWN6SnRvU05Rc2phY2d6dS1SeW56ZkFSVTBTczc1SmhEdGx1ajN3RGFkS1p3QkxmRWJ4d3lrb1dCZUtYUHo0YTZ2cHpKaTJhNGFlSFZ0MnlTMDdhNU9ROXVRUkpkdjZ3?oc=5",
+        "timestamp": "2026-03-02T04:30:00",
+        "timestamp_display": "02. 03. 2026 04:30",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Firma roste a vydělává",
+        "summary": "Firma roste, vydělává a investuje, ale při úpisu akcií panuje skepticismus.",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZGJ0cnZ3TkNRdzdpb1lNWkhiM2RDNm5MVkhoN25SVjNSMUFzdlF6VkdlbV9yMHVNczdycTJBYll3clk4SjI0ZXIwbndCSXR2by1oRHlSMVB6TklKcWVKcEthZFYyUFVxeVk1WktuNFBxVzVtelMzRDF4UlVadHRnOU4xeERqdnpTdVVFTlpab0R2UUtvTkhKb05aSzNUSjRmb3FCRXJlVXN6ZGs?oc=5",
+        "timestamp": "2026-02-27T16:13:38",
+        "timestamp_display": "27. 02. 2026 16:13",
+        "is_new": true
+    },
+    {
         "category": "Technologie",
         "title": "Nová technologie varuje řidiče",
         "summary": "Nová technologie upozorňuje řidiče na blížící se vozidla záchranných složek dříve, než uslyší sirénu.",
         "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPRkFUMUNzcThQa3JsUHFMaXFGakE0TUJkd1VMZFJUMVVPRVJzeXA0MDdoVE1saEN2RGtKRWZuLW9iREFNLTVDWnM2dWVXWjAyTVdfTU51SW00elhFMko3LUtrZlpWQy13ZjdjSVhiTDR6QUllMHNMNnp2a0tMWlZxT3dZUkh1dHhnd1RfX0Nya3Uwc2I5d2x2MjVCcVVqZ01QRDE0LUFqYlJiQi1nckhiVElLeEVzQXM5Z2p5VlhWZVVLd0lUR1dRU21yN3NNeVlHSlIzdVhJUm1TcTl1RmYtNzVuR1YtUVlWNGpKZkhEY05LR0RmV1ZCZS1R?oc=5",
         "timestamp": "2026-03-02T15:20:57",
         "timestamp_display": "02. 03. 2026 15:20",
-        "is_new": true
-    },
-    {
-        "category": "Společnost",
-        "title": "Nová ředitelka pražské zoo",
-        "summary": "Nová ředitelka pražské zoo Poliaková se zaměří na komunikaci se zaměstnanci a další rozvoj zoo.",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MVlVycGJvcEtLZzhrX3JGaTU1U2FDOHdMUDRDVGdudlktcEJONkhvTHBFYlppY3laWHZKSGswd2Ftek13QVdGWFp1a05GT1pvbm9R?oc=5",
-        "timestamp": "2026-03-02T10:52:00",
-        "timestamp_display": "02. 03. 2026 10:52",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -24,6 +42,15 @@
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRGhJUjBmOGt2MEZpcldTV3RKcWVBRFJHNXdEdnB3ajFHcWVWT0ZRMzFDTUlnb1V0bVdqeTBETERIYUhJQlFvVnl2MFBhaUdEUDZIS09yQkRXaG9XVkYyaHhaSEduYk05eFM0RWU0S0owV2Y3a3lOMHNSSWZydXQ4SHBCSEU3TFB4WXZVdUNrU2gtUkxlbkJ3?oc=5",
         "timestamp": "2026-03-02T13:29:43",
         "timestamp_display": "02. 03. 2026 13:29",
+        "is_new": false
+    },
+    {
+        "category": "Společnost",
+        "title": "Nová ředitelka pražské zoo",
+        "summary": "Nová ředitelka pražské zoo Poliaková se zaměří na komunikaci se zaměstnanci a další rozvoj zoo.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MVlVycGJvcEtLZzhrX3JGaTU1U2FDOHdMUDRDVGdudlktcEJONkhvTHBFYlppY3laWHZKSGswd2Ftek13QVdGWFp1a05GT1pvbm9R?oc=5",
+        "timestamp": "2026-03-02T10:52:00",
+        "timestamp_display": "02. 03. 2026 10:52",
         "is_new": false
     },
     {
