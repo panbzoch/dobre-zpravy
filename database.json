@@ -1,12 +1,30 @@
 [
     {
+        "category": "Byznys",
+        "title": "Fait zdvojnásobí firmu",
+        "summary": "Fait kupuje elektrotechnickou společnost ACS International, aby zdvojnásobil firmu 2JCP.",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbXBrc0tPUHNpNUxNTndKRTdndXhIX0E3OS1Jam90UC0waVM2R3lnZEdwalp3MjUtOXJ2WlkzaXRaa2JpZ1VFalc0c1BsZmNnVERIRVh5ZGpQb1Z2MHIwT0FxTGJZMFJUeDR0cFdveEZjN2FZNWR2U2V5ZGg3bkZEVjdGaWFVS0hsaXNLckpYZHBXeU5JWV9ONlZQSGV1bEFsZGhPa21GRUJxa201ZHBzTEJYMXFqWWdPdDB5U3lEdG8tT0N3RElpT2R3Z0Q1UzJfMzhoV2ZickNacVZaZDcyRHlkZ3A?oc=5",
+        "timestamp": "2026-03-04T09:20:00",
+        "timestamp_display": "04. 03. 2026 09:20",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Adidas rekordní tržby",
+        "summary": "Adidas dosáhl rekordních tržeb v loňském roce a očekává další růst.",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVVo2WDhoZDNzSGwyRlhrZDBGQ2E2WmJmZDVnM2dWX0lCVXkydEpCakpRTXFOclZJbVdjRTI2ZDkxVlpaZ2FjZUZ4cEZMOTZaQ1VDQUhBcF81WHNDcldLVVNxWkJneDA3WGt1b2NBSExVcl9SSk9Jb2RYM3k1Y3V3WEdqeWpwbHhvZnVEeVlMenl1S2J6SkFrZjU3bnFxUXAxd0tId1NrcGp4elFZTEZGSnE4QXNiUGpxN1dB?oc=5",
+        "timestamp": "2026-03-04T09:00:00",
+        "timestamp_display": "04. 03. 2026 09:00",
+        "is_new": true
+    },
+    {
         "category": "Technologie",
         "title": "Nová generace úložiště",
         "summary": "Nová generace konvergovaného úložiště Huawei OceanStor prošla technickou validací.",
         "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQOFQ4TFVmbE9XUkx5ZWI1aXd0TEtONlpObU4ybUFNakFRelhNbVg4c1BDRXVDVm9CdmlRMVBWWFdmQUxKUGwwejViN2hfbDlrcnhpX3hzS21CakhHY0pBMnVIN1RwM0V1RzRhanhMaWMxUjgzeU1oWDRESzVvOEhJdVBna0JWQk4xenVvRkx0SWFSUG1GMFoxNldLb3dSU2ZPSmRORi1RWkJuQ0tFRGpaN1NFR2tiSFRJeXdFeE1DX3hwNjd0UjU4Qk81eENuMVJ1TkVGWkFiT0hfZVJZMC1Fd3ZhdDBSY0QzS3ZnQmhxT3JBczlZTmxpMzNRRmc5QzVORFJ2WVREZ2g?oc=5",
         "timestamp": "2026-03-04T06:28:00",
         "timestamp_display": "04. 03. 2026 06:28",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,25 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ3JZOVZ1OW9DWTZxQjgzcjVsRnE2dUZHVWsta3d0NV9XY19nY044RDlUTFZGSFUweEdtMFFaeVBCQ0RsbTRVR3dQN05pUXJrRkZrY1UwUHZKYkJTRnBsMlB1dWxidGV4d19MaXFKSTRxYTB3VTEzVGRESUFLZEkxbHJUVGhyeF9tT1pCNzJZR2pQNm94NUxjTFN0aUx6LVg3M0dSUHdCaC15eTN5?oc=5",
         "timestamp": "2026-03-04T05:00:00",
         "timestamp_display": "04. 03. 2026 05:00",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Grafické karty pro AI",
-        "summary": "Nové grafické karty pro AI mají výkon 1,5 MW a lze je umístit do přepravního kontejneru, jsou neprůstřelné a vyráběné v EU.",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTHRUWXhaNzFpZkVhcURodHRZd0ZmOE1nVFBPV2NhdzNxeUJ3eFRBM3RJWm00cWpnU2g1dnNUTDRlV0tGS1dtZjA1aUdWWDFyaW1QQjQ4blB0bUotbXhabWc5RGlKTHc3czhJNW9JV3g0cUg0dDUzdnNqWk5ka3ZLVVkwNHNSd0FyR2F1cWNXcDhPd1M1VlFVbEczS09jZjNWLS1ISzRuVHZsaEc5MFFfSVlEVTJadmFlRzJveFZqMU12QWItNEJCR1RKVzFfSk5POEY5U1p3?oc=5",
-        "timestamp": "2026-03-02T08:00:00",
-        "timestamp_display": "02. 03. 2026 08:00",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Investiční summit 2026",
-        "summary": "Global Investment Summit 2026 je nejvýznamnější investiční událost roku, přitahuje investory a odborníky z celého světa.",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeDNpdFhHYThuZnRwZzlKaGRaNGFsZXBwS1VIWDl1czdncFlkdlR6V3pZSV9yZk1RdVY5UjVwa253OTNpb21JU0p6SFF6QmUxU01oRkhLYlJIQkdTdnVVTXBMRXF1dDBSZ0dHTnRXS0lmOTNqazg1OWxMZ01mdjRuVzAxLTNWSEdsS3VYQ2tVNFVCWnJfc05wUS1McXNhZnV4NjYxNVVJVkhzXzRXM0dJa0Z0ZE9iUQ?oc=5",
-        "timestamp": "2026-02-27T10:55:00",
-        "timestamp_display": "27. 02. 2026 10:55",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -132,6 +132,15 @@
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUFdrc0hSNE5pTG9Xd3dSbk84b3EyVUw2cGdMbVBDYnp5bUo2dnI3QUtiSmpfaTdVdEE2RTVNdFVYaV9WYVRfQVNycFlQOG81QkpqNXJnbmhEbjhfRXRYd3A1YVFYWVJJb09TallhYWR4WTd2bGk5eEJJLUdacGlWblcyMzVya0RNclE2WE41TDVjYlNvelNiLTFEazdXbEZLU29pTHRjOV91bXAxT2lRWmVIbTc3OUczcDdlRGd2QQ?oc=5",
         "timestamp": "2026-03-02T10:52:00",
         "timestamp_display": "02. 03. 2026 10:52",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Grafické karty pro AI",
+        "summary": "Nové grafické karty pro AI mají výkon 1,5 MW a lze je umístit do přepravního kontejneru, jsou neprůstřelné a vyráběné v EU.",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTHRUWXhaNzFpZkVhcURodHRZd0ZmOE1nVFBPV2NhdzNxeUJ3eFRBM3RJWm00cWpnU2g1dnNUTDRlV0tGS1dtZjA1aUdWWDFyaW1QQjQ4blB0bUotbXhabWc5RGlKTHc3czhJNW9JV3g0cUg0dDUzdnNqWk5ka3ZLVVkwNHNSd0FyR2F1cWNXcDhPd1M1VlFVbEczS09jZjNWLS1ISzRuVHZsaEc5MFFfSVlEVTJadmFlRzJveFZqMU12QWItNEJCR1RKVzFfSk5POEY5U1p3?oc=5",
+        "timestamp": "2026-03-02T08:00:00",
+        "timestamp_display": "02. 03. 2026 08:00",
         "is_new": false
     },
     {
@@ -393,6 +402,15 @@
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6Y0ZaMm56cWU2djM0SU45amtRazh0VTdqYThVX0o3dTBYdHlQRTJQUUU4a0V4MUpRQzdpbDdCMHdrb2pnTUFfR3M0SFhJN3FhWWsteHRQa0RJc1Zr?oc=5",
         "timestamp": "2026-02-27T11:23:51",
         "timestamp_display": "27. 02. 2026 11:23",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Investiční summit 2026",
+        "summary": "Global Investment Summit 2026 je nejvýznamnější investiční událost roku, přitahuje investory a odborníky z celého světa.",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeDNpdFhHYThuZnRwZzlKaGRaNGFsZXBwS1VIWDl1czdncFlkdlR6V3pZSV9yZk1RdVY5UjVwa253OTNpb21JU0p6SFF6QmUxU01oRkhLYlJIQkdTdnVVTXBMRXF1dDBSZ0dHTnRXS0lmOTNqazg1OWxMZ01mdjRuVzAxLTNWSEdsS3VYQ2tVNFVCWnJfc05wUS1McXNhZnV4NjYxNVVJVkhzXzRXM0dJa0Z0ZE9iUQ?oc=5",
+        "timestamp": "2026-02-27T10:55:00",
+        "timestamp_display": "27. 02. 2026 10:55",
         "is_new": false
     },
     {
