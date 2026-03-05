@@ -1,12 +1,21 @@
 [
     {
         "category": "Byznys",
+        "title": "Royal Mail inspirace",
+        "summary": "Royal Mail se inspiruje výdejními boxy z Česka, říká manažer.",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaTNMNDdhRHVUTGpsejVjNlIzYWRMM0ZNNG5wQ3Qxenc3NmtBZjNDZng1YkpaV1VyLU5ZTFcwM0NrYXNnWHpfTHJURGJtdUpuWGkxWGtFRmpiUTRIcG9mczFXSzVDNDRockxDSEpWU1g4WFR3Tm9QTEVnRW5YWHJvUElxTFZjYUYyZkNDOFZyQlZJcnVBUV9idjhWbnVsQkFyNkMzR3o3T3p2b0phX2VrckEtUndWMGJMT0FhTXEyQUlER0VUU00zU0tzaUdQWm5RS2xaX25iQmFSTEgxMFhLMw?oc=5",
+        "timestamp": "2026-03-04T11:10:00",
+        "timestamp_display": "04. 03. 2026 11:10",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Mars zakládá fond",
         "summary": "Společnost Mars založila filantropickou iniciativu Mars Impact Fund, která bude podporovat projekty prospěšné společnosti.",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa3FXb1ZsXzhkVDhKZWpDT3dPb1JyYXRhT0Y5WGM4T2cyeUFidDN5TlgySC11d2Q3TzJqbG9ENkRxRFkxSWZpSk5YdTQtVlVKMU9PSW5ZYmFEUTJ0d29TRGktWGZjdXBUX25RTWRzaHUzdXlFdzY5Y1Rmb1kyU3RCbTl2eHYzN2tIckJ3NTJCUVhUUFl3Y1BKVDNVZFZjQ1E0RDBtcEhSOEFNb0xJb0Q5bHlhNkJCQQ?oc=5",
         "timestamp": "2026-03-05T11:00:00",
         "timestamp_display": "05. 03. 2026 11:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,16 +24,7 @@
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRGFaWE9hYmUwSVV4WW1ubWNWYjd2UXhXbllmdjU1OUsySHV0RUpCM1AtZzl3ZW1aRlhhbUZmdHpraU16R0YwbmRIYUt2YlczazJpVTlxY1Zka2VhS0s5eExCOW9ERkJMN1pGYktuakppOWZ0WGNQUzRHdEtJMnNZMXZJQnA4S1V6b3BMQ04tdk9TTjYxZkR2UEFZa2p6aEh1QWxhZ3Fnd1Y5MHg1WENSNkozSGEzdWNNbjBR?oc=5",
         "timestamp": "2026-03-05T10:37:00",
         "timestamp_display": "05. 03. 2026 10:37",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Český úspěch v herním byznysu",
-        "summary": "Česká herní společnost překonala sedmým rokem v řadě miliardu korun, bez vydání nové hry.",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWFZkc1c0eXc0b1padUVFS0Z0MHZCY2h2bE02MlNWSkpWZ0RGeTlJdF9CMlpIQm5ERWZ5d0N4dGZpRDVGenNPUTJsTjFTbzR4dUVqV3hWYUVqSTgtUl9CeDVpeWEyR1h0cUI1SmFMU1dnZVlhMDBwWnVKU0VIb3E3eU5TY2t6TkR6b0FsbWVpY2JlLXFvUHlOY0NVYWQ5SFpZRDNBVGk2NU9LZnNFWTdsTmd2SQ?oc=5",
-        "timestamp": "2026-03-05T10:00:26",
-        "timestamp_display": "05. 03. 2026 10:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,6 +33,15 @@
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWHI3aWdOVUZ1MHM1bC1KQ3BuNTFKN2hlNG1mQzNjVGVyWWRNYWROQm5lNjRhRkFTRlNGbjA1T1V2MmZHTWpTYTl3eEFxVFZRZGtHLVlyOVZlTE1BemFrQXB4TWJOQUd3emhqTHYtYVlWOGp1MUo1dy1ReHZCTklwWU1ZT2FPZzJxeU5ldmhwUU1zUjdfUGpKa1hiMEtDVTE1?oc=5",
         "timestamp": "2026-03-05T10:13:22",
         "timestamp_display": "05. 03. 2026 10:13",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Český úspěch v herním byznysu",
+        "summary": "Česká herní společnost překonala sedmým rokem v řadě miliardu korun, bez vydání nové hry.",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWFZkc1c0eXc0b1padUVFS0Z0MHZCY2h2bE02MlNWSkpWZ0RGeTlJdF9CMlpIQm5ERWZ5d0N4dGZpRDVGenNPUTJsTjFTbzR4dUVqV3hWYUVqSTgtUl9CeDVpeWEyR1h0cUI1SmFMU1dnZVlhMDBwWnVKU0VIb3E3eU5TY2t6TkR6b0FsbWVpY2JlLXFvUHlOY0NVYWQ5SFpZRDNBVGk2NU9LZnNFWTdsTmd2SQ?oc=5",
+        "timestamp": "2026-03-05T10:00:26",
+        "timestamp_display": "05. 03. 2026 10:00",
         "is_new": false
     },
     {
