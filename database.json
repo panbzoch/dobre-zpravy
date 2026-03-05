@@ -1,21 +1,39 @@
 [
     {
         "category": "Byznys",
+        "title": "Mars zakládá fond",
+        "summary": "Společnost Mars založila filantropickou iniciativu Mars Impact Fund, která bude podporovat projekty prospěšné společnosti.",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa3FXb1ZsXzhkVDhKZWpDT3dPb1JyYXRhT0Y5WGM4T2cyeUFidDN5TlgySC11d2Q3TzJqbG9ENkRxRFkxSWZpSk5YdTQtVlVKMU9PSW5ZYmFEUTJ0d29TRGktWGZjdXBUX25RTWRzaHUzdXlFdzY5Y1Rmb1kyU3RCbTl2eHYzN2tIckJ3NTJCUVhUUFl3Y1BKVDNVZFZjQ1E0RDBtcEhSOEFNb0xJb0Q5bHlhNkJCQQ?oc=5",
+        "timestamp": "2026-03-05T11:00:00",
+        "timestamp_display": "05. 03. 2026 11:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Bohemia Interactive zvyšila zisk",
+        "summary": "Společnost Bohemia Interactive zvýšila zisk o 85 procent, díky úspěchu série Arma.",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRGFaWE9hYmUwSVV4WW1ubWNWYjd2UXhXbllmdjU1OUsySHV0RUpCM1AtZzl3ZW1aRlhhbUZmdHpraU16R0YwbmRIYUt2YlczazJpVTlxY1Zka2VhS0s5eExCOW9ERkJMN1pGYktuakppOWZ0WGNQUzRHdEtJMnNZMXZJQnA4S1V6b3BMQ04tdk9TTjYxZkR2UEFZa2p6aEh1QWxhZ3Fnd1Y5MHg1WENSNkozSGEzdWNNbjBR?oc=5",
+        "timestamp": "2026-03-05T10:37:00",
+        "timestamp_display": "05. 03. 2026 10:37",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Český úspěch v herním byznysu",
+        "summary": "Česká herní společnost překonala sedmým rokem v řadě miliardu korun, bez vydání nové hry.",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWFZkc1c0eXc0b1padUVFS0Z0MHZCY2h2bE02MlNWSkpWZ0RGeTlJdF9CMlpIQm5ERWZ5d0N4dGZpRDVGenNPUTJsTjFTbzR4dUVqV3hWYUVqSTgtUl9CeDVpeWEyR1h0cUI1SmFMU1dnZVlhMDBwWnVKU0VIb3E3eU5TY2t6TkR6b0FsbWVpY2JlLXFvUHlOY0NVYWQ5SFpZRDNBVGk2NU9LZnNFWTdsTmd2SQ?oc=5",
+        "timestamp": "2026-03-05T10:00:26",
+        "timestamp_display": "05. 03. 2026 10:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Investice do hor",
         "summary": "V Peci pod Sněžkou vzniká resort, který bude konkurovat Alpám, nabízí nové možnosti pro investice a rozvoj cestovního ruchu.",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWHI3aWdOVUZ1MHM1bC1KQ3BuNTFKN2hlNG1mQzNjVGVyWWRNYWROQm5lNjRhRkFTRlNGbjA1T1V2MmZHTWpTYTl3eEFxVFZRZGtHLVlyOVZlTE1BemFrQXB4TWJOQUd3emhqTHYtYVlWOGp1MUo1dy1ReHZCTklwWU1ZT2FPZzJxeU5ldmhwUU1zUjdfUGpKa1hiMEtDVTE1?oc=5",
         "timestamp": "2026-03-05T10:13:22",
         "timestamp_display": "05. 03. 2026 10:13",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "EPH investuje do energetiky",
-        "summary": "Energetický koncern EPH investuje do nových projektů, Allwyn roste díky fúzi s OPAP.",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQndXamxiLUx5Z1IxT3FPQVNYLVA5MC1KZzdiYUVCOXkyYkhMbGdMQ3hzLURfRUh4dC1pcThzTkpqcmNnSUtQR2pJcDdfNUNZdzFrR2ZhbGZHNFdVRnFwS1F5QlYxaXJuMHdHdmhzdG9OSUF2WVVmeWFDM0p4MWcyZXRwb2tXTDgxak4yMWFCamxRUmhIdEx5TFk1RnpxYWM1UHRmMjduQzhmWGZQcTR3aERDSDJfbDg?oc=5",
-        "timestamp": "2026-03-03T17:40:00",
-        "timestamp_display": "03. 03. 2026 17:40",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -87,6 +105,15 @@
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRENrT2dTUGwxWVlON0ExSndNcUxqQy0xb3prWkRmVWF0NWlORFhGQ01kejMxLWJ2amQxU29WdEFtVjRUalM4a3VEQ1d0RDRjS29xUE1FQXBGc1d0dUxUdDZYdnM3SkNMSnB4TS1Xd1hrenpXcl8tb1FyTXJEZDFiWjg5R2RNNjNoT1pKN3ljcUlVUjQ?oc=5",
         "timestamp": "2026-03-03T23:00:00",
         "timestamp_display": "03. 03. 2026 23:00",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "EPH investuje do energetiky",
+        "summary": "Energetický koncern EPH investuje do nových projektů, Allwyn roste díky fúzi s OPAP.",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQndXamxiLUx5Z1IxT3FPQVNYLVA5MC1KZzdiYUVCOXkyYkhMbGdMQ3hzLURfRUh4dC1pcThzTkpqcmNnSUtQR2pJcDdfNUNZdzFrR2ZhbGZHNFdVRnFwS1F5QlYxaXJuMHdHdmhzdG9OSUF2WVVmeWFDM0p4MWcyZXRwb2tXTDgxak4yMWFCamxRUmhIdEx5TFk1RnpxYWM1UHRmMjduQzhmWGZQcTR3aERDSDJfbDg?oc=5",
+        "timestamp": "2026-03-03T17:40:00",
+        "timestamp_display": "03. 03. 2026 17:40",
         "is_new": false
     },
     {
