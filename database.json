@@ -1,30 +1,30 @@
 [
     {
         "category": "Byznys",
+        "title": "Investice do hor",
+        "summary": "V Peci pod Sněžkou vzniká resort, který bude konkurovat Alpám, nabízí nové možnosti pro investice a rozvoj cestovního ruchu.",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWHI3aWdOVUZ1MHM1bC1KQ3BuNTFKN2hlNG1mQzNjVGVyWWRNYWROQm5lNjRhRkFTRlNGbjA1T1V2MmZHTWpTYTl3eEFxVFZRZGtHLVlyOVZlTE1BemFrQXB4TWJOQUd3emhqTHYtYVlWOGp1MUo1dy1ReHZCTklwWU1ZT2FPZzJxeU5ldmhwUU1zUjdfUGpKa1hiMEtDVTE1?oc=5",
+        "timestamp": "2026-03-05T10:13:22",
+        "timestamp_display": "05. 03. 2026 10:13",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "EPH investuje do energetiky",
+        "summary": "Energetický koncern EPH investuje do nových projektů, Allwyn roste díky fúzi s OPAP.",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQndXamxiLUx5Z1IxT3FPQVNYLVA5MC1KZzdiYUVCOXkyYkhMbGdMQ3hzLURfRUh4dC1pcThzTkpqcmNnSUtQR2pJcDdfNUNZdzFrR2ZhbGZHNFdVRnFwS1F5QlYxaXJuMHdHdmhzdG9OSUF2WVVmeWFDM0p4MWcyZXRwb2tXTDgxak4yMWFCamxRUmhIdEx5TFk1RnpxYWM1UHRmMjduQzhmWGZQcTR3aERDSDJfbDg?oc=5",
+        "timestamp": "2026-03-03T17:40:00",
+        "timestamp_display": "03. 03. 2026 17:40",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Faitova investice roste",
         "summary": "Faitova Jet Investment kupuje elektrotechnickou firmu ACS, aby zdvojnásobila firmu 2JCP.",
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSVVrbC1fSFd0NkZ2VHBEX09MeEhNYlJ0SGp2cUNIVm5obHVYWjAzZHYzMHd6SzY2Ty0tM0pkRUFZTGpFYzJKTGJWbG1PSUp0S0Z2LXRsZmNuNjIwVHJGa2Z0TVdvZzVKQ2ExXzJUU0F4bTNOUlBKSS1UYWJkeWFfUUk0XzFIUnl4YU1uVlNxUVF3Vk1pZEpvUk9ORVBVTS1oM0FEbmV0Wi1zWDNwUHlHdUNFdnZvYTNpbWFnRElzdFpfbDd4YkloY0E0bWd4WXRMN3V3MERqRXBMTkxPR3JDRTZUeHBrYlVYRk9Z?oc=5",
         "timestamp": "2026-03-04T09:20:00",
         "timestamp_display": "04. 03. 2026 09:20",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "DRFG expanduje",
-        "summary": "Společnost DRFG expanduje na zahraniční trhy kvůli limitům tuzemského trhu, říká Jan Pelíšek.",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR3ZpUGNrSk1Fcm9HejNpTlRUVGNLazhYSmpsOXE3MWJ2QVdDVTNXcVhLMXRGdHhwd1ZTTzIzQngxSVgtaE9tZ0x2RndCcFdoRWltaXRUdGZfRkhmSGU5emZuNnFCeG5xX05OWXZNWFItWHBlWFJUckR3MGVFWGFPWVlBR3hHZVRnRndpUkRvTUotbERwa1BTX0tlc3ZaOXZRVW5oWnFlc25IU3lCOU9oY3RRVUFUdw?oc=5",
-        "timestamp": "2026-03-04T08:00:00",
-        "timestamp_display": "04. 03. 2026 08:00",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Čech založil startup",
-        "summary": "Čech založil startup pro svou potřebu, přilákal investory, expanduje v Jižní Americe.",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeWFOdlFiMGo4Wm1jeWZZQWZTMzY4a0hiRGREWEZrQzBoUHdkcm5ycC1GemFSenNoS2tmX3gteU4zRlgwckNhREM0UWpXWDMybjBoaUxFclhrd2xhc2JIRDVmemJ0UTg1ekNrVUxiZkRMT0JlSHRuUUg5SnB4VWhKcnpkZG5Ualo0WmNIZ1FKakhpdi1VUktyZFN3aGNIZ3FYcjQ1N1JWb1Z3bjJXbEdjZzRCYlNTRGplUDg3eg?oc=5",
-        "timestamp": "2026-03-03T08:00:00",
-        "timestamp_display": "03. 03. 2026 08:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -51,6 +51,15 @@
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR3ZEdlNHN0MtdTFQTkxvVWlqS1pMSWlpSVVRdVBUdUVGeTdyWlo4LXp1VExJakFpT0tpUWxnUFI5UmFycjN4S242SUNUWkxRb3p5MmF6Smc1MzR2dGlyS0ZIMkZUV2VNWUhFa1h3RGJSZzZjT1JRNF9LWERnaHBPOXFOcGdVaGx2NW9DcFpWaFRvRVlBOEx0NWpYZWFNT0hDRVMzdnByS2NtdmN4Wk1nSFFlTkZibzIxLUhIYUZGS0d3Vmx6dmI2Q25VWXB3RmRXQmFVSzhlZzRUUQ?oc=5",
         "timestamp": "2026-03-04T08:55:00",
         "timestamp_display": "04. 03. 2026 08:55",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "DRFG expanduje",
+        "summary": "Společnost DRFG expanduje na zahraniční trhy kvůli limitům tuzemského trhu, říká Jan Pelíšek.",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR3ZpUGNrSk1Fcm9HejNpTlRUVGNLazhYSmpsOXE3MWJ2QVdDVTNXcVhLMXRGdHhwd1ZTTzIzQngxSVgtaE9tZ0x2RndCcFdoRWltaXRUdGZfRkhmSGU5emZuNnFCeG5xX05OWXZNWFItWHBlWFJUckR3MGVFWGFPWVlBR3hHZVRnRndpUkRvTUotbERwa1BTX0tlc3ZaOXZRVW5oWnFlc25IU3lCOU9oY3RRVUFUdw?oc=5",
+        "timestamp": "2026-03-04T08:00:00",
+        "timestamp_display": "04. 03. 2026 08:00",
         "is_new": false
     },
     {
@@ -123,6 +132,15 @@
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONkdpM2JmUzFDR2ZmY1RMcThXMzNWU1dDdFE5QzVSbTY2QnM4RW81SFFncXNIRlBjRmRpeWFEREl3QmZ3X0UwUzh1WU02RG16UEROX3BHSGV2dkZIVjE2UW14clNXMnVkTXhzRFhiMzJPTjZBVktUakVNMGRQX09nbjl4bHc5Z2pCT2xlY3hrOUhqM0JZNEg2dzRDTVNwbVZGLU85QzJ4WHBzYUMyVWRSWVhPOGdIWkxJMnJfQ2ZDUmhQWWd6TzN4VS1FWjRPQVpl?oc=5",
         "timestamp": "2026-03-03T11:06:00",
         "timestamp_display": "03. 03. 2026 11:06",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Čech založil startup",
+        "summary": "Čech založil startup pro svou potřebu, přilákal investory, expanduje v Jižní Americe.",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeWFOdlFiMGo4Wm1jeWZZQWZTMzY4a0hiRGREWEZrQzBoUHdkcm5ycC1GemFSenNoS2tmX3gteU4zRlgwckNhREM0UWpXWDMybjBoaUxFclhrd2xhc2JIRDVmemJ0UTg1ekNrVUxiZkRMT0JlSHRuUUg5SnB4VWhKcnpkZG5Ualo0WmNIZ1FKakhpdi1VUktyZFN3aGNIZ3FYcjQ1N1JWb1Z3bjJXbEdjZzRCYlNTRGplUDg3eg?oc=5",
+        "timestamp": "2026-03-03T08:00:00",
+        "timestamp_display": "03. 03. 2026 08:00",
         "is_new": false
     },
     {
