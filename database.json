@@ -1,21 +1,30 @@
 [
     {
         "category": "Byznys",
+        "title": "Hodinařina spojuje se F1",
+        "summary": "Špičková hodinařina se spojuje se světem formule 1, spojující luxus a rychlost.",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRi15MGFISXY1dXlmRXVGSXVVcjR2dmxGQXBMSGtZUWpNM1hyQ3ZzZHJfeXNvTFJZNko0SnZ6ZGYzaEFqWWtjZzNoeVptdUc4aE1QWVJfR0ZnQ3lRTW83UVdXVU1UVmY4eVFmUzhDT1VOWEotLUVlLTF0aU5YRXR5c0FpSVlTY1Z4T1BWaUFqbHBQY0JNYzd0REszZmQ4U0U1cVhLcw?oc=5",
+        "timestamp": "2026-03-06T08:09:27",
+        "timestamp_display": "06. 03. 2026 08:09",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Číňané postavili bambusový dron",
+        "summary": "Číňané postavili dvoumetrový dron z bambusových vláken, který překonal rychlost 100 km/h při prvním letu.",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQempSMDNybE5CaXJmM0toU3c5djMybVJ4R0tTS3JiRUljZmFxaFdlQUYyc2s5QzRmUV9fdXJnYkhvOG1wa0lWdktTZDdhX3UwZzdBdWlES3YzczNocTRaTFJUa2k3UkNHbENMRTRhbHNUVVh3TU5WSm1ORVNseTBWU19wbVFFV19PRHdUZEJSTERMTkp0QVhSY3FncVVhVFZJSU9oRW1abGh5N185QnFYZ1AwZ0hkMkhJNm9hdG1yYjhqMTF2QTNFSXR3dFA1eEYzTkY1aDg5MzZabmpNWC0zUDVPMWplZEgzNW83MWFHMUZQdnFyMnNDNQ?oc=5",
+        "timestamp": "2026-03-06T08:07:24",
+        "timestamp_display": "06. 03. 2026 08:07",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Nová příležitost pro podnikání",
         "summary": "V centru Velkého Meziříčí je k dispozici 82 m2 prostor pro podnikání, nabízí se nová příležitost pro rozvoj podnikatelských aktivit.",
         "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxObDlXV0JKUl9TNXoyZWxpWGpVaW04YWxtVGtRTlJGZVJBaTNrdDlVeXZTN1ZzQ00tMkwtQm9VY0ZQNFloYkk1cTdqV2h0Wi1icTJwbUFpVENZOE1leDVNZ2tuWjRrQW5DbWxQN09QLVpCcmJVb1VnOWlCSUYxTlI1ZThrdTllb1FSbFJmNTNKeGpDMGIwYk95MzU1OUNpVldCNGoxS0tjSlJmTWJEMmdCSGJQcEpSV0ZIT0g3UEFUNUxVLVJIbEJhZjI3SGN6TWxKT2FqeGRCMnF0SFZQVVdKZFVEN1Y3SlZsbENFTm1IYk5iT3JraHc?oc=5",
         "timestamp": "2026-03-05T17:09:34",
         "timestamp_display": "05. 03. 2026 17:09",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "EPH investuje do energetiky",
-        "summary": "EPH investuje do energetiky, Allwyn roste díky fúzi s OPAP, přibylo významných akvizic.",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONU1iWTBrSFRtTWwtSF85NzYzVndoQ09BSFhpeFFvVnE5THRMeDVZT052TmM3Sk1iY0VrZ3kyRDFmWkI3UVNZUEVkYVFERkRISGszcElSRWE2TlNCTVVGMUNWeXhqY0c0OGFPdklJRkRVN2xMNUFnZ051UUlLb0dtYUxXYk5fZlF2MFl5Vm1EM1E3WFg5c2ExUnV4bnhBZ0RYcUgzemotdVIzZ2hoQ1Jwdy1fMmMyTHRwV1p0NjJLV3BNOUU?oc=5",
-        "timestamp": "2026-03-03T17:40:00",
-        "timestamp_display": "03. 03. 2026 17:40",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -132,6 +141,15 @@
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRENrT2dTUGwxWVlON0ExSndNcUxqQy0xb3prWkRmVWF0NWlORFhGQ01kejMxLWJ2amQxU29WdEFtVjRUalM4a3VEQ1d0RDRjS29xUE1FQXBGc1d0dUxUdDZYdnM3SkNMSnB4TS1Xd1hrenpXcl8tb1FyTXJEZDFiWjg5R2RNNjNoT1pKN3ljcUlVUjQ?oc=5",
         "timestamp": "2026-03-03T23:00:00",
         "timestamp_display": "03. 03. 2026 23:00",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "EPH investuje do energetiky",
+        "summary": "EPH investuje do energetiky, Allwyn roste díky fúzi s OPAP, přibylo významných akvizic.",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONU1iWTBrSFRtTWwtSF85NzYzVndoQ09BSFhpeFFvVnE5THRMeDVZT052TmM3Sk1iY0VrZ3kyRDFmWkI3UVNZUEVkYVFERkRISGszcElSRWE2TlNCTVVGMUNWeXhqY0c0OGFPdklJRkRVN2xMNUFnZ051UUlLb0dtYUxXYk5fZlF2MFl5Vm1EM1E3WFg5c2ExUnV4bnhBZ0RYcUgzemotdVIzZ2hoQ1Jwdy1fMmMyTHRwV1p0NjJLV3BNOUU?oc=5",
+        "timestamp": "2026-03-03T17:40:00",
+        "timestamp_display": "03. 03. 2026 17:40",
         "is_new": false
     },
     {
