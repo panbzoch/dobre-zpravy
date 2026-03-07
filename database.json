@@ -1,21 +1,39 @@
 [
     {
+        "category": "Věda",
+        "title": "Nová univerzitní budova",
+        "summary": "VŠCHT otevře novou budovu v Dejvicích s proskleným superpatrem.",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOVRWbEIxcnUxS3pjREZzZXc4aGc5LXFYTE82Y2MzNjVHY0lEU3RVLWtGVktiQjdxb1FlemR3ckdoY1hrWnU1N0gxOGFZX0MzbDVXbkxOWHpDTFZfLVV1NHFwcVhqdVE0NzJoeGVndlRueWFoWEpnNFNMckppV3M0QmxTMWp6Mjc3aHUtM1RVWXVNbktsNnNPWDl6bE5rVDFfMWJReA?oc=5",
+        "timestamp": "2026-03-07T05:30:31",
+        "timestamp_display": "07. 03. 2026 05:30",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Rekordní kosmický laser",
+        "summary": "Vědci objevili pomocí radioteleskopu MeerKAT rekordní kosmický laser, který je vzdálen půl vesmíru.",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX0dNX2ZKOUlYWTJ6WHZXMGFQc2JvWWpyM1c3WXllQmRSNjUycTZiQU9zOHJQMTBiQUJKMWZsS1dURWc4YXNhZWRzdThFZTEtbTV5Nnd5QlJNYjlLMzJkSXk0T3U3djE0QkZiWlVQQmh6eHpNeFhfYXIxeVNWWjZEN18zNkJ6T3g3LWoxeEdhR1phbDZkckE?oc=5",
+        "timestamp": "2026-03-07T01:27:19",
+        "timestamp_display": "07. 03. 2026 01:27",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Článek na Forbes.cz nabízí rady a inspiraci pro investice, které mohou změnit život.",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5obGNjemFJdVM4eUhQMlNPZkZBLXlGVWJxYTVUNzYyZ2VMSllKenhFdTlfUjdkUHFiOGxDOFpRMWtULXRSRU95bU9ocENibTQ2STNVS1NId0JpVW5GN2I5WFpB?oc=5",
+        "timestamp": "2026-03-06T19:29:58",
+        "timestamp_display": "06. 03. 2026 19:29",
+        "is_new": true
+    },
+    {
         "category": "Společnost",
         "title": "Nová cyklostezka vznikne",
         "summary": "Nová cyklostezka vznikne díky Kingdom Come, fanoušci získají další důvod pro návštěvu lokace.",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTV9FZmZ6MS1CQnlULW9sdTVUUlRhYlJZVzZ0QThjMFpnSXlCR185a2c3YzdZMVcxSTdGdmM5RGJRTVZjS185ZzVQMXE2a2ZkbU5EVzRUdXd1S1VIVmtRYkk1alZOLXViTGY4R1NlaVJHajZ5UTJnaXpDdldua1VtbGRobWVibzBEcjVDX3hkeGxKYTRJUE5IbjdnWW1ZcVFsVi1sVzdsTjJCQ0t3OWZGR1RHXzRCVF9Venp6Z2lTaw?oc=5",
         "timestamp": "2026-03-07T07:42:00",
         "timestamp_display": "07. 03. 2026 07:42",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Nejúspěšnější fondy",
-        "summary": "Představený žebříček ukazuje nejúspěšnější fondy na českém trhu.",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNmVoQ29IU2xUSl83ajZLOXFYOVdTdXFCQzltRGZfVHlTeW5VSVd1VnpsUS1XV3ZzeTM0dm90WV9uYVBZU1N6Rm1VVWVyR3VKamJaWWFvMVFWTnR6bkFEWEItQ0wyQW9uQ1JkZkpqRXlBUExVYklWZXhvblA5T0FPNTZCeTZjN3AxVHpneklHbURKQ3RE?oc=5",
-        "timestamp": "2026-02-25T06:39:00",
-        "timestamp_display": "25. 02. 2026 06:39",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -780,6 +798,15 @@
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZ3lQdm1IS2k5ZEVtX2pUY1RnYTd4bG1kWWI2aTh6VkZGSDdYWFFseUZYbW80NmlfWUpqb3FDOU5xOUM1c1VGU00wWFBuNTBDcUxac2Q5d1dqM2tybHVzdUJidXpjQWNxYUZ1cFF4SVprQ2EzRGtLNXRMa0ZEQ2JyYmNCeE1JVHlkY1pMMjM2RWM5X01JVEdJMkVudFBTcFR3OTBNd2k5NVU0X3RHRDlXcFZ3bWZnMVI0Ymx3Vnp4VV9TOVJoWUZuNHhKY2lrbm1tRDNzamExMU11a2RmdUJUbVNyWUhYWWE0?oc=5",
         "timestamp": "2026-02-25T09:12:00",
         "timestamp_display": "25. 02. 2026 09:12",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Nejúspěšnější fondy",
+        "summary": "Představený žebříček ukazuje nejúspěšnější fondy na českém trhu.",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNmVoQ29IU2xUSl83ajZLOXFYOVdTdXFCQzltRGZfVHlTeW5VSVd1VnpsUS1XV3ZzeTM0dm90WV9uYVBZU1N6Rm1VVWVyR3VKamJaWWFvMVFWTnR6bkFEWEItQ0wyQW9uQ1JkZkpqRXlBUExVYklWZXhvblA5T0FPNTZCeTZjN3AxVHpneklHbURKQ3RE?oc=5",
+        "timestamp": "2026-02-25T06:39:00",
+        "timestamp_display": "25. 02. 2026 06:39",
         "is_new": false
     },
     {
