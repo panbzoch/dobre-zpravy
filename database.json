@@ -1,29 +1,20 @@
 [
     {
-        "category": "Věda",
-        "title": "Nová univerzitní budova",
-        "summary": "VŠCHT otevře novou budovu v Dejvicích s proskleným superpatrem.",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOVRWbEIxcnUxS3pjREZzZXc4aGc5LXFYTE82Y2MzNjVHY0lEU3RVLWtGVktiQjdxb1FlemR3ckdoY1hrWnU1N0gxOGFZX0MzbDVXbkxOWHpDTFZfLVV1NHFwcVhqdVE0NzJoeGVndlRueWFoWEpnNFNMckppV3M0QmxTMWp6Mjc3aHUtM1RVWXVNbktsNnNPWDl6bE5rVDFfMWJReA?oc=5",
-        "timestamp": "2026-03-07T05:30:31",
-        "timestamp_display": "07. 03. 2026 05:30",
-        "is_new": true
-    },
-    {
-        "category": "Věda",
-        "title": "Rekordní kosmický laser",
-        "summary": "Vědci objevili pomocí radioteleskopu MeerKAT rekordní kosmický laser, který je vzdálen půl vesmíru.",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX0dNX2ZKOUlYWTJ6WHZXMGFQc2JvWWpyM1c3WXllQmRSNjUycTZiQU9zOHJQMTBiQUJKMWZsS1dURWc4YXNhZWRzdThFZTEtbTV5Nnd5QlJNYjlLMzJkSXk0T3U3djE0QkZiWlVQQmh6eHpNeFhfYXIxeVNWWjZEN18zNkJ6T3g3LWoxeEdhR1phbDZkckE?oc=5",
-        "timestamp": "2026-03-07T01:27:19",
-        "timestamp_display": "07. 03. 2026 01:27",
+        "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Investice může změnit život, jeden dobrý tah může vést k úspěchu a finančním ziskům.",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAteFFqRGtJQldMdFprX09sakJUNHFOUUctMno4TVBURnU3QUVHUE5YeUY5N3hOMDdtbGxucXpQUFpzMEZUUEFQWHFDWkhlclc3OEtVNUVCLTFoUQ?oc=5",
+        "timestamp": "2026-03-07T09:02:16",
+        "timestamp_display": "07. 03. 2026 09:02",
         "is_new": true
     },
     {
         "category": "Byznys",
-        "title": "Investice mění život",
-        "summary": "Článek na Forbes.cz nabízí rady a inspiraci pro investice, které mohou změnit život.",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5obGNjemFJdVM4eUhQMlNPZkZBLXlGVWJxYTVUNzYyZ2VMSllKenhFdTlfUjdkUHFiOGxDOFpRMWtULXRSRU95bU9ocENibTQ2STNVS1NId0JpVW5GN2I5WFpB?oc=5",
-        "timestamp": "2026-03-06T19:29:58",
-        "timestamp_display": "06. 03. 2026 19:29",
+        "title": "Nová vilová čtvrť",
+        "summary": "Na Veleslavíně vyroste nová vilová čtvrť za 2,2 miliardy korun.",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSXNqb1RMSTZIaXJrMVozX1RHY3JpWmpZWkxHVThXSHRNdlF1RFpIRUZ5ZXBTWU5PMzlJNGUtQ3ROazhxMHJOcDZrM2NGM3o3RmpBc2hHZk1sS0NUdnMwVnJsMDlFdkRRaVd1WEN1VmlHTlIxUFhXV0NSRXd5Q1lCTklGRUdzcFRBRE1heXFTVjJUc08tUmhmMFFKbGVlYTFfOXQyaDVCaE9wN3dVNU1VM2pVdw?oc=5",
+        "timestamp": "2026-03-06T09:36:55",
+        "timestamp_display": "06. 03. 2026 09:36",
         "is_new": true
     },
     {
@@ -36,12 +27,39 @@
         "is_new": false
     },
     {
+        "category": "Věda",
+        "title": "Nová univerzitní budova",
+        "summary": "VŠCHT otevře novou budovu v Dejvicích s proskleným superpatrem.",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOVRWbEIxcnUxS3pjREZzZXc4aGc5LXFYTE82Y2MzNjVHY0lEU3RVLWtGVktiQjdxb1FlemR3ckdoY1hrWnU1N0gxOGFZX0MzbDVXbkxOWHpDTFZfLVV1NHFwcVhqdVE0NzJoeGVndlRueWFoWEpnNFNMckppV3M0QmxTMWp6Mjc3aHUtM1RVWXVNbktsNnNPWDl6bE5rVDFfMWJReA?oc=5",
+        "timestamp": "2026-03-07T05:30:31",
+        "timestamp_display": "07. 03. 2026 05:30",
+        "is_new": false
+    },
+    {
         "category": "Byznys",
         "title": "Bezlepkové makronky",
         "summary": "Podnikatel nabízí bezlepkové makronky a rozšiřuje se do Prahy.",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNY2pZeXl4Tzl6cExkRkVuM3J4VWZQZ3NMOXhqUEpXcUo0WkRhRl91NWlDa0JVMXZZY1Z3ajY2aU53WG9kNVBuQnBxb1VPbURkdE9WNWpaelJOekJFUWNSN25pZFBxVVdFSUZfVGJ1Q0dfRlVibkRpbHZpM1R4R2V6NFhYc2tadXVHQ1pRaWI4eGswX2dtdG1jeDhsdC1GY2owMGRQdDl5aDRyd2tMU0xSUHZ2YUIxWnlXSXJ3NW0wa3NfQ250d0pnaWFHazdzMnFwMk1F?oc=5",
         "timestamp": "2026-03-07T05:30:00",
         "timestamp_display": "07. 03. 2026 05:30",
+        "is_new": false
+    },
+    {
+        "category": "Věda",
+        "title": "Rekordní kosmický laser",
+        "summary": "Vědci objevili pomocí radioteleskopu MeerKAT rekordní kosmický laser, který je vzdálen půl vesmíru.",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX0dNX2ZKOUlYWTJ6WHZXMGFQc2JvWWpyM1c3WXllQmRSNjUycTZiQU9zOHJQMTBiQUJKMWZsS1dURWc4YXNhZWRzdThFZTEtbTV5Nnd5QlJNYjlLMzJkSXk0T3U3djE0QkZiWlVQQmh6eHpNeFhfYXIxeVNWWjZEN18zNkJ6T3g3LWoxeEdhR1phbDZkckE?oc=5",
+        "timestamp": "2026-03-07T01:27:19",
+        "timestamp_display": "07. 03. 2026 01:27",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Článek na Forbes.cz nabízí rady a inspiraci pro investice, které mohou změnit život.",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5obGNjemFJdVM4eUhQMlNPZkZBLXlGVWJxYTVUNzYyZ2VMSllKenhFdTlfUjdkUHFiOGxDOFpRMWtULXRSRU95bU9ocENibTQ2STNVS1NId0JpVW5GN2I5WFpB?oc=5",
+        "timestamp": "2026-03-06T19:29:58",
+        "timestamp_display": "06. 03. 2026 19:29",
         "is_new": false
     },
     {
