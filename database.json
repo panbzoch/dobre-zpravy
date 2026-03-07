@@ -1,12 +1,30 @@
 [
     {
+        "category": "Společnost",
+        "title": "Nová cyklostezka vznikne",
+        "summary": "Nová cyklostezka vznikne díky Kingdom Come, fanoušci získají další důvod pro návštěvu lokace.",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTV9FZmZ6MS1CQnlULW9sdTVUUlRhYlJZVzZ0QThjMFpnSXlCR185a2c3YzdZMVcxSTdGdmM5RGJRTVZjS185ZzVQMXE2a2ZkbU5EVzRUdXd1S1VIVmtRYkk1alZOLXViTGY4R1NlaVJHajZ5UTJnaXpDdldua1VtbGRobWVibzBEcjVDX3hkeGxKYTRJUE5IbjdnWW1ZcVFsVi1sVzdsTjJCQ0t3OWZGR1RHXzRCVF9Venp6Z2lTaw?oc=5",
+        "timestamp": "2026-03-07T07:42:00",
+        "timestamp_display": "07. 03. 2026 07:42",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Nejúspěšnější fondy",
+        "summary": "Představený žebříček ukazuje nejúspěšnější fondy na českém trhu.",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNmVoQ29IU2xUSl83ajZLOXFYOVdTdXFCQzltRGZfVHlTeW5VSVd1VnpsUS1XV3ZzeTM0dm90WV9uYVBZU1N6Rm1VVWVyR3VKamJaWWFvMVFWTnR6bkFEWEItQ0wyQW9uQ1JkZkpqRXlBUExVYklWZXhvblA5T0FPNTZCeTZjN3AxVHpneklHbURKQ3RE?oc=5",
+        "timestamp": "2026-02-25T06:39:00",
+        "timestamp_display": "25. 02. 2026 06:39",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "Bezlepkové makronky",
         "summary": "Podnikatel nabízí bezlepkové makronky a rozšiřuje se do Prahy.",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNY2pZeXl4Tzl6cExkRkVuM3J4VWZQZ3NMOXhqUEpXcUo0WkRhRl91NWlDa0JVMXZZY1Z3ajY2aU53WG9kNVBuQnBxb1VPbURkdE9WNWpaelJOekJFUWNSN25pZFBxVVdFSUZfVGJ1Q0dfRlVibkRpbHZpM1R4R2V6NFhYc2tadXVHQ1pRaWI4eGswX2dtdG1jeDhsdC1GY2owMGRQdDl5aDRyd2tMU0xSUHZ2YUIxWnlXSXJ3NW0wa3NfQ250d0pnaWFHazdzMnFwMk1F?oc=5",
         "timestamp": "2026-03-07T05:30:00",
         "timestamp_display": "07. 03. 2026 05:30",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
