@@ -6,7 +6,7 @@
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOanVFWGhUd1hNVURPNVB6eTA5UXJCRzZMLVBfM05nQXVmeUFPbERNVy1EUUh5anRIY0lYX1NBQlh0SGJEUWlaZ2thb0d5VFJVMngweVQyUjBPSEYtQXJZZkRaVXQ4WERLRl9NcFE1WUZMaGRpN3lNVmpGQXF3UjdVdXhqRFFSS3Y5NHpnSWUwSno0UGFuWW9ScWhxQldLUy1oU2c?oc=5",
         "timestamp": "2026-03-08T14:06:09",
         "timestamp_display": "08. 03. 2026 14:06",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -15,25 +15,7 @@
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcTJ4RTRINkdkTVp2cTZ4Rkg3SXJjR1Jibk5rQmRscnlJRE4tQ3E1MnBKT0hFeGh0TjBqOTBPaGk4TXZaOHpmcGpYQ0V2RG5NRFdCMldpeUstejlnUkhIM29MbDJxbC15aHBXSm40dTRMY2tCQUx1SmhkS3U4YnEwZWZfUFlNdGlpQlE5NmcyU09uNVE1N1FRRlU3TVpjUl9nclVKQ1B4ZGpKWXdteTd3UjZiZl9oM2RWeV9YdVdZWWRNMklEbFR3T1kxVVdzclBJTVpLSWgtTjh5dEJ4ZE92ano5OE1xODA?oc=5",
         "timestamp": "2026-03-08T13:15:00",
         "timestamp_display": "08. 03. 2026 13:15",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Ben Affleck prodal startup",
-        "summary": "Ben Affleck prodal svůj utajovaný startup Netflixu, startup se zabývá umělou inteligencí ve filmovém průmyslu.",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZkZfZjR2U09FdXZiZmNnZjZuX0dMVkZya3psTE5DQ0s0QnNYUXFtbUNwTjUza3d4TVVIUHBGSUoxd0lLQjNPcGNnRkp4OFg5WU5za1duWllVX3dCbU5jYm1TUUJjT1RJWHkzYXNhTG5xVmVaV1Y4cHpTMGNzbXhjdUJ4RWJscV9mQmQ3d3BqZzY2TU44eFRPVUQ2eTlQUjNaQXQ1aWctSDIxLTZTWHFtN1p4dXg?oc=5",
-        "timestamp": "2026-03-08T05:30:47",
-        "timestamp_display": "08. 03. 2026 05:30",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Nokia zpět na scéně",
-        "summary": "Akcie Nokie jsou na historickém maximu, díky spolupráci s Nvidia a odborníky z Česka.",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS0plMkJGR0d4TzBMcDJNWjRkLWd1R1JOYXQteWZWeVhlMGhXQkk3LVkxaU4yQW5PODc0YU5TS3lDcVR1aGpkeVRneW9MaHpYSi1qYV92emhfRmhraEpVRkRteFp4N3owc3F1eW1jRmlGMk8xM1JJVzYwRGJCdGNIeE84Q1YzUWN6bDVqTkNlRVhhaV9JNEFmWDlFcjJnQnVsaVN1Nkl5b0FwUlZPODlzZlBFb05TRXE3NEpsRThVMzlKbDhk?oc=5",
-        "timestamp": "2026-03-08T04:00:00",
-        "timestamp_display": "08. 03. 2026 04:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Medicína",
@@ -42,6 +24,24 @@
         "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNQXdqcjNoMXdZQ0xoN1hDSGV5cmFFaFJRWTFyaWE3ZWxlT1JyYWVoVjRfTEtxb0xTX3NUaXc1cXBZdDhUbno2X3VscEk3OWs0Rklhcnh1d1VMQkZfYXNDWEhZOUl6WEwyaDJXM0s3U1Fwa0VLaG8xUkRHREt4ck5Da19NOWY4dy1uSldJT24wbFN1ZkhmY1FKY3gyY0NwQjVVSWROdjlGaWNUVDVkYUVhenlXdno0d1Q1cUtITUYwVUxrNjc1M3hwenFVM243RXA2ZUxlbkhxS0tmZHBzWVotN1IwSEU5cHBpallybkFqZ2cySzZaLUFSMEI2OXdZYXh4?oc=5",
         "timestamp": "2026-03-08T09:47:13",
         "timestamp_display": "08. 03. 2026 09:47",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Ben Affleck prodal startup",
+        "summary": "Ben Affleck prodal svůj utajovaný startup Netflixu, startup se zabývá umělou inteligencí ve filmovém průmyslu.",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZkZfZjR2U09FdXZiZmNnZjZuX0dMVkZya3psTE5DQ0s0QnNYUXFtbUNwTjUza3d4TVVIUHBGSUoxd0lLQjNPcGNnRkp4OFg5WU5za1duWllVX3dCbU5jYm1TUUJjT1RJWHkzYXNhTG5xVmVaV1Y4cHpTMGNzbXhjdUJ4RWJscV9mQmQ3d3BqZzY2TU44eFRPVUQ2eTlQUjNaQXQ1aWctSDIxLTZTWHFtN1p4dXg?oc=5",
+        "timestamp": "2026-03-08T05:30:47",
+        "timestamp_display": "08. 03. 2026 05:30",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Nokia zpět na scéně",
+        "summary": "Akcie Nokie jsou na historickém maximu, díky spolupráci s Nvidia a odborníky z Česka.",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS0plMkJGR0d4TzBMcDJNWjRkLWd1R1JOYXQteWZWeVhlMGhXQkk3LVkxaU4yQW5PODc0YU5TS3lDcVR1aGpkeVRneW9MaHpYSi1qYV92emhfRmhraEpVRkRteFp4N3owc3F1eW1jRmlGMk8xM1JJVzYwRGJCdGNIeE84Q1YzUWN6bDVqTkNlRVhhaV9JNEFmWDlFcjJnQnVsaVN1Nkl5b0FwUlZPODlzZlBFb05TRXE3NEpsRThVMzlKbDhk?oc=5",
+        "timestamp": "2026-03-08T04:00:00",
+        "timestamp_display": "08. 03. 2026 04:00",
         "is_new": false
     },
     {
