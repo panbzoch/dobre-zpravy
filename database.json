@@ -1,21 +1,75 @@
 [
     {
         "category": "Byznys",
+        "title": "Nokia zpět na scéně",
+        "summary": "Akcie Nokie jsou na historickém maximu, společnosti pomáhají Nvidia i odborníci z Česka.",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM3VaOXFHRDhpT0dWclZSQjdVYUpOUF9rcFdSMldtbjczMzF6VVVGeTdXSjVRdk1iVVl2eWJIdGJGWU1OOE1Yc0tyaDNZZFp5RFJ5SWRDbmR1UnBWWlZ2clE4c1M5enVISmdSYTB6TkdtbTcybTZaVnd1SVdCVGQ2X1lPMWlIeHNYdVVkRkFNQXlUQnJSblNjN1BMczEzVlhFOHF2ZVZWWFg2dmN6S2FwSkdyVE9lQUpUUjQ5TDV6cVBOYVNz?oc=5",
+        "timestamp": "2026-03-08T04:00:00",
+        "timestamp_display": "08. 03. 2026 04:00",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Observatoř Very Rubinové",
+        "summary": "Observatoř Very Rubinové zaznamenala 800 tisíc rozdílů za jednu noc, což je významný vědecký úspěch.",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxON2hpemFCU0czNExIMFlndVRhak5obmFLS1BTTDVLZDNPTUJwb2s5bENIdnNHMlhXcHJJTXBxYlhpM0hqSjYxd0I0amFJdV9XRllmbWNMWWNKZDNuV1ZScXliU20wZnZQZTIxYWxxU3ZJbk9EeVM4WWhnSmJyS0wyaWdpdy1XWXIzNWRYYWlhNWh3ejFMRHkyb185UVl3SGx3ZlpVRWFvTEY1bG8wdEsya2x4dWpTZU5nbTBrOTFXOHVxbVBBQmtXMFo0SQ?oc=5",
+        "timestamp": "2026-03-07T14:43:33",
+        "timestamp_display": "07. 03. 2026 14:43",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Nová pekařství v Praze",
+        "summary": "Nová pekárně v Praze nabízí japonské pečivo s nečekanými chutěmi a originálními recepty.",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSVJMSTlrVENpQXQ4RDkzTkZPbU1tcnBvbGRQY3gyOVp1Q1Z2Nkc0ZTN2eU9EWkFRQVAtLXVWdlB3c25KVjBqRnNoYVVaYU5yVmo3T3NWeDYzWDdqd3l5U01HR09mMmJDZjQtb3hZSlRYZkl3UW9UZFF4TUVzbXVXOS12UExEd3FXc0lrR1hjUGZvT0lMdE9PYnJYbWdvM0F3Y3FhVUM4ejM4QkxZellIRkdUN3JqMk5zVno2blhR?oc=5",
+        "timestamp": "2026-03-07T10:24:16",
+        "timestamp_display": "07. 03. 2026 10:24",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Nová souprava Alstom",
+        "summary": "Nová souprava Alstom Metropolis Boa vozí cestující v Lille, nabízí gumová kola, průchozí a plně automatické funkce.",
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPRGpCRThGNkU4aDVMNW9yNWFCblZ1RUNoTnZTSEZTUGZXcS1wRVEtUVBXMVFmQlJIVnRfX1FRQXd6SDlOdWFJZ0tWSXhpZFBqbHR2d3NENlpFRldJVVBLbUtSdVdPMEhPLXRZLWZwSHlyZEp6b0hqTk8wcklqcElxMFVNS05WYXp0dHBfZF9QQzg0ay1xbHE2Z1dFR0V4Nl9NUkR5MnRDa1FKRnFjQ0pmc1B0RzFLcGdORjB2ZGl2eWd6dVVFZTJJbktrLTRrNEx3VlBvOUdmWjJrZXJKaW91cElxaFJFRERjUkhKdjRvRTBrdU5ZM2Iyd0w3cTBaU2pHbFE?oc=5",
+        "timestamp": "2026-03-07T06:43:27",
+        "timestamp_display": "07. 03. 2026 06:43",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Osobní vzducholoď",
+        "summary": "Francouz postavil osobní vzducholoď s pádly, poháněnou lidskou silou, pro lety v hangáru.",
+        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQLWQ5cmdYRnJQZUxXUmVjTXc0ZlJvNWNDY040QWczUUUxYkVudHl6V0dpM1Q4V1lDeHpsWnVvV1QwMVNFamFKTkw0LUh1RjM3NTlaT0VKN2xETmJBbmtXa29fWWVOYzgtdy02aWE4d20xVmV1RU93aGtYcHBuY1I4VWRnSXU1eVF4NzY3bFdNNm1ielo1WU8xWEFtendnRVFFZ2RmTXphRmFGMzFoT2NXdWdBLW5mSlA5QUZQVWZlUUVuMEw0T3UzZmVnWFI0aVVLNUZrbUpOMFBrWHUxN3lZb1N5dmJSNzQxNDBNU0dRRl9uX2duWWdIWkJLbUFGSUJqRDlIdzREbkM2UQ?oc=5",
+        "timestamp": "2026-03-06T15:14:11",
+        "timestamp_display": "06. 03. 2026 15:14",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Rekordní fúze a akvizice",
+        "summary": "Fúze a akvizice po světě dosahují rekordních hodnot, Česko zatím zaostává.",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZkdZaWpaUjNtMFF4SW1ZTWdENGJTZVYtM1ZpR0lFOUU4RnVoSWo1blcyQWJwMHRybHYtQlM0alhlRlNmalBMellmWnNYeUtCTjZ6aVJlMFpEcnh4TlJHSXc3ZUNnZlBPS19ScTYyTnJfSGhXdUg5dEhXSFFsbWVQa2hNMThncHlDZUxpN1NGc2FhZG5IOFM5QmNkOGpVOWxJdDV0OUNkb1hLenBvMHYwek9ibXFtVTRZa25SekdfTVZ1WEJyUGdzNExBMGxUWTk2MzNUaGcwZkpwNnFKZEo3QXVvMGlDQQ?oc=5",
+        "timestamp": "2026-03-06T09:19:18",
+        "timestamp_display": "06. 03. 2026 09:19",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Nová koupelnová řešení",
+        "summary": "Nová umyvadla se skříňkami nabízejí praktické a elegantní řešení pro malé koupelny.",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbFNpdk1FN05WVzV1TGdTUklGNHZBLWs2S1lLUGpUbktXN0NtdGpFLTg2azlSLTB3NGgybXVXUVN2N3Z6QTN0SGhvd2dzd1dIb2F6ZHlxbWlfRDVVMVlCMVBxLTNyQXc0NVp2eTViY2p2by1rZDdhRkFNbDVkVlpyaEF3Tnk1MUxJOVVkb1FxT2gtYUtZSm53bzNqWFlEaGszRllV?oc=5",
+        "timestamp": "2026-03-05T23:00:00",
+        "timestamp_display": "05. 03. 2026 23:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Investice mění život",
         "summary": "Investice může změnit život, jeden dobrý tah může vést k úspěchu a finančním ziskům.",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAteFFqRGtJQldMdFprX09sakJUNHFOUUctMno4TVBURnU3QUVHUE5YeUY5N3hOMDdtbGxucXpQUFpzMEZUUEFQWHFDWkhlclc3OEtVNUVCLTFoUQ?oc=5",
         "timestamp": "2026-03-07T09:02:16",
         "timestamp_display": "07. 03. 2026 09:02",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Nová vilová čtvrť",
-        "summary": "Na Veleslavíně vyroste nová vilová čtvrť za 2,2 miliardy korun.",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSXNqb1RMSTZIaXJrMVozX1RHY3JpWmpZWkxHVThXSHRNdlF1RFpIRUZ5ZXBTWU5PMzlJNGUtQ3ROazhxMHJOcDZrM2NGM3o3RmpBc2hHZk1sS0NUdnMwVnJsMDlFdkRRaVd1WEN1VmlHTlIxUFhXV0NSRXd5Q1lCTklGRUdzcFRBRE1heXFTVjJUc08tUmhmMFFKbGVlYTFfOXQyaDVCaE9wN3dVNU1VM2pVdw?oc=5",
-        "timestamp": "2026-03-06T09:36:55",
-        "timestamp_display": "06. 03. 2026 09:36",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Společnost",
@@ -87,6 +141,15 @@
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMzliVzRlU2xleUFNNlZvYVVTTHRkN3JhT1JIRmlCM0RlWmQ5OEFxT0RxbHJpdkhhNm14aEtONHJnN1JSWWU0VU8wOEdGYVU0enI4MDRMbEVUckxKSFpqcFYzMlBLV2l1Zk9felFVSjhMVW12WVdMY2RlalBuSnczMVFIOHRxWGk0NXkwQk9VNzh4cG5BSGlnQTZrd0Z4eXhSUGRGeUJSeEhYQ0xLc1JneTNFQ0NhNmFRSU53NU9yS3VXcFJlWGFwOV9QaDFRQVQ2aC1la3ZqaWk4Zl9hS0FNWXE0Qll4QQ?oc=5",
         "timestamp": "2026-03-06T10:52:05",
         "timestamp_display": "06. 03. 2026 10:52",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Nová vilová čtvrť",
+        "summary": "Na Veleslavíně vyroste nová vilová čtvrť za 2,2 miliardy korun.",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSXNqb1RMSTZIaXJrMVozX1RHY3JpWmpZWkxHVThXSHRNdlF1RFpIRUZ5ZXBTWU5PMzlJNGUtQ3ROazhxMHJOcDZrM2NGM3o3RmpBc2hHZk1sS0NUdnMwVnJsMDlFdkRRaVd1WEN1VmlHTlIxUFhXV0NSRXd5Q1lCTklGRUdzcFRBRE1heXFTVjJUc08tUmhmMFFKbGVlYTFfOXQyaDVCaE9wN3dVNU1VM2pVdw?oc=5",
+        "timestamp": "2026-03-06T09:36:55",
+        "timestamp_display": "06. 03. 2026 09:36",
         "is_new": false
     },
     {
