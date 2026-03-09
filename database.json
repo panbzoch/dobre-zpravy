@@ -6,16 +6,7 @@
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRDdKMTZzR2xyam1CbXhrZlBjNTNDUWxqRVZ3Q19QUm9Xdld2QkNzWlpoZjlxNWc1LXBqanhxa1FQWWRUdkhuLUJxVktva2JlNFloUTFNMEQwNzA4VXZuZXg4X1JaSnE1VW11NFBYRWlsNy10bThkMWJ5NnBXMVpqRkJLOFE4cmpWWHlzdHgyb3ZqVjN1MXFOUXpid3d6aU0?oc=5",
         "timestamp": "2026-03-08T23:00:00",
         "timestamp_display": "08. 03. 2026 23:00",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Investice do nemovitostí",
-        "summary": "Investice do nemovitostí může změnit život, nabízí nové příležitosti a růst.",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HLVpYaThQYVhxUDJHM1RRdE9Fb0haYWV2VDcxRzdia3kxQWVnVGI0THZicFBJaUo0SFowc3pBQndpT0hWQTB4cUpTSnBpRERXY29xRGdidkdyTGVObmZBLWdCZUlwcGs1?oc=5",
-        "timestamp": "2026-03-05T15:01:06",
-        "timestamp_display": "05. 03. 2026 15:01",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -249,6 +240,15 @@
         "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxObDlXV0JKUl9TNXoyZWxpWGpVaW04YWxtVGtRTlJGZVJBaTNrdDlVeXZTN1ZzQ00tMkwtQm9VY0ZQNFloYkk1cTdqV2h0Wi1icTJwbUFpVENZOE1leDVNZ2tuWjRrQW5DbWxQN09QLVpCcmJVb1VnOWlCSUYxTlI1ZThrdTllb1FSbFJmNTNKeGpDMGIwYk95MzU1OUNpVldCNGoxS0tjSlJmTWJEMmdCSGJQcEpSV0ZIT0g3UEFUNUxVLVJIbEJhZjI3SGN6TWxKT2FqeGRCMnF0SFZQVVdKZFVEN1Y3SlZsbENFTm1IYk5iT3JraHc?oc=5",
         "timestamp": "2026-03-05T17:09:34",
         "timestamp_display": "05. 03. 2026 17:09",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice do nemovitostí",
+        "summary": "Investice do nemovitostí může změnit život, nabízí nové příležitosti a růst.",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HLVpYaThQYVhxUDJHM1RRdE9Fb0haYWV2VDcxRzdia3kxQWVnVGI0THZicFBJaUo0SFowc3pBQndpT0hWQTB4cUpTSnBpRERXY29xRGdidkdyTGVObmZBLWdCZUlwcGs1?oc=5",
+        "timestamp": "2026-03-05T15:01:06",
+        "timestamp_display": "05. 03. 2026 15:01",
         "is_new": false
     },
     {
