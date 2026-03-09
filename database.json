@@ -1,5 +1,23 @@
 [
     {
+        "category": "Medicína",
+        "title": "Vzácná onemocnění",
+        "summary": "Kieran Leahy z Takeda mluví o vzácných onemocněních a jejich významu.",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRDdKMTZzR2xyam1CbXhrZlBjNTNDUWxqRVZ3Q19QUm9Xdld2QkNzWlpoZjlxNWc1LXBqanhxa1FQWWRUdkhuLUJxVktva2JlNFloUTFNMEQwNzA4VXZuZXg4X1JaSnE1VW11NFBYRWlsNy10bThkMWJ5NnBXMVpqRkJLOFE4cmpWWHlzdHgyb3ZqVjN1MXFOUXpid3d6aU0?oc=5",
+        "timestamp": "2026-03-08T23:00:00",
+        "timestamp_display": "08. 03. 2026 23:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice do nemovitostí",
+        "summary": "Investice do nemovitostí může změnit život, nabízí nové příležitosti a růst.",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HLVpYaThQYVhxUDJHM1RRdE9Fb0haYWV2VDcxRzdia3kxQWVnVGI0THZicFBJaUo0SFowc3pBQndpT0hWQTB4cUpTSnBpRERXY29xRGdidkdyTGVObmZBLWdCZUlwcGs1?oc=5",
+        "timestamp": "2026-03-05T15:01:06",
+        "timestamp_display": "05. 03. 2026 15:01",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "Úspěšné ženy byznysu",
         "summary": "Úspěšné ženy byznysu si kupují různé odměny za své úspěchy, jako jsou luxusní nemovitosti nebo exkluzivní vozidla.",
