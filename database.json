@@ -1,12 +1,39 @@
 [
     {
         "category": "Byznys",
+        "title": "Spolupráce KHNP a ČEZ",
+        "summary": "Korejská KHNP a ČEZ podepsaly memorandum o spolupráci v oblasti čistého vodíku.",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeTNweXZDZzFqOGpjam1pdWlZUy1lWWhURDUweHNZOXRCbjF1cW82dFpTYTBIU2FEWUZyaTc5eGM0dTdVdUpRVFB3Q0V0c3lsY1NTQm15VUJVZDdXU0hCcGROR0VBWWFDU19DOVdWa2ttM2JFQWJndGVlTEJjcG52cEdYYWtvRmZVRkk1bEFsSXFWaWhJYzdPOHVHVW1aVE1NTW9VNU1UR1RjNTBmYzFYZDEySkp5LVBFdlVxcnMyT2lTSlkyWWFvcVNTWmhpM2U3bEFRb1pmWQ?oc=5",
+        "timestamp": "2026-03-10T12:57:00",
+        "timestamp_display": "10. 03. 2026 12:57",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Startup Yanna LeCuna",
+        "summary": "Startup Yanna LeCuna získal miliardy od investorů pro vývoj AI.",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaE5DVnBEWmlDeWI5bmx3ZF9ZRDN6SFoyYUVxRzlPNlNTN2k3ejJROE1BZjVyYlNWMEF5QndOeU1hMERWSzVQYmVaVnZsWTJBOXlmS1k0WWNKRTdHMnJieC1yb0w2WVJPUDVGcXktY1g0bHN3MVRWN3JtTlpXaVRNYjRPUjRwcjVMQnNER01HdzZ1cklWZFhHazJXTllhUzVB?oc=5",
+        "timestamp": "2026-03-10T12:12:50",
+        "timestamp_display": "10. 03. 2026 12:12",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Renault uvede 36 novinek",
+        "summary": "Renault plánuje uvedení 36 nových modelů do pěti let, zaměřuje se na efektivitu a chce konkurovat čínským výrobcům.",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZzBzSGVvRk1mVlVSbUNCb2l2WC01UElsNHRYNGhPbThvX250SUpsOFdSNkFFQ3JManJ0Y2ZyTVZMdkpGTFRENzUwanNCc1IyTlRud2pwNEROOU5vR3NfTElNaHRWZWs4ODJlQTNGRHgycUo1blVPeGJzYTdnN0k1ZGZSdUlIaElTeHBLUGZHU2ZVY1ZGZTZiOGhMT1ptc1EwVGIwZnNpVDJ4elF1NnUxSV9TSFhZWjlWZEU1b2VOdGR4MUdSQU9ZcmdoVi1qT1djQTdNYU4zbkJwZ2M?oc=5",
+        "timestamp": "2026-03-10T10:46:00",
+        "timestamp_display": "10. 03. 2026 10:46",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Éra digitální compliance",
         "summary": "Firmy čeká éra digitální compliance, kde AI hraje klíčovou roli v zajišťování souladu s předpisy.",
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSjhVelRXakhhRHBFSzZKUjhBR2NqUnBTaWluWFlDNXZ6d1FwLWdTQmd1cUJXQ3c2MmhSWm1vMzZwR21tNHpMcnFGdHlpMUt0OVlFNmNuaDAwUUg0WjcxZDBwNU5CV0k4S245S2ZtUXYxdmEyQ0pZblEtTjltUFhkbTNPUVdfeUE4V055T09paWt6QXZILTVnblBLczlZeDNpbEUyWEc2elhsSEszZ19fdFAxSFBmcDY2RVcwTEFRRGhNdDk3YXJrUGYtbzhfRll1Rm5uWXVYZkhpSG1rcERqMTlJUmJ1Zw?oc=5",
         "timestamp": "2026-03-10T07:20:00",
         "timestamp_display": "10. 03. 2026 07:20",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
