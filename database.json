@@ -1,12 +1,48 @@
 [
     {
+        "category": "Technologie",
+        "title": "BYD baterie rekord",
+        "summary": "Čínská firma BYD představila baterii s 1,5 MW nabíjením, která umožní autům ujet více než 1000 km.",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQM3BJZUVZck5GajN4bHBIbFlmLXpPMWFEcVlPd3VBbHktZUdnQ1MyN3RyYUJiLWNxV2NQeHk1UDhXUDBHVFBxNm1QT2dTbUNoZTdKc1Rtb2J0eVZjWlBQUEpkOWFPLW41a3lLNFlfb2lWX0x1T0pPWTQ4RktxNEs1ODgtLTFrQmt4ODkwQWRwRnN0Y1FJV2VSbE96enUtNURLWFMtbzJCZkJpLXN3RDZRLVpaTy1oOFpyOE4tQVpIMWFaMkp5c1dVSzAzRFpfNzdKNHBFal9aeVRmc0dqQ1E?oc=5",
+        "timestamp": "2026-03-09T19:43:23",
+        "timestamp_display": "09. 03. 2026 19:43",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Írán startup dostává",
+        "summary": "Íránský startup Nscale získal 2 miliardy dolarů a dvě významné osobnosti z Meta.",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPREhfTTZUZUl5VHphTDdoMmtZYzdLUkVWNEc1SWUyVlNfdTVBTEhuMUhJS1ZmVDUtTGV5MGstdk53TlpkTnFMeDMybXlqQmtabmdIQ0xDMDJzcUJEa2EyeGJGc3I0bmdobnRoUjN6MV9mc2cxbWNUal93V2NQUjNUWGhDczlkZ2s2UkIzbllKZWtNZko2dnpFN0Nxb3FNYm1rd3h6RC1UOA?oc=5",
+        "timestamp": "2026-03-09T18:56:50",
+        "timestamp_display": "09. 03. 2026 18:56",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "CSG na burze",
+        "summary": "Společnost CSG vstoupila na burzu, další krok ve svém rozvoji.",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBoY3dPOGlaQThKcEIwcTNoYk5pR0stc1hfcHBtUnlQMWZYd0d0ZXdadFJjeXJ0b0I4SzFLVjNkWmtySzJDaXhGUmRTbFZiZ1Z0SHVvQUlNYjA4NEgxZXVMeVN5N1Rzb1Zxa1JnVks0VlpsUnlLWWdGM0dMcw?oc=5",
+        "timestamp": "2026-03-09T00:32:18",
+        "timestamp_display": "09. 03. 2026 00:32",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "O2 kupuje poskytovatele",
+        "summary": "Společnost O2 plánuje kupovat menší poskytovatele internetu, majitelé často sami kontaktují firmu.",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRnRFZ3ZpVWtza29vUVVucmVKWldFSHlOWlhDVElhZ3gyOGpKSlNkMlExaFBjYXUxOXJTZEJZYmhjNHZQVmpWMFJMaUFSbHlsMGdkNU1jVEk5YkpwcWtHRzM3Y2Y0RTVGcktYME9XRmtLZ19mZGQ4RG1pdFpxdHlLR2VDQ2FJTGlkb2c3SnYxR3MyUFJHS2Y5WHU1VzlGempjRkVIRUNzM0xVb0pxWVFNak5KMXpZaFJ0aDdtZDZ6OGVJQQ?oc=5",
+        "timestamp": "2026-03-08T08:00:00",
+        "timestamp_display": "08. 03. 2026 08:00",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "Podnikatelé roku radí",
         "summary": "Podnikatelé roku sdílejí rady, jak dosáhnout úspěchu a stát se šampiony ve svém oboru.",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTXVNTUZ1Y3QyN1VxZ1pDbjk2TVNDTjdHNjkzWFlRdWVhYWlJWlhoVmhfcGtMbnlNMzd4NWwyMjFBczJ0RW5HaHVQRWJ3dDlsV1QweXg4UWdiaHZ5M0M5TktIeEhRWmhvSy1Vb1FXOEJTY0FFdGFLblhvYzFoYURvTA?oc=5",
         "timestamp": "2026-03-09T15:03:18",
         "timestamp_display": "09. 03. 2026 15:03",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
