@@ -1,21 +1,30 @@
 [
     {
         "category": "Byznys",
+        "title": "Nová aplikace pro děti",
+        "summary": "Raiffeisenbank upravila aplikaci pro dětské klienty, aby usnadnila jejich finanční vzdělávání a správu peněz.",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcXZvTWtnUkNDVkpjamhFV256QUVuZlh6SWR6dzRGcnlWVUtkdFZSQXdJYnNESTktckVLU0x3Rl8wYzVSMHhBNDlRNWdldzJYMUVpcG5GR0FYbDB4cTBKeVFVclNQVEJtUDFPN3FpX19GYnlhNmFOX1YzWERES1pOdlB1NWVSUXB1UjZ5Y2tIQXJ4REE1blV5OFIwWk9mNXY1V2o5cnR2SlFodw?oc=5",
+        "timestamp": "2026-03-11T10:30:00",
+        "timestamp_display": "11. 03. 2026 10:30",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Senzory detekují černý led",
+        "summary": "Nové senzory mohou detekovat černý led na silnicích, aby řidiči mohli včas reagovat a zabránit nehodám.",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX3RvZW44anlGaVVaNEgxUXowZkFLNU1CT0t0Q3hIbkV1eE9SWW5IV0RPVXhGUUVhWEptRlljanNaWnFseV9ybk9hOG1JRzVrRmtHaVlqS3NEWW5XLVRtTnhDcHZ4Z0xFYTFCS0l3MF9aek1zQkxEYTVQQTBwRFdDN3VOVnVNRWFUSkVLVExMVGtRSWJLQVQwa2pkQVVhTGJmYUdIaWVpZDBzelpCYUViNkNNMFNVSGJMY0FkRl9kVXFVcjFyWVU0?oc=5",
+        "timestamp": "2026-03-11T06:43:23",
+        "timestamp_display": "11. 03. 2026 06:43",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Ojeté čínské elektromobily",
         "summary": "AAA Auto expanduje do prodeje ojetých čínských elektromobilů, zaměřuje se na kvalitu a dostupnost.",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWlQ0ektwVGFUUVZWaXRoRzlUUmNPb1BPQnNNejFPLVJrZjE5N3pLQzNUdU9wQkl6ckt0N0g0TV9IeUpzcE1GTFhJZFkzOXZKUmFveXVmU3F4cUZrcDRfNTlGY0FwMEJmQWpZeGQzd0RRSjNHbUZsUGxERDc1c1JhSjdvMjVlblJZaE04bDg5ejdVMDdWZGp4Q0MySnFCVkdiNDlpSTVfMGdCS3Q0aXhlMXVIUDFOamZOeFRRWS1vY0psZ0NoQkZXNGZFWEhwSVpPdWk0?oc=5",
         "timestamp": "2026-03-11T05:30:00",
         "timestamp_display": "11. 03. 2026 05:30",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Nová technologie dat",
-        "summary": "Nová technologie využívá negativní luminiscenci ke skrytému přenosu dat, umožňující bezpečnější komunikaci.",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWHRCTndGWF93TXpxUFZlTmtSZENhNVFscHlFSUJfTndOM092RktBa1ZtWTh4ZnZZbUNCT1R1YjdheHlObms2Vm0tdWZZdVpiYnlNdTN6VThZNXVFMDB4a2VXSUdUMHFudVhZYVVLYkptSkRuRVRJQWp2dUVrNzVPUzVLUHhWX1RLX2tIXy01aXRZcGlYcmVBcFFCZlg3ODFycjBNOA?oc=5",
-        "timestamp": "2026-03-11T01:53:05",
-        "timestamp_display": "11. 03. 2026 01:53",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,6 +33,15 @@
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbHh0X0VDdk5jb3hRcUxORzRkQWk3ampPay00R013SWVvSDV3U3NkQ2tWa3k4cGxsYTc0c0dybmtTb0JJN2piSlBaeU5BZ1BqOEppNUJQMzBFX09DUG9DYVgyWDVZTmdqM3VMMV9DNU54WHdLX09GNHdxb1pQNTdjU29obWc2QnJZY182bEhDY1d5aHhXSzFtU2o3aXNXWWxrd0UtU3drMmt4Rm5FR1ZicHJsLUVWTjNCbXNnYQ?oc=5",
         "timestamp": "2026-03-11T04:30:00",
         "timestamp_display": "11. 03. 2026 04:30",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Nová technologie dat",
+        "summary": "Nová technologie využívá negativní luminiscenci ke skrytému přenosu dat, umožňující bezpečnější komunikaci.",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWHRCTndGWF93TXpxUFZlTmtSZENhNVFscHlFSUJfTndOM092RktBa1ZtWTh4ZnZZbUNCT1R1YjdheHlObms2Vm0tdWZZdVpiYnlNdTN6VThZNXVFMDB4a2VXSUdUMHFudVhZYVVLYkptSkRuRVRJQWp2dUVrNzVPUzVLUHhWX1RLX2tIXy01aXRZcGlYcmVBcFFCZlg3ODFycjBNOA?oc=5",
+        "timestamp": "2026-03-11T01:53:05",
+        "timestamp_display": "11. 03. 2026 01:53",
         "is_new": false
     },
     {
