@@ -1,12 +1,21 @@
 [
     {
         "category": "Byznys",
+        "title": "Prodej softwarové firmy",
+        "summary": "Prodej softwarové firmy s sídlem v Praze může vynést až 126 miliard.",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbHh0X0VDdk5jb3hRcUxORzRkQWk3ampPay00R013SWVvSDV3U3NkQ2tWa3k4cGxsYTc0c0dybmtTb0JJN2piSlBaeU5BZ1BqOEppNUJQMzBFX09DUG9DYVgyWDVZTmdqM3VMMV9DNU54WHdLX09GNHdxb1pQNTdjU29obWc2QnJZY182bEhDY1d5aHhXSzFtU2o3aXNXWWxrd0UtU3drMmt4Rm5FR1ZicHJsLUVWTjNCbXNnYQ?oc=5",
+        "timestamp": "2026-03-11T04:30:00",
+        "timestamp_display": "11. 03. 2026 04:30",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Nová generace mění firmy",
         "summary": "Zakladatelé firem tvrdí, že změna není zrada, ale příležitost pro růst a inovace.",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSmhHS1lvOVpfU0JMRkxxdURxWi0yUEY1SXh1bHM2dGwwRzhVNjI3LW5iaWxhdExMcFlYYWlfYlItMjFVbGJINVBqN2cwVERTWGl2ak9LYUxWQVBLM2xnWWVpdjRBZ3dnMEVfUFdsMkxfZXctVmRaQ1Jhb2Z2T245dkxwZE9pQzRaekdDRU5mdGVQVmRLbnVzelJ3?oc=5",
         "timestamp": "2026-03-10T17:13:25",
         "timestamp_display": "10. 03. 2026 17:13",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -15,7 +24,7 @@
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMC1zTjRtcGYxVUM0VWJGSkpPdUVYcEIwNkFhTDBwM0NNZE96N3lTRmNXUnktdWhZNnVTd2hQd21kRk1jNTY4WFMxbzhBc3ZYUWRsSzhKYWNuQncyN09MVXppVGRFRVFSdWFzV3ExSk1tR0ZGTkJOeVFGdE1oSTQzNWttTjRQa1AwOElVcGVDRVhHeFJ3MGd6MnB0b0pNTXRxVjhJbklKRS1rQmFwbElVSS1PMW5OOWtkbllDQk5DQ0hZdWh3MWZwSXgtdWxUYThyVWhXckF0SFJYaTJ3UGdOR3NnQVNWWTlM?oc=5",
         "timestamp": "2026-03-10T16:50:43",
         "timestamp_display": "10. 03. 2026 16:50",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
