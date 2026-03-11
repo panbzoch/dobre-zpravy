@@ -1,12 +1,21 @@
 [
     {
         "category": "Byznys",
+        "title": "Udržitelnost mění byznys",
+        "summary": "Šéfka poroty SME EnterPRIZE mluví o změně celého byznysu směrem k udržitelnosti.",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV1pxUFZXd1VxWVVSVlR1S1Z5ODZxcEpONUFLeXRIOUQzWXFpcU96YU41VGdMa2V3eElTUzVZVHBhT0dXZ0xFcjRPOG5IaDhfNHdaMzVHSTlKcGZLQk45WmlQME80d3RzRUtJUnRVV0RYVXRUQlEwdG1QUkRRaGNFSDhUQlVYaDByTzZHdFN3Q2VqWmVLNVJtYWY1MkZzdkg5WmpiRHp0MExzT041QWNnc1ZsTUZwOTItVjVRUzNuMkdGLS1V?oc=5",
+        "timestamp": "2026-03-11T06:00:00",
+        "timestamp_display": "11. 03. 2026 06:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Nová aplikace pro děti",
         "summary": "Raiffeisenbank upravila aplikaci pro dětské klienty, aby usnadnila jejich finanční vzdělávání a správu peněz.",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcXZvTWtnUkNDVkpjamhFV256QUVuZlh6SWR6dzRGcnlWVUtkdFZSQXdJYnNESTktckVLU0x3Rl8wYzVSMHhBNDlRNWdldzJYMUVpcG5GR0FYbDB4cTBKeVFVclNQVEJtUDFPN3FpX19GYnlhNmFOX1YzWERES1pOdlB1NWVSUXB1UjZ5Y2tIQXJ4REE1blV5OFIwWk9mNXY1V2o5cnR2SlFodw?oc=5",
         "timestamp": "2026-03-11T10:30:00",
         "timestamp_display": "11. 03. 2026 10:30",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -15,7 +24,7 @@
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX3RvZW44anlGaVVaNEgxUXowZkFLNU1CT0t0Q3hIbkV1eE9SWW5IV0RPVXhGUUVhWEptRlljanNaWnFseV9ybk9hOG1JRzVrRmtHaVlqS3NEWW5XLVRtTnhDcHZ4Z0xFYTFCS0l3MF9aek1zQkxEYTVQQTBwRFdDN3VOVnVNRWFUSkVLVExMVGtRSWJLQVQwa2pkQVVhTGJmYUdIaWVpZDBzelpCYUViNkNNMFNVSGJMY0FkRl9kVXFVcjFyWVU0?oc=5",
         "timestamp": "2026-03-11T06:43:23",
         "timestamp_display": "11. 03. 2026 06:43",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
