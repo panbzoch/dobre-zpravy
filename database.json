@@ -1,20 +1,20 @@
 [
     {
         "category": "Byznys",
-        "title": "Čeští investoři v AI",
-        "summary": "Čeští investoři se účastní obřího kola financování nejnadějnějšího AI startupu v Evropě.",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdmpMeHRDUVZaOVFCNnAwMGdrS1FUd2c0RlAzZkZaOFdtYTc1b2tiY0VRUFdpOWxBVDdFZnFmU3VyR3Q3ZnktQVJpUlczcUtZWTExaXU0VEkxUF9WOURRLUl4RWJHWmh6RHZTT19vZWdycERIU3pMQmYxWFQ4NmJzYnBlWExrRzlNMTkxc2R2ZFBjc3hzQnkySWFIOUFha3dFRzUxQ0ZZYw?oc=5",
-        "timestamp": "2026-03-11T08:58:36",
-        "timestamp_display": "11. 03. 2026 08:58",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
         "title": "Nová aplikace pro děti",
         "summary": "Raiffeisenbank upravila aplikaci pro dětské klienty, aby usnadnila jejich finanční vzdělávání a správu peněz.",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcXZvTWtnUkNDVkpjamhFV256QUVuZlh6SWR6dzRGcnlWVUtkdFZSQXdJYnNESTktckVLU0x3Rl8wYzVSMHhBNDlRNWdldzJYMUVpcG5GR0FYbDB4cTBKeVFVclNQVEJtUDFPN3FpX19GYnlhNmFOX1YzWERES1pOdlB1NWVSUXB1UjZ5Y2tIQXJ4REE1blV5OFIwWk9mNXY1V2o5cnR2SlFodw?oc=5",
         "timestamp": "2026-03-11T10:30:00",
         "timestamp_display": "11. 03. 2026 10:30",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Čeští investoři v AI",
+        "summary": "Čeští investoři se účastní obřího kola financování nejnadějnějšího AI startupu v Evropě.",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdmpMeHRDUVZaOVFCNnAwMGdrS1FUd2c0RlAzZkZaOFdtYTc1b2tiY0VRUFdpOWxBVDdFZnFmU3VyR3Q3ZnktQVJpUlczcUtZWTExaXU0VEkxUF9WOURRLUl4RWJHWmh6RHZTT19vZWdycERIU3pMQmYxWFQ4NmJzYnBlWExrRzlNMTkxc2R2ZFBjc3hzQnkySWFIOUFha3dFRzUxQ0ZZYw?oc=5",
+        "timestamp": "2026-03-11T08:58:36",
+        "timestamp_display": "11. 03. 2026 08:58",
         "is_new": false
     },
     {
