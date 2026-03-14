@@ -1,11 +1,20 @@
 [
     {
-        "category": "Technologie",
-        "title": "Záchrana dat z SSD",
-        "summary": "Společnost DataHelp úspěšně zachraňuje data z SSD a flash pamětí, čímž pomáhá uživatelům obnovit důležité informace.",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQi1mbzVMR1NnNm5XbFBydjRWV2hDTVFUTGxXb2U3WFdPRmR0Z3RhbDgtQmNsdTJmVkZvZUVOV3B1NnVJN055QXI1ZE4tOGM1cjhNamRWQWtBRHl6allCYXhZcWg1VHl0WGlzdWxwaWxReUNOZ2VZbEJRbTJJZWQ0eDBPUDlEd0RQZVZ2OWplM251RFJpbklfV21ZMkQ3X0lEdDU0QWl2dGZTUU1KalE?oc=5",
-        "timestamp": "2026-03-13T12:00:00",
-        "timestamp_display": "13. 03. 2026 12:00",
+        "category": "Byznys",
+        "title": "Zásilkovna spouští sobotní doručování",
+        "summary": "Zásilkovna spouští sobotní doručování v třech městech, zlepšuje služby zákazníkům.",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQWhmNGlyUzNHaGstcy1KWGttUjdRTHMzdkZKWVMwWXlzcHJfSFRfa1hxWE5jcW9xZzc2bzJ4TDNzdDJ2TjFidWlIdVAtOHdkTlE4YUxrVHJ5SHVVM2tORnJ5UzNvc1pBLXVEZ0FxQWZRa1R3WnFkb3JGRzFESVN2Q20wQ1o5UXdBeDRaUURPMy1OalhMdi1EZWVySQ?oc=5",
+        "timestamp": "2026-03-14T05:08:12",
+        "timestamp_display": "14. 03. 2026 05:08",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "XTB přidala nouzový zámek",
+        "summary": "XTB přidala do své investiční aplikace nouzový zámek pro zvýšení bezpečnosti uživatelů.",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWkxYTUR0eXhiejdIeHdELU9ZNEFQODdpLWVVLUJ5a0ZGMmFEbTJDZGRBUU5KLVFxWTJPVDJGMGdQbVlGVko2T2VLTFRPNG42ajdqcG9JeEQtM0ZMUXhpTDRJUS1RVXFBWVFtTHFfdkgxYkNSZ084VnoxNXBVTGxjRlI2R3Vwc05QY19pWS1Cd0UzZ013NUtQbC04cllzUDdfVVlsQg?oc=5",
+        "timestamp": "2026-03-12T09:21:00",
+        "timestamp_display": "12. 03. 2026 09:21",
         "is_new": true
     },
     {
@@ -15,6 +24,15 @@
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNekF5NXFhdnZLUEpheWJrcm9XN2FOb2VYNHdDZXlwWUx4OWtPZ2E2d0tPWkNUa1hlVFFjUS1FTWtnVk40TnFxdUpGV3BGZEYzdVc5X2dqdzB4Y3ZqeG9CRWVQV2tHZXJFWnVTb3V6N0I2c1pBYXZjeURGNTJjdG5FRHBHWTdReWxtUGFZOFIwNGJHWjJaWm9zXy1Uak4?oc=5",
         "timestamp": "2026-03-13T14:07:46",
         "timestamp_display": "13. 03. 2026 14:07",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Záchrana dat z SSD",
+        "summary": "Společnost DataHelp úspěšně zachraňuje data z SSD a flash pamětí, čímž pomáhá uživatelům obnovit důležité informace.",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQi1mbzVMR1NnNm5XbFBydjRWV2hDTVFUTGxXb2U3WFdPRmR0Z3RhbDgtQmNsdTJmVkZvZUVOV3B1NnVJN055QXI1ZE4tOGM1cjhNamRWQWtBRHl6allCYXhZcWg1VHl0WGlzdWxwaWxReUNOZ2VZbEJRbTJJZWQ0eDBPUDlEd0RQZVZ2OWplM251RFJpbklfV21ZMkQ3X0lEdDU0QWl2dGZTUU1KalE?oc=5",
+        "timestamp": "2026-03-13T12:00:00",
+        "timestamp_display": "13. 03. 2026 12:00",
         "is_new": false
     },
     {
