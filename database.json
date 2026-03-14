@@ -6,16 +6,7 @@
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQWhmNGlyUzNHaGstcy1KWGttUjdRTHMzdkZKWVMwWXlzcHJfSFRfa1hxWE5jcW9xZzc2bzJ4TDNzdDJ2TjFidWlIdVAtOHdkTlE4YUxrVHJ5SHVVM2tORnJ5UzNvc1pBLXVEZ0FxQWZRa1R3WnFkb3JGRzFESVN2Q20wQ1o5UXdBeDRaUURPMy1OalhMdi1EZWVySQ?oc=5",
         "timestamp": "2026-03-14T05:08:12",
         "timestamp_display": "14. 03. 2026 05:08",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "XTB přidala nouzový zámek",
-        "summary": "XTB přidala do své investiční aplikace nouzový zámek pro zvýšení bezpečnosti uživatelů.",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWkxYTUR0eXhiejdIeHdELU9ZNEFQODdpLWVVLUJ5a0ZGMmFEbTJDZGRBUU5KLVFxWTJPVDJGMGdQbVlGVko2T2VLTFRPNG42ajdqcG9JeEQtM0ZMUXhpTDRJUS1RVXFBWVFtTHFfdkgxYkNSZ084VnoxNXBVTGxjRlI2R3Vwc05QY19pWS1Cd0UzZ013NUtQbC04cllzUDdfVVlsQg?oc=5",
-        "timestamp": "2026-03-12T09:21:00",
-        "timestamp_display": "12. 03. 2026 09:21",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -105,6 +96,15 @@
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPODdBQ2Z5Y3FsUjBSZmJhQWl5UllKYUhPNEdhTEtjMU5EblFMckNEV2wxbUVpUXBUR1VILXpvNlVhOFJNT2dQRm9NdE9oRjFEcGlxdjFXRW1VbGcxTFhGYmh3WTNjeGlXQ3VZX0ZEVnk5ZnA5cXNtamdSNXZOZDc1MnRYQjJrdkZvTWdDaV84bXY5dnJFMFFTT2h4RHQ4VkFJWFhlbWFTX2NDRmdvaFNDS0VLN2p5OG8?oc=5",
         "timestamp": "2026-03-12T11:03:00",
         "timestamp_display": "12. 03. 2026 11:03",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "XTB přidala nouzový zámek",
+        "summary": "XTB přidala do své investiční aplikace nouzový zámek pro zvýšení bezpečnosti uživatelů.",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWkxYTUR0eXhiejdIeHdELU9ZNEFQODdpLWVVLUJ5a0ZGMmFEbTJDZGRBUU5KLVFxWTJPVDJGMGdQbVlGVko2T2VLTFRPNG42ajdqcG9JeEQtM0ZMUXhpTDRJUS1RVXFBWVFtTHFfdkgxYkNSZ084VnoxNXBVTGxjRlI2R3Vwc05QY19pWS1Cd0UzZ013NUtQbC04cllzUDdfVVlsQg?oc=5",
+        "timestamp": "2026-03-12T09:21:00",
+        "timestamp_display": "12. 03. 2026 09:21",
         "is_new": false
     },
     {
