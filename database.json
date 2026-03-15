@@ -1,12 +1,30 @@
 [
     {
+        "category": "Technologie",
+        "title": "Modernizace pařížského metra",
+        "summary": "Alstom nasadí automatické řízení na stoletou linku pařížského metra, což zvýší efektivitu a bezpečnost.",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNeE51X2s2dXdKV2dMSlFGcFI3UFJUZThEYTM2MFA4dXNoNDlFUENvLWJhR2tnUS1EN2x0TE9VQ0FWLW9ZbElkODZlSld0bmRQQVNfNV9ZbGdfZHg2VEI2Qnh5Mi1HUW10Q3JxR0ZYYWw4VlFNenVUbnJtcnh5c0pCLWpVcVpiR0FuenA1dlJyaWVZMGdoTmt4ZzBBVnBxZmNKd0tyeFB6RnFUS0tmZWlJRWtRTjRPSUM0cHdpYS02NjRIakdPR1BJR2VvYW1ZTm5YZTAwRVpmM2ZBTHR4MWw5eU9rVVJNbTJnZFh6V19nVEtNRDk3cE5lQQ?oc=5",
+        "timestamp": "2026-03-14T10:42:51",
+        "timestamp_display": "14. 03. 2026 10:42",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "XTB přidala nouzový zámek",
+        "summary": "XTB přidala do své investiční aplikace nouzový zámek pro zvýšení bezpečnosti uživatelů.",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYUZYTHhkTVJrR0I4S0V6Rm9oY2dNWUNaYmZTNjFTMUo3TGZ4dnpHNzlYU0g1MFZvX1NkRTRRZERRMndfVEgwZnRWRGU5enZ1eUJCX1F3akdkc19OZVJpUnNoSnpoWnJ0V0NUREJBakV2c2JkbDlaTndXdkpHTU1hQV9feENWZVFWZXZyWlU1bGp0YjlzX0t1Z3VFM0VCUzBhME9lbG5hYkE4aUpXNkE?oc=5",
+        "timestamp": "2026-03-12T09:21:00",
+        "timestamp_display": "12. 03. 2026 09:21",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "Chytrá židle vítězí",
         "summary": "Univerzitní startupy představily inovativní projekty, jako chytrá židle a aplikace pro posilovny.",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLU4wZFdPc1FpOC05YWJRbjV0dTZYWU5DbE92YnVRR2ZKbnByUjlDQmNJd19xell4QkVZSXM5bzFENUhjcHQzY3RzdmJTZWxfZ25zNzlJZWluS1VrUkhVcmdnU1pEckxubVlKY0Z2TlVjOXMxbzQyel9jUGdtTUVLMTBRYzJXWFoxam5CbklaOXF4SldNMVMzSTBzNUl5Zw?oc=5",
         "timestamp": "2026-03-15T05:05:52",
         "timestamp_display": "15. 03. 2026 05:05",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTE1pallMVjJHMUV1aEctcE9IZy1IOEthcGlMV0FHT0lhbnNhTXB3T3JQTmMyeC13N3dILXdjdzFZOFhqZjFUV1lpYnJWajczMWtJcWxFTkZ4VlZrdG1PaFJkQUFZTWdpQlI2d3UwSFRENU1SZ3pNX2NlMWYxZzQzYlo5OHBJSHZNNjJSU1hHQ01hd1BoaTVEWDE3bjZyUzFYbXhuWTNNdzRVc1hOaGt3cWhlcURPZjNyLXh3X3N4TXN4Z2FPdmtYQ0YyRQ?oc=5",
         "timestamp": "2026-03-15T05:00:00",
         "timestamp_display": "15. 03. 2026 05:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,16 +42,7 @@
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeGVVaFRKRUZMZ0ZmV2VuTEJRQ2UxUmVOcURqMl8xalhaUjVXMmktcjVRWmhoOWNZZXZmMV91bmJOLVp2Ym5WVXVGYWdyZmpvZVU2Ukx3VTZBbV9LOU1wN2JpOExLV3hKdVhmemxJZ1QzUUJfaE0waWdMUW56ZUx0cmI1VTd1NWx5QXNZelQ5U1Jaakl1UDFNakJDTEJRd3lQSXVn?oc=5",
         "timestamp": "2026-03-14T13:08:35",
         "timestamp_display": "14. 03. 2026 13:08",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Jiří Krejčiřík",
-        "summary": "Jiří Krejčiřík získal ocenění Grand designér roku 2025 za své investice do emocí.",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSWhQZTBCVktId1RrVjRGdEp2SGg3TkNUWnNkUVJEU0FIQXR1QVNjS3RjaVRQck5lUklWSGJFRVh4VFBSd2UwQnc5M0tUQmlVV2MzLWxBX1VLTkNKbzluTkRpS1V4SmhwSWpkby1DRlZiajJ4Zmh1djZSWXZQUXota1FiN3hIcFdvZWcycVlEQUp5YVdMdHBETXBZaDZJNHNkLThLb1JUQVRuUEtqbF9RZlNyZENMODJpckptRG1GaFNaS3B0aUlWcDVrNl9zeEhOU1V3Q2lYYVFFU0lrdzZGelZEVFNYWC1xUHVzRVJWOA?oc=5",
-        "timestamp": "2026-03-12T14:28:32",
-        "timestamp_display": "12. 03. 2026 14:28",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -96,6 +105,15 @@
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcldoZFJ5Vkp0Y191N3FkOVZVRDIzMFFadzJXMjdGaDRrY1hiYXlXdHRfOGxBclEwcGJVMC1HZDlpRXNNa2hRTTdGSEJrZnl0aW85eGpBaUdLNkpEbmtDUHNhc3pPY2FwaWI0QkpEMWJrNElhSVEwb1NXQ3VFQ1Q4OVdEOG1sekhPbThwTjhHR1VzSUhZVll0QllNY29Oclo5Y2E1SWFIaUFxa0l0RkJOVWI1RTc5ajZScHBpWktrUF9WQVhYb2c?oc=5",
         "timestamp": "2026-03-12T17:51:00",
         "timestamp_display": "12. 03. 2026 17:51",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Jiří Krejčiřík",
+        "summary": "Jiří Krejčiřík získal ocenění Grand designér roku 2025 za své investice do emocí.",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSWhQZTBCVktId1RrVjRGdEp2SGg3TkNUWnNkUVJEU0FIQXR1QVNjS3RjaVRQck5lUklWSGJFRVh4VFBSd2UwQnc5M0tUQmlVV2MzLWxBX1VLTkNKbzluTkRpS1V4SmhwSWpkby1DRlZiajJ4Zmh1djZSWXZQUXota1FiN3hIcFdvZWcycVlEQUp5YVdMdHBETXBZaDZJNHNkLThLb1JUQVRuUEtqbF9RZlNyZENMODJpckptRG1GaFNaS3B0aUlWcDVrNl9zeEhOU1V3Q2lYYVFFU0lrdzZGelZEVFNYWC1xUHVzRVJWOA?oc=5",
+        "timestamp": "2026-03-12T14:28:32",
+        "timestamp_display": "12. 03. 2026 14:28",
         "is_new": false
     },
     {
