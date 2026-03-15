@@ -1,20 +1,20 @@
 [
     {
         "category": "Technologie",
-        "title": "Modernizace pařížského metra",
-        "summary": "Alstom nasadí automatické řízení na stoletou linku pařížského metra, což zvýší efektivitu a bezpečnost.",
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNeE51X2s2dXdKV2dMSlFGcFI3UFJUZThEYTM2MFA4dXNoNDlFUENvLWJhR2tnUS1EN2x0TE9VQ0FWLW9ZbElkODZlSld0bmRQQVNfNV9ZbGdfZHg2VEI2Qnh5Mi1HUW10Q3JxR0ZYYWw4VlFNenVUbnJtcnh5c0pCLWpVcVpiR0FuenA1dlJyaWVZMGdoTmt4ZzBBVnBxZmNKd0tyeFB6RnFUS0tmZWlJRWtRTjRPSUM0cHdpYS02NjRIakdPR1BJR2VvYW1ZTm5YZTAwRVpmM2ZBTHR4MWw5eU9rVVJNbTJnZFh6V19nVEtNRDk3cE5lQQ?oc=5",
-        "timestamp": "2026-03-14T10:42:51",
-        "timestamp_display": "14. 03. 2026 10:42",
+        "title": "3D tiskárna tvoří krásu",
+        "summary": "3D tiskárna vytváří ideál ženské krásy pomocí epoxidové pryskyřice a 0,25mm trysky.",
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPSWpMLTdBUS1HbmFrQlNLS1BtX2N4eHppMWVBUVBXLV9valNsUDlxQ1QzNVh6VVN4Y0xDTWlqaktfNFJiMlRZblJCOUFTdVdSRDRYNGtIVmRHakJld3VWR3Atdl9XdUVQMEpXVHJ1blhzcjNNdXU1Nk9BZExqNXd2ajd0alV4dFE5TllmelBYNzZha0NMSDhPN3RNUEh1MGN2WnJFMzNtQkVfQk5VRjdUWXVSd0tja28wRXl4RnJsOVoxd3dubmlfRzFQQUhhQVJSRWptRU05TWdTZnNGbWVTRDNpVVVUMmhzUFBXcEJHOHFKaU1uNXlLQkJwWkZrZ3dxemc?oc=5",
+        "timestamp": "2026-03-15T11:43:59",
+        "timestamp_display": "15. 03. 2026 11:43",
         "is_new": true
     },
     {
-        "category": "Technologie",
-        "title": "XTB přidala nouzový zámek",
-        "summary": "XTB přidala do své investiční aplikace nouzový zámek pro zvýšení bezpečnosti uživatelů.",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYUZYTHhkTVJrR0I4S0V6Rm9oY2dNWUNaYmZTNjFTMUo3TGZ4dnpHNzlYU0g1MFZvX1NkRTRRZERRMndfVEgwZnRWRGU5enZ1eUJCX1F3akdkc19OZVJpUnNoSnpoWnJ0V0NUREJBakV2c2JkbDlaTndXdkpHTU1hQV9feENWZVFWZXZyWlU1bGp0YjlzX0t1Z3VFM0VCUzBhME9lbG5hYkE4aUpXNkE?oc=5",
-        "timestamp": "2026-03-12T09:21:00",
-        "timestamp_display": "12. 03. 2026 09:21",
+        "category": "Byznys",
+        "title": "PPF podporuje český talent",
+        "summary": "PPF podporuje český talent a jeho vývoz za hranice, říká ředitelka neziskových projektů skupiny.",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSFY5Vjl3MU1rSW5IclJaTy0tbV9oSWxVY3h2RjBqaEJ4aXhJanI3WWlqMWZoQllOeFNVRmMyQ1VjZXJRVmlWbXZKREMwX2k1X21KRWRISndNOWJUbHphcFU4TUI1bjJsUVpKQS1nMEg0N2RTU01oQ3k3NWtGTzA1eTlncC1Odm5ObDkyNHpCWjJaRV9LR0dUcklaMG9aS3V0MHVSbjQwWmRPRGwwakR6MHpkNHZRVmVfbGhaUHZOSXpPczZLNmg4OEVR?oc=5",
+        "timestamp": "2026-03-15T05:00:00",
+        "timestamp_display": "15. 03. 2026 05:00",
         "is_new": true
     },
     {
@@ -42,6 +42,15 @@
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeGVVaFRKRUZMZ0ZmV2VuTEJRQ2UxUmVOcURqMl8xalhaUjVXMmktcjVRWmhoOWNZZXZmMV91bmJOLVp2Ym5WVXVGYWdyZmpvZVU2Ukx3VTZBbV9LOU1wN2JpOExLV3hKdVhmemxJZ1QzUUJfaE0waWdMUW56ZUx0cmI1VTd1NWx5QXNZelQ5U1Jaakl1UDFNakJDTEJRd3lQSXVn?oc=5",
         "timestamp": "2026-03-14T13:08:35",
         "timestamp_display": "14. 03. 2026 13:08",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Modernizace pařížského metra",
+        "summary": "Alstom nasadí automatické řízení na stoletou linku pařížského metra, což zvýší efektivitu a bezpečnost.",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNeE51X2s2dXdKV2dMSlFGcFI3UFJUZThEYTM2MFA4dXNoNDlFUENvLWJhR2tnUS1EN2x0TE9VQ0FWLW9ZbElkODZlSld0bmRQQVNfNV9ZbGdfZHg2VEI2Qnh5Mi1HUW10Q3JxR0ZYYWw4VlFNenVUbnJtcnh5c0pCLWpVcVpiR0FuenA1dlJyaWVZMGdoTmt4ZzBBVnBxZmNKd0tyeFB6RnFUS0tmZWlJRWtRTjRPSUM0cHdpYS02NjRIakdPR1BJR2VvYW1ZTm5YZTAwRVpmM2ZBTHR4MWw5eU9rVVJNbTJnZFh6V19nVEtNRDk3cE5lQQ?oc=5",
+        "timestamp": "2026-03-14T10:42:51",
+        "timestamp_display": "14. 03. 2026 10:42",
         "is_new": false
     },
     {
@@ -150,6 +159,15 @@
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPODdBQ2Z5Y3FsUjBSZmJhQWl5UllKYUhPNEdhTEtjMU5EblFMckNEV2wxbUVpUXBUR1VILXpvNlVhOFJNT2dQRm9NdE9oRjFEcGlxdjFXRW1VbGcxTFhGYmh3WTNjeGlXQ3VZX0ZEVnk5ZnA5cXNtamdSNXZOZDc1MnRYQjJrdkZvTWdDaV84bXY5dnJFMFFTT2h4RHQ4VkFJWFhlbWFTX2NDRmdvaFNDS0VLN2p5OG8?oc=5",
         "timestamp": "2026-03-12T11:03:00",
         "timestamp_display": "12. 03. 2026 11:03",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "XTB přidala nouzový zámek",
+        "summary": "XTB přidala do své investiční aplikace nouzový zámek pro zvýšení bezpečnosti uživatelů.",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYUZYTHhkTVJrR0I4S0V6Rm9oY2dNWUNaYmZTNjFTMUo3TGZ4dnpHNzlYU0g1MFZvX1NkRTRRZERRMndfVEgwZnRWRGU5enZ1eUJCX1F3akdkc19OZVJpUnNoSnpoWnJ0V0NUREJBakV2c2JkbDlaTndXdkpHTU1hQV9feENWZVFWZXZyWlU1bGp0YjlzX0t1Z3VFM0VCUzBhME9lbG5hYkE4aUpXNkE?oc=5",
+        "timestamp": "2026-03-12T09:21:00",
+        "timestamp_display": "12. 03. 2026 09:21",
         "is_new": false
     },
     {
