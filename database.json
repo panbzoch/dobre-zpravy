@@ -1,12 +1,75 @@
 [
     {
         "category": "Technologie",
+        "title": "Auto na baterie z e-cigaret",
+        "summary": "YouTuber postavil auto poháněné bateriemi z 500 vyhozených e-cigaret a ujel s ním 29 km.",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVHNwczhKZ3ljNll0VWVINmFBNkhJZnFhZGxta3pFaGRNT05Ub0ZFbmhabUR0VlJQS2NUYUtqVEdCNnZzWXlEWG5sYlphQTJaZG1VSmVQMWw3OXR0Mi0wNnJUWDhmVkNEMWZjZ2JUNzVSYWdXMTJRVDhDZEQtU0YydXg0X3p3VzBVYklJNm5EUmpwMXVjSWIxVVhmbllPbzNIb3ZlcEZlTnAtT0wzZTBmZ3lDR0F4OVNzbThTQUhpWWpzdk03amsyVE9KVlgxNko0dFRsSTgwdkdRcXBXRGtSbHZKRmM3bXNuSmJJ?oc=5",
+        "timestamp": "2026-03-16T14:49:48",
+        "timestamp_display": "16. 03. 2026 14:49",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Polsko vstupuje",
+        "summary": "Polsko se stalo 20. největší ekonomikou světa, podle zprávy Forbes.",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaFl1TnFsalFiWkdja1lxWDBMeTloR0h6T1NGZ0RMQmlFQ1FPNjluc09seXBSQUJiQjFubE0wNkNrSXh0ektjNGFtVUZrdmk2NXBBTkRlbVlMbktBanM2bnE2M0NrdHNPVUlERng1b0VtVDNhX2U2S3JDUTZnSmkxZFliMlliNTY1dWFVcnMzS1JQT3N3?oc=5",
+        "timestamp": "2026-03-16T14:42:02",
+        "timestamp_display": "16. 03. 2026 14:42",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "První raketa na tekuté palivo",
+        "summary": "Před 100 lety odstartovala první raketa na tekuté palivo s obrácenou konstrukcí.",
+        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNaFYtbHJ6VEhwcFhOc2VRTExKU2pMSERTQmdobXBZN0lFa3RQZlI5QXp0eG9EdXZrYjBjN2EwYldoQlI1TVYwZDVSVGJkY3N5RV9UWjF3SUxJeHBwNkk2T0U1N01qOElFd1QycXFkMURleEwyNVpNNDQ4ajR0dUljWlVwZERhdHBjVjZiQWRvSFMzYVd6Z2pXd3ZTNE84VFFnWjkxd0lJZlhrdmtXYUdiOGtHZnUxc290UWo1MFo1Mk9GTF9sUlRsMVJvbV94bndJeXIyTGw2WTE5LUNrS0o4V3htamY4ekpBei1GOTBQZ2hoNENOWlFLXzRvX1hReHQ2b0o5anU4Wk9qclU?oc=5",
+        "timestamp": "2026-03-16T13:45:00",
+        "timestamp_display": "16. 03. 2026 13:45",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Asseco prodlužuje přihlašování",
+        "summary": "Asseco prodlužuje přihlašování do startupového inkubátoru UpSteer, aby podpořila inovativní podniky.",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVzlLZkFDUzFEMkUteXI3VDRFd2lRLXhSRG03aDV2S3pjdHpaMEZvTndmS2FZWmp6c1J6Uk8tNjBDX21GVTkyQmxtOTlEQkRYVEo1VXNBdzdRMk1vSUdyYjZxYmdhLTh0cThMUWtKQTZ6N3B5TU1STTNBRU9YZzlIUGk5RFczRUVHU3owYjJ3cUx6TlpJakx4OG1neGhsU0ZEaEFhbXdOS2dsUnZmQjZObEdENnp6Zw?oc=5",
+        "timestamp": "2026-03-16T12:00:00",
+        "timestamp_display": "16. 03. 2026 12:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice do gastronomie",
+        "summary": "Společnost Choice získala 150 milionů na rozvoj gastronomie a nové projekty.",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbVpDaXdsa3owUi0yd0V2SjlWaHVkVkN4ZEx1QWtoc2VVcXBMTUFscFFUbW5DYzlBNG93U2xEWTZ4Z1dfRERkSmt0cUNXZEMwQ3RldVR1V2Q5WGlxOEIxand1S0RvVHZzQ0lzT3hveVdpVHZhdlJ3Nl9CNjVCcGtnY2xyTjF3NzdjZEhmNUpJNnZSMUxvYlQxOXp0WjN4dw?oc=5",
+        "timestamp": "2026-03-16T11:15:28",
+        "timestamp_display": "16. 03. 2026 11:15",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Český startup získává investici",
+        "summary": "Český startup získal 150milionovou investici pro zpracování dat a pomoc restauracím vrátit zákazníky.",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY1JmMkl3LXBVMUVHR243WE1RMzF6WG9iajhpdUJ1VUdYMklWc2IwaEZidTVKblVVTnJSVVgtSkNUTXJob1FEVW8tNkJ2UHF1bS11NUZ6M3lmSzZvSW1JNHBRMG9TSzZSVkxOdWZLU2ZBeUFrdlFUWWtoMVhmU3ZEbDhtNWpOX3VzV3lqaGFXa09JOHJndU1ONDdfQ0syVFRqOUtVTFVkTzRfX2ExMUZIM2h6QkhHNk40b042bDNkdDZGMHI2d3JaWTRNYUhxcUJPZUxhUXJ4TQ?oc=5",
+        "timestamp": "2026-03-13T07:00:00",
+        "timestamp_display": "13. 03. 2026 07:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Tři kamarádi staví byty",
+        "summary": "Tři přátelé z Vysočiny rozšiřují svou stavební firmu do Prahy, kde plánují postavit stovky bytů.",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObGlDQTZtMm9WY1REUG5MZzdEeTBuNXlIRHpFdnRyem9QQTdKamxJengwaEJkai1jeEtYbnVQY1EwN05WVXdzcWE5OE1PUVVBMzdaSmNvMUY0bUNBblEwU3hMd0hST1JvRWp5VGduYVh2a00tUWE3M2RzS1ZmQWhxaWIxclZzSjk0cDJvSklFemhlVEYzV2NQc25TY0JkY1ROX2J5QktLb2xReDlHbXBUNXFMUDVmdEJMbDRB?oc=5",
+        "timestamp": "2026-03-13T05:20:53",
+        "timestamp_display": "13. 03. 2026 05:20",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
         "title": "Úsporná technika se vyplácí",
         "summary": "Divadlo Mír šetří díky solární elektrárně a vzduchotechnice, investice se vyplácí.",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM1hWVlZVOXNEa1U4bV9KTWNSc2tGNk9PRmQzbGtJUHptdmkwRms5WjhwcmJpTzNiSU1OeS1jem9sSkxEajdZQlNIQjRya042VFZwdWQxR0paNVlLQ1l4X29XaVBFQWYwT3FBYWgxVUQ1SEpoRVk0OFB3MGc0VFlUdW1KZlRUejc2NGRNXzlwVlFXMFpodkl1V19pX0pwMFBNRkJZSTFpbjR6RHM3dFVLaEl1c1pwVHExTlFWZTJqaE0?oc=5",
         "timestamp": "2026-03-16T09:58:00",
         "timestamp_display": "16. 03. 2026 09:58",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +78,7 @@
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORVpfcTJ5RG5KQzMyRnBsZ0lpN3R0TzNxY2NZMEdsYUVXTUhnV0I4OFI3ZUN4MkI2TXBWZVdOSU9VUGs1RXJ4RlFnVk1JaW56OHo2R3BkcHdURTBhWGhSMW5PNWJTNlZGNS1DRDFDNGh2dk1adlBRM3VhaWNmVWdwa2d2OEpTU2lPejlaaFN2VkxRSFk?oc=5",
         "timestamp": "2026-03-16T09:14:12",
         "timestamp_display": "16. 03. 2026 09:14",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
