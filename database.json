@@ -1,12 +1,30 @@
 [
     {
+        "category": "Technologie",
+        "title": "Úsporná technika se vyplácí",
+        "summary": "Divadlo Mír šetří díky solární elektrárně a vzduchotechnice, investice se vyplácí.",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM1hWVlZVOXNEa1U4bV9KTWNSc2tGNk9PRmQzbGtJUHptdmkwRms5WjhwcmJpTzNiSU1OeS1jem9sSkxEajdZQlNIQjRya042VFZwdWQxR0paNVlLQ1l4X29XaVBFQWYwT3FBYWgxVUQ1SEpoRVk0OFB3MGc0VFlUdW1KZlRUejc2NGRNXzlwVlFXMFpodkl1V19pX0pwMFBNRkJZSTFpbjR6RHM3dFVLaEl1c1pwVHExTlFWZTJqaE0?oc=5",
+        "timestamp": "2026-03-16T09:58:00",
+        "timestamp_display": "16. 03. 2026 09:58",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Drobní investoři sílí",
+        "summary": "Drobní investoři tvoří až třetinu obchodů na burzách, získávají na síle.",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORVpfcTJ5RG5KQzMyRnBsZ0lpN3R0TzNxY2NZMEdsYUVXTUhnV0I4OFI3ZUN4MkI2TXBWZVdOSU9VUGs1RXJ4RlFnVk1JaW56OHo2R3BkcHdURTBhWGhSMW5PNWJTNlZGNS1DRDFDNGh2dk1adlBRM3VhaWNmVWdwa2d2OEpTU2lPejlaaFN2VkxRSFk?oc=5",
+        "timestamp": "2026-03-16T09:14:12",
+        "timestamp_display": "16. 03. 2026 09:14",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "Trigema expanduje",
         "summary": "Trigema plánuje miliardový fond, mrakodrap a prefabrikované domy, expanduje do Mongolska.",
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQX1I1TGlaaVpCM2ZvOFBxUVdMSjEwLUMzcVBidFBsSF9VTFJVbldvM1hfWUx5ekNsczloSWFMdlJmRFdrWWdyZzlXOU5SX0Mzai1ETThZQkwxMFFSQ0IzLUhkNURERThqM1FuQ1RNYjNpb2tmeDFtZWduVXp5aGxFdXVURlN2U04tRHNHbjBTYWdEcnZzUjg3a2h1SHVlVE5CVHZ3eG1fSHJyNjZoX0dnSFJmclJ4WndmTGZITFRXNXZyRGxXNDdONkRwVEw2UE5NMmVkR19SOGxnQkdjVmtSY2Nnb04?oc=5",
         "timestamp": "2026-03-16T04:00:00",
         "timestamp_display": "16. 03. 2026 04:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -15,34 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNazJNUVVRYmlydGFhc2d2N29iLXpWdDNlXzRvcmNoZ3VBY2N5OUQ3Mjlfc2tRdEF3OTVUWHRSX25nX2RhZmlFQnp5T2RPU2pxUndlemg3MVdxalFfVmdLNWNlVXZLZnk5a2RydTd4STBRZzI2S0RaXzBCbmdGQUdCMTdUYkRza2dESGxPckNsMmJTczdqb05OU2pRVXY1QmY2Vnc?oc=5",
         "timestamp": "2026-03-15T23:00:00",
         "timestamp_display": "15. 03. 2026 23:00",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "GoodWe tiché řešení",
-        "summary": "GoodWe představilo první certifikované tiché řešení pro skladování energie na evropském trhu.",
-        "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNVFZoVmpWVWtLRTRTdXdUYkI2b0w5emFiUFRYVjF2RHdfXzRCY0dmRUN4MnNTRFpNOFhnbTM0bmFGTkVBUXE2RFk0cTNES0dVemh2RmQxY2xtVUhyVHozQ05TZjFVNVdLUEU1ZEREeV84QUdFWmVpUVJzcHRNc0dvOE91V2oteUlvNDB2RXNJbEpmb1MwYTVPRWZxeWRydUs5Q0xMMmxCbFpkaTlrUTAtWjRmT2VwU21HYkxEdHZXd09xQUt5amUwNXROTzgzR0RJMy1lcWg3Zl95WlZDVEVkVjNHS0JuVktBYkdDZDlBMlphalhMMTc0dWdXZ2hja0lJM1MwMFN0czgtMlExQnEwenhsTURTal9VODVLZnU2QVpHcW9jN2k3OEw4eVVyWEtDNy00LQ?oc=5",
-        "timestamp": "2026-03-15T09:29:00",
-        "timestamp_display": "15. 03. 2026 09:29",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Lucid představuje novou platformu",
-        "summary": "Lucid představuje novou platformu Midsize a oznamuje nové zdroje příjmů pro škálování.",
-        "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNRUZEUG5lY1YwalpuSTdMQV9VZVpLUFlUdE10Z0x6c1BBYUNfTmU3b294eFVqcHhybE92dzdHV2NtWnFPR3EtQ1VjS1hXRDQ5bHBoMkdKenBIRHJXSXozdTRpUmk0SGF4WUhuTG1JNTQydmRxZFk4Wm5sUGZzTmhYcVpRZFRpb2lRYkdITWpYd0huUnREYnJBZmZCQ0JpY1NlSDlxOHZRMzFXMkVuNE9faU1KSGJFZnphZm5YTEFlWXhxOXRBbHBCcV8tdG1tNXZZODRjZHhQRjE4RGlwdG9lX3VUM0dYVW9EdmFIWHBOYTNPc0dkYUZDaG5JYS1sbFBLVWhLd256YkR0WEFqc3BaWS1HbjNWTTM1Z2xFVnJsTmh1ZjhY?oc=5",
-        "timestamp": "2026-03-15T09:19:00",
-        "timestamp_display": "15. 03. 2026 09:19",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "ČVUT uvolnil AI platformu",
-        "summary": "Tým Alquist z ČVUT uvolnil open source AI platformu pro nasazení chatbota na vlastní infrastruktuře.",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORXVLTjN1SEJsOElITXI0NzBtVHA4NnYyU0V0NWVwN3dtRG9lZTQyb1RSeE0zTW1GNTQ2LTNNZTA4a1ZJelJBTDFubjVFVmVPQVVzYzF4ejh1dGFJUzNkdDdFN28xUURwaEEtMXpRdTJuX09RQzk1aE9PNzRuUjA2QWwza0VmY2VEZ3NUMS1zV0doVzlkeF95bGp0Mm5wWm1qaHBEZVEzaE56dTNSenVtMmxvMXY0Ry0wUmNEUm13SW9DLTBXV2pLYXBqcmZTWE1y?oc=5",
-        "timestamp": "2026-03-12T16:50:03",
-        "timestamp_display": "12. 03. 2026 16:50",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -51,6 +42,24 @@
         "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPSWpMLTdBUS1HbmFrQlNLS1BtX2N4eHppMWVBUVBXLV9valNsUDlxQ1QzNVh6VVN4Y0xDTWlqaktfNFJiMlRZblJCOUFTdVdSRDRYNGtIVmRHakJld3VWR3Atdl9XdUVQMEpXVHJ1blhzcjNNdXU1Nk9BZExqNXd2ajd0alV4dFE5TllmelBYNzZha0NMSDhPN3RNUEh1MGN2WnJFMzNtQkVfQk5VRjdUWXVSd0tja28wRXl4RnJsOVoxd3dubmlfRzFQQUhhQVJSRWptRU05TWdTZnNGbWVTRDNpVVVUMmhzUFBXcEJHOHFKaU1uNXlLQkJwWkZrZ3dxemc?oc=5",
         "timestamp": "2026-03-15T11:43:59",
         "timestamp_display": "15. 03. 2026 11:43",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "GoodWe tiché řešení",
+        "summary": "GoodWe představilo první certifikované tiché řešení pro skladování energie na evropském trhu.",
+        "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNVFZoVmpWVWtLRTRTdXdUYkI2b0w5emFiUFRYVjF2RHdfXzRCY0dmRUN4MnNTRFpNOFhnbTM0bmFGTkVBUXE2RFk0cTNES0dVemh2RmQxY2xtVUhyVHozQ05TZjFVNVdLUEU1ZEREeV84QUdFWmVpUVJzcHRNc0dvOE91V2oteUlvNDB2RXNJbEpmb1MwYTVPRWZxeWRydUs5Q0xMMmxCbFpkaTlrUTAtWjRmT2VwU21HYkxEdHZXd09xQUt5amUwNXROTzgzR0RJMy1lcWg3Zl95WlZDVEVkVjNHS0JuVktBYkdDZDlBMlphalhMMTc0dWdXZ2hja0lJM1MwMFN0czgtMlExQnEwenhsTURTal9VODVLZnU2QVpHcW9jN2k3OEw4eVVyWEtDNy00LQ?oc=5",
+        "timestamp": "2026-03-15T09:29:00",
+        "timestamp_display": "15. 03. 2026 09:29",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Lucid představuje novou platformu",
+        "summary": "Lucid představuje novou platformu Midsize a oznamuje nové zdroje příjmů pro škálování.",
+        "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNRUZEUG5lY1YwalpuSTdMQV9VZVpLUFlUdE10Z0x6c1BBYUNfTmU3b294eFVqcHhybE92dzdHV2NtWnFPR3EtQ1VjS1hXRDQ5bHBoMkdKenBIRHJXSXozdTRpUmk0SGF4WUhuTG1JNTQydmRxZFk4Wm5sUGZzTmhYcVpRZFRpb2lRYkdITWpYd0huUnREYnJBZmZCQ0JpY1NlSDlxOHZRMzFXMkVuNE9faU1KSGJFZnphZm5YTEFlWXhxOXRBbHBCcV8tdG1tNXZZODRjZHhQRjE4RGlwdG9lX3VUM0dYVW9EdmFIWHBOYTNPc0dkYUZDaG5JYS1sbFBLVWhLd256YkR0WEFqc3BaWS1HbjNWTTM1Z2xFVnJsTmh1ZjhY?oc=5",
+        "timestamp": "2026-03-15T09:19:00",
+        "timestamp_display": "15. 03. 2026 09:19",
         "is_new": false
     },
     {
@@ -159,6 +168,15 @@
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcldoZFJ5Vkp0Y191N3FkOVZVRDIzMFFadzJXMjdGaDRrY1hiYXlXdHRfOGxBclEwcGJVMC1HZDlpRXNNa2hRTTdGSEJrZnl0aW85eGpBaUdLNkpEbmtDUHNhc3pPY2FwaWI0QkpEMWJrNElhSVEwb1NXQ3VFQ1Q4OVdEOG1sekhPbThwTjhHR1VzSUhZVll0QllNY29Oclo5Y2E1SWFIaUFxa0l0RkJOVWI1RTc5ajZScHBpWktrUF9WQVhYb2c?oc=5",
         "timestamp": "2026-03-12T17:51:00",
         "timestamp_display": "12. 03. 2026 17:51",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "ČVUT uvolnil AI platformu",
+        "summary": "Tým Alquist z ČVUT uvolnil open source AI platformu pro nasazení chatbota na vlastní infrastruktuře.",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORXVLTjN1SEJsOElITXI0NzBtVHA4NnYyU0V0NWVwN3dtRG9lZTQyb1RSeE0zTW1GNTQ2LTNNZTA4a1ZJelJBTDFubjVFVmVPQVVzYzF4ejh1dGFJUzNkdDdFN28xUURwaEEtMXpRdTJuX09RQzk1aE9PNzRuUjA2QWwza0VmY2VEZ3NUMS1zV0doVzlkeF95bGp0Mm5wWm1qaHBEZVEzaE56dTNSenVtMmxvMXY0Ry0wUmNEUm13SW9DLTBXV2pLYXBqcmZTWE1y?oc=5",
+        "timestamp": "2026-03-12T16:50:03",
+        "timestamp_display": "12. 03. 2026 16:50",
         "is_new": false
     },
     {
