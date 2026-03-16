@@ -1,12 +1,66 @@
 [
     {
+        "category": "Byznys",
+        "title": "Startup Macromo",
+        "summary": "Macromo plánuje zdvojnásobit počet uživatelů díky nové AI aplikaci.",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTVI5QXJlMTV0UGFUWWxGWDJyMVBRcFFFRGltc3h2NlQ1Zy1nY2tjX0JqdzdsbmZDdFNPU0xmNlFQcVZidlNzTGdhX05aS0RzcDZvVFd0RGF1YXAtWTdiMHpyc0EwMVBOaktZa3NQdnlFU1oybVV3bUgtU1ZPQ2RsbVlIand1dXdBRDhHUTNNWXk3em1TT3hMMVRIZUJkdzBCRjFmelZBaw?oc=5",
+        "timestamp": "2026-03-16T16:00:56",
+        "timestamp_display": "16. 03. 2026 16:00",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Auto na baterie z e-cigaret",
+        "summary": "YouTuber postavil auto poháněné bateriemi z 500 vyhozených e-cigaret, ujel s ním 29 km.",
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOS2lvUkhlMVp4a0VrUXpPSXMtNEUwcFl6ZlRldUtGRzdndnRmMFZWMTdMcVg0YjNwdnFNTkRWRFFLdlJPU2hqMmZObmpNM1luN29mX05uTzZROFBaUjFtNUNLNWNOLWNJYUl2Qkp6LWVqMFBpZ1JkOGhsd1lFcFgyVHZ4RnR6RWFUTUg1Z0hBeXNYaDFIenByYmhXNk45SERWMWpXYlMtU1dhTXNRSWcwbEZxaU9EaGJYR2NvcDBGeHdoLWgtRFp3ZW5CVlpEZG1NVEcxSmtKVFRTMlFNT3hiZ1loZUFqVzZ6M3lLeENfTzVCUVd0MlUtMVVodDgzUQ?oc=5",
+        "timestamp": "2026-03-16T15:52:26",
+        "timestamp_display": "16. 03. 2026 15:52",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Investice může změnit život, jeden dobrý tah může přinést úspěch a finanční růst.",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wVDd4YXpIR3p2c1dzZnVtc3JnN1VNMjlveG4tOEhYZmVnWWh2ajF3OHZGN3RKRGh3Uks2Mkk1Vmh1R0Q2b2VLV1VBV1JpNFdubHlFNUdsRVpPZw?oc=5",
+        "timestamp": "2026-03-16T14:35:46",
+        "timestamp_display": "16. 03. 2026 14:35",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Soukromé lety celého světa",
+        "summary": "PRESTON Aviation nabízí soukromé lety do celého světa, poskytující flexibilitu a komfort cestujícím.",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZFQzZy0tdUlvb2FIUWt6czNySjlCajVxM3l5SU52enBKLWotSjhKR183Tkc1R3ZtN3BXeDlaVUlfZE9mMXB5YnpmaXdwbFMyVk02UzNGR1IyV0tZc0UzNEZzczZtXzlXN2M1TndDNnRtWkd1VnV2dGF5ZV9WX0IyM0VOclhMdzBqQmxJSjlaSWhaVkhua2djSElwN0lSS2RESzNCOG0xYW13X0RBOXZjVXoxbFhndDlpeEF3R0FiQVUxLWxHcE9jaA?oc=5",
+        "timestamp": "2026-03-16T13:45:00",
+        "timestamp_display": "16. 03. 2026 13:45",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "První raketa na tekuté palivo",
+        "summary": "Před sto lety odstartovala první raketa na tekuté palivo s obrácenou konstrukcí.",
+        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPbmx5WWJMOWN5VmlFSzRVQm15ajFyODdOQy1FeWNtN0d3VGxJT1lxenBEVW1qQkFaMnFPS29oR0FDeVNnQXR3X2Q0Q2lmMUZTRUJ4ZF9VQ0NyMEdRYnRuV0tjQmQtcVByczJfU2dHQWozYThZRWxRY3RwNXl5eTJ4VzZHdUQ1ZVFZa2c2SlgycnVCOVh3SF9YeUcwaU9XTUNrOUxuZUdtVkU3Rzk0YlNFVGg3dnpsSVVCSXdjLVZzd1RIeXBJRUlDUzFMN3F6aVN2SVVNbUh0LTRmQWFHb0ljWXpnUlducUJ2Y0FJVGxURUJkeVpnWWFqcUZsNnRkZ0xKYlo0OU95ckZ0NTE1NGc?oc=5",
+        "timestamp": "2026-03-16T13:45:00",
+        "timestamp_display": "16. 03. 2026 13:45",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Startup získal 150 milionů",
+        "summary": "Startup získal dalších 150 milionů investice a expanduje do nové části Evropy.",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcklTYXoydWNWZF9MUDRpNmpTSVVTTWdfUmVlcnk2UElTMm1HWUlEUXJ2ZGtCM0RtZHh0ZXc3TWZLWXhEMzVXSkZjSHAzRHhBbU1xc2FJWk53X2xxYTlVNGg4Nl9DZ2lObTE1Z0RCR2JocGVINll5WjdvcVFWQkFlVXNZdkZEX1g0M2x2UXBsZ2xNeUhJeE9yNld3N2RzZUVrTXo4ampzN0p4TVl3bjhEcFFn?oc=5",
+        "timestamp": "2026-03-16T11:01:07",
+        "timestamp_display": "16. 03. 2026 11:01",
+        "is_new": true
+    },
+    {
         "category": "Technologie",
         "title": "Auto na baterie z e-cigaret",
         "summary": "YouTuber postavil auto poháněné bateriemi z 500 vyhozených e-cigaret a ujel s ním 29 km.",
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVHNwczhKZ3ljNll0VWVINmFBNkhJZnFhZGxta3pFaGRNT05Ub0ZFbmhabUR0VlJQS2NUYUtqVEdCNnZzWXlEWG5sYlphQTJaZG1VSmVQMWw3OXR0Mi0wNnJUWDhmVkNEMWZjZ2JUNzVSYWdXMTJRVDhDZEQtU0YydXg0X3p3VzBVYklJNm5EUmpwMXVjSWIxVVhmbllPbzNIb3ZlcEZlTnAtT0wzZTBmZ3lDR0F4OVNzbThTQUhpWWpzdk03amsyVE9KVlgxNko0dFRsSTgwdkdRcXBXRGtSbHZKRmM3bXNuSmJJ?oc=5",
         "timestamp": "2026-03-16T14:49:48",
         "timestamp_display": "16. 03. 2026 14:49",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +69,7 @@
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaFl1TnFsalFiWkdja1lxWDBMeTloR0h6T1NGZ0RMQmlFQ1FPNjluc09seXBSQUJiQjFubE0wNkNrSXh0ektjNGFtVUZrdmk2NXBBTkRlbVlMbktBanM2bnE2M0NrdHNPVUlERng1b0VtVDNhX2U2S3JDUTZnSmkxZFliMlliNTY1dWFVcnMzS1JQT3N3?oc=5",
         "timestamp": "2026-03-16T14:42:02",
         "timestamp_display": "16. 03. 2026 14:42",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -24,7 +78,7 @@
         "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNaFYtbHJ6VEhwcFhOc2VRTExKU2pMSERTQmdobXBZN0lFa3RQZlI5QXp0eG9EdXZrYjBjN2EwYldoQlI1TVYwZDVSVGJkY3N5RV9UWjF3SUxJeHBwNkk2T0U1N01qOElFd1QycXFkMURleEwyNVpNNDQ4ajR0dUljWlVwZERhdHBjVjZiQWRvSFMzYVd6Z2pXd3ZTNE84VFFnWjkxd0lJZlhrdmtXYUdiOGtHZnUxc290UWo1MFo1Mk9GTF9sUlRsMVJvbV94bndJeXIyTGw2WTE5LUNrS0o4V3htamY4ekpBei1GOTBQZ2hoNENOWlFLXzRvX1hReHQ2b0o5anU4Wk9qclU?oc=5",
         "timestamp": "2026-03-16T13:45:00",
         "timestamp_display": "16. 03. 2026 13:45",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,7 +87,7 @@
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVzlLZkFDUzFEMkUteXI3VDRFd2lRLXhSRG03aDV2S3pjdHpaMEZvTndmS2FZWmp6c1J6Uk8tNjBDX21GVTkyQmxtOTlEQkRYVEo1VXNBdzdRMk1vSUdyYjZxYmdhLTh0cThMUWtKQTZ6N3B5TU1STTNBRU9YZzlIUGk5RFczRUVHU3owYjJ3cUx6TlpJakx4OG1neGhsU0ZEaEFhbXdOS2dsUnZmQjZObEdENnp6Zw?oc=5",
         "timestamp": "2026-03-16T12:00:00",
         "timestamp_display": "16. 03. 2026 12:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -42,25 +96,7 @@
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbVpDaXdsa3owUi0yd0V2SjlWaHVkVkN4ZEx1QWtoc2VVcXBMTUFscFFUbW5DYzlBNG93U2xEWTZ4Z1dfRERkSmt0cUNXZEMwQ3RldVR1V2Q5WGlxOEIxand1S0RvVHZzQ0lzT3hveVdpVHZhdlJ3Nl9CNjVCcGtnY2xyTjF3NzdjZEhmNUpJNnZSMUxvYlQxOXp0WjN4dw?oc=5",
         "timestamp": "2026-03-16T11:15:28",
         "timestamp_display": "16. 03. 2026 11:15",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Český startup získává investici",
-        "summary": "Český startup získal 150milionovou investici pro zpracování dat a pomoc restauracím vrátit zákazníky.",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY1JmMkl3LXBVMUVHR243WE1RMzF6WG9iajhpdUJ1VUdYMklWc2IwaEZidTVKblVVTnJSVVgtSkNUTXJob1FEVW8tNkJ2UHF1bS11NUZ6M3lmSzZvSW1JNHBRMG9TSzZSVkxOdWZLU2ZBeUFrdlFUWWtoMVhmU3ZEbDhtNWpOX3VzV3lqaGFXa09JOHJndU1ONDdfQ0syVFRqOUtVTFVkTzRfX2ExMUZIM2h6QkhHNk40b042bDNkdDZGMHI2d3JaWTRNYUhxcUJPZUxhUXJ4TQ?oc=5",
-        "timestamp": "2026-03-13T07:00:00",
-        "timestamp_display": "13. 03. 2026 07:00",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Tři kamarádi staví byty",
-        "summary": "Tři přátelé z Vysočiny rozšiřují svou stavební firmu do Prahy, kde plánují postavit stovky bytů.",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObGlDQTZtMm9WY1REUG5MZzdEeTBuNXlIRHpFdnRyem9QQTdKamxJengwaEJkai1jeEtYbnVQY1EwN05WVXdzcWE5OE1PUVVBMzdaSmNvMUY0bUNBblEwU3hMd0hST1JvRWp5VGduYVh2a00tUWE3M2RzS1ZmQWhxaWIxclZzSjk0cDJvSklFemhlVEYzV2NQc25TY0JkY1ROX2J5QktLb2xReDlHbXBUNXFMUDVmdEJMbDRB?oc=5",
-        "timestamp": "2026-03-13T05:20:53",
-        "timestamp_display": "13. 03. 2026 05:20",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -208,11 +244,29 @@
     },
     {
         "category": "Byznys",
+        "title": "Český startup získává investici",
+        "summary": "Český startup získal 150milionovou investici pro zpracování dat a pomoc restauracím vrátit zákazníky.",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY1JmMkl3LXBVMUVHR243WE1RMzF6WG9iajhpdUJ1VUdYMklWc2IwaEZidTVKblVVTnJSVVgtSkNUTXJob1FEVW8tNkJ2UHF1bS11NUZ6M3lmSzZvSW1JNHBRMG9TSzZSVkxOdWZLU2ZBeUFrdlFUWWtoMVhmU3ZEbDhtNWpOX3VzV3lqaGFXa09JOHJndU1ONDdfQ0syVFRqOUtVTFVkTzRfX2ExMUZIM2h6QkhHNk40b042bDNkdDZGMHI2d3JaWTRNYUhxcUJPZUxhUXJ4TQ?oc=5",
+        "timestamp": "2026-03-13T07:00:00",
+        "timestamp_display": "13. 03. 2026 07:00",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
         "title": "Udržitelnost není gesto",
         "summary": "Martin Flajšar z Generali České pojišťovny mluví o udržitelnosti jako o důležité součásti byznysu.",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaE05cHJFWkRSMEZ2UGFrTGlTZE12ZzA3cUVsX29jcUdtSmxFYXRNSGk2T05rU3BZNW5TZXZldTF1LXJxUzV4eUllRVJaUXF6SkhCdF9mMElyYmtnemZUSkdrbGszLWx5M1BXaUU3MU4yU3o4RnVZeWhtaW9iYzJJc0xhakJ2azhPb0FLbnMzU3F5N2piOWVrZWsyZVFFOEpONTVLOWFIMkJubWJSeWxnakxBOS1vRGVDNUpKSnhQdHc?oc=5",
         "timestamp": "2026-03-13T06:00:00",
         "timestamp_display": "13. 03. 2026 06:00",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Tři kamarádi staví byty",
+        "summary": "Tři přátelé z Vysočiny rozšiřují svou stavební firmu do Prahy, kde plánují postavit stovky bytů.",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObGlDQTZtMm9WY1REUG5MZzdEeTBuNXlIRHpFdnRyem9QQTdKamxJengwaEJkai1jeEtYbnVQY1EwN05WVXdzcWE5OE1PUVVBMzdaSmNvMUY0bUNBblEwU3hMd0hST1JvRWp5VGduYVh2a00tUWE3M2RzS1ZmQWhxaWIxclZzSjk0cDJvSklFemhlVEYzV2NQc25TY0JkY1ROX2J5QktLb2xReDlHbXBUNXFMUDVmdEJMbDRB?oc=5",
+        "timestamp": "2026-03-13T05:20:53",
+        "timestamp_display": "13. 03. 2026 05:20",
         "is_new": false
     },
     {
