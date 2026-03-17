@@ -1,12 +1,30 @@
 [
     {
         "category": "Byznys",
+        "title": "Německo zdvojnásobí datacentra",
+        "summary": "Německo plánuje do roku 2030 zdvojnásobit kapacity datových center, aby podpořilo růst digitální ekonomiky.",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSTIwMFJQX0k5SENlWEZiMS04dFU5WE5OUDB1Y1FSQ3Y5dTUwMjNyNWpZUmRUdUlBQk9DWXR2YXQzNDhRQ0VRUFlJbmlGZjFfRjkzMndzMGpkM0VjenJkQmN6dGFHbDNzdW9GazhsRWdYUVVMQjBUbDRYdW5KRUtJT0xseVR1RHFHNWc?oc=5",
+        "timestamp": "2026-03-17T11:58:11",
+        "timestamp_display": "17. 03. 2026 11:58",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Stříbrňáky.cz spuštěn",
+        "summary": "Zlaťáky.cz spouští nový web Stříbrňáky.cz pro investory do stříbra.",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcF9fWUNBZW1sbHBtR0VFX0Z1cFZ0U3RaR0ZuQ0RaeDY1ZzlEUDh4MnVmLWJTekYzZFBZcFNtWU9LdFV4S2hUTjZPTFJSWmdNLVJiRXVWX0lqTS1vd21JdXBhaXhpYjREbHlscWhZdXIyVEN5aWVOMHBtM0ZubWZyZkozTVg2cDNkOGlRekJOYTc4eXNBZmhQSE8yRVB4TmRKbDFvSU9IQTJQWFZ4X2RyeXdSM1RFUEFReVNsVHBNbTQ?oc=5",
+        "timestamp": "2026-03-17T11:35:00",
+        "timestamp_display": "17. 03. 2026 11:35",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Startup mění trh",
         "summary": "Elitní advokátka a její startup chtějí změnit trh s doplňky.",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLVNVeUY5OEloaXRpazkzM0IwWUhvVHpwMDRrQlBwZG9CQXI0c3ppNVk2akRoWUtwQmhtWmpvQWNqQ3NvbWF3VlFOeFdoZ3NHRjhUb1hDZ2hJc2E3OVE4VGJVc1BDeUZmR2VKdDhHMkJjZG1RaVhqQlRPTlJYTDZ2ZGFfdF9YblA5YmVFNkRVZGZVVVpjTUdaSDFUSS1qZw?oc=5",
         "timestamp": "2026-03-17T11:02:53",
         "timestamp_display": "17. 03. 2026 11:02",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
