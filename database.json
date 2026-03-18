@@ -1,12 +1,48 @@
 [
     {
+        "category": "Byznys",
+        "title": "ASKO vítězí",
+        "summary": "Společnost ASKO získala prestižní cenu iF Design Award 2026 za svůj designový úspěch.",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSVcwLTlJZVZyUmp4TW01aTJHc1p3WU9PWFcwQUdMS3J2WkxvWFdaMEsxSGY5WTlwX0NhWVFBczRQX244aVYweEZyZnlKZjhpLVpfdVpBS3JCOVBySjZ1UGQwQjhueG5yOC1QMzhmVkliZk42UHV5b1pja1BlR2pVUUtLWDJtd2tya1R4WkhHY3B3dw?oc=5",
+        "timestamp": "2026-03-18T14:34:00",
+        "timestamp_display": "18. 03. 2026 14:34",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Nová školka v Loukách",
+        "summary": "Městská část Karviná staví novou školku v Loukách, kde se usazují mladé rodiny po konci těžby.",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYzdKRV9rSDBVSk0zdkZlVktTdnRkVVoxZnkydWlaWnNMYXZYaksydGxHanJjUndOckFLbnhReURsYUJZZGRVbGlXUmxia3VGQW5OY1h1M19wR2JzcDY3YnV1amFSMm1NRFRybGpQcG5nMFRNVGZLOThuSDJMQnB1QkJQTzloUUhCNkF2QVdlWmM2QlNiY0hqLUlka2dwMlg1VDhSdHcxbGpwSkdnUkxESkQ5Rl9NSmplZGY2N2xJSEpLekNSUG9Lenh3?oc=5",
+        "timestamp": "2026-03-18T11:42:00",
+        "timestamp_display": "18. 03. 2026 11:42",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Nová kometa na obloze",
+        "summary": "Nová kometa C/2026 A1 se objeví na obloze v dubnu, pokud přežije průlet okolo Slunce.",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONlRydFE4MnBuLVhTYnJrMGl3b2J3Q1pYREplUC1fZDZ4cVlfN19oM05Rd19GckllZkdua2lOWmV1ZFIxRWFEd2dyVkxUVzRJbnBkNS1pUWZpMVFNUGNsN1NLT213WTQzN2VWTXBrQ0I5aUFPbk95WDRkMG93eFpabW0wbDdiX3FzSmdNT0JEeDR5UllhUDZxNUMtSktRQW96NnlET3VpTFMzZmgxbURSTEhZanRubE10ZmNjY1NlTHhPQzlkV1BjVWpHUFk5SjI1dk5PN2NwQndVTzBxcTNXQkFMUTh2NDJ1S2Vac09heFM?oc=5",
+        "timestamp": "2026-03-18T06:42:40",
+        "timestamp_display": "18. 03. 2026 06:42",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Miso dobývá restaurace",
+        "summary": "Člověk opustil práci v IT a začal vyrábět miso, které se stalo hitem v michelinských restauracích i domácích kuchyních.",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONWVpU1pnNjBrU1RYVllacnBkY3FZWm1QSGJHMjM4VjRPWE1yN0pxV1c2X2c2MC1yakVFNmpCNndGQWVSQTROY1ZsVUFGNFhYNzNuXzg0cDFWQUpOMFR6bWNEaVNlZ09ObU9zZnNHZ1Zydk52eFpLWEdDZEVZZC0zYmkyM3B2Ql9xVkhNR19yNTktLVhQM2JjX1BJQ2h1UkdNcVNZdXBYdzlzcWtlWW1sZEl0UC1oZFRwTUE?oc=5",
+        "timestamp": "2026-03-18T05:27:18",
+        "timestamp_display": "18. 03. 2026 05:27",
+        "is_new": true
+    },
+    {
         "category": "Společnost",
         "title": "Mladé talenty",
         "summary": "CzechSkills 2026 představí mladé talenty, kteří posouvají obory vpřed.",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNW9SLU1KZkJMWGZYOXdKR0pLWFRaeE9XMWdCZkRLY1MzajZ6VUpXaHlFeFc5dVA1Uy1DMlNpX1VCeUlKOU1uNlRtOUFKWm1GSzJ1T3NKa0dFZTBaV0Q5a0F4QWlkX2lWbmhEZHExZ3VVdjZOM0hWZDVxRXdZcFZRMjQySS04UVhHMDRWZTRaT1lGQjhid0pTTTRhSHdTbTB5Qm9DdU1hYlJVRmdfczA5VmJqMWdxR1JwQTZpS1htaXpuN21oWHFfTkVxRm96NWpnc0p3Rm13?oc=5",
         "timestamp": "2026-03-18T08:00:02",
         "timestamp_display": "18. 03. 2026 08:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -15,7 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQ3dtcjdpWEtHVHBtZlVQcGV0cmdlV0lmQS1DeUIwWFFSYWY1bkNCNHBqMkQwOEljYVVCUGRxal9TeW9GTTB5LUc5cGtrb1hiZmZWeTJ6XzVqODF1SU85X2xMa2lNNFRLcVEzZ0F1ZHlmcW5RdE8tU0J3VUROeG1QTmZFVFNmVHBFUERIdkF2ZndESHJoOVI3TTgzajk0NTRuNlZaSUhDdy1qOWNmS1RuYVlEZkZPb2ZWTW1mMklyLVFNMjlrbDJLN3BSZTljTTZlcnp5X2RIcVRhY3Fqc2RvMTd5ZjlTc2hib2Nr?oc=5",
         "timestamp": "2026-03-18T07:20:00",
         "timestamp_display": "18. 03. 2026 07:20",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Společnost",
