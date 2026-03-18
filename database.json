@@ -1,12 +1,30 @@
 [
     {
         "category": "Společnost",
+        "title": "Mladé talenty",
+        "summary": "CzechSkills 2026 představí mladé talenty, kteří posouvají obory vpřed.",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNW9SLU1KZkJMWGZYOXdKR0pLWFRaeE9XMWdCZkRLY1MzajZ6VUpXaHlFeFc5dVA1Uy1DMlNpX1VCeUlKOU1uNlRtOUFKWm1GSzJ1T3NKa0dFZTBaV0Q5a0F4QWlkX2lWbmhEZHExZ3VVdjZOM0hWZDVxRXdZcFZRMjQySS04UVhHMDRWZTRaT1lGQjhid0pTTTRhSHdTbTB5Qm9DdU1hYlJVRmdfczA5VmJqMWdxR1JwQTZpS1htaXpuN21oWHFfTkVxRm96NWpnc0p3Rm13?oc=5",
+        "timestamp": "2026-03-18T08:00:02",
+        "timestamp_display": "18. 03. 2026 08:00",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Otevírá Open 5G Hub",
+        "summary": "Brněnské výstaviště se mění v testovací zónu pro chytrá řešení budoucnosti.",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQ3dtcjdpWEtHVHBtZlVQcGV0cmdlV0lmQS1DeUIwWFFSYWY1bkNCNHBqMkQwOEljYVVCUGRxal9TeW9GTTB5LUc5cGtrb1hiZmZWeTJ6XzVqODF1SU85X2xMa2lNNFRLcVEzZ0F1ZHlmcW5RdE8tU0J3VUROeG1QTmZFVFNmVHBFUERIdkF2ZndESHJoOVI3TTgzajk0NTRuNlZaSUhDdy1qOWNmS1RuYVlEZkZPb2ZWTW1mMklyLVFNMjlrbDJLN3BSZTljTTZlcnp5X2RIcVRhY3Fqc2RvMTd5ZjlTc2hib2Nr?oc=5",
+        "timestamp": "2026-03-18T07:20:00",
+        "timestamp_display": "18. 03. 2026 07:20",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
         "title": "Nová knihovna v Turnově",
         "summary": "Městská knihovna v Turnově získá nové prostory inspirované pískovcovými městy a skalními roklinami.",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNll5b2tyQUhXMnI5ck1WZmFjdnp2RUtuS3NTYU1BOG80eE1US2FLOXRLMkd1aktqYXFfbWhmdzFweGY2MWlUdGh1Wl9zdU1SeEVxQ3ctTUVCNC1lRGQ2cFU1R2tRd2NOV3RQUjJhejJyaGVoaHlqRk5nTTRRcGZIZVZKc05LV3dGM0U2RFRZRTUxXy0tVlUtd0VYZzd2c2ZiSkw1enNCeE4zOW5EMHhzX09uREozb3Bvbk96SUNSN1BXTTIzb2lv?oc=5",
         "timestamp": "2026-03-17T21:34:00",
         "timestamp_display": "17. 03. 2026 21:34",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
