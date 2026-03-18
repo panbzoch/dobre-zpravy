@@ -1,12 +1,21 @@
 [
     {
+        "category": "Společnost",
+        "title": "Nová knihovna v Turnově",
+        "summary": "Městská knihovna v Turnově získá nové prostory inspirované pískovcovými městy a skalními roklinami.",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNll5b2tyQUhXMnI5ck1WZmFjdnp2RUtuS3NTYU1BOG80eE1US2FLOXRLMkd1aktqYXFfbWhmdzFweGY2MWlUdGh1Wl9zdU1SeEVxQ3ctTUVCNC1lRGQ2cFU1R2tRd2NOV3RQUjJhejJyaGVoaHlqRk5nTTRRcGZIZVZKc05LV3dGM0U2RFRZRTUxXy0tVlUtd0VYZzd2c2ZiSkw1enNCeE4zOW5EMHhzX09uREozb3Bvbk96SUNSN1BXTTIzb2lv?oc=5",
+        "timestamp": "2026-03-17T21:34:00",
+        "timestamp_display": "17. 03. 2026 21:34",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "Německo zdvojnásobí datacentra",
         "summary": "Německo plánuje do roku 2030 zdvojnásobit kapacity datových center, aby podpořilo růst digitální ekonomiky.",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSTIwMFJQX0k5SENlWEZiMS04dFU5WE5OUDB1Y1FSQ3Y5dTUwMjNyNWpZUmRUdUlBQk9DWXR2YXQzNDhRQ0VRUFlJbmlGZjFfRjkzMndzMGpkM0VjenJkQmN6dGFHbDNzdW9GazhsRWdYUVVMQjBUbDRYdW5KRUtJT0xseVR1RHFHNWc?oc=5",
         "timestamp": "2026-03-17T11:58:11",
         "timestamp_display": "17. 03. 2026 11:58",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +24,7 @@
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcF9fWUNBZW1sbHBtR0VFX0Z1cFZ0U3RaR0ZuQ0RaeDY1ZzlEUDh4MnVmLWJTekYzZFBZcFNtWU9LdFV4S2hUTjZPTFJSWmdNLVJiRXVWX0lqTS1vd21JdXBhaXhpYjREbHlscWhZdXIyVEN5aWVOMHBtM0ZubWZyZkozTVg2cDNkOGlRekJOYTc4eXNBZmhQSE8yRVB4TmRKbDFvSU9IQTJQWFZ4X2RyeXdSM1RFUEFReVNsVHBNbTQ?oc=5",
         "timestamp": "2026-03-17T11:35:00",
         "timestamp_display": "17. 03. 2026 11:35",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
