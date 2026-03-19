@@ -1,12 +1,30 @@
 [
     {
+        "category": "Byznys",
+        "title": "CZ SEO Vibes Summit",
+        "summary": "Summit spojuje odborníky z oblasti SEO, strategie a zkušeností z praxe, aby sdíleli znalosti a zkušenosti.",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS3JaaW1HbXVxTFVld2dSSTJXMkNtVHhtemtaS1dSVFcxYUJSRmxQTTZDaTVMd2VsekhjN3BKUUIwZmpwa3FudExuSVNtSGxTcUZ6YTVSOVF5Z25mc1hGa2dnM3ZqbFN5dVMyeXVxUE1oNnhSWlp2R0lHYmEwWF9wek5CNk41b1hFNnQwU3B3SDZaNGNNWG80bkxiZEZIVW9NMjdEX3F6Y0dMaklXeV9UVVdGdmJJcUk3dHlkMnRqamVjQQ?oc=5",
+        "timestamp": "2026-03-19T09:23:00",
+        "timestamp_display": "19. 03. 2026 09:23",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Filantropie mění svět",
+        "summary": "České milionáře investují do filantropie, aby změnili svět k lepšímu.",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR0pTRmdwd3ZhQkJnRHJWdXBJWkVYYnNGN1V4UHJnNHhfeTNtZVUxUVRXVDQ3UzJMTVM1Ym5FQldmX1lyV3IxRlBWMmpDQ2RkaDIybG95S2ZjbUNrZjVrTkYyXzZxNUdGLTY0dzYzT0dnZTZPTUd4YlZvMVpPRXdjakxueXFpV1A4TmNFMVhKZ0d3bmlWOXlEd3hBUmVkYmNsS052VFRxVDVvTU5KYzI1UktNN3lJbXZwdTZWMg?oc=5",
+        "timestamp": "2026-03-19T08:00:00",
+        "timestamp_display": "19. 03. 2026 08:00",
+        "is_new": true
+    },
+    {
         "category": "Společnost",
         "title": "Nová expozice v muzeu",
         "summary": "Muzeum osobních automobilů v Kopřivnici představilo novou expozici s velkým logem Tatry, na které lze sednout.",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMWZtNkNndGcyM296Z3dHbW5GamVWYXhxNlh4M0o4S3ZyX1VMdGpYaXRVTTRZTHRvTGh6M1dxMlRZWk9PYjFIenVnQ1ByZU5VTVRTb1JyS190YWtMclJhQVJZWVFPWWJpbFJsMEIzQjcwMDFCMWUxY0d2MVlmNDRiXzJvRDB4ZldzbVBPblJxNFRQUk03RHRKYlN4VUZVaFAxbE1ESzdQYUxtTHk0dGJOaEo3OUZxeDZmTlF3VVlVLXM1c1dHS3VoZg?oc=5",
         "timestamp": "2026-03-19T04:35:00",
         "timestamp_display": "19. 03. 2026 04:35",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -15,16 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxORFc2LUk4eVVjbWx5RHA0UUE2dzh0NVFWVVZnYWJGT1lBOWdYYjA3cTZMSjdTZWVvR3hLZmlBSkNOdndTaUFJX0hKYm9RUlRDVjRLZHJPSXZuUE5PY0RIcjFPcTJGVDA4TG9EM3ZCczdvc1lkbHV1LVZKS09NZ3ZLN09vMUwzOWt0QVVhY1EySDlpN2c3b2Q2VUw0QkU5VDREdFlabUtZQUJhNmNITExMVkdCeVNjUWdBX2ZyclpmaWxrVTAzTUdsSElBYUV3d3FhcjJVazFNbjZOcDdYWFFrSWd2X1ZjcTFzXzQ5R0RMeXVYdWR1akpkTWFxNnpEbmhyTnFDbVRWSU1fbTdaa3BXQldxU2NqX3VqVTkw?oc=5",
         "timestamp": "2026-03-18T20:15:33",
         "timestamp_display": "18. 03. 2026 20:15",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Komerční banka vítězem",
-        "summary": "Komerční banka v Příbrami vyhrála soutěž Visa Bank Branch of the Year za 4. čtvrtletí 2025.",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjMXMyR2Y4VlZpRk1kN0pTbEw5ZmsxLXhqU2k0Y3ppV01JSHA1a0w0S29BY0cyOEpfUGRLRUExbHEyLTV1RzAySjdVOWRsWURoejFN?oc=5",
-        "timestamp": "2026-01-16T08:00:00",
-        "timestamp_display": "16. 01. 2026 08:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Společnost",
@@ -4245,6 +4254,15 @@
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOODBvSG16VUI2TnB0Xzc4Y3dkelBOc3lKZ0otQkJ3bF95dW1zeGVRSjZKNGxCNjQ1N253NTBZYXBybkI3REpFd3VfcGxqTVB3dEN3aUt6OEZveEYyMjNwOTZvcW1tU0lNUVpoU1JjWlB6SUx0X3lkTl82UGVlaF9vV1pIX0M0UGtxN2tzLWZoTkVzXzFYbFFjaXg5WEl2NWdVTnV4VGU2X3FTaF9NMXd6ZHVTRmZ0UQ?oc=5",
         "timestamp": "2026-01-16T11:46:00",
         "timestamp_display": "16. 01. 2026 11:46",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Komerční banka vítězem",
+        "summary": "Komerční banka v Příbrami vyhrála soutěž Visa Bank Branch of the Year za 4. čtvrtletí 2025.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjMXMyR2Y4VlZpRk1kN0pTbEw5ZmsxLXhqU2k0Y3ppV01JSHA1a0w0S29BY0cyOEpfUGRLRUExbHEyLTV1RzAySjdVOWRsWURoejFN?oc=5",
+        "timestamp": "2026-01-16T08:00:00",
+        "timestamp_display": "16. 01. 2026 08:00",
         "is_new": false
     },
     {
