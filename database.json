@@ -1,12 +1,48 @@
 [
     {
         "category": "Byznys",
+        "title": "Český herní úspěch",
+        "summary": "Česká firma vydělala miliony na simulátoru nemocnice a vytvořila českou verzi Heroes of Might and Magic.",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeUQwblgyaTJpRksyZEpyeWpKeHRJNTZQZHc2ZnN3WnpuekpzNC1lXzRkSTA0dXF5dGZOX1JHeGV5d051VjNZdVhuWDAxVTUyUTFfZDNJc05kLU9SUHNtVW91WHNXdFBvODVPZGZucDdOSDlWd2w4OElZTkE4M0tXTm5YT1c3QnN3amRyWlN6MkpZNWdzMjlHTF9KWi1wX0dHTks4cHZkTU9Mb3JIMmJ3?oc=5",
+        "timestamp": "2026-03-19T09:08:38",
+        "timestamp_display": "19. 03. 2026 09:08",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "CZ SEO Vibes Summit",
+        "summary": "CZ SEO Vibes Summit 2026 spojuje odborníky z oblasti SEO, strategií a zkušeností z praxe.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81M1M0cFduYzA1MGlubkZJWDU2cFF4VnFqX1hpMGtkOTE1T3JyMmtoTWNtOTVLaXRITzd4NHh4VEVER0R5bW5zaTRzQWRlN2ZHSC1R?oc=5",
+        "timestamp": "2026-03-19T08:23:27",
+        "timestamp_display": "19. 03. 2026 08:23",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Nová aplikace Fotografie",
+        "summary": "Nová aplikace Fotografie je dostupná ve vývojářské verzi OS X, nabízí nové funkce a vylepšení.",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaEowTWwzY2Zua1R5dHpOV2JScGMzd0FyNjczSTd3WGxrMzhLY0RMWGNZeHZsTGZfZjdhd3VwanNBRWtnZktLMHdiZEh6emNMOFpKdEdscDd1MHp3X1pHbHRRZHJwSk4zUWVONVNoRTNORm1BS1pINTFXbkhBeDc0MXlmSXJtc2MwXzdjYkhHRzB0UmpfVTUtU3FkdzFqcGxGc1hfN3c1MXFoWVVmUTJOcUxieE9kU2luQ0VKUjFLVU50VkYxODFZOU9nZ1c3QUk?oc=5",
+        "timestamp": "2026-03-19T03:35:14",
+        "timestamp_display": "19. 03. 2026 03:35",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Agrofert expanduje",
+        "summary": "Agrofert investuje miliardy do německé chemie a potravinářství.",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOWFiaE5qQUJDZmViWFFnd1d2MVZaRlIyd2J1b0ZKUkpGRVUzOW9ZR05GTWVHVXQtWTVmY0ppQmFOWVl1MFdXUTJzUmUtU0N4ZW5mQmp0c0Nab09GcTJLZmVLNHI1OTBuZWNRaV9kbkw4NFgzcFN1UXRJbkh0RWhaRlVZSkQ5VGZmS0U5ODBwRHFPeE5pcjA0Z0pIX1gyY3dyOGpWdm1HZ2w1RXBPbENIcEY3TGNuMGlp?oc=5",
+        "timestamp": "2026-03-18T10:55:00",
+        "timestamp_display": "18. 03. 2026 10:55",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "CZ SEO Vibes Summit",
         "summary": "Summit spojuje odborníky z oblasti SEO, strategie a zkušeností z praxe, aby sdíleli znalosti a zkušenosti.",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS3JaaW1HbXVxTFVld2dSSTJXMkNtVHhtemtaS1dSVFcxYUJSRmxQTTZDaTVMd2VsekhjN3BKUUIwZmpwa3FudExuSVNtSGxTcUZ6YTVSOVF5Z25mc1hGa2dnM3ZqbFN5dVMyeXVxUE1oNnhSWlp2R0lHYmEwWF9wek5CNk41b1hFNnQwU3B3SDZaNGNNWG80bkxiZEZIVW9NMjdEX3F6Y0dMaklXeV9UVVdGdmJJcUk3dHlkMnRqamVjQQ?oc=5",
         "timestamp": "2026-03-19T09:23:00",
         "timestamp_display": "19. 03. 2026 09:23",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR0pTRmdwd3ZhQkJnRHJWdXBJWkVYYnNGN1V4UHJnNHhfeTNtZVUxUVRXVDQ3UzJMTVM1Ym5FQldmX1lyV3IxRlBWMmpDQ2RkaDIybG95S2ZjbUNrZjVrTkYyXzZxNUdGLTY0dzYzT0dnZTZPTUd4YlZvMVpPRXdjakxueXFpV1A4TmNFMVhKZ0d3bmlWOXlEd3hBUmVkYmNsS052VFRxVDVvTU5KYzI1UktNN3lJbXZwdTZWMg?oc=5",
         "timestamp": "2026-03-19T08:00:00",
         "timestamp_display": "19. 03. 2026 08:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Společnost",
