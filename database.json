@@ -6,7 +6,7 @@
         "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNODR6RFZUdGVCeV81NXF1SlJpcE42elZKYVA3ZVg5YVBTQzVFX2k2d0FXck5vdU9MZjBvZVk0VnBTVW1iOVpVSWwxTmxDZWhmZXhFVTlldnBydEctbkRWNE1KdU5MMnkzSTFQbnh5eUR2Z25wcGFSblM5V0duRTRaU1I3NUZqWHQxMzdseXVVbFNJTTZwVUFNRzF6UTVzMXNRblFfSGN1TF9pSnpITXlROEQwY25Fd3Z4dktaekp0RTRUYzJ6dEdQRFFxWE1kWDRaTEl1NmVIOGMtM0dwbEZUbzVHUENvRVN0ZGd3ZEFhaWhfVzJ4cGNXVTJrbzVOclE?oc=5",
         "timestamp": "2026-03-19T19:43:14",
         "timestamp_display": "19. 03. 2026 19:43",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,16 +15,7 @@
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOUVMZ1NlWjRIVTIxRzBlSTNOY0FCUEg3N2U0bGswREhxTlc1WWREQ1BNS2UxbEc0a3NWcDJ0VHlkR3ZPTzlBSTVvZHFnM1NobmVsbzFqT1U0eFBjNzA0d01zX1Z4MjAxdk1oUzF0eE1XOWlsZy05YnljZENKRE9KbGJnS1QxZTNrekp5YXhJYjNJa3ctRi1IcUdWd0g3NFcxbEptdVR2UjFDbTNzLUJUdHpwWjBpYzByQTlfSVRVQWwwVXM?oc=5",
         "timestamp": "2026-03-19T19:00:00",
         "timestamp_display": "19. 03. 2026 19:00",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Inovace rozhodují",
-        "summary": "CzechInvest podporuje inovace a udržitelnost, trh a poptávka hrají klíčovou roli.",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdEZLeXdtU0gwb1dkc1ZnUUctYlZqUk5hWXQzNGt2Ri14ejRWSTZiY21pYkVGZVFDVkpjTTZtdmVQaE1ZbGU4VExnWmNoc1p1Z2xIRUUxQ01Kb3k3N1NyRExCdHBMODdFM3VHMGFtdWJ6SUJJLWNadC1xaF83Vzk0TEhqQTBQd0I5cmlMVTJuWG9KRlAtNUh2RXNXQ3pZVkxVbVdHRklyUVRVQUpOengtN2V6ZjExRjNRM0FEU3lVbXpENi02?oc=5",
-        "timestamp": "2026-03-19T11:21:00",
-        "timestamp_display": "19. 03. 2026 11:21",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -33,6 +24,15 @@
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZXA5YkF3b3VKYU1MNV9fWjNUbGxqRjUxbFlOQVpKYWU3TGRrdzZ3a29oWm9sWmJMaUJXM3VIRmdOb1JnMldFclBrWU14SGlkS3VkSGo4UFZOT25lUVlLZ1dqNVBvQ0hSeWIyNEdlQWdwT0xRSDJUWGM2cTlhdndvRERCR2xvVFYzOUdLSjFn?oc=5",
         "timestamp": "2026-03-19T17:58:05",
         "timestamp_display": "19. 03. 2026 17:58",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Inovace rozhodují",
+        "summary": "CzechInvest podporuje inovace a udržitelnost, trh a poptávka hrají klíčovou roli.",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdEZLeXdtU0gwb1dkc1ZnUUctYlZqUk5hWXQzNGt2Ri14ejRWSTZiY21pYkVGZVFDVkpjTTZtdmVQaE1ZbGU4VExnWmNoc1p1Z2xIRUUxQ01Kb3k3N1NyRExCdHBMODdFM3VHMGFtdWJ6SUJJLWNadC1xaF83Vzk0TEhqQTBQd0I5cmlMVTJuWG9KRlAtNUh2RXNXQ3pZVkxVbVdHRklyUVRVQUpOengtN2V6ZjExRjNRM0FEU3lVbXpENi02?oc=5",
+        "timestamp": "2026-03-19T11:21:00",
+        "timestamp_display": "19. 03. 2026 11:21",
         "is_new": false
     },
     {
