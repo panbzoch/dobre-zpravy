@@ -1,11 +1,20 @@
 [
     {
         "category": "Byznys",
-        "title": "Nová vlaková technika",
-        "summary": "Škoda představila nové vlaky pro Bulharsko, začíná testování.",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWElZRzBPLXU2SE1PNC1ubENEVHhBMlZkeGJoa3JIZjZZaDJBN1plR1o3S0lWeGlrTFRMRUh6aEhPbnppUjZXLXE5M2R4cGxOc1FkdGxxank2bDBQT1I3dC1taXY1VkdzRXRRRlphZmFKbl8zVHpDY3BQOHktSi11Z3NSU2EtVkdNRXpJOUQ0ek8xdXpLdFBrcmI2ZUZlOXhyZTVUUHh0dWtRa2NGMDNiOWM0eGgxdU15NzBMcnppTW81R3dyVXQxOF9DNHlJSjhJVUtIR2MxVjVEQnduVC04?oc=5",
-        "timestamp": "2026-03-20T15:49:00",
-        "timestamp_display": "20. 03. 2026 15:49",
+        "title": "HEROAD přináší novou éru",
+        "summary": "Společnost HEROAD nabízí profesionální herní vybavení za dostupné ceny, revolucí na herním trhu.",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUDN2SkhiNzA4SnU5ZHgyUW1uZ0Q3VTRDMHF5NVdIMEpkYW9VZ3ZZTmM4c2FfWmxza2YyQlo5LVBudG5lRm9jVmE2bUJkdzVMdGFkMzFrMjhDOGI5NDY1cGEtV1NGYnJKT1NTWkhKUHpleXcxaWJaQ2hvWWtpVk1qczVpWWRjaS11U3BselU0bEtfa1dnbWJkc2FjQUV1eGNqX2Z4WExlZjRPOUxiN3NYSjNDbXF6VUlzYi1wSlRhYjZQYU1HRmc?oc=5",
+        "timestamp": "2026-03-21T14:54:00",
+        "timestamp_display": "21. 03. 2026 14:54",
+        "is_new": true
+    },
+    {
+        "category": "Medicína",
+        "title": "Robotická telemedicína",
+        "summary": "Lékař z Londýna provedl operaci prostaty na pacientovi vzdáleném 2400 km pomocí robotické telemedicíny.",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNb3JKU1NYOVkzMEFJV3p3UjNBVTFxYmJ0dWpNZUJpRjM5a3JzWmV5VTJfY3d2aEFmM3J1dllIdEhZb1gzbnRMUTh2MDlPTHJJSGloaUdlbVpsVmxXYUFxbVFrQWFnRGdySHZ2bHY2bkpLNUxWRUs0cXF1S1FyMk5lbnZETENFb005VXl0SXZneEhSMEtvRU1MTmtuUXY0R2duNlJSNlhpZ2RINjc5NWZWRVluY0VYMHVJWFhtSVZmRktKSHc2MVUyX0o4dGdRVTEzS3Y1OXctMEJPZWpYcWI5U2hEYVlIQTlhalA2OF9FNA?oc=5",
+        "timestamp": "2026-03-21T10:43:06",
+        "timestamp_display": "21. 03. 2026 10:43",
         "is_new": true
     },
     {
@@ -51,6 +60,15 @@
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2UnZYTzFVbVptdWhWUl9ZTnhHRGZJQkpyY3dKYldNWVhwaDNxUjZLLTZjOFdLUFZUWGRjcnlOc1RXNml4cmVpSnpUWFoxMHJjN2JqN3AxT1BRQQ?oc=5",
         "timestamp": "2026-03-20T17:23:13",
         "timestamp_display": "20. 03. 2026 17:23",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Nová vlaková technika",
+        "summary": "Škoda představila nové vlaky pro Bulharsko, začíná testování.",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWElZRzBPLXU2SE1PNC1ubENEVHhBMlZkeGJoa3JIZjZZaDJBN1plR1o3S0lWeGlrTFRMRUh6aEhPbnppUjZXLXE5M2R4cGxOc1FkdGxxank2bDBQT1I3dC1taXY1VkdzRXRRRlphZmFKbl8zVHpDY3BQOHktSi11Z3NSU2EtVkdNRXpJOUQ0ek8xdXpLdFBrcmI2ZUZlOXhyZTVUUHh0dWtRa2NGMDNiOWM0eGgxdU15NzBMcnppTW81R3dyVXQxOF9DNHlJSjhJVUtIR2MxVjVEQnduVC04?oc=5",
+        "timestamp": "2026-03-20T15:49:00",
+        "timestamp_display": "20. 03. 2026 15:49",
         "is_new": false
     },
     {
