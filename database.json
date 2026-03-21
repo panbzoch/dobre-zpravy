@@ -1,20 +1,47 @@
 [
     {
-        "category": "Byznys",
-        "title": "Investice do fondu",
-        "summary": "Strnad starší plánuje investovat až polovinu firem do fondu, cílem je vybrat 100 milionů eur.",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZzNxeVpMdUlqX3NVVmRXalN3bmQxUFZLQ1RBWTNobjJNMGZXVGRDclJISmE3cGtnMTgtUGdRTnBqaHBBRllVbVMtNzZPckZnUjl3dkxxZ2IzckhGSGU2ZXFZWGYzaEd0S0ZJZ2J2TktITm1HdG05Nm1lN3NoSkhQbGR3ekVJdUh2UGxmOU4wVmtLSkFXZU9CRVBpX2o3amVM?oc=5",
-        "timestamp": "2026-03-20T09:05:21",
-        "timestamp_display": "20. 03. 2026 09:05",
+        "category": "Technologie",
+        "title": "BMW i3 dojezd 900 km",
+        "summary": "Nová verze BMW i3 má dojezd až 900 km, čímž se stává jednou z nejvýkonnějších elektromobilů na trhu.",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWjduUnBTLThnTDFOTzRmQnEyWGlIVXhmQzhfeWpnU3h0WkZxb1loYkdYaDVVUXZWNE9MN2F4dy1WOFZiUlR4bS1MWFdDUTBGemEzZ3FVbVdMaUtJWEUta1dxbXNBTkcwVzdpTWotdlZjZS16VzNLa1doUGR0SjZmc3YwTGpRNl9mQmV0Zy16ZFV6d3h0ZGw3aVlsNlJuSEFMRXR2dmZwOTVGX2VIc1NpMTVUTGR1eWxuTTdEMzFBdmwzeU0?oc=5",
+        "timestamp": "2026-03-21T05:30:00",
+        "timestamp_display": "21. 03. 2026 05:30",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Prodejna pralinek",
+        "summary": "Nová prodejna pralinek v České Lípě zaměstnává lidi s hendikepem.",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSUkyX0Y0Ri1Oa0VzYkNmMHVSN0twTUp2NE5MTDJDSUVRYkp0VWx6OWZSdS1henVlT0V2NFdYYkJmc1Nwcm55ay1haG1JODZzNUhiQzYzQXlpQ3FLNHhHcWpEaXBSV0c5elZ5N1VLWkFOZ1ktMmx4YVhlUHRyODhRWWVFcTFJRlNBMmp1MVFZdjR5R2pGQnBiSy1hTlVkSnYwTFdaemhrYTJ5S2VoV05ncC1RVW8wem1QbWVVc3lNdWxnUXNraDVoeHphYVEyZw?oc=5",
+        "timestamp": "2026-03-20T20:07:00",
+        "timestamp_display": "20. 03. 2026 20:07",
         "is_new": true
     },
     {
         "category": "Byznys",
-        "title": "Česká firma roste",
-        "summary": "Česká firma roste a expanduje, přičemž si zachovává osobní přístup k klientům a zaměstnancům.",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY3dNUDFmektBQ1V4UFFpSzY5QWs2ZERxSHNqcDVObDlraW5OMVpXMEo3aTFvVXR4WkxPaE1yb1FwZHRTM0RvZG1PcUQ3TkhiY1FEUEduNERpNFRyeEpmckZESmo4aHpKam83akl3ZEc2MG51REcxc1JKR21Ob3FFTC1jMU5xTVFpQVJlZFhhdkl4aHVFbUdpMlJtZmRjMUVCRGpfMGlseld1Rlk?oc=5",
-        "timestamp": "2026-03-20T08:54:18",
-        "timestamp_display": "20. 03. 2026 08:54",
+        "title": "Investice mění život",
+        "summary": "Investice může změnit život, jeden dobrý tah může vést k úspěchu a finančním ziskům.",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2UnZYTzFVbVptdWhWUl9ZTnhHRGZJQkpyY3dKYldNWVhwaDNxUjZLLTZjOFdLUFZUWGRjcnlOc1RXNml4cmVpSnpUWFoxMHJjN2JqN3AxT1BRQQ?oc=5",
+        "timestamp": "2026-03-20T17:23:13",
+        "timestamp_display": "20. 03. 2026 17:23",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Prodej obytných vozů roste",
+        "summary": "Prodej obytných vozů v Česku loni vzrostl o více než 10 %.",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWmFiZmRzMzFHaUdGa05idkZSOFpEbjRqdDZmYk8zNElNOUNadVJvZlU1OGM3d1V6LUpoYnlHWTRiQzVEb0RfOG9jTTBHMjRFcmFsRnkzaWIxTUNFM3A2ckVITUNKOFJmeDl1V3NKdFJsbEYxU1pIOTN0YzhoNEFiSzlHdnNaMUpuZjFQUE1ySHRUNjNFd1lDdEU4TDh5Zw?oc=5",
+        "timestamp": "2026-03-20T15:46:08",
+        "timestamp_display": "20. 03. 2026 15:46",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Agrofert investuje",
+        "summary": "Agrofert investuje 120 milionů eur do výroby chemikálií a pečiva v Německu.",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNTU4RlMxSVJpdS1iX0YxNW1LcVN6TWNlTFNIY21vOXBqVlpmNkx0RTZLd21BYWNucFFvcE9OaXVuVnBLRXZOanpVZVMtdnAtTFRtU0JHUVpUbXVqN0hlYnR1NTR0N1ZmRGljM29lWmFPMloxZk9GVTdxdmFGSmlUcjZiOXVmRXB1c2pac1hsczVoaTQxOEF3UWVmbDFUaGJKT19Ba0d6TTA3bi15SUtNbGRtWmE?oc=5",
+        "timestamp": "2026-03-18T16:29:02",
+        "timestamp_display": "18. 03. 2026 16:29",
         "is_new": true
     },
     {
@@ -51,6 +78,24 @@
         "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPXzF6VUVtdVREVmZpUldBQURxczhaLS1zbUtEZUdHdUZNeEhCUk9XOHM4Vkd3YXNyVUxWdWlpMFNydjVka251MWF3ZklDamJxRGNZbHFTQkx0M0FDMnV1Ny1qMXYtcVZ3UnAxdnlqTUdQNk45NVZzeGtaQTlSRGtHMGRJcURrUmpaYUhOQk1rbmthV01mTk5BTWNIc01rU1RVSXRNWlYtSDREYUpZdDFqNW0xS2twYW0xal9xV3RVTmkzNHlqc3kwZWhCSjVwQnh4ZERrajFPVk5vdEh2bkZVUnVkWGJROVpheXhocTdHeWotWHhJYWc?oc=5",
         "timestamp": "2026-03-20T10:46:41",
         "timestamp_display": "20. 03. 2026 10:46",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice do fondu",
+        "summary": "Strnad starší plánuje investovat až polovinu firem do fondu, cílem je vybrat 100 milionů eur.",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZzNxeVpMdUlqX3NVVmRXalN3bmQxUFZLQ1RBWTNobjJNMGZXVGRDclJISmE3cGtnMTgtUGdRTnBqaHBBRllVbVMtNzZPckZnUjl3dkxxZ2IzckhGSGU2ZXFZWGYzaEd0S0ZJZ2J2TktITm1HdG05Nm1lN3NoSkhQbGR3ekVJdUh2UGxmOU4wVmtLSkFXZU9CRVBpX2o3amVM?oc=5",
+        "timestamp": "2026-03-20T09:05:21",
+        "timestamp_display": "20. 03. 2026 09:05",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Česká firma roste",
+        "summary": "Česká firma roste a expanduje, přičemž si zachovává osobní přístup k klientům a zaměstnancům.",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY3dNUDFmektBQ1V4UFFpSzY5QWs2ZERxSHNqcDVObDlraW5OMVpXMEo3aTFvVXR4WkxPaE1yb1FwZHRTM0RvZG1PcUQ3TkhiY1FEUEduNERpNFRyeEpmckZESmo4aHpKam83akl3ZEc2MG51REcxc1JKR21Ob3FFTC1jMU5xTVFpQVJlZFhhdkl4aHVFbUdpMlJtZmRjMUVCRGpfMGlseld1Rlk?oc=5",
+        "timestamp": "2026-03-20T08:54:18",
+        "timestamp_display": "20. 03. 2026 08:54",
         "is_new": false
     },
     {
