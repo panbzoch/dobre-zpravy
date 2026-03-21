@@ -1,12 +1,21 @@
 [
     {
+        "category": "Byznys",
+        "title": "Nová vlaková technika",
+        "summary": "Škoda představila nové vlaky pro Bulharsko, začíná testování.",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWElZRzBPLXU2SE1PNC1ubENEVHhBMlZkeGJoa3JIZjZZaDJBN1plR1o3S0lWeGlrTFRMRUh6aEhPbnppUjZXLXE5M2R4cGxOc1FkdGxxank2bDBQT1I3dC1taXY1VkdzRXRRRlphZmFKbl8zVHpDY3BQOHktSi11Z3NSU2EtVkdNRXpJOUQ0ek8xdXpLdFBrcmI2ZUZlOXhyZTVUUHh0dWtRa2NGMDNiOWM0eGgxdU15NzBMcnppTW81R3dyVXQxOF9DNHlJSjhJVUtIR2MxVjVEQnduVC04?oc=5",
+        "timestamp": "2026-03-20T15:49:00",
+        "timestamp_display": "20. 03. 2026 15:49",
+        "is_new": true
+    },
+    {
         "category": "Technologie",
         "title": "Xiaomi SU7 představen",
         "summary": "Xiaomi představilo novou generaci SU7 s delším dojezdem, rychlejším nabíjením a magnetickým plyšákem.",
         "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOS25pcFVFVU5yNHUzWUFLb0VjSXBzX2MxdGY0OEVobFBERW9scGtENjkxRkJTdXdtV3JWZGNIOFJaR0FuRTJiVnE0LUFaRXZVcjJWa2lXb3hsTTBGemI4YjVKaFotYVBxMV9aNHE1dzRhOF9BQkcxRk5ZQ2JpRUxRWVM1VkZseENTeDZ3Y3NQQTUyaHFfdTh5TTFRcEFyNjE4bE92REpva3AwWGFlSHMwLVg4bGpmdnRzdzZuajFkOFY2TlBCT3RZbVRoa2pQYndRUHJ5bG0ySkdQQWRzaWlUU3RwclRDUDJrN25HNU1BQ2VOSURvc01RZWEwV0R4dmVyQ3Jpa1A2clNvbDg?oc=5",
         "timestamp": "2026-03-21T06:57:00",
         "timestamp_display": "21. 03. 2026 06:57",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -15,7 +24,7 @@
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaUFzYUcyVzZsZXM3RjBseXpfbnlvVU9mT0NNblpDODZGd3pxeVRqTEVHVVkySG16LXc0V3B6NmdOZ2xmdnQzYUd3ckhhcDJkWlI3NnpoeXBhaUp4bTQtMWhET1RIVDh4cXdYclFrbHBZZkRKWW9IS1k1aUYzcXowU0duQ1NDd3lTSnR4TVdzX01zUlkzc3hlNXVnZTlpbXJKZV9QZmlCVENxYzlENXNlWlc2TXJwaG1RTWhGUjNad2d2ZHFodFM4X012VkNZOXlDYlZHemh5T2k?oc=5",
         "timestamp": "2026-03-21T06:43:35",
         "timestamp_display": "21. 03. 2026 06:43",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
