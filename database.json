@@ -1,12 +1,30 @@
 [
     {
         "category": "Technologie",
+        "title": "Xiaomi SU7 představen",
+        "summary": "Xiaomi představilo novou generaci SU7 s delším dojezdem, rychlejším nabíjením a magnetickým plyšákem.",
+        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOS25pcFVFVU5yNHUzWUFLb0VjSXBzX2MxdGY0OEVobFBERW9scGtENjkxRkJTdXdtV3JWZGNIOFJaR0FuRTJiVnE0LUFaRXZVcjJWa2lXb3hsTTBGemI4YjVKaFotYVBxMV9aNHE1dzRhOF9BQkcxRk5ZQ2JpRUxRWVM1VkZseENTeDZ3Y3NQQTUyaHFfdTh5TTFRcEFyNjE4bE92REpva3AwWGFlSHMwLVg4bGpmdnRzdzZuajFkOFY2TlBCT3RZbVRoa2pQYndRUHJ5bG0ySkdQQWRzaWlUU3RwclRDUDJrN25HNU1BQ2VOSURvc01RZWEwV0R4dmVyQ3Jpa1A2clNvbDg?oc=5",
+        "timestamp": "2026-03-21T06:57:00",
+        "timestamp_display": "21. 03. 2026 06:57",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Planetární obrana funguje",
+        "summary": "Vědci otestovali planetární obranu nárazem do planetky, což ovlivnilo její oběžnou dráhu.",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaUFzYUcyVzZsZXM3RjBseXpfbnlvVU9mT0NNblpDODZGd3pxeVRqTEVHVVkySG16LXc0V3B6NmdOZ2xmdnQzYUd3ckhhcDJkWlI3NnpoeXBhaUp4bTQtMWhET1RIVDh4cXdYclFrbHBZZkRKWW9IS1k1aUYzcXowU0duQ1NDd3lTSnR4TVdzX01zUlkzc3hlNXVnZTlpbXJKZV9QZmlCVENxYzlENXNlWlc2TXJwaG1RTWhGUjNad2d2ZHFodFM4X012VkNZOXlDYlZHemh5T2k?oc=5",
+        "timestamp": "2026-03-21T06:43:35",
+        "timestamp_display": "21. 03. 2026 06:43",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
         "title": "BMW i3 dojezd 900 km",
         "summary": "Nová verze BMW i3 má dojezd až 900 km, čímž se stává jednou z nejvýkonnějších elektromobilů na trhu.",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWjduUnBTLThnTDFOTzRmQnEyWGlIVXhmQzhfeWpnU3h0WkZxb1loYkdYaDVVUXZWNE9MN2F4dy1WOFZiUlR4bS1MWFdDUTBGemEzZ3FVbVdMaUtJWEUta1dxbXNBTkcwVzdpTWotdlZjZS16VzNLa1doUGR0SjZmc3YwTGpRNl9mQmV0Zy16ZFV6d3h0ZGw3aVlsNlJuSEFMRXR2dmZwOTVGX2VIc1NpMTVUTGR1eWxuTTdEMzFBdmwzeU0?oc=5",
         "timestamp": "2026-03-21T05:30:00",
         "timestamp_display": "21. 03. 2026 05:30",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Společnost",
@@ -15,7 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSUkyX0Y0Ri1Oa0VzYkNmMHVSN0twTUp2NE5MTDJDSUVRYkp0VWx6OWZSdS1henVlT0V2NFdYYkJmc1Nwcm55ay1haG1JODZzNUhiQzYzQXlpQ3FLNHhHcWpEaXBSV0c5elZ5N1VLWkFOZ1ktMmx4YVhlUHRyODhRWWVFcTFJRlNBMmp1MVFZdjR5R2pGQnBiSy1hTlVkSnYwTFdaemhrYTJ5S2VoV05ncC1RVW8wem1QbWVVc3lNdWxnUXNraDVoeHphYVEyZw?oc=5",
         "timestamp": "2026-03-20T20:07:00",
         "timestamp_display": "20. 03. 2026 20:07",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,7 +42,7 @@
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2UnZYTzFVbVptdWhWUl9ZTnhHRGZJQkpyY3dKYldNWVhwaDNxUjZLLTZjOFdLUFZUWGRjcnlOc1RXNml4cmVpSnpUWFoxMHJjN2JqN3AxT1BRQQ?oc=5",
         "timestamp": "2026-03-20T17:23:13",
         "timestamp_display": "20. 03. 2026 17:23",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,16 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWmFiZmRzMzFHaUdGa05idkZSOFpEbjRqdDZmYk8zNElNOUNadVJvZlU1OGM3d1V6LUpoYnlHWTRiQzVEb0RfOG9jTTBHMjRFcmFsRnkzaWIxTUNFM3A2ckVITUNKOFJmeDl1V3NKdFJsbEYxU1pIOTN0YzhoNEFiSzlHdnNaMUpuZjFQUE1ySHRUNjNFd1lDdEU4TDh5Zw?oc=5",
         "timestamp": "2026-03-20T15:46:08",
         "timestamp_display": "20. 03. 2026 15:46",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Agrofert investuje",
-        "summary": "Agrofert investuje 120 milionů eur do výroby chemikálií a pečiva v Německu.",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNTU4RlMxSVJpdS1iX0YxNW1LcVN6TWNlTFNIY21vOXBqVlpmNkx0RTZLd21BYWNucFFvcE9OaXVuVnBLRXZOanpVZVMtdnAtTFRtU0JHUVpUbXVqN0hlYnR1NTR0N1ZmRGljM29lWmFPMloxZk9GVTdxdmFGSmlUcjZiOXVmRXB1c2pac1hsczVoaTQxOEF3UWVmbDFUaGJKT19Ba0d6TTA3bi15SUtNbGRtWmE?oc=5",
-        "timestamp": "2026-03-18T16:29:02",
-        "timestamp_display": "18. 03. 2026 16:29",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -204,6 +213,15 @@
         "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxORFc2LUk4eVVjbWx5RHA0UUE2dzh0NVFWVVZnYWJGT1lBOWdYYjA3cTZMSjdTZWVvR3hLZmlBSkNOdndTaUFJX0hKYm9RUlRDVjRLZHJPSXZuUE5PY0RIcjFPcTJGVDA4TG9EM3ZCczdvc1lkbHV1LVZKS09NZ3ZLN09vMUwzOWt0QVVhY1EySDlpN2c3b2Q2VUw0QkU5VDREdFlabUtZQUJhNmNITExMVkdCeVNjUWdBX2ZyclpmaWxrVTAzTUdsSElBYUV3d3FhcjJVazFNbjZOcDdYWFFrSWd2X1ZjcTFzXzQ5R0RMeXVYdWR1akpkTWFxNnpEbmhyTnFDbVRWSU1fbTdaa3BXQldxU2NqX3VqVTkw?oc=5",
         "timestamp": "2026-03-18T20:15:33",
         "timestamp_display": "18. 03. 2026 20:15",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Agrofert investuje",
+        "summary": "Agrofert investuje 120 milionů eur do výroby chemikálií a pečiva v Německu.",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNTU4RlMxSVJpdS1iX0YxNW1LcVN6TWNlTFNIY21vOXBqVlpmNkx0RTZLd21BYWNucFFvcE9OaXVuVnBLRXZOanpVZVMtdnAtTFRtU0JHUVpUbXVqN0hlYnR1NTR0N1ZmRGljM29lWmFPMloxZk9GVTdxdmFGSmlUcjZiOXVmRXB1c2pac1hsczVoaTQxOEF3UWVmbDFUaGJKT19Ba0d6TTA3bi15SUtNbGRtWmE?oc=5",
+        "timestamp": "2026-03-18T16:29:02",
+        "timestamp_display": "18. 03. 2026 16:29",
         "is_new": false
     },
     {
