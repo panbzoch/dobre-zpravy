@@ -1,11 +1,38 @@
 [
     {
+        "category": "Věda",
+        "title": "Mezihvězdná kometa",
+        "summary": "Vědci objevili v mezihvězdné kometě 3I/ATLAS alkohol a vodu s vysokým podílem deuteria.",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOM3ctdVk1MGx5bDA0eDVuSTVzRFM4UTdKNlhNX0tPbHZEVTVYaWZqTTk0a0xjYVFwY3FhYU5fWFN2ZEVRX2NQMzNZVnZVT0JzamNwVEJTOFJuRmlrY0RtQ29XZ3RidXNVa284Mzd0dUQ1bGNvbjB4UDcwU3hUWTFyMHIyYVNnZTVkWlozMG04R1Vib2NCenlGU0pFdm53MGUtUFgxQnk4YVNqUXE0VTBwYVQ1ZUVUOEJ3R29YTXlTakFkd2hYUnNWdEV2c19VRmdGb3cxRDJWSU9jcHJXNWFjVGF2MVY3Nk9JdnYyU25VaTd3cDU4?oc=5",
+        "timestamp": "2026-03-22T17:42:17",
+        "timestamp_display": "22. 03. 2026 17:42",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Češi kupují Lidl pantofle",
+        "summary": "Češi masivně kupují pantofle značky Lidl, která se u nás těší velké popularitě.",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYWp6QXd6LVJaMEIxTE9GbTJ5RlVBV2VSbEpqMkxIWkcyVWNTb2oxbUZRd2FSa1U4bGRuWjUtTW55UGV2d2dYQjZSSUdYMG1YUzYzVXZyT1gwQnpLS0g3SC1wRU1ydXpkREJlYUpyWFViUHV0RGgxWTVmV1Y3emcwTGxiTjZDQTVVUEpKVFF2TDN2b0pYTVVB?oc=5",
+        "timestamp": "2026-03-22T15:11:15",
+        "timestamp_display": "22. 03. 2026 15:11",
+        "is_new": true
+    },
+    {
         "category": "Technologie",
-        "title": "Twitter slaví 20 let",
-        "summary": "Twitter oslavil 20 let od svého založení, kdy poprvé zveřejnil první tweet.",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMTk1bGs2THhjX3U1RlRtdWxYYjhhdkozR25DQU02M3lESXh2aXY4NHNMWVp3RHlpd25NNjczV3NBVDVXZlFadWVSdG1yWlZYTEZDQ0lCOGtXeVpjbnFJSWJQRnpGMkxOS0R6c1U4QnMwSUtSZVVTZ2dZWF8xVkNXTHA0SW1Ub1Nza3BaUGhkVQ?oc=5",
-        "timestamp": "2026-03-21T15:07:35",
-        "timestamp_display": "21. 03. 2026 15:07",
+        "title": "Nvidia ovládá kvantový svět",
+        "summary": "Nvidia rozšiřuje své aktivity v oblasti kvantových počítačů a šifrování, nabízí otevřené kvantové počítače a distribuci šifrovacích klíčů v čipech.",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUUg0dTlYUHBnX014QzRHNjZIMmVwbVV5bGhjLXctdjM1SWFtQ1R5dERqcEthS3g5ejQ4NDhjcXJ3eWNObVpFRFdOZmxSY19LZFRZbEJRQlBPVDllcWhBVHRaekVSSjdXdnlrNWY1NUd5YzNJd28xcF9xUkUyQVFZelY2TjdnM1ZXZU5NTmR0RmRKVHQ4ZlBDczBEckNFSUszNndBdHl4OGwtYnNNeHdOb0pmQXV1WDBtMUx1TFNBSkJKSXM?oc=5",
+        "timestamp": "2026-03-20T07:00:00",
+        "timestamp_display": "20. 03. 2026 07:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Zájem o brownfieldy vzrostl",
+        "summary": "Zájem o investice do brownfieldů vzrostl o 40 procent za čtyři roky, uvádí Robert Reiss z PRK Partners.",
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbXB3MnI2Rk9hZHhmRDUxWWRRWExIRllZUlNqR3V0M0RiTnIwc3NrSkhkNVVfdGlOOWJVS1h4bXM3TXZReUc3QlQxX2dZVnJQSXF0UUZDVlBsalVVLWo2dDZSS3VEOXJwNC10ejZrWFV2RHI0SDdMY1RlSlVYSV9oWUc5SUhWRHRqYnVDMUhZYTdfb1BzMlh4MlY3ZnFkZ3RYLVBUMF91b0czSFZGYmFGQXZpWERkTDlnajZYM29mX1pqQUh3amY4THB0azdoZXJwQjhnMjBNOUNhc21xbzJ4ekRmYW11Tm9JQmNCcWIwUUhjZWNUTklkbWRn?oc=5",
+        "timestamp": "2026-03-17T09:00:00",
+        "timestamp_display": "17. 03. 2026 09:00",
         "is_new": true
     },
     {
@@ -15,6 +42,15 @@
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMm1LeGZkX0pkWHJhaU5QT3hPcVEzTWdyaU1FRXFWbXhUbmdyLVBuQVk4NUhRN3VNd216X0pLQi14bW5GMU0yUWo5ek84TElWclo0Z0dMcDVqeUlGd1F4Q1M3ckphUmRTMWkyeGpvWWVYdHQwQUVwSmFoejQ4NzVuYi1oMlhDWk1mV0NCX0VvYWZwR2IzQUJwVEI5Y2lYZkd5M2FvclJGSUZHUnJ3azUxNFgwSDNXMXJSWHQtNmpJTDZiY1RmZ21rVW9lN1FpbWQ0V3pLOS1tSFlUWXh1RFktdWpyR0NrTnFT?oc=5",
         "timestamp": "2026-03-22T06:43:17",
         "timestamp_display": "22. 03. 2026 06:43",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Twitter slaví 20 let",
+        "summary": "Twitter oslavil 20 let od svého založení, kdy poprvé zveřejnil první tweet.",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMTk1bGs2THhjX3U1RlRtdWxYYjhhdkozR25DQU02M3lESXh2aXY4NHNMWVp3RHlpd25NNjczV3NBVDVXZlFadWVSdG1yWlZYTEZDQ0lCOGtXeVpjbnFJSWJQRnpGMkxOS0R6c1U4QnMwSUtSZVVTZ2dZWF8xVkNXTHA0SW1Ub1Nza3BaUGhkVQ?oc=5",
+        "timestamp": "2026-03-21T15:07:35",
+        "timestamp_display": "21. 03. 2026 15:07",
         "is_new": false
     },
     {
