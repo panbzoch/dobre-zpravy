@@ -1,12 +1,48 @@
 [
     {
+        "category": "Byznys",
+        "title": "Český kapitál dominuje",
+        "summary": "Český kapitál dominuje v realitních fondech, očekává se příliv stovek miliard z bank.",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUUdjY3JxRTJiQ2JaWGlZWFBSUE5yTUVIdUtHYWVOSzM0QTNObDd2OFNqdHBiVE81cW90TGhrVWNiamFVUFN2V1Y5NE1VU0E0U2QtQ0pEenNZYUlnT28wNC1GdmdOUk9VQ0dya0hJTTEzUXp5Y3ZvOXhndmVLNUp6d294VGxEUXZIMnpDb01qakRJaVQwSWVkcTJTTDk2dDMyNGJOcHJZZ1NtMmdtTDhaQWV0YnpWTWh4Q2ZPSEp3N1p4VEJMdk9EQk1HektFc2hZaVdZYTF6Tkg0elR0YlNNQw?oc=5",
+        "timestamp": "2026-03-23T06:00:00",
+        "timestamp_display": "23. 03. 2026 06:00",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Japonská kuchyně v ČR",
+        "summary": "Studenti gastronomické školy v Nové Pace se učili vařit od japonského mistra.",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV2dnRTd5cmhwcktmX0pkUXNCRlMxN0FhM3F6SkctZ2F3U2VjUHBXam16LUpuTnFJeU5TeVBUb0k4SnBoaEoyX0o1dWNNMm5vdG0teXJiOE5XN2dEanRFRjZVZDQtUjdScGZaOHNsRFBJMll5c2puXzY3R19iRXJvXzVqVjBWVV82WlZEaEw5cTR4alNRZ0lFcGhkM2RtUWJQZXl2c2hpMFJhR2RuTDFfNGoxcWY4elFwZWdYV2RneXRfXzhkdEJId0RVQmtNVEZDTVFjSS1fQkRfb0k?oc=5",
+        "timestamp": "2026-03-23T05:49:00",
+        "timestamp_display": "23. 03. 2026 05:49",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Křetínský otevře kliniku",
+        "summary": "Daniel Křetínský otevře v Praze novou kliniku zaměřenou na longevity, tedy prodloužení lidského života.",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMjJZNExrazVFdzJMYVRleDNsY2lIRjd5Q0JQOGtrZE9kSHdPMWMwYTVnRmQ4MGZwYTlaUWVDSkM3Q3FKQkFlMDZqdFNpUFd3SGU2UWZTc2JaeUZvcjZET2NjVzJYWkRaU2RFenNxbGlONmtDcTNBS1lkSk1aQXV0eEthT055d3BvSGYyaHFfWDh2ZGJFVzJ1czBHd05qd3lWaDQxZA?oc=5",
+        "timestamp": "2026-03-23T04:00:00",
+        "timestamp_display": "23. 03. 2026 04:00",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Projekt AI spolupráce",
+        "summary": "Český projekt umožňuje spolupráci s AI agenti a jejich tvorbu.",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcXBUWFVKV1BMdHlhR1ppdjRjaHJHYWhMdHhpakY5b2VKd1B2TkhkUVJVTW5jMHR3Z3RDWGtHaGZYQmloQ3pQOGxPNG1xREE3eF9vQUdka0NmNEc1bHVaRVhjNTV2aWZMSWdiUWVSeXRMMjlWcWN3M2JiWC1pQmRDMUFNQ2hfbThLSGJwazVEaHBQMnc3MlJySjdwYTA4VE9iekw1X3hZUGZaTEdRWmxKNFcwRU9mb3ItLURsQkhMR0VFaUZLWXYtVW5qRkR0Wm9u?oc=5",
+        "timestamp": "2026-03-20T07:00:00",
+        "timestamp_display": "20. 03. 2026 07:00",
+        "is_new": true
+    },
+    {
         "category": "Věda",
         "title": "Mezihvězdná kometa",
         "summary": "Vědci objevili v mezihvězdné kometě 3I/ATLAS alkohol a vodu s vysokým podílem deuteria.",
         "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOM3ctdVk1MGx5bDA0eDVuSTVzRFM4UTdKNlhNX0tPbHZEVTVYaWZqTTk0a0xjYVFwY3FhYU5fWFN2ZEVRX2NQMzNZVnZVT0JzamNwVEJTOFJuRmlrY0RtQ29XZ3RidXNVa284Mzd0dUQ1bGNvbjB4UDcwU3hUWTFyMHIyYVNnZTVkWlozMG04R1Vib2NCenlGU0pFdm53MGUtUFgxQnk4YVNqUXE0VTBwYVQ1ZUVUOEJ3R29YTXlTakFkd2hYUnNWdEV2c19VRmdGb3cxRDJWSU9jcHJXNWFjVGF2MVY3Nk9JdnYyU25VaTd3cDU4?oc=5",
         "timestamp": "2026-03-22T17:42:17",
         "timestamp_display": "22. 03. 2026 17:42",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,25 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYWp6QXd6LVJaMEIxTE9GbTJ5RlVBV2VSbEpqMkxIWkcyVWNTb2oxbUZRd2FSa1U4bGRuWjUtTW55UGV2d2dYQjZSSUdYMG1YUzYzVXZyT1gwQnpLS0g3SC1wRU1ydXpkREJlYUpyWFViUHV0RGgxWTVmV1Y3emcwTGxiTjZDQTVVUEpKVFF2TDN2b0pYTVVB?oc=5",
         "timestamp": "2026-03-22T15:11:15",
         "timestamp_display": "22. 03. 2026 15:11",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Nvidia ovládá kvantový svět",
-        "summary": "Nvidia rozšiřuje své aktivity v oblasti kvantových počítačů a šifrování, nabízí otevřené kvantové počítače a distribuci šifrovacích klíčů v čipech.",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUUg0dTlYUHBnX014QzRHNjZIMmVwbVV5bGhjLXctdjM1SWFtQ1R5dERqcEthS3g5ejQ4NDhjcXJ3eWNObVpFRFdOZmxSY19LZFRZbEJRQlBPVDllcWhBVHRaekVSSjdXdnlrNWY1NUd5YzNJd28xcF9xUkUyQVFZelY2TjdnM1ZXZU5NTmR0RmRKVHQ4ZlBDczBEckNFSUszNndBdHl4OGwtYnNNeHdOb0pmQXV1WDBtMUx1TFNBSkJKSXM?oc=5",
-        "timestamp": "2026-03-20T07:00:00",
-        "timestamp_display": "20. 03. 2026 07:00",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Zájem o brownfieldy vzrostl",
-        "summary": "Zájem o investice do brownfieldů vzrostl o 40 procent za čtyři roky, uvádí Robert Reiss z PRK Partners.",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbXB3MnI2Rk9hZHhmRDUxWWRRWExIRllZUlNqR3V0M0RiTnIwc3NrSkhkNVVfdGlOOWJVS1h4bXM3TXZReUc3QlQxX2dZVnJQSXF0UUZDVlBsalVVLWo2dDZSS3VEOXJwNC10ejZrWFV2RHI0SDdMY1RlSlVYSV9oWUc5SUhWRHRqYnVDMUhZYTdfb1BzMlh4MlY3ZnFkZ3RYLVBUMF91b0czSFZGYmFGQXZpWERkTDlnajZYM29mX1pqQUh3amY4THB0azdoZXJwQjhnMjBNOUNhc21xbzJ4ekRmYW11Tm9JQmNCcWIwUUhjZWNUTklkbWRn?oc=5",
-        "timestamp": "2026-03-17T09:00:00",
-        "timestamp_display": "17. 03. 2026 09:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -204,6 +222,15 @@
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY3dNUDFmektBQ1V4UFFpSzY5QWs2ZERxSHNqcDVObDlraW5OMVpXMEo3aTFvVXR4WkxPaE1yb1FwZHRTM0RvZG1PcUQ3TkhiY1FEUEduNERpNFRyeEpmckZESmo4aHpKam83akl3ZEc2MG51REcxc1JKR21Ob3FFTC1jMU5xTVFpQVJlZFhhdkl4aHVFbUdpMlJtZmRjMUVCRGpfMGlseld1Rlk?oc=5",
         "timestamp": "2026-03-20T08:54:18",
         "timestamp_display": "20. 03. 2026 08:54",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Nvidia ovládá kvantový svět",
+        "summary": "Nvidia rozšiřuje své aktivity v oblasti kvantových počítačů a šifrování, nabízí otevřené kvantové počítače a distribuci šifrovacích klíčů v čipech.",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUUg0dTlYUHBnX014QzRHNjZIMmVwbVV5bGhjLXctdjM1SWFtQ1R5dERqcEthS3g5ejQ4NDhjcXJ3eWNObVpFRFdOZmxSY19LZFRZbEJRQlBPVDllcWhBVHRaekVSSjdXdnlrNWY1NUd5YzNJd28xcF9xUkUyQVFZelY2TjdnM1ZXZU5NTmR0RmRKVHQ4ZlBDczBEckNFSUszNndBdHl4OGwtYnNNeHdOb0pmQXV1WDBtMUx1TFNBSkJKSXM?oc=5",
+        "timestamp": "2026-03-20T07:00:00",
+        "timestamp_display": "20. 03. 2026 07:00",
         "is_new": false
     },
     {
@@ -447,6 +474,15 @@
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLVNVeUY5OEloaXRpazkzM0IwWUhvVHpwMDRrQlBwZG9CQXI0c3ppNVk2akRoWUtwQmhtWmpvQWNqQ3NvbWF3VlFOeFdoZ3NHRjhUb1hDZ2hJc2E3OVE4VGJVc1BDeUZmR2VKdDhHMkJjZG1RaVhqQlRPTlJYTDZ2ZGFfdF9YblA5YmVFNkRVZGZVVVpjTUdaSDFUSS1qZw?oc=5",
         "timestamp": "2026-03-17T11:02:53",
         "timestamp_display": "17. 03. 2026 11:02",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Zájem o brownfieldy vzrostl",
+        "summary": "Zájem o investice do brownfieldů vzrostl o 40 procent za čtyři roky, uvádí Robert Reiss z PRK Partners.",
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbXB3MnI2Rk9hZHhmRDUxWWRRWExIRllZUlNqR3V0M0RiTnIwc3NrSkhkNVVfdGlOOWJVS1h4bXM3TXZReUc3QlQxX2dZVnJQSXF0UUZDVlBsalVVLWo2dDZSS3VEOXJwNC10ejZrWFV2RHI0SDdMY1RlSlVYSV9oWUc5SUhWRHRqYnVDMUhZYTdfb1BzMlh4MlY3ZnFkZ3RYLVBUMF91b0czSFZGYmFGQXZpWERkTDlnajZYM29mX1pqQUh3amY4THB0azdoZXJwQjhnMjBNOUNhc21xbzJ4ekRmYW11Tm9JQmNCcWIwUUhjZWNUTklkbWRn?oc=5",
+        "timestamp": "2026-03-17T09:00:00",
+        "timestamp_display": "17. 03. 2026 09:00",
         "is_new": false
     },
     {
