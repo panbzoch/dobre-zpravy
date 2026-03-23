@@ -1,12 +1,30 @@
 [
     {
+        "category": "Medicína",
+        "title": "Spánek a deprese",
+        "summary": "Studie ukazuje, že nedostatek spánku, ne sociální sítě, způsobuje deprese.",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOalo3TjZfdXF6bVUyWkRSVDVSeDh3WWwwZTNDckZkTHRNZWRnUVJlckwyVTlZWWpibkMyLVJrUTdONDJKOXVGc2d5VUR5RkJPZ3paZ29QN044bGo4SDJpMF9tZ01Rc0lyNm1RZkxNdHFYbVJGZkVLOENybmhna3JXWl8xMXlIZVU1cU5FVzZzc1dUdkh5WUtsV1lvUTQ3REU?oc=5",
+        "timestamp": "2026-03-23T15:50:45",
+        "timestamp_display": "23. 03. 2026 15:50",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Změň život technologií",
+        "summary": "Technologie může změnit život jedné věty, nabízí nové možnosti a příležitosti pro zlepšení života.",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1uNm1LQjNpbmJyLUV0Y0JHV1E1djRJMEpVd1V6VXFla09LLUpHRk5YT0sxQi1pZXVMbmlIUXRmWjhIYnBPRWRLN2JISFF2MGFhOE1fWjE5RmdwbVli?oc=5",
+        "timestamp": "2026-03-23T13:07:47",
+        "timestamp_display": "23. 03. 2026 13:07",
+        "is_new": true
+    },
+    {
         "category": "Technologie",
         "title": "Roboti v továrnách",
         "summary": "Do evropských továren přicházejí humanoidní roboti, kteří mohou pracovat 10 hodin bez přestávky.",
         "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQM1dyRjdWQ2tWMkNSeDZvQkRpelF3RFVCZW9RNUg1czc2OU1zVmxaVWdaMVY2aWh0MkltYlkwNW9wcTAtZnYwYXliVkZnWWFTVTBNT3U3WEFpTG1iZ1QxTmZDcWlGWXJwQ1VHc0xhaGk1MXluRV9VUDRYTG5vWTFHakN3dk9jRjBpU2pRV1A4N2VrWmJMUGNHdkoxYWNNYUZOSWVRamtwUnFKbFdFMjBaX3dyeW9MRmw3UFNDNUQ5NkpTbV8xRlJoalRUX0gtbDZrSmNBVllmWHZWRnVHYjRLYzJGaXhWV1d4TFZURA?oc=5",
         "timestamp": "2026-03-23T12:50:00",
         "timestamp_display": "23. 03. 2026 12:50",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
