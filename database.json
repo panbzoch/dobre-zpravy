@@ -1,12 +1,21 @@
 [
     {
+        "category": "Byznys",
+        "title": "Poláci expandují",
+        "summary": "Poláci s PPF rozšiřují výdejní boxy po Evropě, expandují do Británie.",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZEg1Umg0WjUxZzliODR4eFBGNWQtUUpoQzc4R3RmeUFpT0hETG9yOWFvN0p0cTc1U1hhdUtHX1FXSFFDdnBpNlhTQTJzbGhnSVZOc0RkVlBHQ2w3SWdLYVpXT3YxNmFaZ1FGcE1hWE4wNzZzc0NVb1ZRMGdwRHlRaFlBVWprQ1NZVnJrX1h0dF9QX3dSTF9sTE50Qjd6Q2VHTGZScnVOYVEzc19aYndBeDZ6YXl2RzZ6X3hrc1JRNlZtZw?oc=5",
+        "timestamp": "2026-03-23T07:00:53",
+        "timestamp_display": "23. 03. 2026 07:00",
+        "is_new": true
+    },
+    {
         "category": "Medicína",
         "title": "Spánek a deprese",
         "summary": "Studie ukazuje, že nedostatek spánku, ne sociální sítě, způsobuje deprese.",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOalo3TjZfdXF6bVUyWkRSVDVSeDh3WWwwZTNDckZkTHRNZWRnUVJlckwyVTlZWWpibkMyLVJrUTdONDJKOXVGc2d5VUR5RkJPZ3paZ29QN044bGo4SDJpMF9tZ01Rc0lyNm1RZkxNdHFYbVJGZkVLOENybmhna3JXWl8xMXlIZVU1cU5FVzZzc1dUdkh5WUtsV1lvUTQ3REU?oc=5",
         "timestamp": "2026-03-23T15:50:45",
         "timestamp_display": "23. 03. 2026 15:50",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -15,7 +24,7 @@
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1uNm1LQjNpbmJyLUV0Y0JHV1E1djRJMEpVd1V6VXFla09LLUpHRk5YT0sxQi1pZXVMbmlIUXRmWjhIYnBPRWRLN2JISFF2MGFhOE1fWjE5RmdwbVli?oc=5",
         "timestamp": "2026-03-23T13:07:47",
         "timestamp_display": "23. 03. 2026 13:07",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
