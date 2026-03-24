@@ -1,11 +1,29 @@
 [
     {
-        "category": "Byznys",
-        "title": "Poláci expandují",
-        "summary": "Poláci s PPF rozšiřují výdejní boxy po Evropě, expandují do Británie.",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZEg1Umg0WjUxZzliODR4eFBGNWQtUUpoQzc4R3RmeUFpT0hETG9yOWFvN0p0cTc1U1hhdUtHX1FXSFFDdnBpNlhTQTJzbGhnSVZOc0RkVlBHQ2w3SWdLYVpXT3YxNmFaZ1FGcE1hWE4wNzZzc0NVb1ZRMGdwRHlRaFlBVWprQ1NZVnJrX1h0dF9QX3dSTF9sTE50Qjd6Q2VHTGZScnVOYVEzc19aYndBeDZ6YXl2RzZ6X3hrc1JRNlZtZw?oc=5",
-        "timestamp": "2026-03-23T07:00:53",
-        "timestamp_display": "23. 03. 2026 07:00",
+        "category": "Technologie",
+        "title": "Škoda vylepšuje elektromobily",
+        "summary": "Škoda přidává nové funkce do svých elektromobilů, včetně V2L, lepšího infotainmentu a LFP baterií.",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTGlQaWFpX0w1eVl5alFqUjdvOWt3X2JMMU9YSG9HWTRsS1MwbGZWNjVQMkR4dU0wRmRNZXFDdU9YZlpHbEhqeV9Idnk4eVVwUjhiTDdZSUZtSjhLMEV1V0NjX3JjbUFEZS1kVWQwcGlyMkdXQTJ1MHpEY1hoTXc2MnJqSHpGcFI0Y2lrZUN6RFdXeTg1SU55RFVjXzZOdHl1VEdqaTJrWFZfallIbzYzWnNfb3oxMWg0eDRYV3B1Z19RbW1vVk56SjhIX0xaR0xSX09LcDF3?oc=5",
+        "timestamp": "2026-03-24T09:46:00",
+        "timestamp_display": "24. 03. 2026 09:46",
+        "is_new": true
+    },
+    {
+        "category": "Medicína",
+        "title": "Lázeňský fond posiluje roli",
+        "summary": "Lázeňský fond rozšiřuje prevenci a dlouhodobou péči, zlepšuje zdraví a kvalitu života.",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR1BjX3l0U2RuV1NyNDNfYVNzMGlfcXZiNVQzR0ZabEpDUDRMMGxpVmlrSTg5UHU2T21qZkZEQU53NE1mZDhOeGg0Sk1ja1dwcWJpc0xYTFc4LXhYTloxWkQwMG53UjdPZWtNYWk5d0pGVHQ5WHlKMFdqMUhjNW1fN3g4MTVsWDlhanZGUUhTNVpwX2R4SE5GWGlDb25LV2xtQkl2cA?oc=5",
+        "timestamp": "2026-03-23T23:00:00",
+        "timestamp_display": "23. 03. 2026 23:00",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Češi měří roboty",
+        "summary": "Vědci navrhli metodu pro měření inteligence robotů se systémem podobným nervové soustavě.",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQV3hJT29aRlhpVE1ob182OERleGZ1OFFOR1ZicHJ1QU1ka1BXeEZSTWt1UUZtU3I4U2x1RkVDUVktdVJuVUNMd1hfV1JPbEtWbFg0cVdreU9NcGdQWmstejJYa3AzMUNucmRVaGQzSHdwQ1cwc3FKYzdKRUJPOGxZZEd5ajZNZnRQMHRUbnAzQWItbVBzX1hJZEotMkNadHNZVEltRnd2X25vQ3pDcGxEbC0tUkxkNFFVeVZzQ2Rubi1JNTgtZ185bHFyS1hta0NyeWVpa1gyUQ?oc=5",
+        "timestamp": "2026-03-22T07:00:00",
+        "timestamp_display": "22. 03. 2026 07:00",
         "is_new": true
     },
     {
@@ -42,6 +60,15 @@
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORnFfeU1nOUZiUFdJY2xGaXAxbnprSVVzOVZSd05OVWlJRmFUQjk5SU05VVFKT1ZTNUFnYV9xTFlzX0xqb0Y0aE5PVS1pLUtRcXozbDQ4MTVFQlVwaHRyQlVHRlZHUWRsUkRDNkp6ZXpKSHFNX0NtVDBmWk9wUnhOdDlsTTRlZDJCeFdhQkkxTFZ6b1JMbnMycWdhWVJFT3RIN1JackNB?oc=5",
         "timestamp": "2026-03-23T09:04:39",
         "timestamp_display": "23. 03. 2026 09:04",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Poláci expandují",
+        "summary": "Poláci s PPF rozšiřují výdejní boxy po Evropě, expandují do Británie.",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZEg1Umg0WjUxZzliODR4eFBGNWQtUUpoQzc4R3RmeUFpT0hETG9yOWFvN0p0cTc1U1hhdUtHX1FXSFFDdnBpNlhTQTJzbGhnSVZOc0RkVlBHQ2w3SWdLYVpXT3YxNmFaZ1FGcE1hWE4wNzZzc0NVb1ZRMGdwRHlRaFlBVWprQ1NZVnJrX1h0dF9QX3dSTF9sTE50Qjd6Q2VHTGZScnVOYVEzc19aYndBeDZ6YXl2RzZ6X3hrc1JRNlZtZw?oc=5",
+        "timestamp": "2026-03-23T07:00:53",
+        "timestamp_display": "23. 03. 2026 07:00",
         "is_new": false
     },
     {
