@@ -1,12 +1,30 @@
 [
     {
         "category": "Technologie",
+        "title": "3D mapa pro roboty",
+        "summary": "Hráči Pokémon Go vytvořili detailní 3D mapu, která pomáhá chytré orientaci doručovacích robotů.",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOWHZWWGRoN1l6YWNTS2ViWk8wajdXZ2V3UHdHZDVYejM5Z09oNmRxelhTVUlMOUtRTDRuWk9xX1c3aEVZeUdfdGpLQVBaN08ySTNJVWYyZWx0NXhBY245NHc1MmVvUzlMUlQzSkJQWVl3d3o0ak42MzAzQnZJb3UwVWw0M05pY2k2SW9oZDhlQzl3bXF3TWZWaURYNS0zVktvQ3F4LXJmQ3NQQUloa3BxUXlPVE9sOHhPTnZ6MUpmc09ia0NFVHl2VWduOFluUXlIdFZQakdQLUMxajVabllfckZSRWd4SEFiLVVFY3pzRGY?oc=5",
+        "timestamp": "2026-03-24T10:59:57",
+        "timestamp_display": "24. 03. 2026 10:59",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Fio banka Škola investování",
+        "summary": "Fio banka nabízí semináře o investování ve 15 městech.",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOLV9KWHJaWnNhaXJsNENfdkQyTHlUNmF0N3VwdGxUVTc4YzJPSktUbDRSaGZPX1lpa2p3bzhyZS1pM2RjdEpybFJoWUtaU3hDUUVFNy15MkEwaExzc2xXQ2dUb3hETzluVE1VS3JteWFSd0pMcWRkbi1YczhsSUdvMG1vcVd6RV9fZkltdXNXaTdCMUIwbXRpMXU0MEJaZTlpYUt5UGJBRnU1WnRKcV9NTHBjX0Rla1ZSdzQ2Q0JJLTZJSWUxeWc?oc=5",
+        "timestamp": "2026-03-24T10:52:00",
+        "timestamp_display": "24. 03. 2026 10:52",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
         "title": "Škoda vylepšuje elektromobily",
         "summary": "Škoda přidává nové funkce do svých elektromobilů, včetně V2L, lepšího infotainmentu a LFP baterií.",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTGlQaWFpX0w1eVl5alFqUjdvOWt3X2JMMU9YSG9HWTRsS1MwbGZWNjVQMkR4dU0wRmRNZXFDdU9YZlpHbEhqeV9Idnk4eVVwUjhiTDdZSUZtSjhLMEV1V0NjX3JjbUFEZS1kVWQwcGlyMkdXQTJ1MHpEY1hoTXc2MnJqSHpGcFI0Y2lrZUN6RFdXeTg1SU55RFVjXzZOdHl1VEdqaTJrWFZfallIbzYzWnNfb3oxMWg0eDRYV3B1Z19RbW1vVk56SjhIX0xaR0xSX09LcDF3?oc=5",
         "timestamp": "2026-03-24T09:46:00",
         "timestamp_display": "24. 03. 2026 09:46",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Medicína",
@@ -15,16 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR1BjX3l0U2RuV1NyNDNfYVNzMGlfcXZiNVQzR0ZabEpDUDRMMGxpVmlrSTg5UHU2T21qZkZEQU53NE1mZDhOeGg0Sk1ja1dwcWJpc0xYTFc4LXhYTloxWkQwMG53UjdPZWtNYWk5d0pGVHQ5WHlKMFdqMUhjNW1fN3g4MTVsWDlhanZGUUhTNVpwX2R4SE5GWGlDb25LV2xtQkl2cA?oc=5",
         "timestamp": "2026-03-23T23:00:00",
         "timestamp_display": "23. 03. 2026 23:00",
-        "is_new": true
-    },
-    {
-        "category": "Věda",
-        "title": "Češi měří roboty",
-        "summary": "Vědci navrhli metodu pro měření inteligence robotů se systémem podobným nervové soustavě.",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQV3hJT29aRlhpVE1ob182OERleGZ1OFFOR1ZicHJ1QU1ka1BXeEZSTWt1UUZtU3I4U2x1RkVDUVktdVJuVUNMd1hfV1JPbEtWbFg0cVdreU9NcGdQWmstejJYa3AzMUNucmRVaGQzSHdwQ1cwc3FKYzdKRUJPOGxZZEd5ajZNZnRQMHRUbnAzQWItbVBzX1hJZEotMkNadHNZVEltRnd2X25vQ3pDcGxEbC0tUkxkNFFVeVZzQ2Rubi1JNTgtZ185bHFyS1hta0NyeWVpa1gyUQ?oc=5",
-        "timestamp": "2026-03-22T07:00:00",
-        "timestamp_display": "22. 03. 2026 07:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Medicína",
@@ -114,6 +123,15 @@
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYWp6QXd6LVJaMEIxTE9GbTJ5RlVBV2VSbEpqMkxIWkcyVWNTb2oxbUZRd2FSa1U4bGRuWjUtTW55UGV2d2dYQjZSSUdYMG1YUzYzVXZyT1gwQnpLS0g3SC1wRU1ydXpkREJlYUpyWFViUHV0RGgxWTVmV1Y3emcwTGxiTjZDQTVVUEpKVFF2TDN2b0pYTVVB?oc=5",
         "timestamp": "2026-03-22T15:11:15",
         "timestamp_display": "22. 03. 2026 15:11",
+        "is_new": false
+    },
+    {
+        "category": "Věda",
+        "title": "Češi měří roboty",
+        "summary": "Vědci navrhli metodu pro měření inteligence robotů se systémem podobným nervové soustavě.",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQV3hJT29aRlhpVE1ob182OERleGZ1OFFOR1ZicHJ1QU1ka1BXeEZSTWt1UUZtU3I4U2x1RkVDUVktdVJuVUNMd1hfV1JPbEtWbFg0cVdreU9NcGdQWmstejJYa3AzMUNucmRVaGQzSHdwQ1cwc3FKYzdKRUJPOGxZZEd5ajZNZnRQMHRUbnAzQWItbVBzX1hJZEotMkNadHNZVEltRnd2X25vQ3pDcGxEbC0tUkxkNFFVeVZzQ2Rubi1JNTgtZ185bHFyS1hta0NyeWVpa1gyUQ?oc=5",
+        "timestamp": "2026-03-22T07:00:00",
+        "timestamp_display": "22. 03. 2026 07:00",
         "is_new": false
     },
     {
