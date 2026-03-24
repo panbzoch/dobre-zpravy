@@ -1,12 +1,48 @@
 [
     {
+        "category": "Společnost",
+        "title": "Nová školka v Kladně",
+        "summary": "Kladno otevře novou školku pro 40 dětí, většinu nákladů pokryla dotace.",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM3RjMDJwbHVMSk9NNHQ3Tm9oSGhETlZEdTNveHdIRnpiRmRhYXltTVY1VnZpZHFFMTE4WXRFRkotUU10a2NCcWMzM2Ixd2lMZnhfd3dYNGcyNmw2QUU3NW45VFVEU3ZiYllhSEJvaGp2SjlOV3VlOXJHSFgxdTh1S3ZMaDlSYjExbG1GbndtVTN0WEJEajFkbDlCUVpIa3pHRkxDaTJ1bkQ3aWpmWk9zcUpaZ3hwZ1dLSnd1RVVJVHhHV1Vkbng4ZA?oc=5",
+        "timestamp": "2026-03-24T18:18:00",
+        "timestamp_display": "24. 03. 2026 18:18",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Nová výstava skla",
+        "summary": "Nová výstava Ateliér Sklo se otevřela ve svitavském muzeu, představuje sklo jako křehký materiál.",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUUdrWnlzQlk2Z2xjQ1RSYmdBYjRLRzZCM0QxVk5FM29YZ25jN1VqUFExcXRBR2tVR2FIb0xPbnpiRGExNWFNTk5rM3RVNFlUMHVOelJBcFlVdkRKanBjOE93cU03UGg5Y2VtYXRpNm1fUzcwLXpDUzJrVmRucFVfM3I3Wk5IemhfMjVmdXFwUzZQblVTLXNsMElFREFVd0d4V1dSMS1RLWNkSFhzUWFpUXpnRGk3a0FneEdraldKYnBaVVF4QTNKekgxaVR2NGt0QkR1U3V2RzM?oc=5",
+        "timestamp": "2026-03-24T17:16:00",
+        "timestamp_display": "24. 03. 2026 17:16",
+        "is_new": true
+    },
+    {
+        "category": "Medicína",
+        "title": "Úspora milionů ročně",
+        "summary": "Nová studie ukazuje, že nemocnice mohou ušetřit miliony ročně, pokud budou objednávány laboratorní testy ESR a CRP účelněji.",
+        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPRkJHTFk1X3VwbnJtYU9FZVdOT1ZDN1VxU1BTRnBJcW5kLUlYbjFfblZQWjVUTF9lNU9TeGxkYi01c0gxNXVOZS1EVWM0Y2JzRWRhMmlsaGZ6czV5NHJCZ20zZDBTTVZqUjJ3ZFg0WXQ1SGppMUhOYVhyMzdhS2NrbnVWZldXSEk1NFR4UlhVamtXYTFQd3FyTklUOHdVLUp6M2g2aXc0Mk9NcGZQUFdIRHdGRnpQS0o1N2w3WW9vczBJaURIYmJNbjFHczFkOUp4SlVWU2J5NDhJV3AxaVp6WlE1OENMeXdsWUFlQkdQVXlYZ2o0Qkl6SHYtOU9JbXRjQTRKcmxZdC1ZY0xzNmtIcmoxZkNoSmV3?oc=5",
+        "timestamp": "2026-03-24T14:51:00",
+        "timestamp_display": "24. 03. 2026 14:51",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Nízkoenergetické bydlení",
+        "summary": "Projekt Evergreen+ nabízí moderní bydlení s nízkou spotřebou energie, třetina bytů již rezervována.",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOSHFkZWRyOWg3VjQ3WllDNFFzWGpQX21mbFlHZy12TncyLTVIbXItNWJEdWdDUm5lMW9tR0pkaV9OR1FYOFktM01ZOWc5SzNNcUpuUFhiUWhOQUpoR0NKY3k3V3VVdVoxa2twMmFORWxtWWFBNjNXaFNhcUVZbjlzTVBsQlNXcW9RSko4cDZqZC1DUUc1S0diSXJqU2JNSWZZMTNhVFpnSjdnSktFZ1gyRG9TenlqUGhtX1VRWWNodEo2STFuU1dMdnBZNXFiWEpkek04Z2JWbEtVSV82T2tvMkZoY3BYZ0p3Nk9PQWlKRHVHZw?oc=5",
+        "timestamp": "2026-03-24T12:20:00",
+        "timestamp_display": "24. 03. 2026 12:20",
+        "is_new": true
+    },
+    {
         "category": "Technologie",
         "title": "3D mapa pro roboty",
         "summary": "Hráči Pokémon Go vytvořili detailní 3D mapu, která pomáhá chytré orientaci doručovacích robotů.",
         "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOWHZWWGRoN1l6YWNTS2ViWk8wajdXZ2V3UHdHZDVYejM5Z09oNmRxelhTVUlMOUtRTDRuWk9xX1c3aEVZeUdfdGpLQVBaN08ySTNJVWYyZWx0NXhBY245NHc1MmVvUzlMUlQzSkJQWVl3d3o0ak42MzAzQnZJb3UwVWw0M05pY2k2SW9oZDhlQzl3bXF3TWZWaURYNS0zVktvQ3F4LXJmQ3NQQUloa3BxUXlPVE9sOHhPTnZ6MUpmc09ia0NFVHl2VWduOFluUXlIdFZQakdQLUMxajVabllfckZSRWd4SEFiLVVFY3pzRGY?oc=5",
         "timestamp": "2026-03-24T10:59:57",
         "timestamp_display": "24. 03. 2026 10:59",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOLV9KWHJaWnNhaXJsNENfdkQyTHlUNmF0N3VwdGxUVTc4YzJPSktUbDRSaGZPX1lpa2p3bzhyZS1pM2RjdEpybFJoWUtaU3hDUUVFNy15MkEwaExzc2xXQ2dUb3hETzluVE1VS3JteWFSd0pMcWRkbi1YczhsSUdvMG1vcVd6RV9fZkltdXNXaTdCMUIwbXRpMXU0MEJaZTlpYUt5UGJBRnU1WnRKcV9NTHBjX0Rla1ZSdzQ2Q0JJLTZJSWUxeWc?oc=5",
         "timestamp": "2026-03-24T10:52:00",
         "timestamp_display": "24. 03. 2026 10:52",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
