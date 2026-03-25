@@ -1,12 +1,30 @@
 [
     {
         "category": "Technologie",
+        "title": "Robotická sekačka",
+        "summary": "Test robotické sekačky Anthbot M9 pro běžné zahrady.",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ0ZocVVkYU1HdmhkRG5vd3oweFM3UUtPMW1GUUItR1ZwQTRZRzZ1VmoyRUVFWHAtTTVhbnV3MThRSGdkSzlvWTVFS1pWNkhVdU5IbUxiX2N4cTVFcDlqb01IcVI5YUVnNVFRXzdpdTNZakRJbk1vSzZBaEJldHV6SWJ0bnZBR1A3enN5M2IwaV9EanpFZUZPVkdVS2F0S3RRQWp0bm00ckprMkJ0MW10Nl9IU2otdDVxeFZyMlZ3NA?oc=5",
+        "timestamp": "2026-03-25T10:43:10",
+        "timestamp_display": "25. 03. 2026 10:43",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Rodina Teislerových",
+        "summary": "Rodina Teislerových buduje firmu Adélku už tři generace, od malého začátku v garáži.",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSkRIZVcxYWdPUmppMktXOG02LVFjVUVUQ3EtdDFQZmJrMnlVZ3dYWmcyWVJPX3Z0b2xoRVE4S3dSX3dKNWVCMWJFNVlJeUJZNGVCWG1xU3hQSjBYOWxnVWZUM2Z5RmQtSW5vb2ItRHN0cHhISFV0blhhSGJuM1BkSnZNWW0tbWtLLVY2RFQtMlA4cjhkMVkxTWFaVm5vaWE5a3Btem1n?oc=5",
+        "timestamp": "2026-03-25T07:06:06",
+        "timestamp_display": "25. 03. 2026 07:06",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
         "title": "Nová robotická sekačka",
         "summary": "Segway Navimow představí nové robotické sekačky na veletrhu FOR GARDEN 2026.",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQVlHMWo4NEJJeHBNWU1GRThYNi03ZUh6LUlIU1F2bUdzQWtWbkV5eXN6UHhOckJWYUVLbHA1dnpJeXF6UmVsQ3lBZEZwSGdwQ25VdUliVW9QQlVBYmtOU1lLMWF4QUYzM1JORE02RmUxelc2VjhYMklnZGFDd2EtR1Z3S0Q0aEhQUTJhcWthd0VxbFF4NHFrMW9oUkt6SUJJX0RLRGxFU3g5b2dUUW5CTm1tZldxWDg?oc=5",
         "timestamp": "2026-03-25T10:00:00",
         "timestamp_display": "25. 03. 2026 10:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,16 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUVlWdno5dldzVk83SzJqQlRGanJQTXRZX2V3WFRXbHFMaUFhb3U3Uk84RS11TzVwTVdraE5fRUdtbklScGhQZzI0bnZ6OFRaX3BiQXRGaVViTEo0c21ZTUVuN2o0Y0IzNXVja1V1R0dxS0habENkdmZwUFR6T2NybXE1M1U3bDVIMmh2dWIwdFlpUzFsV3Y1NXFkdE1FWTNXWDlr?oc=5",
         "timestamp": "2026-03-25T07:15:00",
         "timestamp_display": "25. 03. 2026 07:15",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Nová fitness pobočka",
-        "summary": "Nová fitness pobočka Next.Move nabízí světový unikát ve fitness.",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWU3S3V1aC1XeUNsal9HOHBZU2tsMWFMU3RpLXMwVUg3M0ltdFhBQWFCMEhXV2RPNWIzalJQUHg2UXhncnJ3UHpPUks3OGF6bk15S3hRbG1VUGctcmFENE8zdjlwaVkyNGMzbGFxQmZRTWJ6Y1V1MlZONXNfdXhET1hZVi0xTTQzNkZCbkxWc1lPcU1TTmZF?oc=5",
-        "timestamp": "2026-03-18T17:44:07",
-        "timestamp_display": "18. 03. 2026 17:44",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Společnost",
@@ -501,6 +510,15 @@
         "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxORFc2LUk4eVVjbWx5RHA0UUE2dzh0NVFWVVZnYWJGT1lBOWdYYjA3cTZMSjdTZWVvR3hLZmlBSkNOdndTaUFJX0hKYm9RUlRDVjRLZHJPSXZuUE5PY0RIcjFPcTJGVDA4TG9EM3ZCczdvc1lkbHV1LVZKS09NZ3ZLN09vMUwzOWt0QVVhY1EySDlpN2c3b2Q2VUw0QkU5VDREdFlabUtZQUJhNmNITExMVkdCeVNjUWdBX2ZyclpmaWxrVTAzTUdsSElBYUV3d3FhcjJVazFNbjZOcDdYWFFrSWd2X1ZjcTFzXzQ5R0RMeXVYdWR1akpkTWFxNnpEbmhyTnFDbVRWSU1fbTdaa3BXQldxU2NqX3VqVTkw?oc=5",
         "timestamp": "2026-03-18T20:15:33",
         "timestamp_display": "18. 03. 2026 20:15",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Nová fitness pobočka",
+        "summary": "Nová fitness pobočka Next.Move nabízí světový unikát ve fitness.",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWU3S3V1aC1XeUNsal9HOHBZU2tsMWFMU3RpLXMwVUg3M0ltdFhBQWFCMEhXV2RPNWIzalJQUHg2UXhncnJ3UHpPUks3OGF6bk15S3hRbG1VUGctcmFENE8zdjlwaVkyNGMzbGFxQmZRTWJ6Y1V1MlZONXNfdXhET1hZVi0xTTQzNkZCbkxWc1lPcU1TTmZF?oc=5",
+        "timestamp": "2026-03-18T17:44:07",
+        "timestamp_display": "18. 03. 2026 17:44",
         "is_new": false
     },
     {
