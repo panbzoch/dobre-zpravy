@@ -1,12 +1,21 @@
 [
     {
+        "category": "Věda",
+        "title": "Nová superslitina",
+        "summary": "Vědci objevili novou superslitinu, která dokáže ochlazovat téměř k absolutní nule bez použití helia-3.",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNmlfblJob2pTbWMxT0Q0UkVCWTBRdEJMdjZETGpfRHhsWGYyeGVrcTZMQl91Mm9qUnlFTmh1eU02VG5XYTN4SG10eEdJb0lOMmt6djBKTFFITS1hdGgwOHBNbVNuRzZpc1F2NjI4R2szXzFxOWxDSGg0clRaSFFXdmdZOHlySWRKUS01ekFhTi1CZnItT1l5NEtpMA?oc=5",
+        "timestamp": "2026-03-24T13:36:10",
+        "timestamp_display": "24. 03. 2026 13:36",
+        "is_new": true
+    },
+    {
         "category": "Společnost",
         "title": "Nová školka v Kladně",
         "summary": "Kladno otevře novou školku pro 40 dětí, většinu nákladů pokryla dotace.",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM3RjMDJwbHVMSk9NNHQ3Tm9oSGhETlZEdTNveHdIRnpiRmRhYXltTVY1VnZpZHFFMTE4WXRFRkotUU10a2NCcWMzM2Ixd2lMZnhfd3dYNGcyNmw2QUU3NW45VFVEU3ZiYllhSEJvaGp2SjlOV3VlOXJHSFgxdTh1S3ZMaDlSYjExbG1GbndtVTN0WEJEajFkbDlCUVpIa3pHRkxDaTJ1bkQ3aWpmWk9zcUpaZ3hwZ1dLSnd1RVVJVHhHV1Vkbng4ZA?oc=5",
         "timestamp": "2026-03-24T18:18:00",
         "timestamp_display": "24. 03. 2026 18:18",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Společnost",
@@ -15,7 +24,7 @@
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUUdrWnlzQlk2Z2xjQ1RSYmdBYjRLRzZCM0QxVk5FM29YZ25jN1VqUFExcXRBR2tVR2FIb0xPbnpiRGExNWFNTk5rM3RVNFlUMHVOelJBcFlVdkRKanBjOE93cU03UGg5Y2VtYXRpNm1fUzcwLXpDUzJrVmRucFVfM3I3Wk5IemhfMjVmdXFwUzZQblVTLXNsMElFREFVd0d4V1dSMS1RLWNkSFhzUWFpUXpnRGk3a0FneEdraldKYnBaVVF4QTNKekgxaVR2NGt0QkR1U3V2RzM?oc=5",
         "timestamp": "2026-03-24T17:16:00",
         "timestamp_display": "24. 03. 2026 17:16",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Medicína",
@@ -24,7 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPRkJHTFk1X3VwbnJtYU9FZVdOT1ZDN1VxU1BTRnBJcW5kLUlYbjFfblZQWjVUTF9lNU9TeGxkYi01c0gxNXVOZS1EVWM0Y2JzRWRhMmlsaGZ6czV5NHJCZ20zZDBTTVZqUjJ3ZFg0WXQ1SGppMUhOYVhyMzdhS2NrbnVWZldXSEk1NFR4UlhVamtXYTFQd3FyTklUOHdVLUp6M2g2aXc0Mk9NcGZQUFdIRHdGRnpQS0o1N2w3WW9vczBJaURIYmJNbjFHczFkOUp4SlVWU2J5NDhJV3AxaVp6WlE1OENMeXdsWUFlQkdQVXlYZ2o0Qkl6SHYtOU9JbXRjQTRKcmxZdC1ZY0xzNmtIcmoxZkNoSmV3?oc=5",
         "timestamp": "2026-03-24T14:51:00",
         "timestamp_display": "24. 03. 2026 14:51",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,7 +42,7 @@
         "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOSHFkZWRyOWg3VjQ3WllDNFFzWGpQX21mbFlHZy12TncyLTVIbXItNWJEdWdDUm5lMW9tR0pkaV9OR1FYOFktM01ZOWc5SzNNcUpuUFhiUWhOQUpoR0NKY3k3V3VVdVoxa2twMmFORWxtWWFBNjNXaFNhcUVZbjlzTVBsQlNXcW9RSko4cDZqZC1DUUc1S0diSXJqU2JNSWZZMTNhVFpnSjdnSktFZ1gyRG9TenlqUGhtX1VRWWNodEo2STFuU1dMdnBZNXFiWEpkek04Z2JWbEtVSV82T2tvMkZoY3BYZ0p3Nk9PQWlKRHVHZw?oc=5",
         "timestamp": "2026-03-24T12:20:00",
         "timestamp_display": "24. 03. 2026 12:20",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
