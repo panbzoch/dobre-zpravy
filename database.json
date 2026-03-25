@@ -1,21 +1,39 @@
 [
     {
+        "category": "Věda",
+        "title": "CERN převážel antihmotu",
+        "summary": "Vědci z CERNu úspěšně převezli 92 antiprotonů v elektrické pasti, což je historický úspěch ve fyzice.",
+        "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPWTdoLVEwaW1WYXQ3OHY3QTN3RVVvZDR3OG16THZvYVNucTBESHBJZmR3aEl1ZkZIdHg5ektiRGlKNlpLQWswSlhzcE5CWU51Q3BZTDk3UHB2eUJWZGZPVTR4WnVteTVpLXliTWtIdmxmd25lQS1wR182ZGtoUVJaNUNOMEx4ZUJ1am1FbUJKSXk2LVdzbzVHMDI3ZU0tOEJpMDJSRVdxdlhmbk1jQWRhX3BiV2pqNXhpV2k0ck45NjdUS2RGeF9EQmhubnRkd3cyVTg5Q2QwSmdYV3BsUDJMNWM0dlg3N1hrUm1oWVBxVVdZYW9kT240Y1QyRHN2eU1UMnBIVW9iUHpTZzhiSkM5OUxIRWdEWHhONUZDUWlkSlg?oc=5",
+        "timestamp": "2026-03-25T16:19:00",
+        "timestamp_display": "25. 03. 2026 16:19",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Český startup úspěch",
+        "summary": "Český startup získal zakázku od technologického obra Nvidie, což je velký úspěch pro český byznys a technologický sektor.",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcWtaa3VOVHByTXMwSTViTGY4NGk1N3FGNnZJajVMQ1JKcFlkeHlpR0dpNEVPM2dTV3cwUjNoVmtZN1RUWVlQbG5PSlJVWW9OdXBrYXExQzV3d2YyMTAzaW1KOUNPTmJlQi1TcVVkZGt6NzZnbUdQencyRTFGb3pnaVRpZGJuWEEzRnV5YURodDF0M1g4U1BlVEpjU3hfY2t6?oc=5",
+        "timestamp": "2026-03-25T14:51:52",
+        "timestamp_display": "25. 03. 2026 14:51",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Evropa investuje do obrany",
+        "summary": "Evropa nabízí finance pro urychlení rozvoje obranných technologií, aby je co nejdříve dostala do praxe.",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeWRyamI4cFZHMUtjaHVneFZPa01PcUI1WlJSUGxvSjRHZWkyNl94dkpZSXQ5bHdGYXlzMk0tNTFLVk40OUtBcWtpZHlJcWdrY1B5RldubDlsSGt6Z190WmxSSEQ5LUUxNjVrZHBqZG03VzE2VGg4eHpQYnRfckNXQWdtOEI0SnMtVlhpUnI5dUd6SnpRazdmVTNhdl9NNXl5OG1KZUJ4dFdHZ3ZrQ1RDS0xRbkczWGZYcG9sbjY2TkpDMmJuN2U5dEhmajY?oc=5",
+        "timestamp": "2026-03-23T07:00:00",
+        "timestamp_display": "23. 03. 2026 07:00",
+        "is_new": true
+    },
+    {
         "category": "Technologie",
         "title": "Robotická sekačka",
         "summary": "Test robotické sekačky Anthbot M9 pro běžné zahrady.",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ0ZocVVkYU1HdmhkRG5vd3oweFM3UUtPMW1GUUItR1ZwQTRZRzZ1VmoyRUVFWHAtTTVhbnV3MThRSGdkSzlvWTVFS1pWNkhVdU5IbUxiX2N4cTVFcDlqb01IcVI5YUVnNVFRXzdpdTNZakRJbk1vSzZBaEJldHV6SWJ0bnZBR1A3enN5M2IwaV9EanpFZUZPVkdVS2F0S3RRQWp0bm00ckprMkJ0MW10Nl9IU2otdDVxeFZyMlZ3NA?oc=5",
         "timestamp": "2026-03-25T10:43:10",
         "timestamp_display": "25. 03. 2026 10:43",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Rodina Teislerových",
-        "summary": "Rodina Teislerových buduje firmu Adélku už tři generace, od malého začátku v garáži.",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSkRIZVcxYWdPUmppMktXOG02LVFjVUVUQ3EtdDFQZmJrMnlVZ3dYWmcyWVJPX3Z0b2xoRVE4S3dSX3dKNWVCMWJFNVlJeUJZNGVCWG1xU3hQSjBYOWxnVWZUM2Z5RmQtSW5vb2ItRHN0cHhISFV0blhhSGJuM1BkSnZNWW0tbWtLLVY2RFQtMlA4cjhkMVkxTWFaVm5vaWE5a3Btem1n?oc=5",
-        "timestamp": "2026-03-25T07:06:06",
-        "timestamp_display": "25. 03. 2026 07:06",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -33,6 +51,15 @@
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUVlWdno5dldzVk83SzJqQlRGanJQTXRZX2V3WFRXbHFMaUFhb3U3Uk84RS11TzVwTVdraE5fRUdtbklScGhQZzI0bnZ6OFRaX3BiQXRGaVViTEo0c21ZTUVuN2o0Y0IzNXVja1V1R0dxS0habENkdmZwUFR6T2NybXE1M1U3bDVIMmh2dWIwdFlpUzFsV3Y1NXFkdE1FWTNXWDlr?oc=5",
         "timestamp": "2026-03-25T07:15:00",
         "timestamp_display": "25. 03. 2026 07:15",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Rodina Teislerových",
+        "summary": "Rodina Teislerových buduje firmu Adélku už tři generace, od malého začátku v garáži.",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSkRIZVcxYWdPUmppMktXOG02LVFjVUVUQ3EtdDFQZmJrMnlVZ3dYWmcyWVJPX3Z0b2xoRVE4S3dSX3dKNWVCMWJFNVlJeUJZNGVCWG1xU3hQSjBYOWxnVWZUM2Z5RmQtSW5vb2ItRHN0cHhISFV0blhhSGJuM1BkSnZNWW0tbWtLLVY2RFQtMlA4cjhkMVkxTWFaVm5vaWE5a3Btem1n?oc=5",
+        "timestamp": "2026-03-25T07:06:06",
+        "timestamp_display": "25. 03. 2026 07:06",
         "is_new": false
     },
     {
