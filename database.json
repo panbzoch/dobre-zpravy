@@ -1,5 +1,77 @@
 [
     {
+        "category": "Byznys",
+        "title": "Úspěšný podnikatel",
+        "summary": "Dalibor Cicman vybudoval z GymBeamu obřího evropského hráče, jeho příběh je inspirativní.",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWEY0ckFKZm1jN0twdUhZTldWY1lkd25BUHJSX0JfMTIzY01IRDFiMU80dW9SeEhfZktzWk5OQXBzcmZSVlJQYl9yazFxWmdmZGZWcmlxM3JHRWRTeC1FcTU4bzdhSnk0c08ya0JEWlUwVVdnQjFDT3NYdmhtYzM5b20yVy1HTE5iREVySU9hZTY?oc=5",
+        "timestamp": "2026-03-26T09:02:37",
+        "timestamp_display": "26. 03. 2026 09:02",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Rostock ukazuje cestu",
+        "summary": "Rostock je příkladem udržitelné budoucnosti, nabízí inspiraci pro ostatní města.",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOekFTMEhXY0EyQ3dJWFdjQlVtRUtBaXZuRU9OeERlNEN5dTYzOWVMa2tpRXN1cllqMERBYUgyWXhCaE81SnF2UVZIY290cWFURS1sWTNuWFlhcjdLT1plQ0h6RkhhajdoNWMtN3c0NlkwMWNuUk9acVlGQXlvejUxaE9TLWstdFhCY2FPbldVTmZVbUZmS0V2QmNRVQ?oc=5",
+        "timestamp": "2026-03-26T08:02:55",
+        "timestamp_display": "26. 03. 2026 08:02",
+        "is_new": true
+    },
+    {
+        "category": "Medicína",
+        "title": "Tasemnice léčí deprese",
+        "summary": "Vědci z Budějovic objevili, že tasemnice krysí mohou pomoci léčit deprese nebo alergie, pokud se jim poskytne vláknina.",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOR0lVMGp3OEdPX2psSGh1azhpT1EzQk5CWm41R3lOUG5ld25MQ0xKckFpaF85aUNZRnNmWnZNYm9oTVlYcklWYllueTZVZEhiRU9ZN040Y21scEZTaTJXWTJIYVkwNGp3OTlQMmJiSzhyUTg2NFFjcFZUSzdpeUxDVjcyWk0yT19LT3RFcXczS1pUNWQ4OG1wZkNhbVhGSXphMTdHWURZeERYVEtZaWg5dTRVcjJrVXNwU1pxZVJlUm9mRzFZeWFsQ1pqcUhWdHVYR2RieGpn?oc=5",
+        "timestamp": "2026-03-26T06:49:00",
+        "timestamp_display": "26. 03. 2026 06:49",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Blue Origin vynese satelity",
+        "summary": "Blue Origin plánuje vynést 51 600 satelitů jako datové centrum.",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTEhTQzRpeDNDX0w4TktHek1rbDFYcVpidUtUWHc1UEV3VUJJMFVxZmc0Uml4ZlROc3dyOUVZY3FsLUhpSGpaYTRTS1d6ZV9fa2lubEF2bWg4eFpENS1pRFBpZjFXaHJaamYxTDgtV0I3cGNPeEtyUnVzYU45MHlKX25hbnZqY09CSS1KNmVuV05qWE9tYkxiQmxSOXFIem94cXh4Sk1RRlQ5QzVjOHZLZ2RpY0psekNXRUhXMVI0SW5pckZrc3c0R0EtN1BnVGtnV3F6WHdUdkpKdGV4U3NRald3SnMzM1U3LVE?oc=5",
+        "timestamp": "2026-03-26T06:43:16",
+        "timestamp_display": "26. 03. 2026 06:43",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice do elektrododávek",
+        "summary": "Český výrobce elektrododávek získal investora, který spolupracuje se Škodou Auto.",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVnNtRnNfOGcwNFlmaklIYnlTSV92cTN3NTVMazg4anp1TDBhZkJ1ZXhOUGNmYUZiRnlyMnBibHlLSHNaNEQ2cmJBTGlSTWZjWXk2MXRMTlgyYmw2bTVEZ3dDdUR3aWlqLUh3VVRjUk5HV3VmS1UtaUJRWlRvVzZkOGxaUFJySWQ0bVB5VUZHQlVXc2YwalJZdm5mOXE1NFU4Tm9Qc2JJUGJyekVNaHBYUzNsNDlDZW45RXZPRmVzMHp2WEZkRktkbk93TW8yRWdCeXdSV3NkWmExR1lrWlMzV29nUHhjZw?oc=5",
+        "timestamp": "2026-03-26T04:00:00",
+        "timestamp_display": "26. 03. 2026 04:00",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "ASUS NUC 16 Pro",
+        "summary": "ASUS představil NUC 16 Pro, malý počítač s výkonem AI pracovní stanice.",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa29HcE5TY2pKWEx3TGc5Q2FRZGRnbWtQaGt4ZW9yUmROQ2lCY0ljUFVab29DalR0c3QyWlFEZzQ4RU5SUFpoU2xYazgtU3pubnlGMkNuanEya1B6Rm4xWDYxLXdzOGNzb2xBNDVsc29ncVZlX04tVnd5OHFaU2lzaDdqRTdSY0tQTGowTFFySzc5Y0k?oc=5",
+        "timestamp": "2026-03-25T23:02:55",
+        "timestamp_display": "25. 03. 2026 23:02",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Knihobot expanduje",
+        "summary": "Knihobot a Rohlík rozšiřují svoz knih kurýry do Německa a Rakouska.",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQXdDc0swMkxxSmd5c0ZSY3pjeU5pZS02VVRfUW9wSFlHY1gwcmtCY012UFVtMmZPb0lkcDJoQ0ZXX2FTaFJpQmlPQ1hvOW9jNUh0MDVWTnF1MDVucnRuM2ZCRzdISE5CN3RIcW8yYllONkZVRmNENVZJR1B4ajMwWm5faFo5YkFyMFN4WnNMVlg2SUZMXzg0di0xdw?oc=5",
+        "timestamp": "2026-03-24T07:00:00",
+        "timestamp_display": "24. 03. 2026 07:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Dohoda ušetří firmám",
+        "summary": "Evropské firmy ušetří 25 miliard korun díky dohodě s Austrálií.",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcGJZY0VHazI0d3Ytb1BUcU5hMFJkSDBldWNqdmpKSndWQUVYSzJQNTNUb0g1NDRPRFg5ZHdtWmFKU0l0aFBNMTI4M1pzR19nOUxGYjhVSm84Z2xjWXpZMWN5bVJxQ0h3bWZiX1FlOUFNc2JvU0U5U0lPbE9UR19EMl9VUlJiMVlPN0ZDOXhvY2p3ZWdCckxLSEdNTlg1VjVlSlZKcXg2Y1QwNlVSNG9QeHo1N2xueXRoYU1xXzFXZE5BWWM4SFJzcnRxekFqQ1k?oc=5",
+        "timestamp": "2026-03-24T05:42:00",
+        "timestamp_display": "24. 03. 2026 05:42",
+        "is_new": true
+    },
+    {
         "category": "Věda",
         "title": "CERN převážel antihmotu",
         "summary": "Vědci z CERNu úspěšně převezli 92 antiprotonů v elektrické pasti, což je historický úspěch ve fyzice.",
