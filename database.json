@@ -6,7 +6,7 @@
         "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPWTdoLVEwaW1WYXQ3OHY3QTN3RVVvZDR3OG16THZvYVNucTBESHBJZmR3aEl1ZkZIdHg5ektiRGlKNlpLQWswSlhzcE5CWU51Q3BZTDk3UHB2eUJWZGZPVTR4WnVteTVpLXliTWtIdmxmd25lQS1wR182ZGtoUVJaNUNOMEx4ZUJ1am1FbUJKSXk2LVdzbzVHMDI3ZU0tOEJpMDJSRVdxdlhmbk1jQWRhX3BiV2pqNXhpV2k0ck45NjdUS2RGeF9EQmhubnRkd3cyVTg5Q2QwSmdYV3BsUDJMNWM0dlg3N1hrUm1oWVBxVVdZYW9kT240Y1QyRHN2eU1UMnBIVW9iUHpTZzhiSkM5OUxIRWdEWHhONUZDUWlkSlg?oc=5",
         "timestamp": "2026-03-25T16:19:00",
         "timestamp_display": "25. 03. 2026 16:19",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,16 +15,7 @@
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcWtaa3VOVHByTXMwSTViTGY4NGk1N3FGNnZJajVMQ1JKcFlkeHlpR0dpNEVPM2dTV3cwUjNoVmtZN1RUWVlQbG5PSlJVWW9OdXBrYXExQzV3d2YyMTAzaW1KOUNPTmJlQi1TcVVkZGt6NzZnbUdQencyRTFGb3pnaVRpZGJuWEEzRnV5YURodDF0M1g4U1BlVEpjU3hfY2t6?oc=5",
         "timestamp": "2026-03-25T14:51:52",
         "timestamp_display": "25. 03. 2026 14:51",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Evropa investuje do obrany",
-        "summary": "Evropa nabízí finance pro urychlení rozvoje obranných technologií, aby je co nejdříve dostala do praxe.",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeWRyamI4cFZHMUtjaHVneFZPa01PcUI1WlJSUGxvSjRHZWkyNl94dkpZSXQ5bHdGYXlzMk0tNTFLVk40OUtBcWtpZHlJcWdrY1B5RldubDlsSGt6Z190WmxSSEQ5LUUxNjVrZHBqZG03VzE2VGg4eHpQYnRfckNXQWdtOEI0SnMtVlhpUnI5dUd6SnpRazdmVTNhdl9NNXl5OG1KZUJ4dFdHZ3ZrQ1RDS0xRbkczWGZYcG9sbjY2TkpDMmJuN2U5dEhmajY?oc=5",
-        "timestamp": "2026-03-23T07:00:00",
-        "timestamp_display": "23. 03. 2026 07:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -185,6 +176,15 @@
         "summary": "Poláci s PPF rozšiřují výdejní boxy po Evropě, expandují do Británie.",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZEg1Umg0WjUxZzliODR4eFBGNWQtUUpoQzc4R3RmeUFpT0hETG9yOWFvN0p0cTc1U1hhdUtHX1FXSFFDdnBpNlhTQTJzbGhnSVZOc0RkVlBHQ2w3SWdLYVpXT3YxNmFaZ1FGcE1hWE4wNzZzc0NVb1ZRMGdwRHlRaFlBVWprQ1NZVnJrX1h0dF9QX3dSTF9sTE50Qjd6Q2VHTGZScnVOYVEzc19aYndBeDZ6YXl2RzZ6X3hrc1JRNlZtZw?oc=5",
         "timestamp": "2026-03-23T07:00:53",
+        "timestamp_display": "23. 03. 2026 07:00",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Evropa investuje do obrany",
+        "summary": "Evropa nabízí finance pro urychlení rozvoje obranných technologií, aby je co nejdříve dostala do praxe.",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeWRyamI4cFZHMUtjaHVneFZPa01PcUI1WlJSUGxvSjRHZWkyNl94dkpZSXQ5bHdGYXlzMk0tNTFLVk40OUtBcWtpZHlJcWdrY1B5RldubDlsSGt6Z190WmxSSEQ5LUUxNjVrZHBqZG03VzE2VGg4eHpQYnRfckNXQWdtOEI0SnMtVlhpUnI5dUd6SnpRazdmVTNhdl9NNXl5OG1KZUJ4dFdHZ3ZrQ1RDS0xRbkczWGZYcG9sbjY2TkpDMmJuN2U5dEhmajY?oc=5",
+        "timestamp": "2026-03-23T07:00:00",
         "timestamp_display": "23. 03. 2026 07:00",
         "is_new": false
     },
