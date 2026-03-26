@@ -1,6 +1,42 @@
 [
     {
         "category": "Byznys",
+        "title": "Nová etapa Vysočan",
+        "summary": "Vznikne městský blok s kancelářemi a obchody.",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcDBkTW41dVB2ME52QllKd0NrNkh3M2RDNHVrUWlOTkE1NnFKZEtUTVk0ZDlNdU5IYVQyTHBLbTBTVmdjcmJidDRuZGlKWjJncHp4Q1B5V2piV0pBYjA4MmNCdUo0UW9xYlhURHF1VlFzbWtlRVU2MTlvM19fUWZmRXJaMnVNUzhHMjJ4eUtyRGxGZG5kOHk0eFdGRlZscnprYXJJ?oc=5",
+        "timestamp": "2026-03-26T18:08:13",
+        "timestamp_display": "26. 03. 2026 18:08",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Nová Avata 360",
+        "summary": "Nová Avata 360 od DJI je FPV dron s dvěma kamerami, který dokáže natočit akrobacii i bez akrobacie.",
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPRXZWSDRXVkpOTzBaSzJycjRITEpMTnJ1eHBlRnoycWZOdGNpWjQzd1o3bjNRNlNOU3d2SDBzc19icWU5SE9OamYwWl8zS09mSHFBTmpxdlZQRUpTYTdrRnlRNjQtOU83MElGOFlSUzdlR0JiY01PRlhLUWtaZU1Iek1aZWRHUFpIOEVfWjhPOHpmXzNZYjgySjZiaWtaM1Rfcmc0aWVza1NTUkRxVUYxd0Rhd21YMGtLQzJCdnFoVzZIeEJYa1ZMQkNtNWtOb01MT1B2akF5MlJPalFmYlNyRFhHbE14bHIzMnF1V01zRF9uc0ZieGc?oc=5",
+        "timestamp": "2026-03-26T15:22:07",
+        "timestamp_display": "26. 03. 2026 15:22",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Nová Avata 360",
+        "summary": "Nová Avata 360 od DJI je FPV dron s dvěma kamerami, umožňující natočení akrobatických scén.",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTkM0TG03MV8zS3prRjBCWUhsYUtHdWxDN0FORFZJdVgzdHFZeVdMSHZtYXNYV2lYYmZWM3ZEMHVEVV9OcWNUOVhfem5VV0lFakw4LVFaZGM4QmMwYXlhTTRCYVBFMkliaVNHNTByWmk2M1R3S3oyajh4cHhJTEVRTklIdTROQzF3czF1dmptVnJYNzd3NFdKM3ZEaWJWV2ZMUnl5clczaWYyOGU3dE1sVk52aE9LRjBjOG1IbGFibnVMM3pId05yekFNVTBaczFOZ0dyTEdZcm9DeHNpM0k5bThucw?oc=5",
+        "timestamp": "2026-03-26T15:04:37",
+        "timestamp_display": "26. 03. 2026 15:04",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Český systém hlídá Nvidii",
+        "summary": "Český systém hlídá bezpečnostní systémy Nvidie, hlídá každý metr čtvereční.",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQVdmWkE5bUVsc182cWVGTFh6ZnlHOUNIWjBRTVFKYy1kZTM1bHdXNnVnUDhSRUltVllXdzZ2MFRwWVJlTU9hVWdUOWkzRms3Y1ZyTDJ6OTF6ZzhYX3VjR3B5YmhWNW9NRlJfaHdZaDFIaUZjdWQ1Y2JHRmlVOUJfSkpqeTZjSGdXWDhrc0oxR2dwTF95SW1yekdObjQ2QnY4RDJqcTJMWmZtV1VmR3lBdzRETQ?oc=5",
+        "timestamp": "2026-03-26T15:00:00",
+        "timestamp_display": "26. 03. 2026 15:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Úspěšný podnikatel",
         "summary": "Dalibor Cicman vybudoval z GymBeamu obřího evropského hráče, jeho příběh je inspirativní.",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWEY0ckFKZm1jN0twdUhZTldWY1lkd25BUHJSX0JfMTIzY01IRDFiMU80dW9SeEhfZktzWk5OQXBzcmZSVlJQYl9yazFxWmdmZGZWcmlxM3JHRWRTeC1FcTU4bzdhSnk0c08ya0JEWlUwVVdnQjFDT3NYdmhtYzM5b20yVy1HTE5iREVySU9hZTY?oc=5",
