@@ -1,21 +1,30 @@
 [
     {
+        "category": "Společnost",
+        "title": "Vědci v kavárně",
+        "summary": "Colours of Ostrava nabídne kavárnu Akademie věd a divadelní scénu.",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYUlTMHd5Q0Zrb1h2Mzhvcnp5OHBMQXRKZWdBek9OZENwanRrTko0Y3IwNHRVQUlKQldlOW1xZjZTb3g1WThCdnZXVkZaZkN1SzktUkphRHJTU2JPclBTNkF5dXFOUENrNXA0MTI4VXljVS04eVhscFpZQlRvUktsc2k0SFp3WEQ0cWt5UUNnd0Y3YVNGc2VOV0hJYTdXd1NVdl9wcnRCQ19QNGZFaDZrRmhidjRaaHJ2QWVsUU1fbm9odlBaa2NPYg?oc=5",
+        "timestamp": "2026-03-27T08:12:00",
+        "timestamp_display": "27. 03. 2026 08:12",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Partnerství prodlouženo",
+        "summary": "Společnost Allwyn prodloužila partnerství u Formule 1 o několik let.",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT3FrWE5HcVhJcmZia05QSTdDbU1HWjFRbVdlaTZsSUxndGlTWUUta1h0QnZGdDVQbTJxMmQ2MXpOaWlqVVg3ZWdCWXBHWHVNMjhrXzRrZmFQbzlodl9rc1ZFdDBxOGNkaWRWdWF5b0lUQTBkbFJicExZWVB6MmJRZV9oLUZ1TldOMWN0MmctNGJMTjFqSlZTbU9JeVVLenhmN2cxdGpIOA?oc=5",
+        "timestamp": "2026-03-26T09:32:37",
+        "timestamp_display": "26. 03. 2026 09:32",
+        "is_new": true
+    },
+    {
         "category": "Technologie",
         "title": "Nová smartphony",
         "summary": "Nové smartphony přinášejí kvalitní fotografie v dostupném provedení.",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTnBOSmJjMVRIUlROYWExZUh5cWJEay1JVi14V0NLWmRPR3hCeFh0ZjJjZDkzNExUaVFKY2x1dmowSm5jNjNnYU94NU5iQ20xRU9LNFozeFd3eVpuVVlhZlAxNzluaElpYWQxMUJGczFSVDNPWjgtcDQ0VHRsdzlCV0Y0dDNwMThocDBfWjcyQmRxcTJzeWtiNnllU2NVYkV3dnc?oc=5",
         "timestamp": "2026-03-26T23:00:00",
         "timestamp_display": "26. 03. 2026 23:00",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Nová Avata 360",
-        "summary": "Nová Avata 360 od DJI je FPV dron s dvěma kamerami, který dokáže natočit akrobacii i bez akrobacie.",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPLXlRaXJGelNDWUpFcGVWRnBRUWZDbWhJdkN5R3NTU1p2LUhRZmxmZnBsb0pQV3RUYnhiZnJpSXpaaENmMW1zZE90eEtna3dncDNOeVhvNHVoR1MtdVozNm9jOFBOVm5ZNU9KbFFjRXR4Z1JwN2VGVTF1NFk3LVZJa1I4NmJESlRlNmNsUHMtc0U4UHN4VUdkSHFScF9oUkFFT1NDcllzeC1lbjZLQjdsSWUzdjJYMzNjUXpjaEZIelIweUFHOFhiOGdMU1FtaV8xNVgtUXRPN0ZFUzZDWjh1WFNYdURXMlpuaTQ2bzdYN1hyNDg?oc=5",
-        "timestamp": "2026-03-26T15:22:12",
-        "timestamp_display": "26. 03. 2026 15:22",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,6 +33,15 @@
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcDBkTW41dVB2ME52QllKd0NrNkh3M2RDNHVrUWlOTkE1NnFKZEtUTVk0ZDlNdU5IYVQyTHBLbTBTVmdjcmJidDRuZGlKWjJncHp4Q1B5V2piV0pBYjA4MmNCdUo0UW9xYlhURHF1VlFzbWtlRVU2MTlvM19fUWZmRXJaMnVNUzhHMjJ4eUtyRGxGZG5kOHk0eFdGRlZscnprYXJJ?oc=5",
         "timestamp": "2026-03-26T18:08:13",
         "timestamp_display": "26. 03. 2026 18:08",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Nová Avata 360",
+        "summary": "Nová Avata 360 od DJI je FPV dron s dvěma kamerami, který dokáže natočit akrobacii i bez akrobacie.",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPLXlRaXJGelNDWUpFcGVWRnBRUWZDbWhJdkN5R3NTU1p2LUhRZmxmZnBsb0pQV3RUYnhiZnJpSXpaaENmMW1zZE90eEtna3dncDNOeVhvNHVoR1MtdVozNm9jOFBOVm5ZNU9KbFFjRXR4Z1JwN2VGVTF1NFk3LVZJa1I4NmJESlRlNmNsUHMtc0U4UHN4VUdkSHFScF9oUkFFT1NDcllzeC1lbjZLQjdsSWUzdjJYMzNjUXpjaEZIelIweUFHOFhiOGdMU1FtaV8xNVgtUXRPN0ZFUzZDWjh1WFNYdURXMlpuaTQ2bzdYN1hyNDg?oc=5",
+        "timestamp": "2026-03-26T15:22:12",
+        "timestamp_display": "26. 03. 2026 15:22",
         "is_new": false
     },
     {
