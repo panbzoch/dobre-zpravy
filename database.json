@@ -1,21 +1,30 @@
 [
     {
+        "category": "Byznys",
+        "title": "Investiční fond roste",
+        "summary": "Aktiva J&T Arch vzrostla o 81 miliard, fond dál roste.",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdGV4RUZnalVKdlhaejZfZl83T3Vna0VnY1BwV2ZyR0Y3R09hNXd0bzZEZnFHcDdjcjRwZGU2SXItSlRfUURvV2o0dHlSZEQwZEdfZ3pJVE1YR1U2M193UzhmLV8xaTNiRkUxZHVzRkQ2OGwxem93WnFISmdYZE95NjhjckVBVzNGNU55d050Mmg1ZmhwYjhDSDVRLXJzMWR0OVE?oc=5",
+        "timestamp": "2026-03-27T14:13:28",
+        "timestamp_display": "27. 03. 2026 14:13",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Robotické minirameno",
+        "summary": "Strojař vymyslel robotické minirameno pro přesné pohyby pod 1 mikrometr.",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdUpESXRQNF93MWk0azhSMkMtUGpkdVFzRnRsMFpnc1FycFZrTlduYnU3c1B5cWtGRlJEZm9aTmxwak80OF9hYmRGendTUGRHT24wdUlQTWx6anB6SzlUc0F3S3VPVkZOZzhyeUxxdmNtY0J3MmNpb0JhWmlhckF1a2RjdWk3ejV3c2JpQmRwWGprc2JYLUgzYXo0VmZvOF9wdUFyVUx6MF9tMEdtSmNxOEdqbi1VV2MxSVpwcUZxSGdQVW5yVHkwUzA5aXNDUHdVcW93YnlzdnVSNDJ1N3hfUkUtWG1Qa0t5amJOYTBMbw?oc=5",
+        "timestamp": "2026-03-27T11:03:56",
+        "timestamp_display": "27. 03. 2026 11:03",
+        "is_new": true
+    },
+    {
         "category": "Společnost",
         "title": "Vědci v kavárně",
         "summary": "Colours of Ostrava nabídne kavárnu Akademie věd a divadelní scénu.",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYUlTMHd5Q0Zrb1h2Mzhvcnp5OHBMQXRKZWdBek9OZENwanRrTko0Y3IwNHRVQUlKQldlOW1xZjZTb3g1WThCdnZXVkZaZkN1SzktUkphRHJTU2JPclBTNkF5dXFOUENrNXA0MTI4VXljVS04eVhscFpZQlRvUktsc2k0SFp3WEQ0cWt5UUNnd0Y3YVNGc2VOV0hJYTdXd1NVdl9wcnRCQ19QNGZFaDZrRmhidjRaaHJ2QWVsUU1fbm9odlBaa2NPYg?oc=5",
         "timestamp": "2026-03-27T08:12:00",
         "timestamp_display": "27. 03. 2026 08:12",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Partnerství prodlouženo",
-        "summary": "Společnost Allwyn prodloužila partnerství u Formule 1 o několik let.",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT3FrWE5HcVhJcmZia05QSTdDbU1HWjFRbVdlaTZsSUxndGlTWUUta1h0QnZGdDVQbTJxMmQ2MXpOaWlqVVg3ZWdCWXBHWHVNMjhrXzRrZmFQbzlodl9rc1ZFdDBxOGNkaWRWdWF5b0lUQTBkbFJicExZWVB6MmJRZV9oLUZ1TldOMWN0MmctNGJMTjFqSlZTbU9JeVVLenhmN2cxdGpIOA?oc=5",
-        "timestamp": "2026-03-26T09:32:37",
-        "timestamp_display": "26. 03. 2026 09:32",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -69,6 +78,15 @@
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQVdmWkE5bUVsc182cWVGTFh6ZnlHOUNIWjBRTVFKYy1kZTM1bHdXNnVnUDhSRUltVllXdzZ2MFRwWVJlTU9hVWdUOWkzRms3Y1ZyTDJ6OTF6ZzhYX3VjR3B5YmhWNW9NRlJfaHdZaDFIaUZjdWQ1Y2JHRmlVOUJfSkpqeTZjSGdXWDhrc0oxR2dwTF95SW1yekdObjQ2QnY4RDJqcTJMWmZtV1VmR3lBdzRETQ?oc=5",
         "timestamp": "2026-03-26T15:00:00",
         "timestamp_display": "26. 03. 2026 15:00",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Partnerství prodlouženo",
+        "summary": "Společnost Allwyn prodloužila partnerství u Formule 1 o několik let.",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT3FrWE5HcVhJcmZia05QSTdDbU1HWjFRbVdlaTZsSUxndGlTWUUta1h0QnZGdDVQbTJxMmQ2MXpOaWlqVVg3ZWdCWXBHWHVNMjhrXzRrZmFQbzlodl9rc1ZFdDBxOGNkaWRWdWF5b0lUQTBkbFJicExZWVB6MmJRZV9oLUZ1TldOMWN0MmctNGJMTjFqSlZTbU9JeVVLenhmN2cxdGpIOA?oc=5",
+        "timestamp": "2026-03-26T09:32:37",
+        "timestamp_display": "26. 03. 2026 09:32",
         "is_new": false
     },
     {
