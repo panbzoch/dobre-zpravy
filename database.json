@@ -1,11 +1,38 @@
 [
     {
-        "category": "Společnost",
-        "title": "Rostock ukazuje cestu",
-        "summary": "Rostock představuje udržitelnou budoucnost, ukazuje cestu k ekologickému rozvoji.",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNanprQlVhVGRyWVV1ajQ2WE0yOVF0djNrMG1nYlc5NFNvWWdiU0JodlhILTlRMVNLdU5yQk5XU2xpRmVJVlA4V2MwYzFoMU10Z3VZSi1Rc010SnpxRFRBLUVkQ2VuanNNVWJCcmtkYTVNSEdlWjM3M1YybFZJY19OQ0J5LTBqMlpBajhSMkpVbS1ZQ0xFQnVNUDBGUTlKSFMtcFE?oc=5",
-        "timestamp": "2026-03-26T08:02:37",
-        "timestamp_display": "26. 03. 2026 08:02",
+        "category": "Technologie",
+        "title": "Google spouští Vyhledávání",
+        "summary": "Google spouští funkci Vyhledávání Live, umožňující vyhledávat pomocí dialogu.",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUDdOem9obzcwcEg3czNkREpYZU1LZnQ0ejg1V1A2V0puS0luZ0V1MnVtcHJTbm5BdVNRUktMQ3ZabWdBbmZsbDZPOUVYZWRMY1VUMDZYSHB3aVMzVENXOURtMzdtck9kUlRqTXhwZWlBTXFLSHJwX0hfWnhaZHNyazQ5TlFnZzREZzFKaVhwMGwwa0U?oc=5",
+        "timestamp": "2026-03-27T12:12:45",
+        "timestamp_display": "27. 03. 2026 12:12",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "KKCG kupuje Ferretti",
+        "summary": "KKCG nabízí 5 miliard korun za zvýšení podílu ve výrobci jachet Ferretti.",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRUc5TDJEWGRvYjRGbjFlTVdjSmNOX2oyYTlOMW1qN082NVhLa1NRYXhlcnRJT05SeTJmQjRaQ3RLN3FxclVXNnlNRmM0c3lyTEppQlN3am01Q1lmWkNrOTVPNWt3UDBHNDVOVHAycHZxd0s0eGtwUWhYdTJhQ2ZjQTFqWUlHYWljWlZtejAwbjhrN3VJcEJyalltUzBhV3B0dUZreWNB?oc=5",
+        "timestamp": "2026-03-27T11:27:39",
+        "timestamp_display": "27. 03. 2026 11:27",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Nová fotovoltaická elektrárna",
+        "summary": "Firma otevřela výrobní areál s fotovoltaickou elektrárnou o rozloze 750 m² v Kopidlně.",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcWg5S3RMZy1CRTVXbmxVVnpYbmN1bHpvRlZNeHFCRmV6X1MxNFYtQjdwQ2dUQmFUNGFzSEJGd29EU0g4Ql9FZnpNTnVndGdSS1hDOHdVMi1WVTgyb2pCUVlDUTA0OGIzb3dEalBEeHM1dTJOdm1oc0liaDYzUEdxcHZPLW9mU1A4V0Y1WE9Qb2tleU50Ukt1Tk5pM3FWV2pSRmVJblhSWDAya2hLN2xTNDJ1YXc4S05lOU5FM19Sb2ktM01tYWZmOFVhRG5lYmlWb1NNTko3bUFMTVpIYjVMbkJZT2E?oc=5",
+        "timestamp": "2026-03-27T11:18:56",
+        "timestamp_display": "27. 03. 2026 11:18",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Nová etapa Vysočan",
+        "summary": "Vznikne městský blok s kancelářemi a obchody.",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc0lURVVZTnhWN0d5WXMtbVNFUi1RZ3RncjMtOHIyZnltNndRMTFoX3JDeWN5Z0UyNFI1UW9PbE5wcUhCMzJWSFl0d19KQjB2dUVaZTZ3c0xvNGJkdFk2Tjl1VXpJVXZ6MzBVNzJESnN5a1RGSHlCZ0hVR1ItZWU2azdsU3dPM01Ucjc0M1E0cGU3M0VmSkVmT2M2Rkk?oc=5",
+        "timestamp": "2026-03-26T18:08:13",
+        "timestamp_display": "26. 03. 2026 18:08",
         "is_new": true
     },
     {
@@ -113,6 +140,15 @@
         "summary": "Rostock je příkladem udržitelné budoucnosti, nabízí inspiraci pro ostatní města.",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOekFTMEhXY0EyQ3dJWFdjQlVtRUtBaXZuRU9OeERlNEN5dTYzOWVMa2tpRXN1cllqMERBYUgyWXhCaE81SnF2UVZIY290cWFURS1sWTNuWFlhcjdLT1plQ0h6RkhhajdoNWMtN3c0NlkwMWNuUk9acVlGQXlvejUxaE9TLWstdFhCY2FPbldVTmZVbUZmS0V2QmNRVQ?oc=5",
         "timestamp": "2026-03-26T08:02:55",
+        "timestamp_display": "26. 03. 2026 08:02",
+        "is_new": false
+    },
+    {
+        "category": "Společnost",
+        "title": "Rostock ukazuje cestu",
+        "summary": "Rostock představuje udržitelnou budoucnost, ukazuje cestu k ekologickému rozvoji.",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNanprQlVhVGRyWVV1ajQ2WE0yOVF0djNrMG1nYlc5NFNvWWdiU0JodlhILTlRMVNLdU5yQk5XU2xpRmVJVlA4V2MwYzFoMU10Z3VZSi1Rc010SnpxRFRBLUVkQ2VuanNNVWJCcmtkYTVNSEdlWjM3M1YybFZJY19OQ0J5LTBqMlpBajhSMkpVbS1ZQ0xFQnVNUDBGUTlKSFMtcFE?oc=5",
+        "timestamp": "2026-03-26T08:02:37",
         "timestamp_display": "26. 03. 2026 08:02",
         "is_new": false
     },
