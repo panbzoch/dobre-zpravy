@@ -1,20 +1,11 @@
 [
     {
-        "category": "Byznys",
-        "title": "AI utržil 100 milionů",
-        "summary": "ChatGPT utržil 100 milionů dolarů z reklam, což je velký úspěch pro umělou inteligenci.",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMS1USnhaVXdVanQ0cS1vRXNyRUZvNmRUX0RrM1JaLVVvNTd4Vk8tbm9INVdmMWRFSjZZeVM2QXdaVDZLc2dEbWVpVlFxV1QtT2lFUEh0QzBHTTZidVIxdE9jT21ta1RkR3BGbVJXWW1qTklQRzBDSzZ4UHRnN3lGcnZuQ2tGQnRCQ2hpYmxIMElxSDY1ejBVRU5RbU9JMURfUVloQ1IwQVlrV2E3YlE?oc=5",
-        "timestamp": "2026-03-27T09:27:29",
-        "timestamp_display": "27. 03. 2026 09:27",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Startup prodán za stamiliony",
-        "summary": "Zakladatelé startupu prodali svou první firmu za stamiliony a nyní staví další s pomocí umělé inteligence.",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdlFZZlBuLVdVWHNnR3htbXctUU50OG5XQkdrZjNNcGkwMkNTdWdWLVp4M3d5SEdTZmxiSXRyN0dHMlB0RkZCaXFLN3d2TVFGTHppb3RhYS1CMTRqTWFYYjIwLUs1aHhKMktLTldlRG1IamlvNFRCcnI4bjFZZ1ZCTVFRbHNUV25CcnJ6WTM4NUVlY2pRYkxTSnU5UWRzVENWSlRmVHhIdTdnZmJJeHFTMHNn?oc=5",
-        "timestamp": "2026-03-27T05:39:32",
-        "timestamp_display": "27. 03. 2026 05:39",
+        "category": "Technologie",
+        "title": "Nezničitelný robot",
+        "summary": "Vědci vytvořili autonomního robota ze stavebnice tyček, který je schopen se pohybovat a přizpůsobovat se.",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbFViZHdVTXBhMHJVZ3Q0bWlhTnFaX3JtUGVibE90WWxWUDlBVXFNWEd1WFNELUgwN3AxMW10Q2ozS3B1eF9UWHNlS0wxeWk1eUp5Zy1RWGhtNEdqQTlGUkZGd0Z5amppM3dqS2YxTk9NNXF5cHpQSkFsOHpvZHJNN1hodEVWenBiLVZldDZDZ3UzWFF1TzhrNHRVa3RCTHI1eDBGdzFGcXFldU1BbDhHYm5XcjVvcmR0bXpnQmdxajJPMkNSM3R2dnd6UW1Ea1VOYkJF?oc=5",
+        "timestamp": "2026-03-28T14:53:27",
+        "timestamp_display": "28. 03. 2026 14:53",
         "is_new": true
     },
     {
@@ -81,12 +72,30 @@
         "is_new": false
     },
     {
+        "category": "Byznys",
+        "title": "AI utržil 100 milionů",
+        "summary": "ChatGPT utržil 100 milionů dolarů z reklam, což je velký úspěch pro umělou inteligenci.",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMS1USnhaVXdVanQ0cS1vRXNyRUZvNmRUX0RrM1JaLVVvNTd4Vk8tbm9INVdmMWRFSjZZeVM2QXdaVDZLc2dEbWVpVlFxV1QtT2lFUEh0QzBHTTZidVIxdE9jT21ta1RkR3BGbVJXWW1qTklQRzBDSzZ4UHRnN3lGcnZuQ2tGQnRCQ2hpYmxIMElxSDY1ejBVRU5RbU9JMURfUVloQ1IwQVlrV2E3YlE?oc=5",
+        "timestamp": "2026-03-27T09:27:29",
+        "timestamp_display": "27. 03. 2026 09:27",
+        "is_new": false
+    },
+    {
         "category": "Společnost",
         "title": "Vědci v kavárně",
         "summary": "Colours of Ostrava nabídne kavárnu Akademie věd a divadelní scénu.",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYUlTMHd5Q0Zrb1h2Mzhvcnp5OHBMQXRKZWdBek9OZENwanRrTko0Y3IwNHRVQUlKQldlOW1xZjZTb3g1WThCdnZXVkZaZkN1SzktUkphRHJTU2JPclBTNkF5dXFOUENrNXA0MTI4VXljVS04eVhscFpZQlRvUktsc2k0SFp3WEQ0cWt5UUNnd0Y3YVNGc2VOV0hJYTdXd1NVdl9wcnRCQ19QNGZFaDZrRmhidjRaaHJ2QWVsUU1fbm9odlBaa2NPYg?oc=5",
         "timestamp": "2026-03-27T08:12:00",
         "timestamp_display": "27. 03. 2026 08:12",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Startup prodán za stamiliony",
+        "summary": "Zakladatelé startupu prodali svou první firmu za stamiliony a nyní staví další s pomocí umělé inteligence.",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdlFZZlBuLVdVWHNnR3htbXctUU50OG5XQkdrZjNNcGkwMkNTdWdWLVp4M3d5SEdTZmxiSXRyN0dHMlB0RkZCaXFLN3d2TVFGTHppb3RhYS1CMTRqTWFYYjIwLUs1aHhKMktLTldlRG1IamlvNFRCcnI4bjFZZ1ZCTVFRbHNUV25CcnJ6WTM4NUVlY2pRYkxTSnU5UWRzVENWSlRmVHhIdTdnZmJJeHFTMHNn?oc=5",
+        "timestamp": "2026-03-27T05:39:32",
+        "timestamp_display": "27. 03. 2026 05:39",
         "is_new": false
     },
     {
