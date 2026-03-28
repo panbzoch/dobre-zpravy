@@ -1,12 +1,30 @@
 [
     {
+        "category": "Byznys",
+        "title": "AI utržil 100 milionů",
+        "summary": "ChatGPT utržil 100 milionů dolarů z reklam, což je velký úspěch pro umělou inteligenci.",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMS1USnhaVXdVanQ0cS1vRXNyRUZvNmRUX0RrM1JaLVVvNTd4Vk8tbm9INVdmMWRFSjZZeVM2QXdaVDZLc2dEbWVpVlFxV1QtT2lFUEh0QzBHTTZidVIxdE9jT21ta1RkR3BGbVJXWW1qTklQRzBDSzZ4UHRnN3lGcnZuQ2tGQnRCQ2hpYmxIMElxSDY1ejBVRU5RbU9JMURfUVloQ1IwQVlrV2E3YlE?oc=5",
+        "timestamp": "2026-03-27T09:27:29",
+        "timestamp_display": "27. 03. 2026 09:27",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Startup prodán za stamiliony",
+        "summary": "Zakladatelé startupu prodali svou první firmu za stamiliony a nyní staví další s pomocí umělé inteligence.",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdlFZZlBuLVdVWHNnR3htbXctUU50OG5XQkdrZjNNcGkwMkNTdWdWLVp4M3d5SEdTZmxiSXRyN0dHMlB0RkZCaXFLN3d2TVFGTHppb3RhYS1CMTRqTWFYYjIwLUs1aHhKMktLTldlRG1IamlvNFRCcnI4bjFZZ1ZCTVFRbHNUV25CcnJ6WTM4NUVlY2pRYkxTSnU5UWRzVENWSlRmVHhIdTdnZmJJeHFTMHNn?oc=5",
+        "timestamp": "2026-03-27T05:39:32",
+        "timestamp_display": "27. 03. 2026 05:39",
+        "is_new": true
+    },
+    {
         "category": "Technologie",
         "title": "Chytrý robot najde ztracené věci",
         "summary": "Chytrý robot z Mnichova využívá umělou inteligenci k vyhledávání ztracených předmětů, jako jsou brýle nebo klíče.",
         "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPWWpEeU10R2NlT2V4TmhYRVdSckgxYmx2SnM4YkE4VGRWNjNuQzVpNW9UempMbnoxUTVlLWhSdFR1YzYxVnJqcV85NTItbmVuWXZCd2hySTlIMzREemx5bGNrNC1WczRsY3p0NWFWblNfdzJmTVc2ZEZPT0U5Ql84TUdsaHk2ZFFQQlVRajhCSFdRZWIzRUg4bk9kWjVibVE2eC1rSUxvMTZXVlBiZUs2UXBkdXRNa1FuNHFHd01sMmM3dG1wc0NPVDFuU3lGV09tQ3FrdjJOeHJtRVkxazkzODVQTXgzTW1BLVVDLXB1d2pRS2FSZ2x2SFllaTJCbTlBZnJ3?oc=5",
         "timestamp": "2026-03-28T08:43:15",
         "timestamp_display": "28. 03. 2026 08:43",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,16 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnZnA2Z2RMRWpvTWtwazQydXFVdWJWOXF4NnNtS01aRExZZnhJT3o0d29aaTEySm15cWJaU1BJaFcwNHVCX1JHRzRzUjE4SF9ZOEJ0SDNhRmhnQQ?oc=5",
         "timestamp": "2026-03-27T22:06:32",
         "timestamp_display": "27. 03. 2026 22:06",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "M&G slaví 20 let",
-        "summary": "Společnost M&G slaví 20 let existence a úspěchů v čínském papírnictví.",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2OGxlV3lGUGQ5V2Q1emdqdFgzNGN0MWtFd2pZSFJYbDYxQjI5M2V5aGpTb3FwMHFEX084SGRQQ2t0RF9WTGZzUXpKYzZ1RzFKYVZZ?oc=5",
-        "timestamp": "2026-03-25T14:29:00",
-        "timestamp_display": "25. 03. 2026 14:29",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -231,6 +240,15 @@
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcWtaa3VOVHByTXMwSTViTGY4NGk1N3FGNnZJajVMQ1JKcFlkeHlpR0dpNEVPM2dTV3cwUjNoVmtZN1RUWVlQbG5PSlJVWW9OdXBrYXExQzV3d2YyMTAzaW1KOUNPTmJlQi1TcVVkZGt6NzZnbUdQencyRTFGb3pnaVRpZGJuWEEzRnV5YURodDF0M1g4U1BlVEpjU3hfY2t6?oc=5",
         "timestamp": "2026-03-25T14:51:52",
         "timestamp_display": "25. 03. 2026 14:51",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "M&G slaví 20 let",
+        "summary": "Společnost M&G slaví 20 let existence a úspěchů v čínském papírnictví.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2OGxlV3lGUGQ5V2Q1emdqdFgzNGN0MWtFd2pZSFJYbDYxQjI5M2V5aGpTb3FwMHFEX084SGRQQ2t0RF9WTGZzUXpKYzZ1RzFKYVZZ?oc=5",
+        "timestamp": "2026-03-25T14:29:00",
+        "timestamp_display": "25. 03. 2026 14:29",
         "is_new": false
     },
     {
