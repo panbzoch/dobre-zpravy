@@ -1,11 +1,20 @@
 [
     {
+        "category": "Společnost",
+        "title": "Porcelánová výstava Sedm vln",
+        "summary": "Výstava Sedm vln Jiřího Kožíška je k vidění v písecké Sladovně, představuje porcelánová díla inspirovaná cykly lidského života.",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYjRURmlHZFZVSUdVXzRYR2txeU5lZ1dQZzJCV1VIZmloVi1wRnMzRlB2dTIwakFDUDdKS3ZjMHVRRVVHMlc0bzVydmpZaEQ1d0ZwckFCMkM1cTBwOGNQMGo1a3FBYVRaaU1fYW5kTzZaSnk4MC1UdTJZMkRQdld2bmVTZUxmbFRTYUFxYkxpVTA1SVZ6UDNMaEFCaEw0aW1FYVBuSFBJODU0NTBwZFdoWnljeUJJbGxsV2VkMFhDUWJHMVlmcXg4dnNoS1EtdG5aSVZOTDZmYw?oc=5",
+        "timestamp": "2026-03-29T13:47:50",
+        "timestamp_display": "29. 03. 2026 13:47",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
-        "title": "Jiří Krejčiřík",
-        "summary": "Jiří Krejčiřík získal ocenění Grand designér roku 2025.",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTDlDUFBSNGh6YkpSaXczMl9SUUViZDgyX1pGV3AzSHo1ZlhIelgzZUx3U0d6RGNiNjZrUzYtNmZkaGpxbjVlYmxSQm9FMUxvYWV4dHFvQmpRRFdUUDZ0TWVJRWpxbHo3WTlmZ0pXQ2ZIX1o4MXBBNHNpY1BwMlNmQWZoZndRcWF6RWpjSDBhdWRreWxWMnNxR0xjV1dKejJIc3BoUW5uVkhRV01mSzlUUVF2Q0d5Zm9pWkJoN19SSFJUcjBlUFlZVEJwdXZ2R3IxTjVfZFNsNy10bmZOd3ZCSXM2SEFMTlRNMTh5YWNzSQ?oc=5",
-        "timestamp": "2026-03-28T12:07:32",
-        "timestamp_display": "28. 03. 2026 12:07",
+        "title": "Nový design nazouváků",
+        "summary": "Společnost Crocs představila nové nazouváky, které navrhl známý designér, a okamžitě zaujaly svou jedinečnou podobou a pohodlností.",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON0M2d0NRZ1BmQ1ZUQXRxM3o4U1dSNTZuZVZsYmVoU0d4aEc0MzhZS1hGS0dzSG82V1FGMjRvam13RFltcUJJN1RGXzQ0TDdYTVNLTmFSR2dWUXJ0Ri1SaS1QUGc0RUo4UWVMbXpGNmF0a0oyUmdhNUhPeUdYZjZDUUM5WUZvZzg5UEpZMmt4Y1VFT1B3SkZ2NU5GeDFsOGxHZnhROERVNmEzXzNtT0NIc1ZIeFQtY09JVWtzM1JGWQ?oc=5",
+        "timestamp": "2026-03-28T16:22:55",
+        "timestamp_display": "28. 03. 2026 16:22",
         "is_new": true
     },
     {
@@ -33,6 +42,15 @@
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbFViZHdVTXBhMHJVZ3Q0bWlhTnFaX3JtUGVibE90WWxWUDlBVXFNWEd1WFNELUgwN3AxMW10Q2ozS3B1eF9UWHNlS0wxeWk1eUp5Zy1RWGhtNEdqQTlGUkZGd0Z5amppM3dqS2YxTk9NNXF5cHpQSkFsOHpvZHJNN1hodEVWenBiLVZldDZDZ3UzWFF1TzhrNHRVa3RCTHI1eDBGdzFGcXFldU1BbDhHYm5XcjVvcmR0bXpnQmdxajJPMkNSM3R2dnd6UW1Ea1VOYkJF?oc=5",
         "timestamp": "2026-03-28T14:53:27",
         "timestamp_display": "28. 03. 2026 14:53",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Jiří Krejčiřík",
+        "summary": "Jiří Krejčiřík získal ocenění Grand designér roku 2025.",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTDlDUFBSNGh6YkpSaXczMl9SUUViZDgyX1pGV3AzSHo1ZlhIelgzZUx3U0d6RGNiNjZrUzYtNmZkaGpxbjVlYmxSQm9FMUxvYWV4dHFvQmpRRFdUUDZ0TWVJRWpxbHo3WTlmZ0pXQ2ZIX1o4MXBBNHNpY1BwMlNmQWZoZndRcWF6RWpjSDBhdWRreWxWMnNxR0xjV1dKejJIc3BoUW5uVkhRV01mSzlUUVF2Q0d5Zm9pWkJoN19SSFJUcjBlUFlZVEJwdXZ2R3IxTjVfZFNsNy10bmZOd3ZCSXM2SEFMTlRNMTh5YWNzSQ?oc=5",
+        "timestamp": "2026-03-28T12:07:32",
+        "timestamp_display": "28. 03. 2026 12:07",
         "is_new": false
     },
     {
