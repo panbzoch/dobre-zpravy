@@ -1,12 +1,48 @@
 [
     {
+        "category": "Byznys",
+        "title": "Letiště zahajuje sezonu",
+        "summary": "Pardubické letiště zahajuje sezonu charterovými lety do Egypta a přidává nová letoviska.",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbWNhMTNqR1BRYllDT3k5NUJsYzB6Y1Q3UGE4a1lfcV9oak52TC02bERVUjdOMjJTUW9BMzdoWEpDRFR3S21ab2ZHTjZZejhyaFB5ZnlzMFJoVURSTEpic3RHS2N6S0UtekRpdEhGcFpNcXU2aDJGRDFnT2owTUE3clFKendONDRWVzd2MWI2NnoxcmNoc2ZWX2c2NU4zSXhfY1JEcFBkbHBFb3ZnbzBmZXZEa1pnQ3BpdHVpMkdmblB5YkFXY2I0dzdn?oc=5",
+        "timestamp": "2026-03-30T09:39:00",
+        "timestamp_display": "30. 03. 2026 09:39",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Mistral investuje",
+        "summary": "Mistral získal 830 milionů dolarů na datová centra pro evropskou autonomii.",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ003bkxnN2RYTmUwNEJDQm9teGM0N3NvYXc5VDlMQi1HQ3dFeUFBcE9qYTcxdGt0UWM3aWRUREczTWpjbnZfYUJIQUZ2RDVrV2ZzeDBnaHhtb2dpN0R2TkNOVUdPcE1zVFJ6a1hsM201ZkJrS1RIaklsNl9QckZKVE10VW5hekFVQ0tNVjBPUmpZQ0FONWd1enhLWVFJUEdMdmJzNGhn?oc=5",
+        "timestamp": "2026-03-30T09:32:28",
+        "timestamp_display": "30. 03. 2026 09:32",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Úspěšný podnikatel",
+        "summary": "Petr Brzek hovoří o vybudování půlmiliardové společnosti s pomocí umělé inteligence.",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdW55V0VjOWRpN3hLR0l6d1otMXZ5LXBtR2cyYm1iZWxBaTFiaGNWVWk2YzVrQTh5UG1fdjFwTFQ5V3cyQ2kyWFlRUzVrODVKS0lCYkg3X1NjQXVpRHJZRzA5NzdGY3hHUmkyT0EyRjE2Q1FLNnBQSldfLVpTaDBuWGY2M0g2T2V6eXhUeTIzaWNjOTh1bDdBajh3?oc=5",
+        "timestamp": "2026-03-30T08:10:44",
+        "timestamp_display": "30. 03. 2026 08:10",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Nová budova Masarykova nádraží",
+        "summary": "Vznikne multifunkční budova navržená žákem Zahy Hadid, který je známý svými inovativními projekty.",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWW1JTV9PUFFNcmNxMmlMR2dmdDZPeGt2bHlVdVpycjk5ZkZYTk1zN0U2RWwwQVg5UUl6MDZYc0xRWkJid1RVNUpUdVJuM1ZQY3pHdDFQWHJkYkVPWlVPSXNqYnRfWFJudTNMZlBoSW04X0hobUN6WV9IaXM2VjRVSFN6TUx0YmJaYjNrN3dBYnFsUUZpTGdteC1oTUtETnMwdUFhMHpHazVvQm9SelBoVi1YZkFYYXAyS3JzVHhQQjcybnFqWHRRNTY3anM1UTd3OHVuVGlXTGRISHhnajZn?oc=5",
+        "timestamp": "2026-03-30T07:48:00",
+        "timestamp_display": "30. 03. 2026 07:48",
+        "is_new": true
+    },
+    {
         "category": "Technologie",
         "title": "Robotická čtyřkolka",
         "summary": "Česká robotická čtyřkolka Unex uspěla v americké soutěži, předvedla své schopnosti a nadchla americkou armádu.",
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRDVxaTAyQVdPc1hQWVRTekE3d3dSNDFWbk1ZRXVCR1FZbnRCd3FYOXp6eVI2N0t0cjROaXNMc054SUd1UGdNaUw2RW5IaTJOTWRJQUNFOUVMX05VVTBFSHJ3RmZBZjJCME9aeXgtRkpfM3NJa09CcF9FSXdfN3RTdjkyMDNpbmxSTHRlTVFiV1pHUlVRUWppakYzVC1peVk0Ymo4WmZOYkdpLXplU0dRVkRDMVcwSkhISWgySDFaYWdPR3NJRUNFTTRaZzlxMVFEbUpZMEZxaXNja2Rya09RMQ?oc=5",
         "timestamp": "2026-03-30T05:43:48",
         "timestamp_display": "30. 03. 2026 05:43",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -15,7 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOFRCVXFhdnJnaGJQV2xKQlh1YUo1UkhHLVFDZ0w1VWtpQ09EaW9YYlVSVEhlYmJWd1B0V0p6T1JLcEpBMDJ0VFlWcXYzMVEyeWx3OHFsUG81QW40TVFDTlVSUUdPSlBWcTNrc1lrblY1aXgxVklKZzFIeWZDYUdVa05EbmY1X0xrSk5xbUE5b2F2VzUtNUFfT3JJcmNNUjJBOGlxWUtkOEdCMEc1bzlRVFRSV0o3TEZUNmIzX0hnTHJzM3RvbzJRT0xwNXRLQUkwM0IzWF9vTlVSNnozS0NFaA?oc=5",
         "timestamp": "2026-03-30T05:10:00",
         "timestamp_display": "30. 03. 2026 05:10",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,7 +60,7 @@
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZnpqaDU1UVZpYzdxRHFxb0pOOXI0QW96WmdxRE1aUU83OGFqZDZNbkxvRUFHcEV3a09xRUpUeEt0N1hDZmxUYzJaeE8wQ2VXVWpmc0t2SUhqS3p3MHhOaUhyTldfYU0xOWFuV0V6YzR5WkduVkVqdEJ0UQ?oc=5",
         "timestamp": "2026-03-30T03:29:48",
         "timestamp_display": "30. 03. 2026 03:29",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,16 +69,7 @@
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObzY4YlZYdVdLX0FJanZIOG9GeFJFSWp1T0NfTmUtWE13ZEljaDV3cmNYWFhVdUhPRmFLb1V2MXFZTGM4cXc4cXgxWi1sU2wyNk5Va3RCOHFKUXg4ZUtuWERXbUVUUndyVEw5dllHNGlZTDNDaFZkT1VUUXhFb080Yy1uNHpMM1JYLXVGM091clZmMDl0dGcw?oc=5",
         "timestamp": "2026-03-29T16:04:51",
         "timestamp_display": "29. 03. 2026 16:04",
-        "is_new": true
-    },
-    {
-        "category": "Věda",
-        "title": "Matematika klíč k prosperitě",
-        "summary": "Matematika je klíčem k prosperitě, protože umožňuje lepší pochopení světa a řešení komplexních problémů.",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSm9NdmF6dGV3ZzZCY1N0aElsZmdjMVZJTlNxZ0piV0hfdGhrTDhEeThQWDA1ZTZKdTlJTm5oREVWRVM2NWJOZUhXaDFrX3NrcjFoT3dkSG04X1ZrS1J4a3UyZXVmWGJVTjVMcGxNeEQ1dWdOV3BKd3h0eEFDUnNobjBsVDh2UQ?oc=5",
-        "timestamp": "2026-03-29T12:05:20",
-        "timestamp_display": "29. 03. 2026 12:05",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Společnost",
@@ -51,6 +78,15 @@
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYjRURmlHZFZVSUdVXzRYR2txeU5lZ1dQZzJCV1VIZmloVi1wRnMzRlB2dTIwakFDUDdKS3ZjMHVRRVVHMlc0bzVydmpZaEQ1d0ZwckFCMkM1cTBwOGNQMGo1a3FBYVRaaU1fYW5kTzZaSnk4MC1UdTJZMkRQdld2bmVTZUxmbFRTYUFxYkxpVTA1SVZ6UDNMaEFCaEw0aW1FYVBuSFBJODU0NTBwZFdoWnljeUJJbGxsV2VkMFhDUWJHMVlmcXg4dnNoS1EtdG5aSVZOTDZmYw?oc=5",
         "timestamp": "2026-03-29T13:47:50",
         "timestamp_display": "29. 03. 2026 13:47",
+        "is_new": false
+    },
+    {
+        "category": "Věda",
+        "title": "Matematika klíč k prosperitě",
+        "summary": "Matematika je klíčem k prosperitě, protože umožňuje lepší pochopení světa a řešení komplexních problémů.",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSm9NdmF6dGV3ZzZCY1N0aElsZmdjMVZJTlNxZ0piV0hfdGhrTDhEeThQWDA1ZTZKdTlJTm5oREVWRVM2NWJOZUhXaDFrX3NrcjFoT3dkSG04X1ZrS1J4a3UyZXVmWGJVTjVMcGxNeEQ1dWdOV3BKd3h0eEFDUnNobjBsVDh2UQ?oc=5",
+        "timestamp": "2026-03-29T12:05:20",
+        "timestamp_display": "29. 03. 2026 12:05",
         "is_new": false
     },
     {
