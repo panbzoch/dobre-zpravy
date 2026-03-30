@@ -1,21 +1,57 @@
 [
     {
+        "category": "Technologie",
+        "title": "Robotická čtyřkolka",
+        "summary": "Česká robotická čtyřkolka Unex uspěla v americké soutěži, předvedla své schopnosti a nadchla americkou armádu.",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRDVxaTAyQVdPc1hQWVRTekE3d3dSNDFWbk1ZRXVCR1FZbnRCd3FYOXp6eVI2N0t0cjROaXNMc054SUd1UGdNaUw2RW5IaTJOTWRJQUNFOUVMX05VVTBFSHJ3RmZBZjJCME9aeXgtRkpfM3NJa09CcF9FSXdfN3RTdjkyMDNpbmxSTHRlTVFiV1pHUlVRUWppakYzVC1peVk0Ymo4WmZOYkdpLXplU0dRVkRDMVcwSkhISWgySDFaYWdPR3NJRUNFTTRaZzlxMVFEbUpZMEZxaXNja2Rya09RMQ?oc=5",
+        "timestamp": "2026-03-30T05:43:48",
+        "timestamp_display": "30. 03. 2026 05:43",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Továrna na AI",
+        "summary": "Česko investuje do továrny na umělou inteligenci, která by se měla vrátit do sedmi let.",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOFRCVXFhdnJnaGJQV2xKQlh1YUo1UkhHLVFDZ0w1VWtpQ09EaW9YYlVSVEhlYmJWd1B0V0p6T1JLcEpBMDJ0VFlWcXYzMVEyeWx3OHFsUG81QW40TVFDTlVSUUdPSlBWcTNrc1lrblY1aXgxVklKZzFIeWZDYUdVa05EbmY1X0xrSk5xbUE5b2F2VzUtNUFfT3JJcmNNUjJBOGlxWUtkOEdCMEc1bzlRVFRSV0o3TEZUNmIzX0hnTHJzM3RvbzJRT0xwNXRLQUkwM0IzWF9vTlVSNnozS0NFaA?oc=5",
+        "timestamp": "2026-03-30T05:10:00",
+        "timestamp_display": "30. 03. 2026 05:10",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice do dluhopisů",
+        "summary": "Investice do dluhopisů nabízí stabilní výnosy a diverzifikaci portfolia.",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZnpqaDU1UVZpYzdxRHFxb0pOOXI0QW96WmdxRE1aUU83OGFqZDZNbkxvRUFHcEV3a09xRUpUeEt0N1hDZmxUYzJaeE8wQ2VXVWpmc0t2SUhqS3p3MHhOaUhyTldfYU0xOWFuV0V6YzR5WkduVkVqdEJ0UQ?oc=5",
+        "timestamp": "2026-03-30T03:29:48",
+        "timestamp_display": "30. 03. 2026 03:29",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Češi dobývají svět",
+        "summary": "Dva Češi vyměnili obleky za elektrické nakladače a nyní úspěšně expandují na globální trh.",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObzY4YlZYdVdLX0FJanZIOG9GeFJFSWp1T0NfTmUtWE13ZEljaDV3cmNYWFhVdUhPRmFLb1V2MXFZTGM4cXc4cXgxWi1sU2wyNk5Va3RCOHFKUXg4ZUtuWERXbUVUUndyVEw5dllHNGlZTDNDaFZkT1VUUXhFb080Yy1uNHpMM1JYLXVGM091clZmMDl0dGcw?oc=5",
+        "timestamp": "2026-03-29T16:04:51",
+        "timestamp_display": "29. 03. 2026 16:04",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Matematika klíč k prosperitě",
+        "summary": "Matematika je klíčem k prosperitě, protože umožňuje lepší pochopení světa a řešení komplexních problémů.",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSm9NdmF6dGV3ZzZCY1N0aElsZmdjMVZJTlNxZ0piV0hfdGhrTDhEeThQWDA1ZTZKdTlJTm5oREVWRVM2NWJOZUhXaDFrX3NrcjFoT3dkSG04X1ZrS1J4a3UyZXVmWGJVTjVMcGxNeEQ1dWdOV3BKd3h0eEFDUnNobjBsVDh2UQ?oc=5",
+        "timestamp": "2026-03-29T12:05:20",
+        "timestamp_display": "29. 03. 2026 12:05",
+        "is_new": true
+    },
+    {
         "category": "Společnost",
         "title": "Porcelánová výstava Sedm vln",
         "summary": "Výstava Sedm vln Jiřího Kožíška je k vidění v písecké Sladovně, představuje porcelánová díla inspirovaná cykly lidského života.",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYjRURmlHZFZVSUdVXzRYR2txeU5lZ1dQZzJCV1VIZmloVi1wRnMzRlB2dTIwakFDUDdKS3ZjMHVRRVVHMlc0bzVydmpZaEQ1d0ZwckFCMkM1cTBwOGNQMGo1a3FBYVRaaU1fYW5kTzZaSnk4MC1UdTJZMkRQdld2bmVTZUxmbFRTYUFxYkxpVTA1SVZ6UDNMaEFCaEw0aW1FYVBuSFBJODU0NTBwZFdoWnljeUJJbGxsV2VkMFhDUWJHMVlmcXg4dnNoS1EtdG5aSVZOTDZmYw?oc=5",
         "timestamp": "2026-03-29T13:47:50",
         "timestamp_display": "29. 03. 2026 13:47",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Nový design nazouváků",
-        "summary": "Společnost Crocs představila nové nazouváky, které navrhl známý designér, a okamžitě zaujaly svou jedinečnou podobou a pohodlností.",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON0M2d0NRZ1BmQ1ZUQXRxM3o4U1dSNTZuZVZsYmVoU0d4aEc0MzhZS1hGS0dzSG82V1FGMjRvam13RFltcUJJN1RGXzQ0TDdYTVNLTmFSR2dWUXJ0Ri1SaS1QUGc0RUo4UWVMbXpGNmF0a0oyUmdhNUhPeUdYZjZDUUM5WUZvZzg5UEpZMmt4Y1VFT1B3SkZ2NU5GeDFsOGxHZnhROERVNmEzXzNtT0NIc1ZIeFQtY09JVWtzM1JGWQ?oc=5",
-        "timestamp": "2026-03-28T16:22:55",
-        "timestamp_display": "28. 03. 2026 16:22",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,6 +69,15 @@
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aVThyUDhtV3V4OEVSWVpObmowcjdFRGZKTTFjckQwYWl2cldfU2I3WEJ5Qzl3VDBaNTF0UElnMzZpOTQ1N2hkX0FScjUyRnF6c1pFcTQxbFVnRXRuU09ubEY3dm1Ua1c4QlpGYVhQOGk?oc=5",
         "timestamp": "2026-03-29T01:16:28",
         "timestamp_display": "29. 03. 2026 01:16",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Nový design nazouváků",
+        "summary": "Společnost Crocs představila nové nazouváky, které navrhl známý designér, a okamžitě zaujaly svou jedinečnou podobou a pohodlností.",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON0M2d0NRZ1BmQ1ZUQXRxM3o4U1dSNTZuZVZsYmVoU0d4aEc0MzhZS1hGS0dzSG82V1FGMjRvam13RFltcUJJN1RGXzQ0TDdYTVNLTmFSR2dWUXJ0Ri1SaS1QUGc0RUo4UWVMbXpGNmF0a0oyUmdhNUhPeUdYZjZDUUM5WUZvZzg5UEpZMmt4Y1VFT1B3SkZ2NU5GeDFsOGxHZnhROERVNmEzXzNtT0NIc1ZIeFQtY09JVWtzM1JGWQ?oc=5",
+        "timestamp": "2026-03-28T16:22:55",
+        "timestamp_display": "28. 03. 2026 16:22",
         "is_new": false
     },
     {
