@@ -1,12 +1,30 @@
 [
     {
         "category": "Byznys",
+        "title": "Daimler investuje 8 mld",
+        "summary": "Daimler investuje až 8 mld do nové továrny v ČR.",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU3VaM2phVkIxMWhTWjNIdzVEUjltOUd5d2dfaFBZdGwwR2dfbHJ2dGFNT3VkMUl2bmIxTV8yTUNfcTBYVWY5TkhkbFNTX3FqejBKcGtVOTJnSGlfY0Fzd0dDeXJ0bEc0YjBES09iek9YckcwaGVBcmxUVEFIeGotMW4tWkFGQVU2Wk5IeXB0c20zYjds?oc=5",
+        "timestamp": "2026-03-31T14:02:00",
+        "timestamp_display": "31. 03. 2026 14:02",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Mercedes-Benz postaví závod",
+        "summary": "Mercedes-Benz investuje do nového závodu v Chebu, vytváří nová pracovní místa.",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWFJNOHNHejg1c1pqS3l3Z2pscEw3a0JvaUpxTFJ1MHphTndZMnlmM252TEtXRFJweWoxMmdQcVpKNGxRcmV6SnVTNWhfbVVjVktyYjMweE05VlJpRVY4VmZpT0hqVVBaX0k5U1pZSWRzM2VqZW91d1EtZ2hSYUFyZjAyRQ?oc=5",
+        "timestamp": "2026-03-31T14:02:00",
+        "timestamp_display": "31. 03. 2026 14:02",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Mercedes investuje miliardy",
         "summary": "Mercedes-Benz investuje miliardy do nového závodu v Chebu, kde bude vyrábět tisíce vozidel.",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeHQzX0dIQk5fOXdrNWNfV2tMU3ZZc3MzMkFwbngydVlLQmkwTkNJMFBjWGlOWU5pQzFOTGE2Y2JWOEtpcmREajYteDZKcFFKTy1PMUhyUFduVFpVRVV4Sk03NWxKMXJLRXlsOG9sVkJLZ1JlZlRkLVg5UTRZa1kyQnZ4Ykx1dG1HNEE5cXFMYTgteURhS2dFZFpFcVJxYnV4WkV1cHlyNVNYZjE5WDJTT3I3cGs2YXVKd09QQzBKRERZczV5VjhOalVkT0ZMakhoOVJ6WVFEYzg?oc=5",
         "timestamp": "2026-03-31T14:25:00",
         "timestamp_display": "31. 03. 2026 14:25",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -15,7 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ0F2YlVsZWwyM0NCNGFRdGpha01yelFiMUhlcmdXMUxGMDdYbjdxeEJZMmYzcG9FRy1tTEoyQWh4a3JwVTJ4bGZqVHp5VWtRU1UzYzA0dVc2bV8wcF9pTlduMzJ5LXlzc3U1RE1LRmNaQ2JfMjBpaHpTS3pWTlRDU0RaXzhfb3NJMjVldGplZFZjVjNrb2Q3bGM2d0JLSVo0bGc?oc=5",
         "timestamp": "2026-03-31T14:04:16",
         "timestamp_display": "31. 03. 2026 14:04",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
