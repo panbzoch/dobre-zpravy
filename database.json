@@ -1,12 +1,30 @@
 [
     {
         "category": "Byznys",
+        "title": "Mercedes investuje miliardy",
+        "summary": "Mercedes-Benz investuje miliardy do nového závodu v Chebu, kde bude vyrábět tisíce vozidel.",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeHQzX0dIQk5fOXdrNWNfV2tMU3ZZc3MzMkFwbngydVlLQmkwTkNJMFBjWGlOWU5pQzFOTGE2Y2JWOEtpcmREajYteDZKcFFKTy1PMUhyUFduVFpVRVV4Sk03NWxKMXJLRXlsOG9sVkJLZ1JlZlRkLVg5UTRZa1kyQnZ4Ykx1dG1HNEE5cXFMYTgteURhS2dFZFpFcVJxYnV4WkV1cHlyNVNYZjE5WDJTT3I3cGs2YXVKd09QQzBKRERZczV5VjhOalVkT0ZMakhoOVJ6WVFEYzg?oc=5",
+        "timestamp": "2026-03-31T14:25:00",
+        "timestamp_display": "31. 03. 2026 14:25",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Český startup nahrazuje lidský hlas",
+        "summary": "Český startup vyvíjí technologii pro nahrazování lidského hlasu v audioknihách umělou inteligencí.",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ0F2YlVsZWwyM0NCNGFRdGpha01yelFiMUhlcmdXMUxGMDdYbjdxeEJZMmYzcG9FRy1tTEoyQWh4a3JwVTJ4bGZqVHp5VWtRU1UzYzA0dVc2bV8wcF9pTlduMzJ5LXlzc3U1RE1LRmNaQ2JfMjBpaHpTS3pWTlRDU0RaXzhfb3NJMjVldGplZFZjVjNrb2Q3bGM2d0JLSVo0bGc?oc=5",
+        "timestamp": "2026-03-31T14:04:16",
+        "timestamp_display": "31. 03. 2026 14:04",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Penta zisk vzrostl",
         "summary": "Penta zvýšila čistý zisk o 15 % na 17,5 miliardy.",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQktxM3hxYm81ejNhSXhMZmZESExSMnBKeGY0ZjRxT1QwZy0zWGpmNE5tNjdWNVJ3OUZUOE5VNm1fN0tVT1VIaEVrM1NpZ2syVXQ4NVprVVdkYjdOMF80U0pEWUg4NFVSbnNyaHJDeWlIVGRGeFc1SGJXQWd1MFFOTGZzZ0lZaVZLUnFybXBjbHJSOXRXWnY1YzBvSVJqSHo1?oc=5",
         "timestamp": "2026-03-31T07:53:10",
         "timestamp_display": "31. 03. 2026 07:53",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUTloNWlrZTFFcVpyUmpycmZOeXhwMFhuUHluZGZkM3huaE9KXzNIQWZOVkZ3M19DMjdsbkM2LWo1YTVCTTQwMjNqZUUyM3d2bmd2cHVINTBVRUpManI2SmRVQWNaRzZuU2hiSTBUZTFwYmNRTEQ5cFBYenRCMU5lMmpxb29zVm1HWVVCcXJ5UUJQYndUMzhzX21fNDZwbXNPWEI0ckNDUWxzMlhHM2h5cDAzM0dhdXc?oc=5",
         "timestamp": "2026-03-31T07:00:00",
         "timestamp_display": "31. 03. 2026 07:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,7 +42,7 @@
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMzgwa0Y3dGVkZmdPVW1idmN0NVVuY2xvV2VYU3l0RXUtUkNpVFJ5UEdLaUFURnFER0swS3dDSXRFQU5UZ2MxSm05M0JjVmNVcmwycnNVeVExZXRheFllbDZIb3hQUkdES0hFQl80aVhKMmRhbGdPRDNhejUyckRwcnV4TlZKeFNzSmtiZUlrdnBmbkVp?oc=5",
         "timestamp": "2026-03-31T06:00:00",
         "timestamp_display": "31. 03. 2026 06:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
