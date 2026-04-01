@@ -1,12 +1,39 @@
 [
     {
+        "category": "Společnost",
+        "title": "Mozartovo interaktivní muzeum",
+        "summary": "Na Staroměstském náměstí se otevírá nové interaktivní muzeum věnované Mozartovi, nabízející unikátní zážitek návštěvníkům.",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQTBEekZ3NGxDYzAtakF3dEx1TzJXM1JCQy1mT1pIT09xSlBZZS1vZWMzVTRRZ1BfNE45ZGhPRmRXLXQxUTVReTVhYk1LZ2xra3ZiclpvblB3a3NLRWlzbHhkbUZVdF95eVJjNWo4MHp0V3NlUVV3WXR0djZNdEVTYjZpTUd0VDItMDFJTy1ILVNFTmZ0U3BhQURqdFUxbTVNdXJ2bUJhWDNLVFA4T09DVnJ4X3g1dw?oc=5",
+        "timestamp": "2026-04-01T14:15:00",
+        "timestamp_display": "01. 04. 2026 14:15",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Nová reality show",
+        "summary": "První reality show pro chemiky sleduje molekulární transformaci ječmene a chmele na pivo.",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPZjZnZkhzN1Z3aUVUZ1pFRzVySEd6clZxZ3lhYmszaEUwWndsQ1NoNWdjVFpiY2tDUFkyZTRGeHRhUTZBUERMNmd3U0dxMWtEYkJmNHIySWxOX0IweWpjR3RzY3pnbExRU1VOT1NFYzBNeVJpc2NETWdZTmFIelVKNGRSYXFzZUI5WXowMF9tdzVBLUxTdGxnQmhlUEJiNHhTdjRFOWJ2X3FuTGpSNlcyZEJ5dlBnd2RHY3d1RGxTMk82c3hpQTkzSlA5RFNTRm1wWjdQTXZZNlB1SmtZUkllTXJkV202VkNDRmthRTdUOFRoaV9fUzF4TmdCNGxuQmJJd2lJ?oc=5",
+        "timestamp": "2026-03-31T09:42:48",
+        "timestamp_display": "31. 03. 2026 09:42",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Kakaové jidáše pro zdraví",
+        "summary": "Kakaové jidáše symbolizují jaro a podporují pevné zdraví po celý rok.",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON0NyM3ZETHhYWllVXzU5dWFvYjkwMVF3eUNGdDFIdHoyT1Q4TlpMUGdvUkpzQ0VoVHRVWG9RM0Vacl92SHM2bFVBcWZPLXRscjlVYjdKVnVUZE1seGl2d0RUcDVvQ0FaeVVreVFuaVNTSFFTbTRVQXo3NEdKODJhQV9ScF9PWWJvSnljS0pXUkpFMFU?oc=5",
+        "timestamp": "2026-03-31T07:16:51",
+        "timestamp_display": "31. 03. 2026 07:16",
+        "is_new": true
+    },
+    {
         "category": "Věda",
         "title": "Rekordní antarktický vrt",
         "summary": "Vědci odkryli 228 metrů bahna, potvrzující život v Antarktidě před ledem.",
         "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNWUFHT21QNXc2Qmk3Q1ZuY3loaVpZS09KdUhaVU9pYmlUOXRfelpqSzZoZEhDQWFWSFI3MXl5bEw4NVVMSDY2Wm5rczFrNXNwVGREVVppX29Zd3Z5SWhzaHhfa2xGVW8waFpmYnhrSmZ5ZTdjVEctZlB2RXJCcE56QXN4OFprbkZOd0hZemRKSGVSdEdrQmc4ZkNKYzQ5X1RQbVg3NXBqQ29GYTU0QTg1MkZuSnpVNTZ4eHZBbzRPckRzLW5SbXNLeV83cjZOc1Iyd0dZRHN5TEtSZTlnTkdodDlsck44c29ISHJxWGwtaTBlMGs?oc=5",
         "timestamp": "2026-04-01T10:45:08",
         "timestamp_display": "01. 04. 2026 10:45",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +42,7 @@
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRlI1N0NKcnBIbzFoR3BqSGh6dmE0Y242OGVrZkZJenpYMFhWS1ZpS0FXZ0NQWGpjLUxBY1NXUW4zc05kZGJzQzVSNm1mMkhoaDZTVWZzQ3hFdXc0R24tVmFPY3EzemtFTWluMzh1dDFlUFVFZ0E5TDFZRlFiMFloTE1xUzV2c0ZQNl9QeE5QdmVudlhRcUNXOW9SNXY3cVVtdVB1OTdJM0xWZ0RCQVJpVENQUnRBVmdZc2J5SllDSlF1Zk1uakxfWGRFdk91SjFvaWtfTWZlTENyUQ?oc=5",
         "timestamp": "2026-04-01T09:48:00",
         "timestamp_display": "01. 04. 2026 09:48",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -24,7 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUTAxY2x2RFVFRXVmSW1CMFJ1Y2xIbFNVNTBWdk5Ub1kwSjMzTnN1ekxYU1ZaS3RKakhPT0dmZEU1cC1WLVZVcE9Qc1ZEOVFxYUtCclZUZUtIZmstUjJTbTE0OG80TmlQaTFWQm1HMEFsUzM1TjFFUllxb2k0dE9ZNXRNNHJqdXhkZlBWYWRGbHFrZDRvMG1SY2VEUzJ3ZlRwdDlVLVhGWEI4bGRxNm9JVDdrbXFiT0loZEozT1htUjhBQXRaS3E0TkxTZW9PMzF4ZjExd0FZci12U3JHdG1vUA?oc=5",
         "timestamp": "2026-04-01T09:45:57",
         "timestamp_display": "01. 04. 2026 09:45",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,25 +60,7 @@
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMHh0bVZONlRIU0dUeWNQZTh5WDFwU0lUS2plSGN5YThBRHdaeTJWYmNQVHY5cU5hQ1VwY1dQLUJibUxWaE9SbmhiVHRZTElkYkZzLS0wdDlUeW9JQml4YmNRTFZyR0dJci1KOXp4ek9YRkFkLXNacGl6a3JfNGl3YlEwb1Y0WVl1X3JENnAwMEZoZnlmUW9WZUJkVWVJWjlSTlBoRzBlUXJrekNkM1BDNTNNYnVfNVJrMEk5X2VzTy1nOXNsR1hv?oc=5",
         "timestamp": "2026-04-01T08:00:00",
         "timestamp_display": "01. 04. 2026 08:00",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Mercedes-Benz v Chebu",
-        "summary": "Mercedes-Benz investuje až 8 mld. Kč do nového závodu v Chebu, vytváří nová pracovní místa.",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XaWxFbExPbGJreENCd3FsbktPNFVnYnlabUJJZG16R2c3NWJUdFBkSDllQkJTMkNvYlVHb1B4eFNndEpmNkpqUy1tVHFSbjlSaUNB?oc=5",
-        "timestamp": "2026-03-31T14:02:00",
-        "timestamp_display": "31. 03. 2026 14:02",
-        "is_new": true
-    },
-    {
-        "category": "Společnost",
-        "title": "Nová audiokniha pro nevidomé",
-        "summary": "Nová audiokniha pomáhá dětem s učením Braillova písma a podporuje jejich vzdělání.",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSWt3Qkw5UVVWOXRWNERHd05VOXo2RC1lemxYb204MmdnUXJLd3VEdnh4bFJjOThrVkNOZndtTlZRaEY2aWt6NFlWUTFHbDY2bkhOZ04tbVYwSVJPNWhNc2czUTF5SlAxSUpmUWZtdmp5clNFREN5VmNrZ0R6ZzA3TThZbUdlVGxvVXA3ZHNKYXJaQ3B0WUE5QllXVkV0SFVmVVpMMS11RGdlU2g0eWdhbUMyYll1OVNqa2RUQU9tRWFoV0lINFFpcnFicw?oc=5",
-        "timestamp": "2026-03-26T10:42:00",
-        "timestamp_display": "26. 03. 2026 10:42",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -87,6 +96,15 @@
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ0F2YlVsZWwyM0NCNGFRdGpha01yelFiMUhlcmdXMUxGMDdYbjdxeEJZMmYzcG9FRy1tTEoyQWh4a3JwVTJ4bGZqVHp5VWtRU1UzYzA0dVc2bV8wcF9pTlduMzJ5LXlzc3U1RE1LRmNaQ2JfMjBpaHpTS3pWTlRDU0RaXzhfb3NJMjVldGplZFZjVjNrb2Q3bGM2d0JLSVo0bGc?oc=5",
         "timestamp": "2026-03-31T14:04:16",
         "timestamp_display": "31. 03. 2026 14:04",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Mercedes-Benz v Chebu",
+        "summary": "Mercedes-Benz investuje až 8 mld. Kč do nového závodu v Chebu, vytváří nová pracovní místa.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XaWxFbExPbGJreENCd3FsbktPNFVnYnlabUJJZG16R2c3NWJUdFBkSDllQkJTMkNvYlVHb1B4eFNndEpmNkpqUy1tVHFSbjlSaUNB?oc=5",
+        "timestamp": "2026-03-31T14:02:00",
+        "timestamp_display": "31. 03. 2026 14:02",
         "is_new": false
     },
     {
@@ -474,6 +492,15 @@
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQVdmWkE5bUVsc182cWVGTFh6ZnlHOUNIWjBRTVFKYy1kZTM1bHdXNnVnUDhSRUltVllXdzZ2MFRwWVJlTU9hVWdUOWkzRms3Y1ZyTDJ6OTF6ZzhYX3VjR3B5YmhWNW9NRlJfaHdZaDFIaUZjdWQ1Y2JHRmlVOUJfSkpqeTZjSGdXWDhrc0oxR2dwTF95SW1yekdObjQ2QnY4RDJqcTJMWmZtV1VmR3lBdzRETQ?oc=5",
         "timestamp": "2026-03-26T15:00:00",
         "timestamp_display": "26. 03. 2026 15:00",
+        "is_new": false
+    },
+    {
+        "category": "Společnost",
+        "title": "Nová audiokniha pro nevidomé",
+        "summary": "Nová audiokniha pomáhá dětem s učením Braillova písma a podporuje jejich vzdělání.",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSWt3Qkw5UVVWOXRWNERHd05VOXo2RC1lemxYb204MmdnUXJLd3VEdnh4bFJjOThrVkNOZndtTlZRaEY2aWt6NFlWUTFHbDY2bkhOZ04tbVYwSVJPNWhNc2czUTF5SlAxSUpmUWZtdmp5clNFREN5VmNrZ0R6ZzA3TThZbUdlVGxvVXA3ZHNKYXJaQ3B0WUE5QllXVkV0SFVmVVpMMS11RGdlU2g0eWdhbUMyYll1OVNqa2RUQU9tRWFoV0lINFFpcnFicw?oc=5",
+        "timestamp": "2026-03-26T10:42:00",
+        "timestamp_display": "26. 03. 2026 10:42",
         "is_new": false
     },
     {
