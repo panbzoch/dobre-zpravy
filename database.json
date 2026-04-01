@@ -1,39 +1,66 @@
 [
     {
+        "category": "Věda",
+        "title": "Rekordní antarktický vrt",
+        "summary": "Vědci odkryli 228 metrů bahna, potvrzující život v Antarktidě před ledem.",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNWUFHT21QNXc2Qmk3Q1ZuY3loaVpZS09KdUhaVU9pYmlUOXRfelpqSzZoZEhDQWFWSFI3MXl5bEw4NVVMSDY2Wm5rczFrNXNwVGREVVppX29Zd3Z5SWhzaHhfa2xGVW8waFpmYnhrSmZ5ZTdjVEctZlB2RXJCcE56QXN4OFprbkZOd0hZemRKSGVSdEdrQmc4ZkNKYzQ5X1RQbVg3NXBqQ29GYTU0QTg1MkZuSnpVNTZ4eHZBbzRPckRzLW5SbXNLeV83cjZOc1Iyd0dZRHN5TEtSZTlnTkdodDlsck44c29ISHJxWGwtaTBlMGs?oc=5",
+        "timestamp": "2026-04-01T10:45:08",
+        "timestamp_display": "01. 04. 2026 10:45",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "OpenAI dostala 122 mld",
+        "summary": "OpenAI získala 122 miliard dolarů od investorů, které použije na nová datová centra.",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRlI1N0NKcnBIbzFoR3BqSGh6dmE0Y242OGVrZkZJenpYMFhWS1ZpS0FXZ0NQWGpjLUxBY1NXUW4zc05kZGJzQzVSNm1mMkhoaDZTVWZzQ3hFdXc0R24tVmFPY3EzemtFTWluMzh1dDFlUFVFZ0E5TDFZRlFiMFloTE1xUzV2c0ZQNl9QeE5QdmVudlhRcUNXOW9SNXY3cVVtdVB1OTdJM0xWZ0RCQVJpVENQUnRBVmdZc2J5SllDSlF1Zk1uakxfWGRFdk91SjFvaWtfTWZlTENyUQ?oc=5",
+        "timestamp": "2026-04-01T09:48:00",
+        "timestamp_display": "01. 04. 2026 09:48",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Rekordní antarktický vrt",
+        "summary": "Vědci odkryli 228 metrů bahna, potvrzující život v Antarktidě před ledem.",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUTAxY2x2RFVFRXVmSW1CMFJ1Y2xIbFNVNTBWdk5Ub1kwSjMzTnN1ekxYU1ZaS3RKakhPT0dmZEU1cC1WLVZVcE9Qc1ZEOVFxYUtCclZUZUtIZmstUjJTbTE0OG80TmlQaTFWQm1HMEFsUzM1TjFFUllxb2k0dE9ZNXRNNHJqdXhkZlBWYWRGbHFrZDRvMG1SY2VEUzJ3ZlRwdDlVLVhGWEI4bGRxNm9JVDdrbXFiT0loZEozT1htUjhBQXRaS3E0TkxTZW9PMzF4ZjExd0FZci12U3JHdG1vUA?oc=5",
+        "timestamp": "2026-04-01T09:45:57",
+        "timestamp_display": "01. 04. 2026 09:45",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Starbucks spolupracuje s Alpro",
+        "summary": "Starbucks rozšiřuje portfolio o rostlinné proteinové nápoje díky spolupráci s Alpro, lídrem v oblasti rostlinných produktů.",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMHh0bVZONlRIU0dUeWNQZTh5WDFwU0lUS2plSGN5YThBRHdaeTJWYmNQVHY5cU5hQ1VwY1dQLUJibUxWaE9SbmhiVHRZTElkYkZzLS0wdDlUeW9JQml4YmNRTFZyR0dJci1KOXp4ek9YRkFkLXNacGl6a3JfNGl3YlEwb1Y0WVl1X3JENnAwMEZoZnlmUW9WZUJkVWVJWjlSTlBoRzBlUXJrekNkM1BDNTNNYnVfNVJrMEk5X2VzTy1nOXNsR1hv?oc=5",
+        "timestamp": "2026-04-01T08:00:00",
+        "timestamp_display": "01. 04. 2026 08:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Mercedes-Benz v Chebu",
+        "summary": "Mercedes-Benz investuje až 8 mld. Kč do nového závodu v Chebu, vytváří nová pracovní místa.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XaWxFbExPbGJreENCd3FsbktPNFVnYnlabUJJZG16R2c3NWJUdFBkSDllQkJTMkNvYlVHb1B4eFNndEpmNkpqUy1tVHFSbjlSaUNB?oc=5",
+        "timestamp": "2026-03-31T14:02:00",
+        "timestamp_display": "31. 03. 2026 14:02",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Nová audiokniha pro nevidomé",
+        "summary": "Nová audiokniha pomáhá dětem s učením Braillova písma a podporuje jejich vzdělání.",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSWt3Qkw5UVVWOXRWNERHd05VOXo2RC1lemxYb204MmdnUXJLd3VEdnh4bFJjOThrVkNOZndtTlZRaEY2aWt6NFlWUTFHbDY2bkhOZ04tbVYwSVJPNWhNc2czUTF5SlAxSUpmUWZtdmp5clNFREN5VmNrZ0R6ZzA3TThZbUdlVGxvVXA3ZHNKYXJaQ3B0WUE5QllXVkV0SFVmVVpMMS11RGdlU2g0eWdhbUMyYll1OVNqa2RUQU9tRWFoV0lINFFpcnFicw?oc=5",
+        "timestamp": "2026-03-26T10:42:00",
+        "timestamp_display": "26. 03. 2026 10:42",
+        "is_new": true
+    },
+    {
         "category": "Technologie",
         "title": "Elektrokolo datové platformy",
         "summary": "Bosch spouští Connected Biking, platformu pro sběr dat z jízdy na elektrokolech, která umožní pojištění podle stylu jízdy.",
         "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOMzhidFVac2E5YTV6TTFlVVZrMGVZQU5veGVqaWU2MVNhMDNFU0Zob3UzaTl4UWZvTTBESnl3QlVPUkZqcmZYQlhycE9mU2tQSlY4eTR3ZHJvZzc5WHV6QzYwTWVWck5VU25NbFVaQXVyNklIWkx2QUZmcW9RLUQ3NUVPOE5xc3BJdW5sb1ZjRVZMb21oY2RmMFltUVoyZ3pPT1pDSnNFT1J6V2ttZnYwSnNZc0ZoZkJvVmZWbnVfOHFMOFVLcm90VDZJVmZVMUx5YS1pTUVYcmFHM19MUzkxRjBBcTlGZFVNd0JyOXRQTlRMV2FTLXZaMU9WcXpacGZfZUlIZjQ3VDZ0dWVoNkI2Ujh5LTk?oc=5",
         "timestamp": "2026-04-01T05:34:00",
         "timestamp_display": "01. 04. 2026 05:34",
-        "is_new": true
-    },
-    {
-        "category": "Společnost",
-        "title": "Knihy mění život",
-        "summary": "Jedna věta z knihy může změnit život, inspiruje lidi k pozitivním změnám.",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UZUE3N1JMVW1XWXJNdndtdXRVVGd5QkVNQkhULUZxb1paRlV5SWEyUHZzTzdMQ0k3czR4eWM3cjdnRC1NMFJONEJSM3JEaDg?oc=5",
-        "timestamp": "2026-03-31T14:04:16",
-        "timestamp_display": "31. 03. 2026 14:04",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Mercedes-Benz postaví závod",
-        "summary": "Mercedes-Benz investuje až 8 mld. Kč do nového závodu v Chebu, vytváří nová pracovní místa.",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPei1Wb21xeEVBVjE3WE5kdmozNkNjX0JGaEtOV2NjdFg2NkZneDdBa1d4VUVldjRGdkxlQVRnVzd4a3ZTQWNPdGh4SlVURVduS0FxWmZ0ODZnN3hpV2U5NlRfX1Bva1U5NUpITzNyd3FlUFNES1pDMzdvZldtdFgzMnpvWWFGWHFFSVBZOEpwTmVqdXM2N3owdFVfSWdSdlp2dWlnYmdlaGZGa1ZjRTl2U0lkeHA5dUdROEVET2dpaw?oc=5",
-        "timestamp": "2026-03-31T14:02:00",
-        "timestamp_display": "31. 03. 2026 14:02",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Filantropie mění svět",
-        "summary": "České dolarové milionáře investují do filantropie, aby změnili svět k lepšímu.",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcWRiakNBeUZiS1gyVVdHM3AyLWhIZ05YejM3eDJucVpoVFNSTktBQ3kxX2dsc2pKcEUyTzFwd092YkZLYlBfZjAyR1JuUlA3TjkwYXdUZVpUaVRMTlVrRjAzNWhJSGEta2dvRUlqNzR0MHkyOEZhVkJ2MkNKSWZ5TEZTSE5lQjd0TG9iMmJIVDh4M2NrQzdNY0JoT2hiRGJ5OHc1Mm5LNm9Jcmd4aFA0NHVhQ0NGTnd2UlpuRmVjOE9WS3dhR05wNnZnMk9XaUE?oc=5",
-        "timestamp": "2026-03-28T11:54:56",
-        "timestamp_display": "28. 03. 2026 11:54",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -45,12 +72,30 @@
         "is_new": false
     },
     {
+        "category": "Společnost",
+        "title": "Knihy mění život",
+        "summary": "Jedna věta z knihy může změnit život, inspiruje lidi k pozitivním změnám.",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UZUE3N1JMVW1XWXJNdndtdXRVVGd5QkVNQkhULUZxb1paRlV5SWEyUHZzTzdMQ0k3czR4eWM3cjdnRC1NMFJONEJSM3JEaDg?oc=5",
+        "timestamp": "2026-03-31T14:04:16",
+        "timestamp_display": "31. 03. 2026 14:04",
+        "is_new": false
+    },
+    {
         "category": "Technologie",
         "title": "Český startup nahrazuje lidský hlas",
         "summary": "Český startup vyvíjí technologii pro nahrazování lidského hlasu v audioknihách umělou inteligencí.",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ0F2YlVsZWwyM0NCNGFRdGpha01yelFiMUhlcmdXMUxGMDdYbjdxeEJZMmYzcG9FRy1tTEoyQWh4a3JwVTJ4bGZqVHp5VWtRU1UzYzA0dVc2bV8wcF9pTlduMzJ5LXlzc3U1RE1LRmNaQ2JfMjBpaHpTS3pWTlRDU0RaXzhfb3NJMjVldGplZFZjVjNrb2Q3bGM2d0JLSVo0bGc?oc=5",
         "timestamp": "2026-03-31T14:04:16",
         "timestamp_display": "31. 03. 2026 14:04",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Mercedes-Benz postaví závod",
+        "summary": "Mercedes-Benz investuje až 8 mld. Kč do nového závodu v Chebu, vytváří nová pracovní místa.",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPei1Wb21xeEVBVjE3WE5kdmozNkNjX0JGaEtOV2NjdFg2NkZneDdBa1d4VUVldjRGdkxlQVRnVzd4a3ZTQWNPdGh4SlVURVduS0FxWmZ0ODZnN3hpV2U5NlRfX1Bva1U5NUpITzNyd3FlUFNES1pDMzdvZldtdFgzMnpvWWFGWHFFSVBZOEpwTmVqdXM2N3owdFVfSWdSdlp2dWlnYmdlaGZGa1ZjRTl2U0lkeHA5dUdROEVET2dpaw?oc=5",
+        "timestamp": "2026-03-31T14:02:00",
+        "timestamp_display": "31. 03. 2026 14:02",
         "is_new": false
     },
     {
@@ -267,6 +312,15 @@
         "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTDlDUFBSNGh6YkpSaXczMl9SUUViZDgyX1pGV3AzSHo1ZlhIelgzZUx3U0d6RGNiNjZrUzYtNmZkaGpxbjVlYmxSQm9FMUxvYWV4dHFvQmpRRFdUUDZ0TWVJRWpxbHo3WTlmZ0pXQ2ZIX1o4MXBBNHNpY1BwMlNmQWZoZndRcWF6RWpjSDBhdWRreWxWMnNxR0xjV1dKejJIc3BoUW5uVkhRV01mSzlUUVF2Q0d5Zm9pWkJoN19SSFJUcjBlUFlZVEJwdXZ2R3IxTjVfZFNsNy10bmZOd3ZCSXM2SEFMTlRNMTh5YWNzSQ?oc=5",
         "timestamp": "2026-03-28T12:07:32",
         "timestamp_display": "28. 03. 2026 12:07",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Filantropie mění svět",
+        "summary": "České dolarové milionáře investují do filantropie, aby změnili svět k lepšímu.",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcWRiakNBeUZiS1gyVVdHM3AyLWhIZ05YejM3eDJucVpoVFNSTktBQ3kxX2dsc2pKcEUyTzFwd092YkZLYlBfZjAyR1JuUlA3TjkwYXdUZVpUaVRMTlVrRjAzNWhJSGEta2dvRUlqNzR0MHkyOEZhVkJ2MkNKSWZ5TEZTSE5lQjd0TG9iMmJIVDh4M2NrQzdNY0JoT2hiRGJ5OHc1Mm5LNm9Jcmd4aFA0NHVhQ0NGTnd2UlpuRmVjOE9WS3dhR05wNnZnMk9XaUE?oc=5",
+        "timestamp": "2026-03-28T11:54:56",
+        "timestamp_display": "28. 03. 2026 11:54",
         "is_new": false
     },
     {
