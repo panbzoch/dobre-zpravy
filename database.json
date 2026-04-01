@@ -1,30 +1,75 @@
 [
     {
+        "category": "Byznys",
+        "title": "Wood & Co. kupuje komplex",
+        "summary": "Wood & Co. kupuje polský komplex za 2,5 miliardy korun, rozšiřuje svou činnost ve Varšavě.",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVjV1QW5BRUUzMmJ5T044NXk5bU4tU0FsRm1FSFBFNHBzc0N6ZFNia1llcXRIUmtZWFFKb3l0Qm95RUFKcFVhUG9wMW1saXZxbDdNd0dWQTJSelBFaWhka1NSTl8tV2VfUnJxbk1vLXR1dHpFdXhuNmg3OGpkZGNIZjBRSVdxUHRzeU95dm5RbmdaS2EteFVYWFZFbnJWQTZ5OU9qbG1MUTU?oc=5",
+        "timestamp": "2026-04-01T16:25:32",
+        "timestamp_display": "01. 04. 2026 16:25",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Investice může změnit život jedné věty, nabízí nové příležitosti a růst.",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZRm1RN2VHUnlvTlFSRnk3MjhERGVwQ3c2QzBQa1N2UHFCdFBVUVFQUElnNklWbWx6LTVWMFJLZHhCa2N2QTJsQmxMRFRkMXBMSmt0VWFDamdwQQ?oc=5",
+        "timestamp": "2026-04-01T13:54:36",
+        "timestamp_display": "01. 04. 2026 13:54",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Semix rozšiřuje výrobu",
+        "summary": "Semix investuje 65 milionů do fermentace, rozšiřuje výrobu a kapacity.",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTTRWMzdNZ1VjbXlUQXEtMGZRVWJjc2ZzNFFxQjE1RVBsY0NqTnRWeE11VnNUNm9wMGVPdm1GdjYwSnA2Z0g1Um9TLVFwODFydldlYXB4VGxCUmtydXp2bDZKV0RoTkJoYWt5SWFwQTE1TXRkVEVGSTR4RnFDVmtZMndBWGJjMDBsY0wyV2lCcVRocXJMTElWc1hXX0FzQQ?oc=5",
+        "timestamp": "2026-04-01T12:17:00",
+        "timestamp_display": "01. 04. 2026 12:17",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Vydělat peníze",
+        "summary": "Forbes nabízí rady, jak vydělat peníze a zlepšit finanční situaci.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jVUtjWTdVOE42LWpvUU1zMkVLREVBYWY2U2k5a1lYWmVhcDZCZDNkWmxNNnRpVEdHWHdjc0VmVVZMWVVXSGpkRTJuczBNTk5fV193?oc=5",
+        "timestamp": "2026-04-01T11:49:22",
+        "timestamp_display": "01. 04. 2026 11:49",
+        "is_new": true
+    },
+    {
+        "category": "Medicína",
+        "title": "Miliardář otevřel kliniku",
+        "summary": "Miliardář otevřel ortopedickou kliniku, poskytující specializovanou péči.",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWHJVTmRqTFBKZ0JYdHp0ejRQR2JYMHlMVmhiN3FrRDZYZTVCd0p2dklRSWUydk5WRk9KSjRVWEJFUEs2MmRxLTRVMmV0dlVQVUxKejF3SEgwX1VKbjJCeVQxcWdJcjBGNG4xWmpMZG5Nb0VVejJwT25YSDl4WFRkdGd2d0JvUXRvRW1jX250S2JpTDF4N1Y2bWFBYnVLOTF2?oc=5",
+        "timestamp": "2026-03-31T16:19:12",
+        "timestamp_display": "31. 03. 2026 16:19",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Design Build vítězí",
+        "summary": "Model Design & Build ve stavebnictví nabízí lepší výsledky díky jedinému lídrovi.",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdDUxTC1iTzljRXhwUy1KdllIVHQ0UUxqQ2ZJcnlCRER2UE9yMmZOTGxudkdlS2MxS1RUZ1V5akJJbWp5R25MbzkzXzBsSVNZaThyOTRKdkpOeW41RFZ6MEFBeW00cGRJNURTTS1JcWJVV01rc1g5SVF0TUhRMzNKeGQ3TjBqSksyR0Itc1lSbWJTYkpuQWc?oc=5",
+        "timestamp": "2026-03-31T08:08:10",
+        "timestamp_display": "31. 03. 2026 08:08",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Petr Rieger",
+        "summary": "Petr Rieger je český podnikatel, který dělá miliardové obchody v Česku, ale zůstává relativně neznámý.",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQXRQblUzcTFyTmNMWnZHQVFCU1VnbERYLWd1cTZaSmU1OUdnWmZ6VmRBQlZMQjRjOXdybWUwa2I3LWxCc0pvcGw1OEdNd3pXMlZKbHJHekxHS1E2Y2ppaXdqb21SZUVKZXZrcTQ3dTFTbDBVZGUxd2JSU3FPUGdQeWVNYmdyeTlFS3AwQnNJOHRmb3lhR1dad3lDWEdhUQ?oc=5",
+        "timestamp": "2026-03-30T07:00:00",
+        "timestamp_display": "30. 03. 2026 07:00",
+        "is_new": true
+    },
+    {
         "category": "Společnost",
         "title": "Mozartovo interaktivní muzeum",
         "summary": "Na Staroměstském náměstí se otevírá nové interaktivní muzeum věnované Mozartovi, nabízející unikátní zážitek návštěvníkům.",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQTBEekZ3NGxDYzAtakF3dEx1TzJXM1JCQy1mT1pIT09xSlBZZS1vZWMzVTRRZ1BfNE45ZGhPRmRXLXQxUTVReTVhYk1LZ2xra3ZiclpvblB3a3NLRWlzbHhkbUZVdF95eVJjNWo4MHp0V3NlUVV3WXR0djZNdEVTYjZpTUd0VDItMDFJTy1ILVNFTmZ0U3BhQURqdFUxbTVNdXJ2bUJhWDNLVFA4T09DVnJ4X3g1dw?oc=5",
         "timestamp": "2026-04-01T14:15:00",
         "timestamp_display": "01. 04. 2026 14:15",
-        "is_new": true
-    },
-    {
-        "category": "Věda",
-        "title": "Nová reality show",
-        "summary": "První reality show pro chemiky sleduje molekulární transformaci ječmene a chmele na pivo.",
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPZjZnZkhzN1Z3aUVUZ1pFRzVySEd6clZxZ3lhYmszaEUwWndsQ1NoNWdjVFpiY2tDUFkyZTRGeHRhUTZBUERMNmd3U0dxMWtEYkJmNHIySWxOX0IweWpjR3RzY3pnbExRU1VOT1NFYzBNeVJpc2NETWdZTmFIelVKNGRSYXFzZUI5WXowMF9tdzVBLUxTdGxnQmhlUEJiNHhTdjRFOWJ2X3FuTGpSNlcyZEJ5dlBnd2RHY3d1RGxTMk82c3hpQTkzSlA5RFNTRm1wWjdQTXZZNlB1SmtZUkllTXJkV202VkNDRmthRTdUOFRoaV9fUzF4TmdCNGxuQmJJd2lJ?oc=5",
-        "timestamp": "2026-03-31T09:42:48",
-        "timestamp_display": "31. 03. 2026 09:42",
-        "is_new": true
-    },
-    {
-        "category": "Společnost",
-        "title": "Kakaové jidáše pro zdraví",
-        "summary": "Kakaové jidáše symbolizují jaro a podporují pevné zdraví po celý rok.",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON0NyM3ZETHhYWllVXzU5dWFvYjkwMVF3eUNGdDFIdHoyT1Q4TlpMUGdvUkpzQ0VoVHRVWG9RM0Vacl92SHM2bFVBcWZPLXRscjlVYjdKVnVUZE1seGl2d0RUcDVvQ0FaeVVreVFuaVNTSFFTbTRVQXo3NEdKODJhQV9ScF9PWWJvSnljS0pXUkpFMFU?oc=5",
-        "timestamp": "2026-03-31T07:16:51",
-        "timestamp_display": "31. 03. 2026 07:16",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -135,12 +180,30 @@
         "is_new": false
     },
     {
+        "category": "Věda",
+        "title": "Nová reality show",
+        "summary": "První reality show pro chemiky sleduje molekulární transformaci ječmene a chmele na pivo.",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPZjZnZkhzN1Z3aUVUZ1pFRzVySEd6clZxZ3lhYmszaEUwWndsQ1NoNWdjVFpiY2tDUFkyZTRGeHRhUTZBUERMNmd3U0dxMWtEYkJmNHIySWxOX0IweWpjR3RzY3pnbExRU1VOT1NFYzBNeVJpc2NETWdZTmFIelVKNGRSYXFzZUI5WXowMF9tdzVBLUxTdGxnQmhlUEJiNHhTdjRFOWJ2X3FuTGpSNlcyZEJ5dlBnd2RHY3d1RGxTMk82c3hpQTkzSlA5RFNTRm1wWjdQTXZZNlB1SmtZUkllTXJkV202VkNDRmthRTdUOFRoaV9fUzF4TmdCNGxuQmJJd2lJ?oc=5",
+        "timestamp": "2026-03-31T09:42:48",
+        "timestamp_display": "31. 03. 2026 09:42",
+        "is_new": false
+    },
+    {
         "category": "Byznys",
         "title": "Penta zisk vzrostl",
         "summary": "Penta zvýšila čistý zisk o 15 % na 17,5 miliardy.",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQktxM3hxYm81ejNhSXhMZmZESExSMnBKeGY0ZjRxT1QwZy0zWGpmNE5tNjdWNVJ3OUZUOE5VNm1fN0tVT1VIaEVrM1NpZ2syVXQ4NVprVVdkYjdOMF80U0pEWUg4NFVSbnNyaHJDeWlIVGRGeFc1SGJXQWd1MFFOTGZzZ0lZaVZLUnFybXBjbHJSOXRXWnY1YzBvSVJqSHo1?oc=5",
         "timestamp": "2026-03-31T07:53:10",
         "timestamp_display": "31. 03. 2026 07:53",
+        "is_new": false
+    },
+    {
+        "category": "Společnost",
+        "title": "Kakaové jidáše pro zdraví",
+        "summary": "Kakaové jidáše symbolizují jaro a podporují pevné zdraví po celý rok.",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON0NyM3ZETHhYWllVXzU5dWFvYjkwMVF3eUNGdDFIdHoyT1Q4TlpMUGdvUkpzQ0VoVHRVWG9RM0Vacl92SHM2bFVBcWZPLXRscjlVYjdKVnVUZE1seGl2d0RUcDVvQ0FaeVVreVFuaVNTSFFTbTRVQXo3NEdKODJhQV9ScF9PWWJvSnljS0pXUkpFMFU?oc=5",
+        "timestamp": "2026-03-31T07:16:51",
+        "timestamp_display": "31. 03. 2026 07:16",
         "is_new": false
     },
     {
