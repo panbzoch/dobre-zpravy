@@ -1,12 +1,66 @@
 [
     {
+        "category": "Byznys",
+        "title": "EPH zvýšila zisk",
+        "summary": "Společnost EPH zvýšila provozní zisk o miliardu eur díky novým akvizicím a dohodám.",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMld6YklNOUJPVWw2YUh6TmE1YVBRa01uMi1LOXdxUkFjUmFObmVuZERydEtDTWo1R0ZsbVpfRWN0TF8tYzdCMWRJNXp1VzhXZFZvd2FyNTd0ai1xMzhZamJLaFBQdFhfV0YyVmdtVXREOWdnMGs0WjhqcVN5MDNUZGdxMC1BS2J4OEptT3NIQjFYcXBUMm5Yb1lkLWxMUTQ4d1hWQjVVaEpkQXo5Y2dZ?oc=5",
+        "timestamp": "2026-04-02T13:57:21",
+        "timestamp_display": "02. 04. 2026 13:57",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Investice mohou změnit život, jeden dobrý tah může přinést úspěch a finanční růst.",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SY3RZeEVNSTlpb3pweWJKOVVzcV9DVzZSeXFRYWUxVy1PRTZTY01GUTh0SV91ZUlWSW5JSW0yQTF1T0FRTXZlcWNGaDNDcFllSm1mZXlDWDZ1a0dISEUyUnNn?oc=5",
+        "timestamp": "2026-04-02T10:32:47",
+        "timestamp_display": "02. 04. 2026 10:32",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investování podle promptů",
+        "summary": "Trio z Brna spouští investování do ETF fondů podle uživatelských promptů, umožňující personalizované investice.",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTnFnSEpmTkFYdjYydlRrRy1WQXVDcDhGNkpvbTNqOWExV1BWM0czbFVnWjE2NVJxYnBtTjZ1dlA4SWp2MVV1QWxVbWFEeWtPZE1LQzIzZk1Wbk95Y21zbmdzNGxqNTl4VlRuOFFJU2EzdXdLQkhEa0UwMlhfeFUzWXhrNkhSaWlvOGVwcXlsUUFLTzE1dmxXQmthSHJWV1lycWpuR01WMA?oc=5",
+        "timestamp": "2026-04-02T04:22:57",
+        "timestamp_display": "02. 04. 2026 04:22",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "OpenAI získala investici",
+        "summary": "OpenAI získala rekordní investici 122 miliard USD na rozvoj AI technologií.",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOazJtVVo1TUYyWW9qbVpJSkR1SG8wZ1pDOTdBMHhXV25rOWNvcmNfSVc3aEF0bEc2N2g0RzROZUpCREdxdTByYlRieWpHVk9GeVUxT2c1SmJ0TnMwSmRMUkNTTzRtaDBhVVg3X1lYQTAtUXp2QTZncDd2Qks1UzhKaXc3cm80YU8zRE1IcFpQZDVyRTRHZlFiempWaWNkTUdfMWRPNGx2Y2VBcnpEQzJjeXliTnJIN28?oc=5",
+        "timestamp": "2026-04-01T21:38:57",
+        "timestamp_display": "01. 04. 2026 21:38",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Kvantová mechanika potvrzena",
+        "summary": "Vědci potvrdili kvantovou mechaniku pomocí atomů helia, což potvrzuje předpovědi teorie.",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeFUyWmdURnlCa1JKc1ExaVlsMWxEaFZ0TXFsY1Q3eEZfVkFwYzl6UGNGWFN6ekg4N1JPX2xjOGtPQ1I1RmpiQXFPbGloTm9qV3ByQ3ZDYW01dXJaRklpRjNQcHVuTHlsdHF3UWhUWTVQWG5uLVFUSS1wQUdUOXQ0emVLNmQyOHdfb1JWaXVKSldTMFFEYU9EdDZsWUdkU19nTWpJNGJjNUduNDA?oc=5",
+        "timestamp": "2026-03-31T14:51:41",
+        "timestamp_display": "31. 03. 2026 14:51",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Fintech Patron Go",
+        "summary": "Fintech Patron Go získal 50 milionů ve finančním kole, aby vyvinul AI finančního \"autopilota\".",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRURjRHRka1hJa3lzdkZncXdVcGZ5MHA4SEJvSk0xT1hrYUIxaUlBdzlBd3Y1dmlqLUVxdEQtTEhmYzhNdzg5cFc4Qkhzc0NwNFFweFc2cXVoNVM3UzBPc2NNYTdQLUpST1FGVFZrRnk0MDBrckV6ZWx2d21oQkVUNlQwYmRZX19FVkRva09DR3liRS01dktJajZQVHdxM1VFNzU5RmotUU9faFMxMm01UEhXT1loU1N2?oc=5",
+        "timestamp": "2026-03-31T07:00:00",
+        "timestamp_display": "31. 03. 2026 07:00",
+        "is_new": true
+    },
+    {
         "category": "Technologie",
         "title": "Studenti vyhráli soutěž",
         "summary": "Studenti gymnázia získali třetí místo na mezinárodní akci za vytvoření počítačové hry za víkend.",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVkFLRWZnT2ZNV1htZ0FZTnA5Q2hLUVktZjFUbGtHeUJRbDhUOXFEckNqc2FDbDRWQUxTN2J3SHdna1VDZFBncGFkdTdFUmVIRG50aS1Fek5vZVJIRXVJbjZ5cU9Ca2FxVlZia043Q2c5enl5Z0xRcGxRSU5pYnp3dVM2RGVXR3NMQ3pSUE1WYi1LRWxUaWZadkpvZ3MwSDg4ck5pemktaGxOMEt6MGJWSEg0LVk0MDhRZlB0UHBjaFA0UzVIV0FFOWc4T0g5cUlteXF3Qw?oc=5",
         "timestamp": "2026-04-02T10:01:00",
         "timestamp_display": "02. 04. 2026 10:01",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -15,7 +69,7 @@
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRHg4M3ZQNFdsZ3VWVjJ3TE92RUNxbGJ6UEcxTkNCcnNmS2VQcnJtT3NjWVl6WjRMVTFMUVRfWkZSSlVLdGZSTHAyRGFSb0R0djk0NTVSZHNHVzJ2dGpmNDRYbnIwWG5QTDBWQ3lURlNxVTVMQnU4MEhNN1Q3eElrd202c2w1YnIwT0RNblVtUXNxZHR2cFpKY0FwLTZTSTItM1p0dmhXbzJDNUF5NzFVYUdHQk1OY2NOYjctMl9taUxROHN4d19zYUtmTEhkZFJSRTZOc0lsbDJDaW1jdnpHbTYteWhDZGhS?oc=5",
         "timestamp": "2026-04-02T09:46:01",
         "timestamp_display": "02. 04. 2026 09:46",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
