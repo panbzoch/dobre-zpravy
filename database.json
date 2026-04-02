@@ -1,12 +1,30 @@
 [
     {
         "category": "Byznys",
+        "title": "Papelote infocentrum",
+        "summary": "Papelote nově funguje jako infocentrum, kombinuje papír a digitální technologie.",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUjFoTE1idi02WDVoRWR6NVdLY0EzUFNUOWtuUUtXc3d2dmpGYmdUSUZvXzRvNnFoMGhYczZmSE1KdEVWQl9FRHJmTmx2TVBfanBxVTByN2d0a21TWm0zSHR1SnhwTWY2eXh4bjZMb1ZFSEwwRjN4TDZfdVVrQTFlRUFCTzBfdHFPQmlDSVNsZEF3UFk?oc=5",
+        "timestamp": "2026-04-02T17:04:14",
+        "timestamp_display": "02. 04. 2026 17:04",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Firma Eldis rozšiřuje",
+        "summary": "Firma Eldis v Pardubicích rozšiřuje své působení a testuje 3D radary v nové hale.",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRk9kRWhtZFd2TmNLdm1EdXpxc01aZDNqUnVEZkwxYjVxVlZJWVFVR0xQT3IycllEaGpVQXVGYmdkenNRelBTdXUxNVRQZFVVUkotNHd2VGI1VVJ4LW04OVNjSFFtc3cyX2dtcEtIVGI3ZE0xOVRQeDlrX0RjT0dpTC1TMU05NjI3aGdWYm5NQy1rcjlBTHZiTTVsZ255WjZoRGFnQTdMRFZtQjkwdzluTWQxVmFXQXVKeHYxYlJSOFdLZFJSTXJv?oc=5",
+        "timestamp": "2026-04-02T15:51:00",
+        "timestamp_display": "02. 04. 2026 15:51",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "EPH zvýšila zisk",
         "summary": "Společnost EPH zvýšila provozní zisk o miliardu eur díky novým akvizicím a dohodám.",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMld6YklNOUJPVWw2YUh6TmE1YVBRa01uMi1LOXdxUkFjUmFObmVuZERydEtDTWo1R0ZsbVpfRWN0TF8tYzdCMWRJNXp1VzhXZFZvd2FyNTd0ai1xMzhZamJLaFBQdFhfV0YyVmdtVXREOWdnMGs0WjhqcVN5MDNUZGdxMC1BS2J4OEptT3NIQjFYcXBUMm5Yb1lkLWxMUTQ4d1hWQjVVaEpkQXo5Y2dZ?oc=5",
         "timestamp": "2026-04-02T13:57:21",
         "timestamp_display": "02. 04. 2026 13:57",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,43 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SY3RZeEVNSTlpb3pweWJKOVVzcV9DVzZSeXFRYWUxVy1PRTZTY01GUTh0SV91ZUlWSW5JSW0yQTF1T0FRTXZlcWNGaDNDcFllSm1mZXlDWDZ1a0dISEUyUnNn?oc=5",
         "timestamp": "2026-04-02T10:32:47",
         "timestamp_display": "02. 04. 2026 10:32",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Investování podle promptů",
-        "summary": "Trio z Brna spouští investování do ETF fondů podle uživatelských promptů, umožňující personalizované investice.",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTnFnSEpmTkFYdjYydlRrRy1WQXVDcDhGNkpvbTNqOWExV1BWM0czbFVnWjE2NVJxYnBtTjZ1dlA4SWp2MVV1QWxVbWFEeWtPZE1LQzIzZk1Wbk95Y21zbmdzNGxqNTl4VlRuOFFJU2EzdXdLQkhEa0UwMlhfeFUzWXhrNkhSaWlvOGVwcXlsUUFLTzE1dmxXQmthSHJWV1lycWpuR01WMA?oc=5",
-        "timestamp": "2026-04-02T04:22:57",
-        "timestamp_display": "02. 04. 2026 04:22",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "OpenAI získala investici",
-        "summary": "OpenAI získala rekordní investici 122 miliard USD na rozvoj AI technologií.",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOazJtVVo1TUYyWW9qbVpJSkR1SG8wZ1pDOTdBMHhXV25rOWNvcmNfSVc3aEF0bEc2N2g0RzROZUpCREdxdTByYlRieWpHVk9GeVUxT2c1SmJ0TnMwSmRMUkNTTzRtaDBhVVg3X1lYQTAtUXp2QTZncDd2Qks1UzhKaXc3cm80YU8zRE1IcFpQZDVyRTRHZlFiempWaWNkTUdfMWRPNGx2Y2VBcnpEQzJjeXliTnJIN28?oc=5",
-        "timestamp": "2026-04-01T21:38:57",
-        "timestamp_display": "01. 04. 2026 21:38",
-        "is_new": true
-    },
-    {
-        "category": "Věda",
-        "title": "Kvantová mechanika potvrzena",
-        "summary": "Vědci potvrdili kvantovou mechaniku pomocí atomů helia, což potvrzuje předpovědi teorie.",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeFUyWmdURnlCa1JKc1ExaVlsMWxEaFZ0TXFsY1Q3eEZfVkFwYzl6UGNGWFN6ekg4N1JPX2xjOGtPQ1I1RmpiQXFPbGloTm9qV3ByQ3ZDYW01dXJaRklpRjNQcHVuTHlsdHF3UWhUWTVQWG5uLVFUSS1wQUdUOXQ0emVLNmQyOHdfb1JWaXVKSldTMFFEYU9EdDZsWUdkU19nTWpJNGJjNUduNDA?oc=5",
-        "timestamp": "2026-03-31T14:51:41",
-        "timestamp_display": "31. 03. 2026 14:51",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Fintech Patron Go",
-        "summary": "Fintech Patron Go získal 50 milionů ve finančním kole, aby vyvinul AI finančního \"autopilota\".",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRURjRHRka1hJa3lzdkZncXdVcGZ5MHA4SEJvSk0xT1hrYUIxaUlBdzlBd3Y1dmlqLUVxdEQtTEhmYzhNdzg5cFc4Qkhzc0NwNFFweFc2cXVoNVM3UzBPc2NNYTdQLUpST1FGVFZrRnk0MDBrckV6ZWx2d21oQkVUNlQwYmRZX19FVkRva09DR3liRS01dktJajZQVHdxM1VFNzU5RmotUU9faFMxMm01UEhXT1loU1N2?oc=5",
-        "timestamp": "2026-03-31T07:00:00",
-        "timestamp_display": "31. 03. 2026 07:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -78,6 +60,24 @@
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ2tSSmowNlBYV28zRHZtcGt2S0ZzeHdrRWZ4VEN2U2RkRUo0bDBwVlY0RW83ZmlTOWpOYjhMN0NnaXRXWlQwaDJlcWxtNTczOVlGRTdlMV9fNWFsb2d2cFlpWEdCdm9UUEZQRHk4NXM5QlFnWGIzakpXeHlHOGk2VDdnSFAwMkNsU1NVQWxCenZrbWRrVkFMRHh0dVFEcmM?oc=5",
         "timestamp": "2026-04-02T06:03:10",
         "timestamp_display": "02. 04. 2026 06:03",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Investování podle promptů",
+        "summary": "Trio z Brna spouští investování do ETF fondů podle uživatelských promptů, umožňující personalizované investice.",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTnFnSEpmTkFYdjYydlRrRy1WQXVDcDhGNkpvbTNqOWExV1BWM0czbFVnWjE2NVJxYnBtTjZ1dlA4SWp2MVV1QWxVbWFEeWtPZE1LQzIzZk1Wbk95Y21zbmdzNGxqNTl4VlRuOFFJU2EzdXdLQkhEa0UwMlhfeFUzWXhrNkhSaWlvOGVwcXlsUUFLTzE1dmxXQmthSHJWV1lycWpuR01WMA?oc=5",
+        "timestamp": "2026-04-02T04:22:57",
+        "timestamp_display": "02. 04. 2026 04:22",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "OpenAI získala investici",
+        "summary": "OpenAI získala rekordní investici 122 miliard USD na rozvoj AI technologií.",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOazJtVVo1TUYyWW9qbVpJSkR1SG8wZ1pDOTdBMHhXV25rOWNvcmNfSVc3aEF0bEc2N2g0RzROZUpCREdxdTByYlRieWpHVk9GeVUxT2c1SmJ0TnMwSmRMUkNTTzRtaDBhVVg3X1lYQTAtUXp2QTZncDd2Qks1UzhKaXc3cm80YU8zRE1IcFpQZDVyRTRHZlFiempWaWNkTUdfMWRPNGx2Y2VBcnpEQzJjeXliTnJIN28?oc=5",
+        "timestamp": "2026-04-01T21:38:57",
+        "timestamp_display": "01. 04. 2026 21:38",
         "is_new": false
     },
     {
@@ -198,6 +198,15 @@
         "is_new": false
     },
     {
+        "category": "Věda",
+        "title": "Kvantová mechanika potvrzena",
+        "summary": "Vědci potvrdili kvantovou mechaniku pomocí atomů helia, což potvrzuje předpovědi teorie.",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeFUyWmdURnlCa1JKc1ExaVlsMWxEaFZ0TXFsY1Q3eEZfVkFwYzl6UGNGWFN6ekg4N1JPX2xjOGtPQ1I1RmpiQXFPbGloTm9qV3ByQ3ZDYW01dXJaRklpRjNQcHVuTHlsdHF3UWhUWTVQWG5uLVFUSS1wQUdUOXQ0emVLNmQyOHdfb1JWaXVKSldTMFFEYU9EdDZsWUdkU19nTWpJNGJjNUduNDA?oc=5",
+        "timestamp": "2026-03-31T14:51:41",
+        "timestamp_display": "31. 03. 2026 14:51",
+        "is_new": false
+    },
+    {
         "category": "Byznys",
         "title": "Mercedes investuje miliardy",
         "summary": "Mercedes-Benz investuje miliardy do nového závodu v Chebu, kde bude vyrábět tisíce vozidel.",
@@ -294,6 +303,15 @@
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON0NyM3ZETHhYWllVXzU5dWFvYjkwMVF3eUNGdDFIdHoyT1Q4TlpMUGdvUkpzQ0VoVHRVWG9RM0Vacl92SHM2bFVBcWZPLXRscjlVYjdKVnVUZE1seGl2d0RUcDVvQ0FaeVVreVFuaVNTSFFTbTRVQXo3NEdKODJhQV9ScF9PWWJvSnljS0pXUkpFMFU?oc=5",
         "timestamp": "2026-03-31T07:16:51",
         "timestamp_display": "31. 03. 2026 07:16",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Fintech Patron Go",
+        "summary": "Fintech Patron Go získal 50 milionů ve finančním kole, aby vyvinul AI finančního \"autopilota\".",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRURjRHRka1hJa3lzdkZncXdVcGZ5MHA4SEJvSk0xT1hrYUIxaUlBdzlBd3Y1dmlqLUVxdEQtTEhmYzhNdzg5cFc4Qkhzc0NwNFFweFc2cXVoNVM3UzBPc2NNYTdQLUpST1FGVFZrRnk0MDBrckV6ZWx2d21oQkVUNlQwYmRZX19FVkRva09DR3liRS01dktJajZQVHdxM1VFNzU5RmotUU9faFMxMm01UEhXT1loU1N2?oc=5",
+        "timestamp": "2026-03-31T07:00:00",
+        "timestamp_display": "31. 03. 2026 07:00",
         "is_new": false
     },
     {
