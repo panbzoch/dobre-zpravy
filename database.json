@@ -1,30 +1,30 @@
 [
     {
+        "category": "Technologie",
+        "title": "Studenti vyhráli soutěž",
+        "summary": "Studenti gymnázia získali třetí místo na mezinárodní akci za vytvoření počítačové hry za víkend.",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVkFLRWZnT2ZNV1htZ0FZTnA5Q2hLUVktZjFUbGtHeUJRbDhUOXFEckNqc2FDbDRWQUxTN2J3SHdna1VDZFBncGFkdTdFUmVIRG50aS1Fek5vZVJIRXVJbjZ5cU9Ca2FxVlZia043Q2c5enl5Z0xRcGxRSU5pYnp3dVM2RGVXR3NMQ3pSUE1WYi1LRWxUaWZadkpvZ3MwSDg4ck5pemktaGxOMEt6MGJWSEg0LVk0MDhRZlB0UHBjaFA0UzVIV0FFOWc4T0g5cUlteXF3Qw?oc=5",
+        "timestamp": "2026-04-02T10:01:00",
+        "timestamp_display": "02. 04. 2026 10:01",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Nový kompresní algoritmus",
+        "summary": "Google představil TurboQuant, algoritmus snižující paměťové nároky umělé inteligence.",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRHg4M3ZQNFdsZ3VWVjJ3TE92RUNxbGJ6UEcxTkNCcnNmS2VQcnJtT3NjWVl6WjRMVTFMUVRfWkZSSlVLdGZSTHAyRGFSb0R0djk0NTVSZHNHVzJ2dGpmNDRYbnIwWG5QTDBWQ3lURlNxVTVMQnU4MEhNN1Q3eElrd202c2w1YnIwT0RNblVtUXNxZHR2cFpKY0FwLTZTSTItM1p0dmhXbzJDNUF5NzFVYUdHQk1OY2NOYjctMl9taUxROHN4d19zYUtmTEhkZFJSRTZOc0lsbDJDaW1jdnpHbTYteWhDZGhS?oc=5",
+        "timestamp": "2026-04-02T09:46:01",
+        "timestamp_display": "02. 04. 2026 09:46",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "Julius Meinl VI.",
         "summary": "Julius Meinl VI. hovoří o důležitosti spokojenosti hostů v hotelovém byznysu a sdílí zkušenosti.",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ2tSSmowNlBYV28zRHZtcGt2S0ZzeHdrRWZ4VEN2U2RkRUo0bDBwVlY0RW83ZmlTOWpOYjhMN0NnaXRXWlQwaDJlcWxtNTczOVlGRTdlMV9fNWFsb2d2cFlpWEdCdm9UUEZQRHk4NXM5QlFnWGIzakpXeHlHOGk2VDdnSFAwMkNsU1NVQWxCenZrbWRrVkFMRHh0dVFEcmM?oc=5",
         "timestamp": "2026-04-02T06:03:10",
         "timestamp_display": "02. 04. 2026 06:03",
-        "is_new": true
-    },
-    {
-        "category": "Společnost",
-        "title": "Mladí tvůrci v galerii",
-        "summary": "Národní galerie představuje tvorbu nejmladších autorů, kteří ukazují, jak vidí svět.",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdjF2bGhvQ191VWlRNHdjcGpxdHJKT202ZUhnMWFqcTZUbkVEUTRjQWNXZE1SS2xuUW9PVERNYzRCeHAxQ1RQdXFMT2VjbDhoU255d3hXZy1DX3NxbVNHUGtCeXhpWDJxRFdJemR0VEZMWExiN2diWURKU0I3bVltYzBnRW84NElTWkE?oc=5",
-        "timestamp": "2026-04-01T13:03:07",
-        "timestamp_display": "01. 04. 2026 13:03",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Startup úspěch",
-        "summary": "Investor přesvědčil startup, že peníze nejsou potřeba, což se ukázalo jako nejlepší rozhodnutí.",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObTJlTDJHODF2QzNDX3FrYzJJU1Y5Y2JES2E4Nm5UX2pETm9LamFoODY4Xy1sb2dDSmp2OUtoUzZkRlR0Rm5uMl9CQ2h1bnNST0p1ZWdnQUNrWGg4VGs4d0YtVW5VQmlDeWhodWM0RFhhYktUa1ZfcWZ0RFRrdFM4V2tTc1pFSFptRnFadFN6bUhVNFdLd2J3TjN0Vm5BazlnMVBCakdES2dXZ0pIdFV5WXRzRQ?oc=5",
-        "timestamp": "2026-04-01T11:19:05",
-        "timestamp_display": "01. 04. 2026 11:19",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -54,6 +54,15 @@
         "is_new": false
     },
     {
+        "category": "Společnost",
+        "title": "Mladí tvůrci v galerii",
+        "summary": "Národní galerie představuje tvorbu nejmladších autorů, kteří ukazují, jak vidí svět.",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdjF2bGhvQ191VWlRNHdjcGpxdHJKT202ZUhnMWFqcTZUbkVEUTRjQWNXZE1SS2xuUW9PVERNYzRCeHAxQ1RQdXFMT2VjbDhoU255d3hXZy1DX3NxbVNHUGtCeXhpWDJxRFdJemR0VEZMWExiN2diWURKU0I3bVltYzBnRW84NElTWkE?oc=5",
+        "timestamp": "2026-04-01T13:03:07",
+        "timestamp_display": "01. 04. 2026 13:03",
+        "is_new": false
+    },
+    {
         "category": "Byznys",
         "title": "Semix rozšiřuje výrobu",
         "summary": "Semix investuje 65 milionů do fermentace, rozšiřuje výrobu a kapacity.",
@@ -69,6 +78,15 @@
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jVUtjWTdVOE42LWpvUU1zMkVLREVBYWY2U2k5a1lYWmVhcDZCZDNkWmxNNnRpVEdHWHdjc0VmVVZMWVVXSGpkRTJuczBNTk5fV193?oc=5",
         "timestamp": "2026-04-01T11:49:22",
         "timestamp_display": "01. 04. 2026 11:49",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Startup úspěch",
+        "summary": "Investor přesvědčil startup, že peníze nejsou potřeba, což se ukázalo jako nejlepší rozhodnutí.",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObTJlTDJHODF2QzNDX3FrYzJJU1Y5Y2JES2E4Nm5UX2pETm9LamFoODY4Xy1sb2dDSmp2OUtoUzZkRlR0Rm5uMl9CQ2h1bnNST0p1ZWdnQUNrWGg4VGs4d0YtVW5VQmlDeWhodWM0RFhhYktUa1ZfcWZ0RFRrdFM4V2tTc1pFSFptRnFadFN6bUhVNFdLd2J3TjN0Vm5BazlnMVBCakdES2dXZ0pIdFV5WXRzRQ?oc=5",
+        "timestamp": "2026-04-01T11:19:05",
+        "timestamp_display": "01. 04. 2026 11:19",
         "is_new": false
     },
     {
