@@ -6,25 +6,7 @@
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcGxOVC1BTEM0WWJrMnJJMHQ2Q2lPM3lhcFRsMGZOQ2ZoNzVuZFgwX2VkdzFpRXFBY0VTbGQ4ajVKWFl6S01BTjZkR0V2WkdwNHAxT3drM2tWbWNlQ1BwWi15cXc0V3lUOF9hSVpENTBlVldqTF9CREprMkZoZjVWdnp4ZGU4WjBLQjh2T2c5Mk9XeWFQVEE?oc=5",
         "timestamp": "2026-04-04T12:07:13",
         "timestamp_display": "04. 04. 2026 12:07",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "SpaceX letí na burzu",
-        "summary": "SpaceX plánuje vstup na burzu, očekává se největší IPO v historii, společnost Elona Muska expanduje.",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRlF2SjQxWXVTWE9PMHNzbWhpRXNBekpUNzBzcDNITzRpX1JMenU3S0tVQ1p3NHhDLTZMTGdmQlUwbDlzUEE4SDk1TGQ4NDNhNGRSRF9CWUNWWld4Umg3bnhCSnE4WktVVWFicnZEYW9jS1VrQmtDNUJDVlhDQVhyYVlzS1kzSElDZmtvWkFR?oc=5",
-        "timestamp": "2026-04-02T14:13:17",
-        "timestamp_display": "02. 04. 2026 14:13",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "OpenAI dosáhla rekordní valuace",
-        "summary": "OpenAI dosáhla valuace 852 miliard dolarů, investoři vložili rekordních 122 miliard dolarů.",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUEdZN3l5Ml9jSFlqQzFybm9LRDR4QUpjbzl0SW0tc1hWd0ZQRTQwYXA0Z1NMNUdxb1pHTFVORjJhT3RxdHdYS0tVNmtnZW15U3dZN0RkNFFCNFJ0LTJ3UXhVd1djaUQweGl2NGZBN1RLWHB4WEFxNGdkdkVSYzJvWXpQYVR2c0VRbXBTcTEyeE1OaVljODJ0Y0FWYmRGWU9wZEtv?oc=5",
-        "timestamp": "2026-04-01T11:49:22",
-        "timestamp_display": "01. 04. 2026 11:49",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -132,6 +114,15 @@
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRk9kRWhtZFd2TmNLdm1EdXpxc01aZDNqUnVEZkwxYjVxVlZJWVFVR0xQT3IycllEaGpVQXVGYmdkenNRelBTdXUxNVRQZFVVUkotNHd2VGI1VVJ4LW04OVNjSFFtc3cyX2dtcEtIVGI3ZE0xOVRQeDlrX0RjT0dpTC1TMU05NjI3aGdWYm5NQy1rcjlBTHZiTTVsZ255WjZoRGFnQTdMRFZtQjkwdzluTWQxVmFXQXVKeHYxYlJSOFdLZFJSTXJv?oc=5",
         "timestamp": "2026-04-02T15:51:00",
         "timestamp_display": "02. 04. 2026 15:51",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "SpaceX letí na burzu",
+        "summary": "SpaceX plánuje vstup na burzu, očekává se největší IPO v historii, společnost Elona Muska expanduje.",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRlF2SjQxWXVTWE9PMHNzbWhpRXNBekpUNzBzcDNITzRpX1JMenU3S0tVQ1p3NHhDLTZMTGdmQlUwbDlzUEE4SDk1TGQ4NDNhNGRSRF9CWUNWWld4Umg3bnhCSnE4WktVVWFicnZEYW9jS1VrQmtDNUJDVlhDQVhyYVlzS1kzSElDZmtvWkFR?oc=5",
+        "timestamp": "2026-04-02T14:13:17",
+        "timestamp_display": "02. 04. 2026 14:13",
         "is_new": false
     },
     {
@@ -285,6 +276,15 @@
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTTRWMzdNZ1VjbXlUQXEtMGZRVWJjc2ZzNFFxQjE1RVBsY0NqTnRWeE11VnNUNm9wMGVPdm1GdjYwSnA2Z0g1Um9TLVFwODFydldlYXB4VGxCUmtydXp2bDZKV0RoTkJoYWt5SWFwQTE1TXRkVEVGSTR4RnFDVmtZMndBWGJjMDBsY0wyV2lCcVRocXJMTElWc1hXX0FzQQ?oc=5",
         "timestamp": "2026-04-01T12:17:00",
         "timestamp_display": "01. 04. 2026 12:17",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "OpenAI dosáhla rekordní valuace",
+        "summary": "OpenAI dosáhla valuace 852 miliard dolarů, investoři vložili rekordních 122 miliard dolarů.",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUEdZN3l5Ml9jSFlqQzFybm9LRDR4QUpjbzl0SW0tc1hWd0ZQRTQwYXA0Z1NMNUdxb1pHTFVORjJhT3RxdHdYS0tVNmtnZW15U3dZN0RkNFFCNFJ0LTJ3UXhVd1djaUQweGl2NGZBN1RLWHB4WEFxNGdkdkVSYzJvWXpQYVR2c0VRbXBTcTEyeE1OaVljODJ0Y0FWYmRGWU9wZEtv?oc=5",
+        "timestamp": "2026-04-01T11:49:22",
+        "timestamp_display": "01. 04. 2026 11:49",
         "is_new": false
     },
     {
