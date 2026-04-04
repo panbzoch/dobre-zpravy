@@ -1,12 +1,39 @@
 [
     {
+        "category": "Byznys",
+        "title": "Moravský Edison",
+        "summary": "Článek představuje inovátory první republiky, jako moravský Edison, kteří přispěli k rozvoji české ekonomiky a průmyslu.",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcGxOVC1BTEM0WWJrMnJJMHQ2Q2lPM3lhcFRsMGZOQ2ZoNzVuZFgwX2VkdzFpRXFBY0VTbGQ4ajVKWFl6S01BTjZkR0V2WkdwNHAxT3drM2tWbWNlQ1BwWi15cXc0V3lUOF9hSVpENTBlVldqTF9CREprMkZoZjVWdnp4ZGU4WjBLQjh2T2c5Mk9XeWFQVEE?oc=5",
+        "timestamp": "2026-04-04T12:07:13",
+        "timestamp_display": "04. 04. 2026 12:07",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "SpaceX letí na burzu",
+        "summary": "SpaceX plánuje vstup na burzu, očekává se největší IPO v historii, společnost Elona Muska expanduje.",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRlF2SjQxWXVTWE9PMHNzbWhpRXNBekpUNzBzcDNITzRpX1JMenU3S0tVQ1p3NHhDLTZMTGdmQlUwbDlzUEE4SDk1TGQ4NDNhNGRSRF9CWUNWWld4Umg3bnhCSnE4WktVVWFicnZEYW9jS1VrQmtDNUJDVlhDQVhyYVlzS1kzSElDZmtvWkFR?oc=5",
+        "timestamp": "2026-04-02T14:13:17",
+        "timestamp_display": "02. 04. 2026 14:13",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "OpenAI dosáhla rekordní valuace",
+        "summary": "OpenAI dosáhla valuace 852 miliard dolarů, investoři vložili rekordních 122 miliard dolarů.",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUEdZN3l5Ml9jSFlqQzFybm9LRDR4QUpjbzl0SW0tc1hWd0ZQRTQwYXA0Z1NMNUdxb1pHTFVORjJhT3RxdHdYS0tVNmtnZW15U3dZN0RkNFFCNFJ0LTJ3UXhVd1djaUQweGl2NGZBN1RLWHB4WEFxNGdkdkVSYzJvWXpQYVR2c0VRbXBTcTEyeE1OaVljODJ0Y0FWYmRGWU9wZEtv?oc=5",
+        "timestamp": "2026-04-01T11:49:22",
+        "timestamp_display": "01. 04. 2026 11:49",
+        "is_new": true
+    },
+    {
         "category": "Věda",
         "title": "Kometa mění směr",
         "summary": "Hubbleův dalekohled zaznamenal změnu směru otáčení komety, což je neobvyklý jev ve vesmíru.",
         "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNclVXVVdEdUdlejlXakhsVkJzbDhBVVJxTzRJTXZ2bk84aC1OUVRUek92aHR1NlV2Uy02VUZya2R3UktvQkJKYmNSZWJwMjMyTnpZWXNoWTA2VF93bFlrMHk4MldVNlFtV1J1SE5PcWNydnhwdE1CdnVqajhyc0hKMy1TSEZMVUNMMzFUS05mSFpBMzFVSjFEOFpoYWFFTzVwdG5xcVV1OUd5QUpWYkpIalZMOFlKNDBmaHJhUTJLSmZ1RUd6c0NGZHZQU292U2J5MnJJcThhdUdXclVwWU9DQmdBMS1pVDJJWl9xdFloNA?oc=5",
         "timestamp": "2026-04-04T10:09:07",
         "timestamp_display": "04. 04. 2026 10:09",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
