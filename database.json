@@ -1,11 +1,38 @@
 [
     {
         "category": "Byznys",
-        "title": "Microsoft investuje",
-        "summary": "Microsoft investuje v Japonsku do umělé inteligence a kyberbezpečnosti, uvádějí média.",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSWxDRUtsOEpSaTZjeXBzX29SS3dwUGxZb3NkWDM2SjltNHc0R3F3bmtkY01sNHgwWFVEcnNpMjlkelhESUc2TVNiNTNQVGtsT212cktSN0l6dGNoLUFJWlB1a1p6Y3FCdkRTcDZLWHlfY01VUmdoR2RaYmdqZUU2dVFmUUd1TmRSSWpBVmJCcnJvRU16cmRsWEFST3d2VVk3Mlo0?oc=5",
-        "timestamp": "2026-04-03T12:03:01",
-        "timestamp_display": "03. 04. 2026 12:03",
+        "title": "Tomáš Baťa inspiruje",
+        "summary": "Tomáš Baťa je stále inspirací pro firmy a školy, které hledají návod pro dnešní svět.",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdmZrN3RmMXVBNTJKNEQwTTRtZS1hbVdSZ0YxUThjdVlnZGpmTnpzVnl2Rms4WTM1M1Z5U0tvdEo2TzVNUGwzc1A2UVV1bjdRQkhqNmJwM3VVUF9TWGdadGlRMHhEbWo3aElkd0x3OFJQNG94aE5GRlNpU292UkV2a1U3Sl93ZTB6MjFUNmNack9ybDNFcFE?oc=5",
+        "timestamp": "2026-04-03T10:02:58",
+        "timestamp_display": "03. 04. 2026 10:02",
+        "is_new": true
+    },
+    {
+        "category": "Medicína",
+        "title": "Klinika pro stárnutí",
+        "summary": "Křetínský otevírá kliniku pro stárnutí v Praze s lékařem Pasekou.",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONVlweXNNd3h6VVcwMFB5aEQ2ZEFJRXY1Z2RRbHp2RVlyNjlnVEVIUGMyd0ZBalRHdXZ0ekZ5bFJRd0dhUkpQX1AzLVJtTFNBSHV5VFpfelJHLURjeWQ2Q1hKSE1ZWTBpeVZEZGZFbHhTclhMWDRpMEhjWDBYNkpfVE83OXBKNjNHUUtqR2owSXpQSE5PaW40UV9JRWhXc3gyT19PdDhqeS12V1pFSlBfZktUWTVkWnlNN0I0SmRtZ3FOUDZfemNVWGJuQ0h0VElj?oc=5",
+        "timestamp": "2026-04-03T04:13:53",
+        "timestamp_display": "03. 04. 2026 04:13",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Chytrý dům pro autismus",
+        "summary": "Chytrý dům je navržen pro lidi s autismem, automatizuje úkoly a usnadňuje život.",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUVieXQxc2pEdjNSd0U1Vl9lRWEtWWtzWkpyNEprR1FjTElETUlkTlJHWVhHTDl3Z1NFQlFoQ0hWTGxVTjJhcGNrUnAxcU4xUWlVUHpXZkpBd2V6ZzY5aGtQTkpsRkxpR3FBU2NNMG5zSjZCY3BKRTBad3EtVnRoRE9hczFKYjBUVHdPejF4eUVKNkxuV3VXYQ?oc=5",
+        "timestamp": "2026-04-02T16:13:48",
+        "timestamp_display": "02. 04. 2026 16:13",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Změňte život technologií",
+        "summary": "Nová technologie může změnit životy lidí díky inovativním řešením a možnostem.",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94bTlUejZKX3I4YVh6MmtfdmFHTEVPT1Z0WFJUNmkwNnk2S0NNNGZ5eEJPcUtoUFlLNEZ1V241UnExdklUSDFZeUZJOUNEOWFzbUJhTWtBNmRwVXQ2?oc=5",
+        "timestamp": "2026-03-30T12:46:58",
+        "timestamp_display": "30. 03. 2026 12:46",
         "is_new": true
     },
     {
@@ -15,6 +42,15 @@
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM2NhYXg1ekR5UVI3THR0ejU3aDhZV1RUdVR5QkV3UjhqQTFwVi1FdllvNzVHNkNfUzJ4UndadTZmNWJXUTlzc2FIMEw4UVF4VGdzZWgyZWpRVFZ4Mmt5emhRcUlNcF84TVJETzJleFB0TmhuTTB3cGMtTXRxSFBaVjhwREd2akNvbHNFR3pTSTJmaGhTYk0w?oc=5",
         "timestamp": "2026-04-03T14:07:30",
         "timestamp_display": "03. 04. 2026 14:07",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Microsoft investuje",
+        "summary": "Microsoft investuje v Japonsku do umělé inteligence a kyberbezpečnosti, uvádějí média.",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSWxDRUtsOEpSaTZjeXBzX29SS3dwUGxZb3NkWDM2SjltNHc0R3F3bmtkY01sNHgwWFVEcnNpMjlkelhESUc2TVNiNTNQVGtsT212cktSN0l6dGNoLUFJWlB1a1p6Y3FCdkRTcDZLWHlfY01VUmdoR2RaYmdqZUU2dVFmUUd1TmRSSWpBVmJCcnJvRU16cmRsWEFST3d2VVk3Mlo0?oc=5",
+        "timestamp": "2026-04-03T12:03:01",
+        "timestamp_display": "03. 04. 2026 12:03",
         "is_new": false
     },
     {
