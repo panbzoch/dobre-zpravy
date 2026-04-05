@@ -1,21 +1,30 @@
 [
     {
+        "category": "Společnost",
+        "title": "Změň život vědou",
+        "summary": "Společnost nabízí inspiraci pro změnu života prostřednictvím vědy a osobního rozvoje.",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xQXhHdWxGcEJUak5NLVgyMmpVb1BobXRzWmNhc3N2OF9lcW5DWGJXd0M0TzFOTnNHcmsyM0ZFZjZ2el9tQk9MY2RlVHZ3QmhKTTNGYVZqc1lGS00?oc=5",
+        "timestamp": "2026-04-05T10:46:06",
+        "timestamp_display": "05. 04. 2026 10:46",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Změň život jedinou větou",
+        "summary": "Forbes nabízí inspiraci pro změnu života pomocí jedné věty.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xMG5xSGJLZmtyeVBtZ3d6MWJ0NVR0YnlLS0huakttVTRPa25NMFBGV2NvNllWN21MOEZHcHZnRTNKbEVTc3RiSkR6ckZBeERveEo0?oc=5",
+        "timestamp": "2026-04-04T23:26:36",
+        "timestamp_display": "04. 04. 2026 23:26",
+        "is_new": true
+    },
+    {
         "category": "Medicína",
         "title": "Lepší spánek",
         "summary": "Přístroj Exomind zlepšuje spánek a odolnost vůči stresu, testy potvrzují jeho účinnost.",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYkFqWkZUajNOUERXMEg2alFlRXFsdGdRVXlmalB2N2RpVGJ4R2QyYVhZTEJ0U2NaNmdPZXhBQXhIbC1sSzBMcW9DdGo5OGlpSzB3ZUdobUNFOUNndzdsRFlpTm5XejB2dTNKeUtkZnptU0QxNndrMXI4ZEhqNHMzRjUwdVU5cnh1QUVENXhuOW0?oc=5",
         "timestamp": "2026-04-05T06:02:57",
         "timestamp_display": "05. 04. 2026 06:02",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Úspěšná firma",
-        "summary": "Firma dodává olej českým hospodám a dává přednost podpoře lidí před státem.",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb19TbmJiV0ZlZGhpUEVLVlFPaHZvZktzNGFXREhHVFMzY3FCeE12b3ZsMmNMSG5WZGNyVkRObHczM185WThQcW9wSF9Bd1JQa2k5eWFnNzQ2dlBIRlFPZ1dGdWtIcjZ4SEd2X0dxblZjMFluN1B6R1RmOC1HM2Z5cVNzQndlT2RGYkxRaW93U2VPRkhlZnBMaFFLUlhxMWdId3l3?oc=5",
-        "timestamp": "2026-04-04T06:06:32",
-        "timestamp_display": "04. 04. 2026 06:06",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -42,6 +51,15 @@
         "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNclVXVVdEdUdlejlXakhsVkJzbDhBVVJxTzRJTXZ2bk84aC1OUVRUek92aHR1NlV2Uy02VUZya2R3UktvQkJKYmNSZWJwMjMyTnpZWXNoWTA2VF93bFlrMHk4MldVNlFtV1J1SE5PcWNydnhwdE1CdnVqajhyc0hKMy1TSEZMVUNMMzFUS05mSFpBMzFVSjFEOFpoYWFFTzVwdG5xcVV1OUd5QUpWYkpIalZMOFlKNDBmaHJhUTJLSmZ1RUd6c0NGZHZQU292U2J5MnJJcThhdUdXclVwWU9DQmdBMS1pVDJJWl9xdFloNA?oc=5",
         "timestamp": "2026-04-04T10:09:07",
         "timestamp_display": "04. 04. 2026 10:09",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Úspěšná firma",
+        "summary": "Firma dodává olej českým hospodám a dává přednost podpoře lidí před státem.",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb19TbmJiV0ZlZGhpUEVLVlFPaHZvZktzNGFXREhHVFMzY3FCeE12b3ZsMmNMSG5WZGNyVkRObHczM185WThQcW9wSF9Bd1JQa2k5eWFnNzQ2dlBIRlFPZ1dGdWtIcjZ4SEd2X0dxblZjMFluN1B6R1RmOC1HM2Z5cVNzQndlT2RGYkxRaW93U2VPRkhlZnBMaFFLUlhxMWdId3l3?oc=5",
+        "timestamp": "2026-04-04T06:06:32",
+        "timestamp_display": "04. 04. 2026 06:06",
         "is_new": false
     },
     {
