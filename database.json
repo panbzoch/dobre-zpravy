@@ -1,21 +1,39 @@
 [
     {
+        "category": "Technologie",
+        "title": "AI pro opravu silnic",
+        "summary": "Silničáři testují využití AI pro zjištění závad silnic a jejich opravu pomocí mikrovln.",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObkUxZDdwd3ctLVJtOFMyMVlJWE00WUN6NVhkQ0RJT3NJOHlid1diZE92RlVhVmhLVW42cmFRU1MwMHA1aW9aMnFiZkVtVW1MN1RxeFNfQ2hQcTBHMl9UTzZkeHZZalJrZzYwWTlIV1RrTVFodkpkUHdrSXg2Y0toWjJVeHEwOVRhQ1JyUzlmWkdVUkFSQkRZOFkyWHRTMkxiSVg3cUxrRURYX09wYVVFQmRTQTJ3LVdmbGdHUFU4ejBITDVvVUhheXFR?oc=5",
+        "timestamp": "2026-04-05T15:52:00",
+        "timestamp_display": "05. 04. 2026 15:52",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Zdraví cestování",
+        "summary": "Článek doporučuje destinace pro zdravý cestovní ruch, který prospívá tělu i duši.",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS3VIRE9hVUZXaVZIdDE3NDZZNWtWYjU3bktocjl6dTdQZk1jUVltdWRhYmxtanhUdnJQc3dVblVIOGFqSldSMTVsTnZpVnBWV2xmUk9MRjhXZTBqVjdiNGJwZUxUWWR4bWVKTVJwcDJQdkNHbWZqcWZ4VGcxLUx6MGNmYWNTeWJGYUUyRW1iZEM4WlczakFLZTVsQnNWZHM?oc=5",
+        "timestamp": "2026-04-05T13:04:30",
+        "timestamp_display": "05. 04. 2026 13:04",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Kvantový počítač dostupný",
+        "summary": "Google zpřístupní svůj kvantový počítač, laser integrovaný na čipu.",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMlkxWjdEbE5mNjh1NGhtTmZaUkE2RThLNFRaMUZNb3lPMGEyOVk2ZHFKTWxKLTRBY2lIVW95TGo1Rjc0UFFzY1prSEhYRjNNX2J4Yk8zejdJTzN2QlVMbUNsZWpiandnR3NYUW91Rkw3REJ3QkdfV2hoNVNnNXdPeVluN29pcWR0cUUzUGZvVHRiMUI2bE8temVRUHRjS3F2YkRZRGZiTGM0RWtHZmJyVWtldi1ldlFuZHRQbmdzSQ?oc=5",
+        "timestamp": "2026-04-03T07:00:00",
+        "timestamp_display": "03. 04. 2026 07:00",
+        "is_new": true
+    },
+    {
         "category": "Společnost",
         "title": "Změň život vědou",
         "summary": "Společnost nabízí inspiraci pro změnu života prostřednictvím vědy a osobního rozvoje.",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xQXhHdWxGcEJUak5NLVgyMmpVb1BobXRzWmNhc3N2OF9lcW5DWGJXd0M0TzFOTnNHcmsyM0ZFZjZ2el9tQk9MY2RlVHZ3QmhKTTNGYVZqc1lGS00?oc=5",
         "timestamp": "2026-04-05T10:46:06",
         "timestamp_display": "05. 04. 2026 10:46",
-        "is_new": true
-    },
-    {
-        "category": "Společnost",
-        "title": "Změň život jedinou větou",
-        "summary": "Forbes nabízí inspiraci pro změnu života pomocí jedné věty.",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xMG5xSGJLZmtyeVBtZ3d6MWJ0NVR0YnlLS0huakttVTRPa25NMFBGV2NvNllWN21MOEZHcHZnRTNKbEVTc3RiSkR6ckZBeERveEo0?oc=5",
-        "timestamp": "2026-04-04T23:26:36",
-        "timestamp_display": "04. 04. 2026 23:26",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Medicína",
@@ -33,6 +51,15 @@
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9OR1I3SnY4bFh2YXZ1NkhCV3dRSDBWZlItVTFDMGdvUEJyaGdRbXpTZ3lXWXZ0eDJTX3RIcDJKRDB5VnFyaGNmNVE0Vk5mZ0JS?oc=5",
         "timestamp": "2026-04-05T04:02:16",
         "timestamp_display": "05. 04. 2026 04:02",
+        "is_new": false
+    },
+    {
+        "category": "Společnost",
+        "title": "Změň život jedinou větou",
+        "summary": "Forbes nabízí inspiraci pro změnu života pomocí jedné věty.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xMG5xSGJLZmtyeVBtZ3d6MWJ0NVR0YnlLS0huakttVTRPa25NMFBGV2NvNllWN21MOEZHcHZnRTNKbEVTc3RiSkR6ckZBeERveEo0?oc=5",
+        "timestamp": "2026-04-04T23:26:36",
+        "timestamp_display": "04. 04. 2026 23:26",
         "is_new": false
     },
     {
