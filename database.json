@@ -1,12 +1,48 @@
 [
     {
+        "category": "Byznys",
+        "title": "Kazaši budují město",
+        "summary": "Kazaši investují 420 miliard do stavby města budoucnosti, jednoho z největších projektů na světě.",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUVdSVU00TWQ3RUh6N1dFdHQteFgxdTJEV3YzcEZoS0hTeWlVOGphTlYyNnZMbUgtYThNNGdyQ1Q4d2pIWlFqY1lvdWx2QUQyWThvT1NuNDNkeUlxZU1FNWhXOW0ySEFuXzI3VXd1ZFFES19ZY1Q3UlZmUFFFRFlOSDBaeC1HMktiSEpwc3lsay1jNXlKNHF3WEFSWUxIV1RoVjl6NGtzZWRNZlJkWlJTWHd3djBuV1JtT0J3?oc=5",
+        "timestamp": "2026-04-06T06:55:39",
+        "timestamp_display": "06. 04. 2026 06:55",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Chytrý náramek",
+        "summary": "Společnost dosáhla hodnoty přes 200 miliard díky chytrým náramkům bez displeje.",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRDVlTko2ZXpYQlQyTVltOHIxTk8yZmJZc0VBbGxrUkxVX2pnVmNZeXlsbzdCcU9HOWJ6V05hNzdlT1pJVk9wak14dDQ3QnR4SHZKVkpZZW1DTlcyVE1NalRqbTY1UVhIV2dnMnlwWmwtTkpGUllWQjRWZXJfclVxcUNTanBuc2llTzd4b2dVaU5ERkN6bUdCYl9WQXFxVW5VUWZvTlRlTFlmSmlaNGc?oc=5",
+        "timestamp": "2026-04-05T11:11:56",
+        "timestamp_display": "05. 04. 2026 11:11",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Věta mění život",
+        "summary": "Jedna inspirativní věta může změnit život člověka a ovlivnit jeho budoucnost.",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zNHp3M2c1QmU4enRQNk81cklLN3JySk1McXBGMUF1eU9Pclh2LUlDUzU4Y2tRM0RiU1BxLTlDS21ZZDRsX3h0eGxWaG9SYk1vTGI4eUJjM29YbkE?oc=5",
+        "timestamp": "2026-04-04T22:27:24",
+        "timestamp_display": "04. 04. 2026 22:27",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Společnost mění život",
+        "summary": "Společnost může změnit život jedné věty, inspiruje a motivuje lidi k úspěchu.",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NTk1GLTM3cm9nNHFjYmJEZnhqTndFdm5CZGZFUnczMWR3dXNOSGMxbGw2QU1HOUxYWExuRXJTNHgtTklTR1VFaTQ2MUFvbVhObUN3S2c3MENHVlk?oc=5",
+        "timestamp": "2026-04-03T09:54:27",
+        "timestamp_display": "03. 04. 2026 09:54",
+        "is_new": true
+    },
+    {
         "category": "Věda",
         "title": "Magnetické pole chrání Zemi",
         "summary": "Vědci objevili dutinu v magnetickém poli mezi Zemí a Měsícem, která chrání proti záření.",
         "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdkZZQWE5MXRZR1lfX2FGTVNqVUZScVVpQkxQUDFHbnJmcmJqWlE1dkZRdDVGZlMwSFVaOGZxOHc3cWl0eEpIUkZRQ05jb2EyQWU4WlZaNjRuZWV4QmF2MmJxVjhHYTRXNmUwb3BleEViWWkzcFl6NW51VEdPalJ4N1hldFVLVUVVcG9XSnp1YmRGYWlIQWZVblJtRDktbXg4NmpwaTB3Slc1MFo1VTdwbl9NdS0wX2pxV3V6V0ZMOTAtakUwdWhtdUExLVIwNHZCc0ZPQmQ5MkJWa3VKSWZsS010X0FVZDBDRW5XTW9NWjBKc3EzeEZJTmY1bVE?oc=5",
         "timestamp": "2026-04-06T10:07:07",
         "timestamp_display": "06. 04. 2026 10:07",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
