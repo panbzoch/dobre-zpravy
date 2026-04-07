@@ -1,12 +1,57 @@
 [
     {
+        "category": "Technologie",
+        "title": "Vlakotramvaj na baterky",
+        "summary": "Firma AŽD testuje unikátní vlakotramvaj na baterky, vytvořenou z vyřazené brněnské šaliny.",
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQbEQ3TnVaaWgxWEpIQVBYZ1BDUnRKWVo2d043RWY2eU1DTmU2LXlING9tQkhkRHNkWkNRVEZVSG5oQ084ZERTd0tDYUI2WTgyQ2RhMGdjdDgwLWNtd2RTZmR1MFdMcWgyMXhWVm9vTzY0TFRwUU84aWRyeFJjSTc1WTVJZkVjUzBpWV9OUmQ3Y1lvWnpxT2RjdXNOV0FueFpralQ0M0ZpWmo5aWVJV3R4aUVWM0RfbzZNeUx0ZWZXT0FWOTZ6b3pxbXhSN3RmSFJOMWJlWEtteERUY0hvcS13akdaSDRpNi1DSEpjbko4VndYSG1qZjltelhDS2d0dW8?oc=5",
+        "timestamp": "2026-04-07T14:16:54",
+        "timestamp_display": "07. 04. 2026 14:16",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Výstava v Praze",
+        "summary": "Výstava v Praze představuje díla Františka Kupky vedle globálního umění současnosti.",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZFllWk9GaUJubWJ4WHEzUlF3aTBfS3Q2RlF3Y0xEWHF0MHVJMFBzOF9hWlhoTUVORXV1ZjBfWnRNX1JiTkZ6RGhwazJYbUs1dFBfQ1VSbXJibjlETHdHNmdMamw3bEt1NVpoRm5DdkpWWHNYZG1LMEhpc0lmTV96TkQ4VW9YR2k0ZlpRcC0tUklLYmw2OWpkTndkdkY?oc=5",
+        "timestamp": "2026-04-07T14:08:35",
+        "timestamp_display": "07. 04. 2026 14:08",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Excalibur získal zakázky",
+        "summary": "Excalibur získal zakázky za 53 miliard korun a CSG rozšiřuje aktivity v Asii.",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT2VlWlYxLTd3alpTcUhQVXVsYVZ2VzZsVXp2YzFNUUFXV0xUcl9mTTliSUhhSkF2a1pDb1ZQOUpWRHozanhBTEhmSG5TWU0xdWdYbVhRRUhwdmRhVlZhQjkzMTFEMGtzSGZXZUR0NDJmUElPS2p3TG1UUGtBOXBBOG5Ma0dPUWdWWGJKQU9rcDNTWFdObThuZmFsUjNIQQ?oc=5",
+        "timestamp": "2026-04-07T12:39:41",
+        "timestamp_display": "07. 04. 2026 12:39",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investor radí kopírovat",
+        "summary": "Investor Mohnish Pabrai radí, že není nutné vynalézat kolo, ale lze úspěšně kopírovat osvědčené strategie.",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMmVPZjZMQzF1eEJ4YUwxeU1BUzhwbDhaUmkwdzRUUEpkQVlNVWNHOGJFM1VmakRJc3pwaTBhTFZDbjdETDhfbkNJNmFZcDVCSkNtVWVwbEQtRTV1X1d6SWJzbTdZYWFMOXdTVWRySzNNN0lPMmJlLU5XeFBaSkRwcXotSG5PdWtXMVljaDZxaGhlT1RRVlg4?oc=5",
+        "timestamp": "2026-04-07T12:24:14",
+        "timestamp_display": "07. 04. 2026 12:24",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "H2 Global Group slaví",
+        "summary": "H2 Global Group a VR LIFE slaví globální úspěch, zájem médií a investorů stoupá.",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX1lKLTVwQ0pITFJpSVVFNkpDNmdCNWpfS2gtdEd4Sy1jdzNMZ1dySFB3UlRjaGJFN25BNUpSc3l4dURYbHRxZWw0MTJvQ2NyWTNpQ1VxNXVtRWNKMklfTm5CUHJlQUV6R2QwTy0xRFItNjdnM1FVMVFiRUlNRUtyVGJHM0V4dm5XclBBZS02cm9CdjB2UjNFQm02bExuSlBFOHJHN0ZwWFFTZUxxZlRJUEhXbFpLT2Nia2pBZkFTUEJsNVRfVnNZ?oc=5",
+        "timestamp": "2026-04-07T12:01:00",
+        "timestamp_display": "07. 04. 2026 12:01",
+        "is_new": true
+    },
+    {
         "category": "Společnost",
         "title": "Harvardský vynález",
         "summary": "Nový vynález z Harvardské univerzity dokáže v létě vyrábět elektřinu a v zimě teplo bez použití elektroniky.",
         "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOeG4zMm9iaTZ4M3d0bTBFamdQNkkzNVZNNWl1T3oxc1JsN0FGLTFOcjN6UTJWTTUzRlJJbmVXNnRqUjBQYnEwRFNEVmhtRE1TRjk4dGQxMzRpUFNCcGZTWEUtQk1COERJbmh5QkJidHVTdkFaVVhCVUwtVWdpWWMxQ3dBVS1zTEhaN0liZnBJSW50Zy00cDkyZDVMTUNhYU9FSUtTRHJHQnBzS0hISmQtTzQ1VFhSc1JXbi15V0FhUlYxZnh3QVgxOHkwUXkzYTNrdjdVRkxSZFZ1YV84Y18tVng5WEJ3WV8waVNsZ0Jic2oxUlNJTG1mR09reWgtTFhCaTgwb0NUUU5DUQ?oc=5",
         "timestamp": "2026-04-07T09:53:26",
         "timestamp_display": "07. 04. 2026 09:53",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +60,7 @@
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUHRBaGZPQnlRZmw0LUxNVC1JTUFtU3hraGpwREk1RzYtNF9BODk3UDQ5LTh2NWZKQThnRHFzTzNCUjFYNV9KOTl1c25ZUUh5TVp3MGVaSnVVVTBZMklGbno5VzBfc29JRnBocjNyUjBDVGhvalpBcnpEempwd1c2Z0RhUVBoQ1BkUnlZQ2tLZVMxMHgtVVFlaw?oc=5",
         "timestamp": "2026-04-07T09:49:34",
         "timestamp_display": "07. 04. 2026 09:49",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,7 +69,7 @@
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSDUzcmdsMzhHRlluQzZRYVVKUlpQUVlNTjJSdG1TdVF5Z2lJZFdqWDdTQThTUWRkMDNURVdyMXUteXpNNGxjckloakluclVoSE1EdW1uc3BpckZrc1pmY1JVYjBmUzhMZFpycmhLUXJ5aUJVRktac3BoQmRrcjVzWUMtLS10Z3QxWXUtb05TRHhMdGJBTkF4TGY1ZFNOOGVyemkwN3d5RGU5dw?oc=5",
         "timestamp": "2026-04-07T09:48:00",
         "timestamp_display": "07. 04. 2026 09:48",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Společnost",
@@ -33,25 +78,7 @@
         "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQN3NpdEJzQktoTGY1WTVMdzhxajN2UzZHODFIQll5SFhWWFpycVl3bktwMjNub0dqb2l1WEtwRktTMkdialZsVzNtUUsxdE1jQW9WTmU3QUttTzFJV05MTDM1SmZ0WmlVdU5RTTZnNHByR01lUGRFNzhhd1NrLU9ILW5hQ0dRY0dfaXotdDlDUWxib2NzZjlMMGFqb3U1UVRrcGo5N3c4RGl4UGJYM2lBU2pOTDd1dzlxQW1Hd3FGeXpoYXRMY0NpZU1fcG0wY3dhd09ZWXNEOTlWbTIwZ3ptWFRXVHI0NW1DdU5LZUctYWVVYUhZMU9j?oc=5",
         "timestamp": "2026-04-07T09:47:35",
         "timestamp_display": "07. 04. 2026 09:47",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Český startup koupen",
-        "summary": "Americká mediální skupina Versant Media koupila český startup StockStory, který stojí za zpravodajstvím o akciích a finančních trzích.",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRmhSQXJHU1pYRXFrOFZrM2UwbEU4TUJ5S2lZREZJMHdOeHJSdTM5MlBOR19FMlFaOWVuRzNmVF8welYydFNtZld3dzhJZEFKM0VHQXNaUmlSbmNZbXYtZGxUZ1R3T3ZFWlBDUDhfT1VnWmgxdWt1Y3VCUGowR1ppeENBOGpmRHFPakE3aXlTT3J0U1JjTkNlckVFVE5mSkdCd3pYQzhkeTJpZzNnY1hSWThhY3E0TmJlME4zZ29icm0?oc=5",
-        "timestamp": "2026-04-05T07:00:00",
-        "timestamp_display": "05. 04. 2026 07:00",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Podcasty mění život",
-        "summary": "Podcasty mohou změnit život jedné věty, tvrdí Forbes, a představuje jejich pozitivní vliv.",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kVVgyZ1FIbWVNNzVhVlBQWDNvdE1qV05oUlBVSG5sQWtOOEpMNEljcVgteHNIc2dEVW1lMUdJcEswNFZUQ1Q1VHVxckc5WlhoU0xFN093MA?oc=5",
-        "timestamp": "2026-04-04T01:53:47",
-        "timestamp_display": "04. 04. 2026 01:53",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -153,6 +180,15 @@
         "is_new": false
     },
     {
+        "category": "Byznys",
+        "title": "Český startup koupen",
+        "summary": "Americká mediální skupina Versant Media koupila český startup StockStory, který stojí za zpravodajstvím o akciích a finančních trzích.",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRmhSQXJHU1pYRXFrOFZrM2UwbEU4TUJ5S2lZREZJMHdOeHJSdTM5MlBOR19FMlFaOWVuRzNmVF8welYydFNtZld3dzhJZEFKM0VHQXNaUmlSbmNZbXYtZGxUZ1R3T3ZFWlBDUDhfT1VnWmgxdWt1Y3VCUGowR1ppeENBOGpmRHFPakE3aXlTT3J0U1JjTkNlckVFVE5mSkdCd3pYQzhkeTJpZzNnY1hSWThhY3E0TmJlME4zZ29icm0?oc=5",
+        "timestamp": "2026-04-05T07:00:00",
+        "timestamp_display": "05. 04. 2026 07:00",
+        "is_new": false
+    },
+    {
         "category": "Medicína",
         "title": "Lepší spánek",
         "summary": "Přístroj Exomind zlepšuje spánek a odolnost vůči stresu, testy potvrzují jeho účinnost.",
@@ -231,6 +267,15 @@
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb19TbmJiV0ZlZGhpUEVLVlFPaHZvZktzNGFXREhHVFMzY3FCeE12b3ZsMmNMSG5WZGNyVkRObHczM185WThQcW9wSF9Bd1JQa2k5eWFnNzQ2dlBIRlFPZ1dGdWtIcjZ4SEd2X0dxblZjMFluN1B6R1RmOC1HM2Z5cVNzQndlT2RGYkxRaW93U2VPRkhlZnBMaFFLUlhxMWdId3l3?oc=5",
         "timestamp": "2026-04-04T06:06:32",
         "timestamp_display": "04. 04. 2026 06:06",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Podcasty mění život",
+        "summary": "Podcasty mohou změnit život jedné věty, tvrdí Forbes, a představuje jejich pozitivní vliv.",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kVVgyZ1FIbWVNNzVhVlBQWDNvdE1qV05oUlBVSG5sQWtOOEpMNEljcVgteHNIc2dEVW1lMUdJcEswNFZUQ1Q1VHVxckc5WlhoU0xFN093MA?oc=5",
+        "timestamp": "2026-04-04T01:53:47",
+        "timestamp_display": "04. 04. 2026 01:53",
         "is_new": false
     },
     {
