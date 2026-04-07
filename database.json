@@ -1,21 +1,39 @@
 [
     {
+        "category": "Věda",
+        "title": "Nadace Neuron podporuje",
+        "summary": "Nadace Neuron začala podporovat vědce už na středních školách, aby chybějící vzory nahradila.",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNGREU3dfNkNBQXdlc1lyRkNqdUp3c2VXXzRQdHlDVjBXOGhnWlZFMlNfTUNrcGJQUDR4cFFCdW4zWURVeUYzOG5IcEtYZ0JyVmUwTmFldl93Z2UxVTl3XzhLODhXVG45Sm5JajFCUWh4ZTJVZ1F0VWhXWUxtRkZvMXQzSlB5dnczSFdTRGFlOUpvUGpBNnhr?oc=5",
+        "timestamp": "2026-04-07T04:01:32",
+        "timestamp_display": "07. 04. 2026 04:01",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "PBS GROUP roste",
+        "summary": "PBS GROUP expanduje mezinárodně, získává projekty pro špičky letectví a vytváří stovky pracovních míst.",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcGxGYUlVcHMzSmN5bjNqX2hPdEp1NFExU3JMLTlBM1BDdGU5ektQcFg1TFQ3WmNoNWdNOHoxdWlnNVltakk0YTVjbmxWWFBMeGR5S2IzaXhBRGRSdV9UVkp3bTNnOWJWb2hUcm5hOVFaSFkyd0wzRDlSM0Q0R081NUM2akN3aWZtdGpuTENsc09GQkJ5R2JQRkZfbHlrTS1MQjRyS2NibzNMRmtLVndnV1MzMzFvWWVZQVJYQ2hCVzJxXzA?oc=5",
+        "timestamp": "2026-04-06T22:00:00",
+        "timestamp_display": "06. 04. 2026 22:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Oživují Baťovu limonádu",
+        "summary": "Bratři objevili zapomenutý recept na Baťovu limonádu a rozhodli se ji opět uvést na trh.",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdzlYVzh6VzVXNDZ4LS13TDNZVmVWTTlZYWNwTV9nUVROMWZFbzFXVWMyZHF6N2ZzUzJ5RkhmNURfRjZJQnltdGRtZnBYdmJHTzFMSTY5UkMyY0p6R0xpaGJGYnQ3Tm5KRkYybkc3WWJzTC03TFpsa0pPa3pDQkpfa2FibHpZdUd4UG5qbmJjRXE4SnM?oc=5",
+        "timestamp": "2026-04-04T13:07:13",
+        "timestamp_display": "04. 04. 2026 13:07",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "Češi prorazili na trhu",
         "summary": "Čeští podnikatelé úspěšně prorazili na náročném trhu s cloudovou firmou, dosáhli úspěchu.",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN3BJMTZOSnBBZGFjTFJ5R01qWVFfMC1uUXhPUy1MaS0zdjAwOEoyY1V1cWl1ZDJGM0pZZlJ1YVU4aEZfeHM5MUxnU3ZlSkFLOEF4VWxkTC1JYkpUN1F1aUV0RXotMk9UV3hzTEZHR3BWY09wX1ZDRlp3WWYzS1hUYWJLZEg0cEhxZWxwOEFycC1sZjdNdVE?oc=5",
         "timestamp": "2026-04-06T16:12:30",
         "timestamp_display": "06. 04. 2026 16:12",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Sklárna se mění",
-        "summary": "Stoletá sklárna u Sázavy se mění v centrum pro koncerty a byznys.",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNlNhREFkdzVkUGhQU0NfSHBMdkxpdWZRLTdZNlRtckpYcEl5cmZ3Tk1Sa3dHT1A2MmloSG1qZXllYXZ5YkFYUWRZa2lHYy1ZZ2oxM1RnZ1JIZkNUaVRIdElGSFBHZ2x2SUVGZ3JaYzdWOFJxcVlrOVh0SERQXzhRZG85bW1uRjJWaFcwdUpaVXpuZnBoMk9hdXl0X3dRUlZTOEU2U2xsRS1lb0EyM3BPaFY2YXVEb3FQRkFZZXhFVQ?oc=5",
-        "timestamp": "2026-04-04T13:01:07",
-        "timestamp_display": "04. 04. 2026 13:01",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -123,6 +141,15 @@
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zNHp3M2c1QmU4enRQNk81cklLN3JySk1McXBGMUF1eU9Pclh2LUlDUzU4Y2tRM0RiU1BxLTlDS21ZZDRsX3h0eGxWaG9SYk1vTGI4eUJjM29YbkE?oc=5",
         "timestamp": "2026-04-04T22:27:24",
         "timestamp_display": "04. 04. 2026 22:27",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Sklárna se mění",
+        "summary": "Stoletá sklárna u Sázavy se mění v centrum pro koncerty a byznys.",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNlNhREFkdzVkUGhQU0NfSHBMdkxpdWZRLTdZNlRtckpYcEl5cmZ3Tk1Sa3dHT1A2MmloSG1qZXllYXZ5YkFYUWRZa2lHYy1ZZ2oxM1RnZ1JIZkNUaVRIdElGSFBHZ2x2SUVGZ3JaYzdWOFJxcVlrOVh0SERQXzhRZG85bW1uRjJWaFcwdUpaVXpuZnBoMk9hdXl0X3dRUlZTOEU2U2xsRS1lb0EyM3BPaFY2YXVEb3FQRkFZZXhFVQ?oc=5",
+        "timestamp": "2026-04-04T13:01:07",
+        "timestamp_display": "04. 04. 2026 13:01",
         "is_new": false
     },
     {
