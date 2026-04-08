@@ -1,30 +1,39 @@
 [
     {
         "category": "Byznys",
+        "title": "Úspěch slovenských optiků",
+        "summary": "Slovenští optici z Eyerimu dosáhli loni půl miliardy tržeb, využívají moderní technologie pro online prodej.",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMG1fUnAwM1hHU3JLN1NGMGlOU2NlVWJzaDZvckRhRmVSU1pzOUNNbkhSa2VmU3pCVTQ2UldJWEF1aXl3alFNckJjckV5VFFiTVotRkFNeEYweG0zbVJlTGhid3U1ZEZXMzViaUJVUjNKN1ZWZ1Z0NGJ0QmlQVlZkVUNob3ZGNGxVcFdGT0RlWFdpZ0k1MkpYUmVnNmhzeHhCQndCZ01aZ3VjMTUyQ1p1cTNQWGJjTUluZFRHLTV6NVprRGM3a0dnSjFVVkdjUDA1TDJVdzhKLVpaQzg?oc=5",
+        "timestamp": "2026-04-08T13:00:00",
+        "timestamp_display": "08. 04. 2026 13:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Unikátní fond v Brně",
+        "summary": "V Brně vznikl stamilionový fond, do kterého investují tech magnáti i biskup, zaměřený na podporu inovací a startupů.",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNTF1TkhXcVdZOWVQNzhQNERmUExBcHpMMldaeTdTOHFvOGRXbDlxZ1NZM1k5WXRmZ2E3ZVZzdzRNZlV3dEltanF1eDU3MEo5MXAtU3ZGWHFtOENSYWhuQVRBX1otbllNZWVqMnRJanFhQnRqeGprdE5ic1Z4azBtTzdGSWNUeWxSRFkxSzVKbFRHd25ZcHgtWlFBVTJUNFk?oc=5",
+        "timestamp": "2026-04-08T12:11:15",
+        "timestamp_display": "08. 04. 2026 12:11",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Inovace péče o seniory",
+        "summary": "Kamarádi ze střední školy opustili korporáty, aby změnili péči o seniory, inspirovali se i Bolt.",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZG5scmtlVU0zSDU0d3hLYTNSWV9seEZkX2xwcDc0eW95THBxRVQ0Z1ZpS0M2Rm9wX1hMd0tEMF9hbmZrWHRBNlJvdlpkXy1NaUlzX0ViMHJKS19TNXdFLTVLdGYtcG0tYTlHUFNMRFNMMkdWbXhrN3ctNndkWlJNa21oUGRLOHk5MnJKa1hycXZ5UG4za1ZsdHdNbFlQcmc0RmxtRUI1WGcyY1Q1UkY4?oc=5",
+        "timestamp": "2026-04-08T04:32:40",
+        "timestamp_display": "08. 04. 2026 04:32",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Rekordní zisk Creditas",
         "summary": "Banka Creditas dosáhla rekordního zisku 4,6 miliardy korun, růst je tažen akvizicí MeDirect.",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRXdMTUNCZFRXNGwyQ0VjclJUNkxqQi1Ma0xWQ1V4R1piZ3c1M1VzZTRDMXc0SjdoR29ucWx1RGI3Mkw1cXRSLWpLWTlxNm5BSXh6dmpRamkwVk5fNl93MjZKV19hSU1CY0ZrX3pIblFuNnFYMXdUemVnOW1uYmRhQWR2a2xNYWRhaTBJc3FwSzVQR2NDTms1YTg5Vzk0ZE5uNUlpZW51M0w?oc=5",
         "timestamp": "2026-04-08T07:58:31",
         "timestamp_display": "08. 04. 2026 07:58",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Nová 5G síť v Česku",
-        "summary": "Nová pokusná síť 5G v Česku má změnit využití privátních sítí.",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZjN4ZjVFQmQtMms4QnltVWhKNUpxSEJMWUVaX0xrNEliTDJkV2lVdGwtMVVMX2MzUm9DMG4xUE0xU2c2SVVoNmQ2OW9pcHo1d2hTWDFnWVE5MzBTMGJfQnU1VUtLQzB0eThIRUlXTkFwUTBRZEhtUzZLMnlWaEl4ZzdoWGF5aUVzNjg1TDM2NFNPNVZGS0ZNZ215cFZFY1IwRGN6M1R6bWd4NG1jd3ZIbVgxWC1MRTNPbG1qck1meExQTm1ZVUlFb04tSTh3d2FmUG42RHpjOA?oc=5",
-        "timestamp": "2026-04-05T07:00:00",
-        "timestamp_display": "05. 04. 2026 07:00",
-        "is_new": true
-    },
-    {
-        "category": "Společnost",
-        "title": "Změň život jedinou větou",
-        "summary": "Forbes nabízí inspirativní články, které mohou změnit život.",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11Y3ZzbDVPeWtEbXJPVTZuc1IxMkNkcHMxcGNIVHF0eXlxUF9weHlrN0pqZ2VJUHA0NXFxLVN5ZUtTaHMzNnFmdnVqTzhma0llaFE?oc=5",
-        "timestamp": "2026-04-03T23:23:41",
-        "timestamp_display": "03. 04. 2026 23:23",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -270,6 +279,15 @@
         "is_new": false
     },
     {
+        "category": "Technologie",
+        "title": "Nová 5G síť v Česku",
+        "summary": "Nová pokusná síť 5G v Česku má změnit využití privátních sítí.",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZjN4ZjVFQmQtMms4QnltVWhKNUpxSEJMWUVaX0xrNEliTDJkV2lVdGwtMVVMX2MzUm9DMG4xUE0xU2c2SVVoNmQ2OW9pcHo1d2hTWDFnWVE5MzBTMGJfQnU1VUtLQzB0eThIRUlXTkFwUTBRZEhtUzZLMnlWaEl4ZzdoWGF5aUVzNjg1TDM2NFNPNVZGS0ZNZ215cFZFY1IwRGN6M1R6bWd4NG1jd3ZIbVgxWC1MRTNPbG1qck1meExQTm1ZVUlFb04tSTh3d2FmUG42RHpjOA?oc=5",
+        "timestamp": "2026-04-05T07:00:00",
+        "timestamp_display": "05. 04. 2026 07:00",
+        "is_new": false
+    },
+    {
         "category": "Byznys",
         "title": "Český startup koupen",
         "summary": "Americká mediální skupina Versant Media koupila český startup StockStory, který stojí za zpravodajstvím o akciích a finančních trzích.",
@@ -366,6 +384,15 @@
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kVVgyZ1FIbWVNNzVhVlBQWDNvdE1qV05oUlBVSG5sQWtOOEpMNEljcVgteHNIc2dEVW1lMUdJcEswNFZUQ1Q1VHVxckc5WlhoU0xFN093MA?oc=5",
         "timestamp": "2026-04-04T01:53:47",
         "timestamp_display": "04. 04. 2026 01:53",
+        "is_new": false
+    },
+    {
+        "category": "Společnost",
+        "title": "Změň život jedinou větou",
+        "summary": "Forbes nabízí inspirativní články, které mohou změnit život.",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11Y3ZzbDVPeWtEbXJPVTZuc1IxMkNkcHMxcGNIVHF0eXlxUF9weHlrN0pqZ2VJUHA0NXFxLVN5ZUtTaHMzNnFmdnVqTzhma0llaFE?oc=5",
+        "timestamp": "2026-04-03T23:23:41",
+        "timestamp_display": "03. 04. 2026 23:23",
         "is_new": false
     },
     {
