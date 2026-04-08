@@ -1,12 +1,39 @@
 [
     {
         "category": "Byznys",
+        "title": "Rekordní zisk Creditas",
+        "summary": "Banka Creditas dosáhla rekordního zisku 4,6 miliardy korun, růst je tažen akvizicí MeDirect.",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRXdMTUNCZFRXNGwyQ0VjclJUNkxqQi1Ma0xWQ1V4R1piZ3c1M1VzZTRDMXc0SjdoR29ucWx1RGI3Mkw1cXRSLWpLWTlxNm5BSXh6dmpRamkwVk5fNl93MjZKV19hSU1CY0ZrX3pIblFuNnFYMXdUemVnOW1uYmRhQWR2a2xNYWRhaTBJc3FwSzVQR2NDTms1YTg5Vzk0ZE5uNUlpZW51M0w?oc=5",
+        "timestamp": "2026-04-08T07:58:31",
+        "timestamp_display": "08. 04. 2026 07:58",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Nová 5G síť v Česku",
+        "summary": "Nová pokusná síť 5G v Česku má změnit využití privátních sítí.",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZjN4ZjVFQmQtMms4QnltVWhKNUpxSEJMWUVaX0xrNEliTDJkV2lVdGwtMVVMX2MzUm9DMG4xUE0xU2c2SVVoNmQ2OW9pcHo1d2hTWDFnWVE5MzBTMGJfQnU1VUtLQzB0eThIRUlXTkFwUTBRZEhtUzZLMnlWaEl4ZzdoWGF5aUVzNjg1TDM2NFNPNVZGS0ZNZ215cFZFY1IwRGN6M1R6bWd4NG1jd3ZIbVgxWC1MRTNPbG1qck1meExQTm1ZVUlFb04tSTh3d2FmUG42RHpjOA?oc=5",
+        "timestamp": "2026-04-05T07:00:00",
+        "timestamp_display": "05. 04. 2026 07:00",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Změň život jedinou větou",
+        "summary": "Forbes nabízí inspirativní články, které mohou změnit život.",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11Y3ZzbDVPeWtEbXJPVTZuc1IxMkNkcHMxcGNIVHF0eXlxUF9weHlrN0pqZ2VJUHA0NXFxLVN5ZUtTaHMzNnFmdnVqTzhma0llaFE?oc=5",
+        "timestamp": "2026-04-03T23:23:41",
+        "timestamp_display": "03. 04. 2026 23:23",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Tatra má zakázky jisté",
         "summary": "Tatra má zakázky jisté na pět až sedm let dopředu, říká generální ředitel Kristijan Fiket.",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdXRIUGpKTEhYc1pQUFQ1N0JTUzBCRDhOTHFRdlcwem42VVFxNGJNeVJ0YndfM0UxOGpTNTQ5S3RrN3N0TDR4T0xxZU16bTFQdFJPYVFwSjNHNHdMa0ZGMml1TFplN3VQeDRIbzR0VUJpSUxBakJVNTZRTWZPU3EwZGpZMnFuODlDMEJtTTVtTloyWHcwOW9URVVXZllmb1QzblNSeUE5c1Fsdkl6aUlKcHFENXpsaEU4YjFUYXFOamF4bG9tVHowSldzSnRfOWo1bmVETEhNT0dReUNTaEtCS0J3?oc=5",
         "timestamp": "2026-04-08T06:15:00",
         "timestamp_display": "08. 04. 2026 06:15",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +42,7 @@
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNmREUGJobFZZWUdvLUJYdmJUOC0xRU5BcGNxbGxBSkFuQndZOVR3bFliQWo2emN3Zlg4Q0dZVk93SFlsMjkta1l0NEJXR3BHdXp6VEsyWEs5dTdNYUpyNFY2ZXVzU2xPS3lDLU1MVHpBTzVsOW16ajZlZFBVeThSTWpzajFQSFdrVFNtX2lERjVWSjZOT3M4R0Uwa0ptenpDYWVkcHBHRHdDdw?oc=5",
         "timestamp": "2026-04-08T04:41:00",
         "timestamp_display": "08. 04. 2026 04:41",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -24,7 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZlZiMmJiTXh4Z0xERHdMX1ZIYkwta3pTRFhTRC1zWnNwdU5ETnhBSFRWeDZUSF9QcmpBeVFmU3NSb2c0YXBzck1pYm1jd2EzOW1aMV9zSU5jSHo1QWtlQUFtTHRvTkNPM0NlckowZzcydlZIMVdBZUdGTVBfVEtwT251UmdCVk0wOEpCV0F6VGxld1A5cXZNQTM4TmJsbXVnYXlydUV2aGYyVzljczBMWk1qRno1a2dlRnRzc1VqUGVuWGFXMkNTOC1UQmduVFRVMlFBeFd4ZldpNW5tdjlyVm9TRWJiVnc?oc=5",
         "timestamp": "2026-04-07T19:59:46",
         "timestamp_display": "07. 04. 2026 19:59",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
