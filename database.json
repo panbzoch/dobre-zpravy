@@ -1,12 +1,66 @@
 [
     {
         "category": "Byznys",
+        "title": "České firmy expandují",
+        "summary": "České firmy expandují na Západ, včetně akvizic v USA, říká Tomáš Jíně.",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQd05RU0NMZHlvLXVNT2VwZksyRTgxUEIwZkxxU0NwSmZGVDdoWVlIYkN5ZVYtMUZyd0p1RHI1aHJ6bFVlMnN1d18tT0EtQUY1LVFTTVZEaERSTU1uWThPLWNuMVZZSlFXU2E4TE56eFJBeE1jSEc1YUl2bkNJbzNYY2h3dW5uaWd1dGNmZ05jUmNzVzh0OTJhNEtVUW4zNHpGc3BOWEY5U3dYbkhGWWhZTjlkMnV1ZTVVTEZhZnJjcGp5SHRhWUE?oc=5",
+        "timestamp": "2026-04-09T10:25:00",
+        "timestamp_display": "09. 04. 2026 10:25",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Letadla na vodík",
+        "summary": "Nizozemský startup přestavuje stará letadla na vodík, zajistí čistý provoz.",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRmVtendMWVNtY1VHV1dleklRemphZHNpS1FzTFdGZGVTd1p0dGlOODQwNTVYTFM2cmRwZW84c1B6cWRRQzJTZ1UzY0lKTTNpQkJGa3RrODlPSFkxbVU1cEZySl84UkYyXzRZcjVDR3Y5OHNoTmd2SndKMko0NkdwYmpDN242MnVIazhDa1p2dFBQMDY5dkxLelpSZWxoRzNNRmVQdjU0bEtvdExUQWNxNER4eDFOUUFlZjVjR3pBcVRmX21qWk9fVm1FNDBIRzNyUE5aX1lreFhrWXFoaXJ2dGhrZ3dnMXd6YlNQd2xfRmFvaXNGNGRnaQ?oc=5",
+        "timestamp": "2026-04-09T09:48:37",
+        "timestamp_display": "09. 04. 2026 09:48",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Tykač dodává zelenou ocel",
+        "summary": "Tykač zahájil pravidelné dodávky zelené oceli z norské ocelárny do Česka.",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOGo3dkZoZHhoekJMUmVtZkJNU2JQRTluamgwem0yZWt5eHJxWTRWT18tMnJIalJfUTZleFVFeWtWVFBSMFhVazRHZkFZbGtzaThsOENxSXIxeXFiN05Cc2c0NmV2aThpNzdPd1BuNEdPS1RERWxZckdVLTZDSUR6S3kwMG92YzVtNENCczY2ZFR6cDg2VE1KQlhVUm5PVGc?oc=5",
+        "timestamp": "2026-04-09T09:05:26",
+        "timestamp_display": "09. 04. 2026 09:05",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Rekordní zisk banky",
+        "summary": "Banka rekordně vydělala 4,6 miliardy, což je významný nárůst oproti předchozímu roku.",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYk1RQUJMVlBGa1BvRDVUY2lXOWVKUFNKVU82WENzMXhMV1QydXVHSV9pOW43T3V3ZzRvWmg1aVpIT2JWTkFlZlByYjhsVTl0aFFUWm0zbDluX1Z4Vkk5U1hFWFZkelRCQlRxZGltZkhOYUVmQ2RjdlR1YXRZMXVRSkY5ZTRMQWFMLXRBNWxONTQ5dnBDS2N6RVk1Ul9rejI3NFNiTHpKV2VfeVVKYmZLTA?oc=5",
+        "timestamp": "2026-04-09T04:21:11",
+        "timestamp_display": "09. 04. 2026 04:21",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "KKCG kupuje Ferretti",
+        "summary": "Investiční skupina KKCG kupuje podíl v italské loděnici Ferretti od syna zakladatele Ferrari.",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVmFhVDhpZjFncEw2R2lGZ0lCWkNoSVc4MmgxMW9RNHpSQnVsYVJuVW8tMnVDbDlyV2tFd1lia2wyMlB5VmxDSFhxV3NHVVRoczZsSGx3NzVqaktjWkVIYmV1Vi0yeG9aS1NfTTB1ekdfcFd3REJPR3JpM05LRG5kQndwbEpUUWhHNHM5bW1iVWF1aTVFR25USXFuWVdjRU5iZ3dueWZ5NUpBelpWeFJPeE1UNnBTWWdfQ0tNcVVjdlo?oc=5",
+        "timestamp": "2026-04-08T18:30:00",
+        "timestamp_display": "08. 04. 2026 18:30",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Startup věří v AI",
+        "summary": "Ostravský startup využívá umělou inteligenci místo zkušeného technika, plánuje expanzi po Evropě a Americe.",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT3ZlMk1RWWYxUE9zZ212dFJvUG00bDZOXzhtYnJFQ3JNaGVwTU9pXzdyTTUydlFWN0NUSXZ0OW9rNUM3UV92ZzhKU3cyWlgzSkpUM0o2VjM0dHpLS2Y4ZmFOQ2lKQUkxTnpZdE1Eb1BzNlpPVzNSM0ZDTWhNM2pXRzVydi1lMXViOHFOUTBvaFdXazlDMktqbmwweDNBRlNnUjlBeEEtLURUOHR6eU15ajcxOVlsZVhDSFI0T1R4TU5kYjBEQ0ZYM0Nn?oc=5",
+        "timestamp": "2026-04-07T07:00:00",
+        "timestamp_display": "07. 04. 2026 07:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Gastronomie jako motor",
         "summary": "Café Kitchen pomáhá hostům vytvářet úspěšné koncepty v gastronomii.",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZEFCNTh3a3lLZWtVSUVOYkVlcmQ2cXI4MWdGNUg5aE44aDh1RGhKY1l0Z1gydUZwN1c0bC1ZamU3eHZOZkNfSEFXZzdtU25uN1F5V2g1NXg2ZDlFMVlCZVF3UGwzSmhualo5bndVbEdBaS1VeThlZlZDUUs4NGRZYm1qTzVJUk9VOUVYVExVSkxNVXQ2VmF2SjBiMVVXQTIyRXhpdQ?oc=5",
         "timestamp": "2026-04-09T06:05:21",
         "timestamp_display": "09. 04. 2026 06:05",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +69,7 @@
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbXl0VkpfZTZaQ2VwZXRBWXdIcFh3WGVPblpjOXhjbW9hZ2lMcDNGYTVyQlRkUEFmd1Z5bTBhazUzNzNRaFJiN1dPMC1NbFExQUZneEJtRFgzR3hBei1tazgtTkliN2Y0OUN4YmpmWk5xd1kwWkd1U0UzMmViNG00cHdnSnpXZ3JaSWV4bElNWjQwZlNPYTdfMWFadjJ6QmJBYU4tQUpMMFNJM0VlWHRndEhoMFNnUVBNTVduYkt1ZXUwLWJHb1F3cXFSWFlqNi1r?oc=5",
         "timestamp": "2026-04-09T05:41:00",
         "timestamp_display": "09. 04. 2026 05:41",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,7 +78,7 @@
         "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DX1FFZzFnRTF5M2pCbWMxQzg0SXFMVlN3SkREdlB3Sm5oRXhtUkdINWlTdUw4elRJeDlSTDhtSEVQUkdST0RRcUlQcw?oc=5",
         "timestamp": "2026-04-08T23:32:28",
         "timestamp_display": "08. 04. 2026 23:32",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
