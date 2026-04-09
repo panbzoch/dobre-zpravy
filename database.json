@@ -1,12 +1,57 @@
 [
     {
         "category": "Byznys",
+        "title": "Meta investuje do AI",
+        "summary": "Meta investuje 21 miliard dolarů do infrastruktury od CoreWeave pro rozvoj AI.",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQV8tRHdsV0V1MU42TjJPOGU1emRyVFpLc0hTdjl6a1U4WWNrUkRZRjEyNkYxNW1wVnptZjE2OU95LU5mQkU4SzQ5SVlrb2ZlQ0o5NHUwcTVtQWlWWHdLN1RsMHg0RUFDZjZ0MHF1bDB0XzZidHRMeklQOUozNDdWT3VqWmo2c0I3M0dCMi1VcFJScDFSa1NqZ1h0MFBuaUI5NE9WbXBINnlCczJt?oc=5",
+        "timestamp": "2026-04-09T15:27:14",
+        "timestamp_display": "09. 04. 2026 15:27",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Kometa na obloze",
+        "summary": "Zítra ráno bude na obloze vidět kometa, pokud bude vhodné počasí.",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTlV5M19jeUR3Zk5HdFZyaXRXTDFVZC1DNFV2VVBxSzNWOEZ6bTY0dHBWTUNoc3BReW5RSXBibDdkLURMNXZoaGs4dGxzdk5IYVZyZjNzbzdCem1KNXhjVkVwV05XSmNCQ2xpS1VWTHBzUHJpWlE5Y0xNWG5ERTJxajIydlhqSHNiRV85UVhfSUgzcXdCcUtYS1VPZDJtdXFRU19nU2FVWS16MWhWU3A5MXBCUkZ3eHNrUjNEYnJyRnV4R1dwSU1yOXBSSnBneWFkX05yb1FiYjNWVjNQY3pQc1RKY3BrcXdONERDNllRcGhFVEU?oc=5",
+        "timestamp": "2026-04-09T14:01:39",
+        "timestamp_display": "09. 04. 2026 14:01",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Firemní akce v Jizerkách",
+        "summary": "Zámeček v Jizerkách nabízí firemní akce s team buildingem a dalšími aktivitami pro firmy.",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT1FBSGZ6d19aRzZQNV9xTlEyS3VoU3J3RWR2X0RhUTZsZXdUbzFtNE8wd2dhNjJNRmdKSmlJSFdzenFxVERxcVV4NVp1bHRkOGZPVDVKTDVTU0RMVkhiZ2dRdTRvWllzZEkydkh4STIycFF2SU1Fa1dhcG9zQ1VRS2M4THEzTWxoWFZSWlczRUhueS1NVUstT3N2dEFHSzlrNm1Iaw?oc=5",
+        "timestamp": "2026-04-08T06:12:33",
+        "timestamp_display": "08. 04. 2026 06:12",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "AI pro daňová přiznání",
+        "summary": "Finanční správa představila umělou inteligenci, která pomáhá lidem s vyplněním daňového přiznání.",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU3dMUmhVNkN3cnhCTHBlelZJNUowRDdKX1A3ZkJGUXV4X3NoR3pLbG1zT3RZX3lrWEltSVFzTG9DcXZwbEZ2MzhvdzZiYUE1WmNEUmtkNXVVc1hkTC1xQlljbmZhUVppYWppTjRoZlFXaVc3anZUM2xRY0RQNjJJQXFvMEhpYUZBc1lOdzZGV1hIdWNfMzMtclI5ZWlXTllGa0ZuVF9YUTZDVE5EXzJNRks3UQ?oc=5",
+        "timestamp": "2026-04-07T07:00:00",
+        "timestamp_display": "07. 04. 2026 07:00",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Změň život vědou",
+        "summary": "Společnost nabízí inspiraci pro změnu života prostřednictvím vědy a osobního rozvoje.",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PcHhzV1cyZGtWR2Q3SEdoRjZmTVJjdDdtY0ctdDNzUW9pVGI0T2QycC1ReUJjVW80YTVDel8tYVAzWVRmWVlfbS1KV2Z0Ykt5MXJfM0Q3NUJhaUU?oc=5",
+        "timestamp": "2026-04-06T17:54:21",
+        "timestamp_display": "06. 04. 2026 17:54",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Toyota bZ4X ožívá",
         "summary": "Toyota bZ4X zaznamenala zvýšené prodeje díky delšímu dojezdu a nižší ceně.",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcldpV3dSMFktaDRBUWRCdDd0LUE1ZTNCWE1EUVhra2NJTTI3dzVVOTRGaFFnR25XbFh6LWxmeHNxQTNpUVEzeXRmM0pBdjhhU0Yzd01ZS24tT1EzQUNHdzVQREljNFBiSFlUT3FQQnRMYWtTT0pIcjF3T0R0eEx3QjZ5aXZzMDZHVndUTTRNell2cVBYZUMzSmFPaXNBLXhnZFpEMjZPVGNJcnFONzNKQjJIXzZoQ0RmWkIwMzNxOEpaX3Zi?oc=5",
         "timestamp": "2026-04-09T13:45:00",
         "timestamp_display": "09. 04. 2026 13:45",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -15,7 +60,7 @@
         "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOYUtnOUJJNl9zbWl3WE55V1FDNVpIbWt6dUl0ZmVWQUM4czVGV1BoX25XUXIyZWE2WUMwYmt0QWwyb1ZQam9BWUw0SEtwUS1rVmxBMFpoRGN3N0R1d25mYWZJOTF4NjY5YnZEcWViTVlVZW1TZW94WGF2cDdyVkxYYmRLcnZlbHJGY2tBakI0SmMxTkpXblFxNjJ2YWxYQm5BMkN5SmNXb1g3bGtGbVBjYTRVRFJwVFltZFJMaXB0d2N5V18yZ19ZcDZoNC1OVjVuSUVqUjlzRTlQcjZFQ1NraTRqMzA4TXo5T2xhRlRkbjlkNVFqZTV2WVFzOUpVTTAzQzhBTGtLMDhfQ1NhMVgyV1hDYw?oc=5",
         "timestamp": "2026-04-09T13:00:41",
         "timestamp_display": "09. 04. 2026 13:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -24,7 +69,7 @@
         "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQZ1FiRGNNZWswZjV4U2l0RlRDVVc4blktQjJwX201ZEZ4cmhsSFlNV1B2eld2ODFPcHE4SE5HX0ZyVWR4TFR5eHB6Z1JLaTk5bldTeXhzUUs3S2hnbWtCZElLRU9uelJUNFkxQzY1N0dPZGdJQUdqZURHZGdCbGZ3bHkzcGpWLTF1TEdlOHdmYVV2TC1TWG5fQlhWY1NHQlpvVTNfaVdYSXBCWjFZYnpPQUpNZEMzaVMwMlpTcVpxUzdfNlpQaDJ2ZHB4OUM1NjFpNEs2dm5wel9fMDFBSVdXZTJsdy1XbjdxZC1sTU13WndOMndYcjFxa0cwdGhidFNMZHpoaGRlYnFsV1U?oc=5",
         "timestamp": "2026-04-09T11:39:41",
         "timestamp_display": "09. 04. 2026 11:39",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -33,7 +78,7 @@
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUVFLUm9qcWprcmlIVGxmTXdmbmpGNDFrV2ROc2NKVDZ1YlhkTVZOVDlHLTh5THVBNUJBeVZTTUFwQ21CYzJwMGE3QVJEWFdNSmM0bzZwUThyUEpURlQ5ci1kVUdMQWthd1ZWellnc1I4ZThoWDFHQTVrSkVKNlNlQzdKeTdUWUJhSy13TFRWZUNfXzM0N0JEZ2JnMF9BSkxzNDhhQnRHSThKM3JRaUlmZVBLa0l2c2ZobkY5Y0FHSzNOcWRkZDYzaHMwNTB5SFdMUkVrcFFBZkJQc2ZBZWdZNjlVNA?oc=5",
         "timestamp": "2026-04-09T11:24:00",
         "timestamp_display": "09. 04. 2026 11:24",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -42,16 +87,7 @@
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQzJWZUVERW8wZDBjdkRrMVF2c1ZzdkUzOUlVVUo0SVBkdkdtaWdnUzh0NVZQNDJLSzB6czI5bFA1YmxqZXdId3ZSeWEwbWR5VG9fUm5iM19wRG5hX3M2VlpZUUJVM284UHhtRjhvVjFycHo2U09iTC1GWmFpVnh4ZXpjdE5uTXZQT3hPOGpRN3F1cFhscVV4YWFlZUI3OWc2Q3ZSWTFsUVVRRXVrQ2tRRFdjdVVUZw?oc=5",
         "timestamp": "2026-04-09T11:18:26",
         "timestamp_display": "09. 04. 2026 11:18",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Fio banka zvyšuje limit",
-        "summary": "Fio banka zvyšuje limit okamžitých plateb na pětinásobek, usnadňuje tak transakce zákazníkům.",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObHhvak4tRXp4aEl1a1MtZmhrWmpuU29INGk1cE5iZ1dsVFdoQVVYclRIZ01kWGlsaFFfTURJWkl6OERjNnZpbTZjd2llemswcmV2eTd4VHVfNDAtWHFsZVNsdDJpb0V2OFIyQ1JRMjE3V1J6MUFDWkE5cUI1SXlCX0lyd1c4WDB3SUVOclcwVFZUTzJrcm9kbndwcGV3T1FJenZxQ0F4cDdWVGMwMlJrMGxfeFp0YVUwUVlN?oc=5",
-        "timestamp": "2026-04-08T08:53:00",
-        "timestamp_display": "08. 04. 2026 08:53",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -150,6 +186,15 @@
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNTF1TkhXcVdZOWVQNzhQNERmUExBcHpMMldaeTdTOHFvOGRXbDlxZ1NZM1k5WXRmZ2E3ZVZzdzRNZlV3dEltanF1eDU3MEo5MXAtU3ZGWHFtOENSYWhuQVRBX1otbllNZWVqMnRJanFhQnRqeGprdE5ic1Z4azBtTzdGSWNUeWxSRFkxSzVKbFRHd25ZcHgtWlFBVTJUNFk?oc=5",
         "timestamp": "2026-04-08T12:11:15",
         "timestamp_display": "08. 04. 2026 12:11",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Fio banka zvyšuje limit",
+        "summary": "Fio banka zvyšuje limit okamžitých plateb na pětinásobek, usnadňuje tak transakce zákazníkům.",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObHhvak4tRXp4aEl1a1MtZmhrWmpuU29INGk1cE5iZ1dsVFdoQVVYclRIZ01kWGlsaFFfTURJWkl6OERjNnZpbTZjd2llemswcmV2eTd4VHVfNDAtWHFsZVNsdDJpb0V2OFIyQ1JRMjE3V1J6MUFDWkE5cUI1SXlCX0lyd1c4WDB3SUVOclcwVFZUTzJrcm9kbndwcGV3T1FJenZxQ0F4cDdWVGMwMlJrMGxfeFp0YVUwUVlN?oc=5",
+        "timestamp": "2026-04-08T08:53:00",
+        "timestamp_display": "08. 04. 2026 08:53",
         "is_new": false
     },
     {
