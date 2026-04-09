@@ -1,12 +1,66 @@
 [
     {
         "category": "Byznys",
+        "title": "Toyota bZ4X ožívá",
+        "summary": "Toyota bZ4X zaznamenala zvýšené prodeje díky delšímu dojezdu a nižší ceně.",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcldpV3dSMFktaDRBUWRCdDd0LUE1ZTNCWE1EUVhra2NJTTI3dzVVOTRGaFFnR25XbFh6LWxmeHNxQTNpUVEzeXRmM0pBdjhhU0Yzd01ZS24tT1EzQUNHdzVQREljNFBiSFlUT3FQQnRMYWtTT0pIcjF3T0R0eEx3QjZ5aXZzMDZHVndUTTRNell2cVBYZUMzSmFPaXNBLXhnZFpEMjZPVGNJcnFONzNKQjJIXzZoQ0RmWkIwMzNxOEpaX3Zi?oc=5",
+        "timestamp": "2026-04-09T13:45:00",
+        "timestamp_display": "09. 04. 2026 13:45",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "NASA zve na prohlídku",
+        "summary": "NASA nabízí prohlídku rakety pro misi Artemis III, která má být další krokem k návratu lidí na Měsíc.",
+        "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOYUtnOUJJNl9zbWl3WE55V1FDNVpIbWt6dUl0ZmVWQUM4czVGV1BoX25XUXIyZWE2WUMwYmt0QWwyb1ZQam9BWUw0SEtwUS1rVmxBMFpoRGN3N0R1d25mYWZJOTF4NjY5YnZEcWViTVlVZW1TZW94WGF2cDdyVkxYYmRLcnZlbHJGY2tBakI0SmMxTkpXblFxNjJ2YWxYQm5BMkN5SmNXb1g3bGtGbVBjYTRVRFJwVFltZFJMaXB0d2N5V18yZ19ZcDZoNC1OVjVuSUVqUjlzRTlQcjZFQ1NraTRqMzA4TXo5T2xhRlRkbjlkNVFqZTV2WVFzOUpVTTAzQzhBTGtLMDhfQ1NhMVgyV1hDYw?oc=5",
+        "timestamp": "2026-04-09T13:00:41",
+        "timestamp_display": "09. 04. 2026 13:00",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Letadla na vodík",
+        "summary": "Nizozemský startup přestavuje stará letadla na vodík, zajistí čistý provoz.",
+        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQZ1FiRGNNZWswZjV4U2l0RlRDVVc4blktQjJwX201ZEZ4cmhsSFlNV1B2eld2ODFPcHE4SE5HX0ZyVWR4TFR5eHB6Z1JLaTk5bldTeXhzUUs3S2hnbWtCZElLRU9uelJUNFkxQzY1N0dPZGdJQUdqZURHZGdCbGZ3bHkzcGpWLTF1TEdlOHdmYVV2TC1TWG5fQlhWY1NHQlpvVTNfaVdYSXBCWjFZYnpPQUpNZEMzaVMwMlpTcVpxUzdfNlpQaDJ2ZHB4OUM1NjFpNEs2dm5wel9fMDFBSVdXZTJsdy1XbjdxZC1sTU13WndOMndYcjFxa0cwdGhidFNMZHpoaGRlYnFsV1U?oc=5",
+        "timestamp": "2026-04-09T11:39:41",
+        "timestamp_display": "09. 04. 2026 11:39",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "AI připraví daně",
+        "summary": "Nová AI technologie umožňuje automatické zpracování daňových přiznání, stačí nahrát dokumenty.",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUVFLUm9qcWprcmlIVGxmTXdmbmpGNDFrV2ROc2NKVDZ1YlhkTVZOVDlHLTh5THVBNUJBeVZTTUFwQ21CYzJwMGE3QVJEWFdNSmM0bzZwUThyUEpURlQ5ci1kVUdMQWthd1ZWellnc1I4ZThoWDFHQTVrSkVKNlNlQzdKeTdUWUJhSy13TFRWZUNfXzM0N0JEZ2JnMF9BSkxzNDhhQnRHSThKM3JRaUlmZVBLa0l2c2ZobkY5Y0FHSzNOcWRkZDYzaHMwNTB5SFdMUkVrcFFBZkJQc2ZBZWdZNjlVNA?oc=5",
+        "timestamp": "2026-04-09T11:24:00",
+        "timestamp_display": "09. 04. 2026 11:24",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Květinář Pepa",
+        "summary": "Pepa prodal obchody skupině Twist a rozjel konkurenci.",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQzJWZUVERW8wZDBjdkRrMVF2c1ZzdkUzOUlVVUo0SVBkdkdtaWdnUzh0NVZQNDJLSzB6czI5bFA1YmxqZXdId3ZSeWEwbWR5VG9fUm5iM19wRG5hX3M2VlpZUUJVM284UHhtRjhvVjFycHo2U09iTC1GWmFpVnh4ZXpjdE5uTXZQT3hPOGpRN3F1cFhscVV4YWFlZUI3OWc2Q3ZSWTFsUVVRRXVrQ2tRRFdjdVVUZw?oc=5",
+        "timestamp": "2026-04-09T11:18:26",
+        "timestamp_display": "09. 04. 2026 11:18",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Fio banka zvyšuje limit",
+        "summary": "Fio banka zvyšuje limit okamžitých plateb na pětinásobek, usnadňuje tak transakce zákazníkům.",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObHhvak4tRXp4aEl1a1MtZmhrWmpuU29INGk1cE5iZ1dsVFdoQVVYclRIZ01kWGlsaFFfTURJWkl6OERjNnZpbTZjd2llemswcmV2eTd4VHVfNDAtWHFsZVNsdDJpb0V2OFIyQ1JRMjE3V1J6MUFDWkE5cUI1SXlCX0lyd1c4WDB3SUVOclcwVFZUTzJrcm9kbndwcGV3T1FJenZxQ0F4cDdWVGMwMlJrMGxfeFp0YVUwUVlN?oc=5",
+        "timestamp": "2026-04-08T08:53:00",
+        "timestamp_display": "08. 04. 2026 08:53",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "České firmy expandují",
         "summary": "České firmy expandují na Západ, včetně akvizic v USA, říká Tomáš Jíně.",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQd05RU0NMZHlvLXVNT2VwZksyRTgxUEIwZkxxU0NwSmZGVDdoWVlIYkN5ZVYtMUZyd0p1RHI1aHJ6bFVlMnN1d18tT0EtQUY1LVFTTVZEaERSTU1uWThPLWNuMVZZSlFXU2E4TE56eFJBeE1jSEc1YUl2bkNJbzNYY2h3dW5uaWd1dGNmZ05jUmNzVzh0OTJhNEtVUW4zNHpGc3BOWEY5U3dYbkhGWWhZTjlkMnV1ZTVVTEZhZnJjcGp5SHRhWUE?oc=5",
         "timestamp": "2026-04-09T10:25:00",
         "timestamp_display": "09. 04. 2026 10:25",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -15,7 +69,7 @@
         "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRmVtendMWVNtY1VHV1dleklRemphZHNpS1FzTFdGZGVTd1p0dGlOODQwNTVYTFM2cmRwZW84c1B6cWRRQzJTZ1UzY0lKTTNpQkJGa3RrODlPSFkxbVU1cEZySl84UkYyXzRZcjVDR3Y5OHNoTmd2SndKMko0NkdwYmpDN242MnVIazhDa1p2dFBQMDY5dkxLelpSZWxoRzNNRmVQdjU0bEtvdExUQWNxNER4eDFOUUFlZjVjR3pBcVRmX21qWk9fVm1FNDBIRzNyUE5aX1lreFhrWXFoaXJ2dGhrZ3dnMXd6YlNQd2xfRmFvaXNGNGRnaQ?oc=5",
         "timestamp": "2026-04-09T09:48:37",
         "timestamp_display": "09. 04. 2026 09:48",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,34 +78,7 @@
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOGo3dkZoZHhoekJMUmVtZkJNU2JQRTluamgwem0yZWt5eHJxWTRWT18tMnJIalJfUTZleFVFeWtWVFBSMFhVazRHZkFZbGtzaThsOENxSXIxeXFiN05Cc2c0NmV2aThpNzdPd1BuNEdPS1RERWxZckdVLTZDSUR6S3kwMG92YzVtNENCczY2ZFR6cDg2VE1KQlhVUm5PVGc?oc=5",
         "timestamp": "2026-04-09T09:05:26",
         "timestamp_display": "09. 04. 2026 09:05",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Rekordní zisk banky",
-        "summary": "Banka rekordně vydělala 4,6 miliardy, což je významný nárůst oproti předchozímu roku.",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYk1RQUJMVlBGa1BvRDVUY2lXOWVKUFNKVU82WENzMXhMV1QydXVHSV9pOW43T3V3ZzRvWmg1aVpIT2JWTkFlZlByYjhsVTl0aFFUWm0zbDluX1Z4Vkk5U1hFWFZkelRCQlRxZGltZkhOYUVmQ2RjdlR1YXRZMXVRSkY5ZTRMQWFMLXRBNWxONTQ5dnBDS2N6RVk1Ul9rejI3NFNiTHpKV2VfeVVKYmZLTA?oc=5",
-        "timestamp": "2026-04-09T04:21:11",
-        "timestamp_display": "09. 04. 2026 04:21",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "KKCG kupuje Ferretti",
-        "summary": "Investiční skupina KKCG kupuje podíl v italské loděnici Ferretti od syna zakladatele Ferrari.",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVmFhVDhpZjFncEw2R2lGZ0lCWkNoSVc4MmgxMW9RNHpSQnVsYVJuVW8tMnVDbDlyV2tFd1lia2wyMlB5VmxDSFhxV3NHVVRoczZsSGx3NzVqaktjWkVIYmV1Vi0yeG9aS1NfTTB1ekdfcFd3REJPR3JpM05LRG5kQndwbEpUUWhHNHM5bW1iVWF1aTVFR25USXFuWVdjRU5iZ3dueWZ5NUpBelpWeFJPeE1UNnBTWWdfQ0tNcVVjdlo?oc=5",
-        "timestamp": "2026-04-08T18:30:00",
-        "timestamp_display": "08. 04. 2026 18:30",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Startup věří v AI",
-        "summary": "Ostravský startup využívá umělou inteligenci místo zkušeného technika, plánuje expanzi po Evropě a Americe.",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT3ZlMk1RWWYxUE9zZ212dFJvUG00bDZOXzhtYnJFQ3JNaGVwTU9pXzdyTTUydlFWN0NUSXZ0OW9rNUM3UV92ZzhKU3cyWlgzSkpUM0o2VjM0dHpLS2Y4ZmFOQ2lKQUkxTnpZdE1Eb1BzNlpPVzNSM0ZDTWhNM2pXRzVydi1lMXViOHFOUTBvaFdXazlDMktqbmwweDNBRlNnUjlBeEEtLURUOHR6eU15ajcxOVlsZVhDSFI0T1R4TU5kYjBEQ0ZYM0Nn?oc=5",
-        "timestamp": "2026-04-07T07:00:00",
-        "timestamp_display": "07. 04. 2026 07:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -73,6 +100,15 @@
     },
     {
         "category": "Byznys",
+        "title": "Rekordní zisk banky",
+        "summary": "Banka rekordně vydělala 4,6 miliardy, což je významný nárůst oproti předchozímu roku.",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYk1RQUJMVlBGa1BvRDVUY2lXOWVKUFNKVU82WENzMXhMV1QydXVHSV9pOW43T3V3ZzRvWmg1aVpIT2JWTkFlZlByYjhsVTl0aFFUWm0zbDluX1Z4Vkk5U1hFWFZkelRCQlRxZGltZkhOYUVmQ2RjdlR1YXRZMXVRSkY5ZTRMQWFMLXRBNWxONTQ5dnBDS2N6RVk1Ul9rejI3NFNiTHpKV2VfeVVKYmZLTA?oc=5",
+        "timestamp": "2026-04-09T04:21:11",
+        "timestamp_display": "09. 04. 2026 04:21",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
         "title": "Aesthevita",
         "summary": "Aesthevita je zmíněna na forbes.cz, zřejmě úspěch.",
         "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DX1FFZzFnRTF5M2pCbWMxQzg0SXFMVlN3SkREdlB3Sm5oRXhtUkdINWlTdUw4elRJeDlSTDhtSEVQUkdST0RRcUlQcw?oc=5",
@@ -87,6 +123,15 @@
         "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOTUh0M0llM2hTSU5TUEQyQW84SVJYbUtQNVBFRFpqRF91ZEZfWVZSQmxSTzBVR0duMm44Y054X3M0eXFodUpCZ1lqVnM5dUNPT2Nmc1pxTFBpZUQ2MkN3RDhPQUp5OEZmRGhhQTBETndwaE0zYUxKNk5BTURjNGdjOUcwTWFDOHF0YVZPWm9RZE90OWMtZGljVmFZVzVPbVpRTVBXMU1uM2YtTEE3eUJCTFNfMmJ1UUdZMmZtX245VjZ2aUxKS29IT0JnSnNmMVItOEhieWVqNmtkcG9jSkVsN0RFY29qLWpPT0dkaHF2VzE1Z3A5YU5Icno1UF9uM204?oc=5",
         "timestamp": "2026-04-08T18:39:13",
         "timestamp_display": "08. 04. 2026 18:39",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "KKCG kupuje Ferretti",
+        "summary": "Investiční skupina KKCG kupuje podíl v italské loděnici Ferretti od syna zakladatele Ferrari.",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVmFhVDhpZjFncEw2R2lGZ0lCWkNoSVc4MmgxMW9RNHpSQnVsYVJuVW8tMnVDbDlyV2tFd1lia2wyMlB5VmxDSFhxV3NHVVRoczZsSGx3NzVqaktjWkVIYmV1Vi0yeG9aS1NfTTB1ekdfcFd3REJPR3JpM05LRG5kQndwbEpUUWhHNHM5bW1iVWF1aTVFR25USXFuWVdjRU5iZ3dueWZ5NUpBelpWeFJPeE1UNnBTWWdfQ0tNcVVjdlo?oc=5",
+        "timestamp": "2026-04-08T18:30:00",
+        "timestamp_display": "08. 04. 2026 18:30",
         "is_new": false
     },
     {
@@ -249,6 +294,15 @@
         "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQN3NpdEJzQktoTGY1WTVMdzhxajN2UzZHODFIQll5SFhWWFpycVl3bktwMjNub0dqb2l1WEtwRktTMkdialZsVzNtUUsxdE1jQW9WTmU3QUttTzFJV05MTDM1SmZ0WmlVdU5RTTZnNHByR01lUGRFNzhhd1NrLU9ILW5hQ0dRY0dfaXotdDlDUWxib2NzZjlMMGFqb3U1UVRrcGo5N3c4RGl4UGJYM2lBU2pOTDd1dzlxQW1Hd3FGeXpoYXRMY0NpZU1fcG0wY3dhd09ZWXNEOTlWbTIwZ3ptWFRXVHI0NW1DdU5LZUctYWVVYUhZMU9j?oc=5",
         "timestamp": "2026-04-07T09:47:35",
         "timestamp_display": "07. 04. 2026 09:47",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Startup věří v AI",
+        "summary": "Ostravský startup využívá umělou inteligenci místo zkušeného technika, plánuje expanzi po Evropě a Americe.",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT3ZlMk1RWWYxUE9zZ212dFJvUG00bDZOXzhtYnJFQ3JNaGVwTU9pXzdyTTUydlFWN0NUSXZ0OW9rNUM3UV92ZzhKU3cyWlgzSkpUM0o2VjM0dHpLS2Y4ZmFOQ2lKQUkxTnpZdE1Eb1BzNlpPVzNSM0ZDTWhNM2pXRzVydi1lMXViOHFOUTBvaFdXazlDMktqbmwweDNBRlNnUjlBeEEtLURUOHR6eU15ajcxOVlsZVhDSFI0T1R4TU5kYjBEQ0ZYM0Nn?oc=5",
+        "timestamp": "2026-04-07T07:00:00",
+        "timestamp_display": "07. 04. 2026 07:00",
         "is_new": false
     },
     {
