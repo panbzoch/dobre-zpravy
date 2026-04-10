@@ -1,12 +1,48 @@
 [
     {
+        "category": "Technologie",
+        "title": "Chytrý systém pro sanitky",
+        "summary": "Sanitky ve Zlíně budou mít plynulý průjezd městem díky novému chytrému systému, který jim umožní projet semafory bez zdržení.",
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNbm5Ed0ZYaVFWaFNEWVU2SldjNTg5NHZEM04zNjhJcGk1Q21kemJtbUdiOUZMOE9kT2lWbUxNZTEybHdpOG8yZUo0Y3lYRmdvQ2hvYWs3OUVzejVicjJ1dXhWTDJoWUJBSjdaeFpiRmZlRE1HcjVkYWIwcW9LRFVybURDNDR2S1g0endIV1Rpd0xvbWlObFFiaW5PTHdWQjhDVjNNenYyS1d5clp3aXNIeHZ5M1FzMDZyOTAyZjRTeVdzeTJvYkp3M0E2elVrZ3N3MVpCbGR6bFBzdU9ENXNtQ1FHTEZBNGc2UmtNSTcwdjh4WElmYWI0bl9vTVdYYUFJNWc?oc=5",
+        "timestamp": "2026-04-10T06:31:16",
+        "timestamp_display": "10. 04. 2026 06:31",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Chytrý systém pro sanitky",
+        "summary": "Sanitky ve Zlíně získají chytrý systém pro plynulý průjezd městem, který jim umožní projet semafory bez zdržení.",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPblZUQ3U3VGdlN1U2c1ZLOXg2LXBxRzlDdmJ6WmhQM2l2UWZudzhkU3ItS1BtYm53RGk3aUNTcWpnVFZvMVRVZHJHbW92bmRVQy1VQ2h6Q0EzUEowNjFLOUV1a1lwQ0lIcFZjMk40QThoUS1MMENoNkdzTDR1NkFOR0hOcFc5TE5jVVY2N2FoUXVZMFIteHQzOGl4Tk1DNWdHV2pxTFNLaEJBTG5xYURJRXNCb1VqTk12UXp5M1ZrSFB4ZjRxYjdtWHlYZmVJYk9rSEZyUHZlamRwYS1HMFpab1JEbXhqdGU0amdPWlF5QQ?oc=5",
+        "timestamp": "2026-04-10T05:43:08",
+        "timestamp_display": "10. 04. 2026 05:43",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Fond v Brně",
+        "summary": "V Brně vznikl unikátní fond spojující soukromníky, město, kraj, univerzity a biskupství.",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNTBkMGdlUlk4MWtjbW1aRFE1OW5TZ2dFUE9YWUN0eU16UWV2WG02ZkpxLVk4dGQwUnhNZldIeTFUc3ZPSDZuSm9QdGhqNXNwTEU5Y2hXLW50OG85S3diRjZOQTV0ZGJzTzZMODRjUFE4LWUwZnhhaV9NSkh0QU00REFheEpyVGkwWkJqR056T1dibXRXaVo3MS1IdzFsblJjY3FkdzhaOUM?oc=5",
+        "timestamp": "2026-04-07T11:00:04",
+        "timestamp_display": "07. 04. 2026 11:00",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Změň život jedinou větou",
+        "summary": "Jedna inspirativní věta může změnit život, tvrdí odborníci, kteří studují vliv pozitivního myšlení na úspěch.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02V3FtUmFSekd2dk5IdWk2el9DRlktQWVtdG1DNjdpb0pzNTFXSWNSbllLYkZxcHUxSTFoc0hUMEFSZy14bVlkRTFTSnI0WjhrVkQw?oc=5",
+        "timestamp": "2026-04-03T13:27:20",
+        "timestamp_display": "03. 04. 2026 13:27",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "Meta investuje do AI",
         "summary": "Meta investuje 21 miliard dolarů do infrastruktury od CoreWeave pro rozvoj AI.",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQV8tRHdsV0V1MU42TjJPOGU1emRyVFpLc0hTdjl6a1U4WWNrUkRZRjEyNkYxNW1wVnptZjE2OU95LU5mQkU4SzQ5SVlrb2ZlQ0o5NHUwcTVtQWlWWHdLN1RsMHg0RUFDZjZ0MHF1bDB0XzZidHRMeklQOUozNDdWT3VqWmo2c0I3M0dCMi1VcFJScDFSa1NqZ1h0MFBuaUI5NE9WbXBINnlCczJt?oc=5",
         "timestamp": "2026-04-09T15:27:14",
         "timestamp_display": "09. 04. 2026 15:27",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -15,34 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTlV5M19jeUR3Zk5HdFZyaXRXTDFVZC1DNFV2VVBxSzNWOEZ6bTY0dHBWTUNoc3BReW5RSXBibDdkLURMNXZoaGs4dGxzdk5IYVZyZjNzbzdCem1KNXhjVkVwV05XSmNCQ2xpS1VWTHBzUHJpWlE5Y0xNWG5ERTJxajIydlhqSHNiRV85UVhfSUgzcXdCcUtYS1VPZDJtdXFRU19nU2FVWS16MWhWU3A5MXBCUkZ3eHNrUjNEYnJyRnV4R1dwSU1yOXBSSnBneWFkX05yb1FiYjNWVjNQY3pQc1RKY3BrcXdONERDNllRcGhFVEU?oc=5",
         "timestamp": "2026-04-09T14:01:39",
         "timestamp_display": "09. 04. 2026 14:01",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Firemní akce v Jizerkách",
-        "summary": "Zámeček v Jizerkách nabízí firemní akce s team buildingem a dalšími aktivitami pro firmy.",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT1FBSGZ6d19aRzZQNV9xTlEyS3VoU3J3RWR2X0RhUTZsZXdUbzFtNE8wd2dhNjJNRmdKSmlJSFdzenFxVERxcVV4NVp1bHRkOGZPVDVKTDVTU0RMVkhiZ2dRdTRvWllzZEkydkh4STIycFF2SU1Fa1dhcG9zQ1VRS2M4THEzTWxoWFZSWlczRUhueS1NVUstT3N2dEFHSzlrNm1Iaw?oc=5",
-        "timestamp": "2026-04-08T06:12:33",
-        "timestamp_display": "08. 04. 2026 06:12",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "AI pro daňová přiznání",
-        "summary": "Finanční správa představila umělou inteligenci, která pomáhá lidem s vyplněním daňového přiznání.",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU3dMUmhVNkN3cnhCTHBlelZJNUowRDdKX1A3ZkJGUXV4X3NoR3pLbG1zT3RZX3lrWEltSVFzTG9DcXZwbEZ2MzhvdzZiYUE1WmNEUmtkNXVVc1hkTC1xQlljbmZhUVppYWppTjRoZlFXaVc3anZUM2xRY0RQNjJJQXFvMEhpYUZBc1lOdzZGV1hIdWNfMzMtclI5ZWlXTllGa0ZuVF9YUTZDVE5EXzJNRks3UQ?oc=5",
-        "timestamp": "2026-04-07T07:00:00",
-        "timestamp_display": "07. 04. 2026 07:00",
-        "is_new": true
-    },
-    {
-        "category": "Společnost",
-        "title": "Změň život vědou",
-        "summary": "Společnost nabízí inspiraci pro změnu života prostřednictvím vědy a osobního rozvoje.",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PcHhzV1cyZGtWR2Q3SEdoRjZmTVJjdDdtY0ctdDNzUW9pVGI0T2QycC1ReUJjVW80YTVDel8tYVAzWVRmWVlfbS1KV2Z0Ykt5MXJfM0Q3NUJhaUU?oc=5",
-        "timestamp": "2026-04-06T17:54:21",
-        "timestamp_display": "06. 04. 2026 17:54",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -217,6 +226,15 @@
     },
     {
         "category": "Byznys",
+        "title": "Firemní akce v Jizerkách",
+        "summary": "Zámeček v Jizerkách nabízí firemní akce s team buildingem a dalšími aktivitami pro firmy.",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT1FBSGZ6d19aRzZQNV9xTlEyS3VoU3J3RWR2X0RhUTZsZXdUbzFtNE8wd2dhNjJNRmdKSmlJSFdzenFxVERxcVV4NVp1bHRkOGZPVDVKTDVTU0RMVkhiZ2dRdTRvWllzZEkydkh4STIycFF2SU1Fa1dhcG9zQ1VRS2M4THEzTWxoWFZSWlczRUhueS1NVUstT3N2dEFHSzlrNm1Iaw?oc=5",
+        "timestamp": "2026-04-08T06:12:33",
+        "timestamp_display": "08. 04. 2026 06:12",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
         "title": "Neocity rozšiřuje trh",
         "summary": "Developer Neocity rozšiřuje pražský trh o 540 nových bytů, cílem je stát se jedním z top 10 největších hráčů.",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNmREUGJobFZZWUdvLUJYdmJUOC0xRU5BcGNxbGxBSkFuQndZOVR3bFliQWo2emN3Zlg4Q0dZVk93SFlsMjkta1l0NEJXR3BHdXp6VEsyWEs5dTdNYUpyNFY2ZXVzU2xPS3lDLU1MVHpBTzVsOW16ajZlZFBVeThSTWpzajFQSFdrVFNtX2lERjVWSjZOT3M4R0Uwa0ptenpDYWVkcHBHRHdDdw?oc=5",
@@ -343,6 +361,15 @@
     },
     {
         "category": "Technologie",
+        "title": "AI pro daňová přiznání",
+        "summary": "Finanční správa představila umělou inteligenci, která pomáhá lidem s vyplněním daňového přiznání.",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU3dMUmhVNkN3cnhCTHBlelZJNUowRDdKX1A3ZkJGUXV4X3NoR3pLbG1zT3RZX3lrWEltSVFzTG9DcXZwbEZ2MzhvdzZiYUE1WmNEUmtkNXVVc1hkTC1xQlljbmZhUVppYWppTjRoZlFXaVc3anZUM2xRY0RQNjJJQXFvMEhpYUZBc1lOdzZGV1hIdWNfMzMtclI5ZWlXTllGa0ZuVF9YUTZDVE5EXzJNRks3UQ?oc=5",
+        "timestamp": "2026-04-07T07:00:00",
+        "timestamp_display": "07. 04. 2026 07:00",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
         "title": "Startup věří v AI",
         "summary": "Ostravský startup využívá umělou inteligenci místo zkušeného technika, plánuje expanzi po Evropě a Americe.",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT3ZlMk1RWWYxUE9zZ212dFJvUG00bDZOXzhtYnJFQ3JNaGVwTU9pXzdyTTUydlFWN0NUSXZ0OW9rNUM3UV92ZzhKU3cyWlgzSkpUM0o2VjM0dHpLS2Y4ZmFOQ2lKQUkxTnpZdE1Eb1BzNlpPVzNSM0ZDTWhNM2pXRzVydi1lMXViOHFOUTBvaFdXazlDMktqbmwweDNBRlNnUjlBeEEtLURUOHR6eU15ajcxOVlsZVhDSFI0T1R4TU5kYjBEQ0ZYM0Nn?oc=5",
@@ -375,6 +402,15 @@
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcGxGYUlVcHMzSmN5bjNqX2hPdEp1NFExU3JMLTlBM1BDdGU5ektQcFg1TFQ3WmNoNWdNOHoxdWlnNVltakk0YTVjbmxWWFBMeGR5S2IzaXhBRGRSdV9UVkp3bTNnOWJWb2hUcm5hOVFaSFkyd0wzRDlSM0Q0R081NUM2akN3aWZtdGpuTENsc09GQkJ5R2JQRkZfbHlrTS1MQjRyS2NibzNMRmtLVndnV1MzMzFvWWVZQVJYQ2hCVzJxXzA?oc=5",
         "timestamp": "2026-04-06T22:00:00",
         "timestamp_display": "06. 04. 2026 22:00",
+        "is_new": false
+    },
+    {
+        "category": "Společnost",
+        "title": "Změň život vědou",
+        "summary": "Společnost nabízí inspiraci pro změnu života prostřednictvím vědy a osobního rozvoje.",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PcHhzV1cyZGtWR2Q3SEdoRjZmTVJjdDdtY0ctdDNzUW9pVGI0T2QycC1ReUJjVW80YTVDel8tYVAzWVRmWVlfbS1KV2Z0Ykt5MXJfM0Q3NUJhaUU?oc=5",
+        "timestamp": "2026-04-06T17:54:21",
+        "timestamp_display": "06. 04. 2026 17:54",
         "is_new": false
     },
     {
