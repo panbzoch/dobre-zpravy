@@ -1,12 +1,39 @@
 [
     {
+        "category": "Byznys",
+        "title": "Společnost mění život",
+        "summary": "Společnost může změnit život jedné věty, inspiruje a motivuje lidi k úspěchu.",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJNnFxb1RwTFBKMWVKb1hPUWxwX0RxQlRFVEV1WXczWF9GaHlIdEFyTXl4RDhwRVFJdVZ3Z0ZHc0MtUEUxNjlsWDFjdXB0d3lWSG9KdFFQMS1Hc0k?oc=5",
+        "timestamp": "2026-04-09T13:44:23",
+        "timestamp_display": "09. 04. 2026 13:44",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Dovednosti pro éru AI",
+        "summary": "Rozhodující dovednosti pro udržení práce v éře umělé inteligence zahrnují adaptabilitu a schopnost učit se novým technologiím.",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcDRMcFBsSnNkcy1Hdl92Q0RQTF8yZ3k3VHBwdTQwdVBwSi1wRlVjTUc0Vmhibmd3SnVITUdMZ3UtTGJHV29HVmhfV0d0c2lYc0pQX19PTzFPU1NNVlVCZ0VnSmpPV2NwbG9IT0wyZlRJcmp2SGh6YUM2Y0xKNVlnLU5ZZ3RWMnZl?oc=5",
+        "timestamp": "2026-04-09T10:07:15",
+        "timestamp_display": "09. 04. 2026 10:07",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Úspěch ze Svijan",
+        "summary": "Rodinný pivovar Svijany slaví úspěch, zachráněn před zánikem.",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdnJ1dGxHMFVLbWFpU29DeXctUUtrb1lDbFhlZVoyYmtIbkVjWndZS1hlYjFHQ0dxS2dybFNDQWhLTVRhVUhlUjUzSHNDcHQ4UjFwWVA2V0hpZl9BQm5sc2tfSHZwYWtRMWtnSTZlb0pLMmlpS29JY1lGRFM5UG82SVRWZGhfbXkzakhB?oc=5",
+        "timestamp": "2026-04-06T06:09:24",
+        "timestamp_display": "06. 04. 2026 06:09",
+        "is_new": true
+    },
+    {
         "category": "Technologie",
         "title": "Chytrý systém pro sanitky",
         "summary": "Sanitky ve Zlíně budou mít plynulý průjezd městem díky novému chytrému systému, který jim umožní projet semafory bez zdržení.",
         "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNbm5Ed0ZYaVFWaFNEWVU2SldjNTg5NHZEM04zNjhJcGk1Q21kemJtbUdiOUZMOE9kT2lWbUxNZTEybHdpOG8yZUo0Y3lYRmdvQ2hvYWs3OUVzejVicjJ1dXhWTDJoWUJBSjdaeFpiRmZlRE1HcjVkYWIwcW9LRFVybURDNDR2S1g0endIV1Rpd0xvbWlObFFiaW5PTHdWQjhDVjNNenYyS1d5clp3aXNIeHZ5M1FzMDZyOTAyZjRTeVdzeTJvYkp3M0E2elVrZ3N3MVpCbGR6bFBzdU9ENXNtQ1FHTEZBNGc2UmtNSTcwdjh4WElmYWI0bl9vTVdYYUFJNWc?oc=5",
         "timestamp": "2026-04-10T06:31:16",
         "timestamp_display": "10. 04. 2026 06:31",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -15,25 +42,7 @@
         "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPblZUQ3U3VGdlN1U2c1ZLOXg2LXBxRzlDdmJ6WmhQM2l2UWZudzhkU3ItS1BtYm53RGk3aUNTcWpnVFZvMVRVZHJHbW92bmRVQy1VQ2h6Q0EzUEowNjFLOUV1a1lwQ0lIcFZjMk40QThoUS1MMENoNkdzTDR1NkFOR0hOcFc5TE5jVVY2N2FoUXVZMFIteHQzOGl4Tk1DNWdHV2pxTFNLaEJBTG5xYURJRXNCb1VqTk12UXp5M1ZrSFB4ZjRxYjdtWHlYZmVJYk9rSEZyUHZlamRwYS1HMFpab1JEbXhqdGU0amdPWlF5QQ?oc=5",
         "timestamp": "2026-04-10T05:43:08",
         "timestamp_display": "10. 04. 2026 05:43",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Fond v Brně",
-        "summary": "V Brně vznikl unikátní fond spojující soukromníky, město, kraj, univerzity a biskupství.",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNTBkMGdlUlk4MWtjbW1aRFE1OW5TZ2dFUE9YWUN0eU16UWV2WG02ZkpxLVk4dGQwUnhNZldIeTFUc3ZPSDZuSm9QdGhqNXNwTEU5Y2hXLW50OG85S3diRjZOQTV0ZGJzTzZMODRjUFE4LWUwZnhhaV9NSkh0QU00REFheEpyVGkwWkJqR056T1dibXRXaVo3MS1IdzFsblJjY3FkdzhaOUM?oc=5",
-        "timestamp": "2026-04-07T11:00:04",
-        "timestamp_display": "07. 04. 2026 11:00",
-        "is_new": true
-    },
-    {
-        "category": "Společnost",
-        "title": "Změň život jedinou větou",
-        "summary": "Jedna inspirativní věta může změnit život, tvrdí odborníci, kteří studují vliv pozitivního myšlení na úspěch.",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02V3FtUmFSekd2dk5IdWk2el9DRlktQWVtdG1DNjdpb0pzNTFXSWNSbllLYkZxcHUxSTFoc0hUMEFSZy14bVlkRTFTSnI0WjhrVkQw?oc=5",
-        "timestamp": "2026-04-03T13:27:20",
-        "timestamp_display": "03. 04. 2026 13:27",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -321,6 +330,15 @@
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX1lKLTVwQ0pITFJpSVVFNkpDNmdCNWpfS2gtdEd4Sy1jdzNMZ1dySFB3UlRjaGJFN25BNUpSc3l4dURYbHRxZWw0MTJvQ2NyWTNpQ1VxNXVtRWNKMklfTm5CUHJlQUV6R2QwTy0xRFItNjdnM1FVMVFiRUlNRUtyVGJHM0V4dm5XclBBZS02cm9CdjB2UjNFQm02bExuSlBFOHJHN0ZwWFFTZUxxZlRJUEhXbFpLT2Nia2pBZkFTUEJsNVRfVnNZ?oc=5",
         "timestamp": "2026-04-07T12:01:00",
         "timestamp_display": "07. 04. 2026 12:01",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Fond v Brně",
+        "summary": "V Brně vznikl unikátní fond spojující soukromníky, město, kraj, univerzity a biskupství.",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNTBkMGdlUlk4MWtjbW1aRFE1OW5TZ2dFUE9YWUN0eU16UWV2WG02ZkpxLVk4dGQwUnhNZldIeTFUc3ZPSDZuSm9QdGhqNXNwTEU5Y2hXLW50OG85S3diRjZOQTV0ZGJzTzZMODRjUFE4LWUwZnhhaV9NSkh0QU00REFheEpyVGkwWkJqR056T1dibXRXaVo3MS1IdzFsblJjY3FkdzhaOUM?oc=5",
+        "timestamp": "2026-04-07T11:00:04",
+        "timestamp_display": "07. 04. 2026 11:00",
         "is_new": false
     },
     {
@@ -636,6 +654,15 @@
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM2NhYXg1ekR5UVI3THR0ejU3aDhZV1RUdVR5QkV3UjhqQTFwVi1FdllvNzVHNkNfUzJ4UndadTZmNWJXUTlzc2FIMEw4UVF4VGdzZWgyZWpRVFZ4Mmt5emhRcUlNcF84TVJETzJleFB0TmhuTTB3cGMtTXRxSFBaVjhwREd2akNvbHNFR3pTSTJmaGhTYk0w?oc=5",
         "timestamp": "2026-04-03T14:07:30",
         "timestamp_display": "03. 04. 2026 14:07",
+        "is_new": false
+    },
+    {
+        "category": "Společnost",
+        "title": "Změň život jedinou větou",
+        "summary": "Jedna inspirativní věta může změnit život, tvrdí odborníci, kteří studují vliv pozitivního myšlení na úspěch.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02V3FtUmFSekd2dk5IdWk2el9DRlktQWVtdG1DNjdpb0pzNTFXSWNSbllLYkZxcHUxSTFoc0hUMEFSZy14bVlkRTFTSnI0WjhrVkQw?oc=5",
+        "timestamp": "2026-04-03T13:27:20",
+        "timestamp_display": "03. 04. 2026 13:27",
         "is_new": false
     },
     {
