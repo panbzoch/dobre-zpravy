@@ -1,29 +1,20 @@
 [
     {
-        "category": "Byznys",
-        "title": "Společnost mění život",
-        "summary": "Společnost může změnit život jedné věty, inspiruje a motivuje lidi k úspěchu.",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJNnFxb1RwTFBKMWVKb1hPUWxwX0RxQlRFVEV1WXczWF9GaHlIdEFyTXl4RDhwRVFJdVZ3Z0ZHc0MtUEUxNjlsWDFjdXB0d3lWSG9KdFFQMS1Hc0k?oc=5",
-        "timestamp": "2026-04-09T13:44:23",
-        "timestamp_display": "09. 04. 2026 13:44",
+        "category": "Technologie",
+        "title": "Čínský dron vzlétl",
+        "summary": "Čína úspěšně otestovala těžkotonážní dron Changying-8, který unese 3500 kg nákladu.",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdEY0TFpHUzdJd2l0TmNzSWxEZkFIMjAtVHdUX1B2V3dwUEgwTnB6TVBnWlpDTndwZ0ROYXEtUVlDZWdya0xNck5tQXJ5UDYzczZPSFJIVFVIdFFJOWpYbGREZEU0dlJmbldhMXBpVUVqMUViTjVmU3RTcHg0MDhPRm1lYno5Y29uNmZsZWRXZ2gyOFdhVEpmS083YnlNcXJFd2ZUbHkyWWVVcjdDTnJjV2tNZjZGOWllb1RHMnYxeGRqTldyb09pMjd1ekNwUnI3U3dwVFE4ZnE?oc=5",
+        "timestamp": "2026-04-10T09:44:45",
+        "timestamp_display": "10. 04. 2026 09:44",
         "is_new": true
     },
     {
-        "category": "Byznys",
-        "title": "Dovednosti pro éru AI",
-        "summary": "Rozhodující dovednosti pro udržení práce v éře umělé inteligence zahrnují adaptabilitu a schopnost učit se novým technologiím.",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcDRMcFBsSnNkcy1Hdl92Q0RQTF8yZ3k3VHBwdTQwdVBwSi1wRlVjTUc0Vmhibmd3SnVITUdMZ3UtTGJHV29HVmhfV0d0c2lYc0pQX19PTzFPU1NNVlVCZ0VnSmpPV2NwbG9IT0wyZlRJcmp2SGh6YUM2Y0xKNVlnLU5ZZ3RWMnZl?oc=5",
-        "timestamp": "2026-04-09T10:07:15",
-        "timestamp_display": "09. 04. 2026 10:07",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Úspěch ze Svijan",
-        "summary": "Rodinný pivovar Svijany slaví úspěch, zachráněn před zánikem.",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdnJ1dGxHMFVLbWFpU29DeXctUUtrb1lDbFhlZVoyYmtIbkVjWndZS1hlYjFHQ0dxS2dybFNDQWhLTVRhVUhlUjUzSHNDcHQ4UjFwWVA2V0hpZl9BQm5sc2tfSHZwYWtRMWtnSTZlb0pLMmlpS29JY1lGRFM5UG82SVRWZGhfbXkzakhB?oc=5",
-        "timestamp": "2026-04-06T06:09:24",
-        "timestamp_display": "06. 04. 2026 06:09",
+        "category": "Věda",
+        "title": "Harvardský vynález",
+        "summary": "Harvardský vynález dokáže v létě vyrábět elektřinu a v zimě teplo bez použití elektroniky.",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ubHVqaFA2QzNPRDJQVFZBZ0w4c2xjNklFQkw1WVlpTVVFbEZDdHY1UFZfZTFSeVlTdEpxT0dNUHd0a1pKejNRQW9nanhSaVFrNUtSN1JaRWQwRDQ?oc=5",
+        "timestamp": "2026-04-07T11:25:54",
+        "timestamp_display": "07. 04. 2026 11:25",
         "is_new": true
     },
     {
@@ -72,6 +63,15 @@
         "is_new": false
     },
     {
+        "category": "Byznys",
+        "title": "Společnost mění život",
+        "summary": "Společnost může změnit život jedné věty, inspiruje a motivuje lidi k úspěchu.",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJNnFxb1RwTFBKMWVKb1hPUWxwX0RxQlRFVEV1WXczWF9GaHlIdEFyTXl4RDhwRVFJdVZ3Z0ZHc0MtUEUxNjlsWDFjdXB0d3lWSG9KdFFQMS1Hc0k?oc=5",
+        "timestamp": "2026-04-09T13:44:23",
+        "timestamp_display": "09. 04. 2026 13:44",
+        "is_new": false
+    },
+    {
         "category": "Věda",
         "title": "NASA zve na prohlídku",
         "summary": "NASA nabízí prohlídku rakety pro misi Artemis III, která má být další krokem k návratu lidí na Měsíc.",
@@ -114,6 +114,15 @@
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQd05RU0NMZHlvLXVNT2VwZksyRTgxUEIwZkxxU0NwSmZGVDdoWVlIYkN5ZVYtMUZyd0p1RHI1aHJ6bFVlMnN1d18tT0EtQUY1LVFTTVZEaERSTU1uWThPLWNuMVZZSlFXU2E4TE56eFJBeE1jSEc1YUl2bkNJbzNYY2h3dW5uaWd1dGNmZ05jUmNzVzh0OTJhNEtVUW4zNHpGc3BOWEY5U3dYbkhGWWhZTjlkMnV1ZTVVTEZhZnJjcGp5SHRhWUE?oc=5",
         "timestamp": "2026-04-09T10:25:00",
         "timestamp_display": "09. 04. 2026 10:25",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Dovednosti pro éru AI",
+        "summary": "Rozhodující dovednosti pro udržení práce v éře umělé inteligence zahrnují adaptabilitu a schopnost učit se novým technologiím.",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcDRMcFBsSnNkcy1Hdl92Q0RQTF8yZ3k3VHBwdTQwdVBwSi1wRlVjTUc0Vmhibmd3SnVITUdMZ3UtTGJHV29HVmhfV0d0c2lYc0pQX19PTzFPU1NNVlVCZ0VnSmpPV2NwbG9IT0wyZlRJcmp2SGh6YUM2Y0xKNVlnLU5ZZ3RWMnZl?oc=5",
+        "timestamp": "2026-04-09T10:07:15",
+        "timestamp_display": "09. 04. 2026 10:07",
         "is_new": false
     },
     {
@@ -456,6 +465,15 @@
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUVdSVU00TWQ3RUh6N1dFdHQteFgxdTJEV3YzcEZoS0hTeWlVOGphTlYyNnZMbUgtYThNNGdyQ1Q4d2pIWlFqY1lvdWx2QUQyWThvT1NuNDNkeUlxZU1FNWhXOW0ySEFuXzI3VXd1ZFFES19ZY1Q3UlZmUFFFRFlOSDBaeC1HMktiSEpwc3lsay1jNXlKNHF3WEFSWUxIV1RoVjl6NGtzZWRNZlJkWlJTWHd3djBuV1JtT0J3?oc=5",
         "timestamp": "2026-04-06T06:55:39",
         "timestamp_display": "06. 04. 2026 06:55",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Úspěch ze Svijan",
+        "summary": "Rodinný pivovar Svijany slaví úspěch, zachráněn před zánikem.",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdnJ1dGxHMFVLbWFpU29DeXctUUtrb1lDbFhlZVoyYmtIbkVjWndZS1hlYjFHQ0dxS2dybFNDQWhLTVRhVUhlUjUzSHNDcHQ4UjFwWVA2V0hpZl9BQm5sc2tfSHZwYWtRMWtnSTZlb0pLMmlpS29JY1lGRFM5UG82SVRWZGhfbXkzakhB?oc=5",
+        "timestamp": "2026-04-06T06:09:24",
+        "timestamp_display": "06. 04. 2026 06:09",
         "is_new": false
     },
     {
