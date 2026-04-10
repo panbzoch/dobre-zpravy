@@ -1,21 +1,39 @@
 [
     {
+        "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Investice může změnit život, jeden dobrý tah může vést k úspěchu a finančním ziskům.",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2UnpXb1hKWFNONFl6ck55VzY1d3lwWHc1M01QQks3MXRHVmRLQTIxeTlKWExDMXN0cUdUWGY2bjBqTXJRSG5FOXJqUEZOeERscWlqX2pZTnR3UQ?oc=5",
+        "timestamp": "2026-04-10T17:30:28",
+        "timestamp_display": "10. 04. 2026 17:30",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Nový květinový byznys",
+        "summary": "Zakladatel úspěšné značky spouští nový květinový byznys s inovativním přístupem.",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZbWplcmJKSkg4Vkx4a0xndnBnSVpQNlF5MHlXOVl1bU9TZmZFWGpNMUl3NkNxTzFaTGw3Tm9McnYzdDhlMjA2WWljVjFCQkVZeWZuaFNsNGx0UDh1UDhCWkV5SXB4X1EtRGFlZEZ0V3BkcjNldFVn?oc=5",
+        "timestamp": "2026-04-09T15:41:55",
+        "timestamp_display": "09. 04. 2026 15:41",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "AI pro daňové přiznání",
+        "summary": "Ministerstvo financí představilo umělou inteligenci, která pomáhá s daňovým přiznáním, ale uživatelé zůstávají zodpovědní za případné chyby.",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTU81NEZYWHgtWWRJUmZqVjQ0cmM0ZWxhblRJYkEtdmZUZWNQeGw0UWhHcHItb1FIdWNiNnVZRE9KdERPejd2V0dJUENYbGZISmV4OE1yU09rWUlEbENYek9fdFlYakFsMFRjZWxBbjJEd1RuTloxVXc1V211NURoem5TWEhoSHhDZWhWWkhKRXpvTmxZQkNpcTVOMmFFVnlQM2RMWmJmZWo3NU0wQVQ5d1MxTlRPX3MySFE?oc=5",
+        "timestamp": "2026-04-09T09:43:01",
+        "timestamp_display": "09. 04. 2026 09:43",
+        "is_new": true
+    },
+    {
         "category": "Technologie",
         "title": "Čínský dron vzlétl",
         "summary": "Čína úspěšně otestovala těžkotonážní dron Changying-8, který unese 3500 kg nákladu.",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdEY0TFpHUzdJd2l0TmNzSWxEZkFIMjAtVHdUX1B2V3dwUEgwTnB6TVBnWlpDTndwZ0ROYXEtUVlDZWdya0xNck5tQXJ5UDYzczZPSFJIVFVIdFFJOWpYbGREZEU0dlJmbldhMXBpVUVqMUViTjVmU3RTcHg0MDhPRm1lYno5Y29uNmZsZWRXZ2gyOFdhVEpmS083YnlNcXJFd2ZUbHkyWWVVcjdDTnJjV2tNZjZGOWllb1RHMnYxeGRqTldyb09pMjd1ekNwUnI3U3dwVFE4ZnE?oc=5",
         "timestamp": "2026-04-10T09:44:45",
         "timestamp_display": "10. 04. 2026 09:44",
-        "is_new": true
-    },
-    {
-        "category": "Věda",
-        "title": "Harvardský vynález",
-        "summary": "Harvardský vynález dokáže v létě vyrábět elektřinu a v zimě teplo bez použití elektroniky.",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ubHVqaFA2QzNPRDJQVFZBZ0w4c2xjNklFQkw1WVlpTVVFbEZDdHY1UFZfZTFSeVlTdEpxT0dNUHd0a1pKejNRQW9nanhSaVFrNUtSN1JaRWQwRDQ?oc=5",
-        "timestamp": "2026-04-07T11:25:54",
-        "timestamp_display": "07. 04. 2026 11:25",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -339,6 +357,15 @@
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX1lKLTVwQ0pITFJpSVVFNkpDNmdCNWpfS2gtdEd4Sy1jdzNMZ1dySFB3UlRjaGJFN25BNUpSc3l4dURYbHRxZWw0MTJvQ2NyWTNpQ1VxNXVtRWNKMklfTm5CUHJlQUV6R2QwTy0xRFItNjdnM1FVMVFiRUlNRUtyVGJHM0V4dm5XclBBZS02cm9CdjB2UjNFQm02bExuSlBFOHJHN0ZwWFFTZUxxZlRJUEhXbFpLT2Nia2pBZkFTUEJsNVRfVnNZ?oc=5",
         "timestamp": "2026-04-07T12:01:00",
         "timestamp_display": "07. 04. 2026 12:01",
+        "is_new": false
+    },
+    {
+        "category": "Věda",
+        "title": "Harvardský vynález",
+        "summary": "Harvardský vynález dokáže v létě vyrábět elektřinu a v zimě teplo bez použití elektroniky.",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ubHVqaFA2QzNPRDJQVFZBZ0w4c2xjNklFQkw1WVlpTVVFbEZDdHY1UFZfZTFSeVlTdEpxT0dNUHd0a1pKejNRQW9nanhSaVFrNUtSN1JaRWQwRDQ?oc=5",
+        "timestamp": "2026-04-07T11:25:54",
+        "timestamp_display": "07. 04. 2026 11:25",
         "is_new": false
     },
     {
