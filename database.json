@@ -1,12 +1,30 @@
 [
     {
+        "category": "Věda",
+        "title": "Asteroidy objeveny",
+        "summary": "Observatoř Very C. Rubinové objevila přes 11 tisíc asteroidů, včetně 33 blízkozemních těles.",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWDQyaFFlTmtPNmVQOE8zSnJjdG1QbzJKT0RKWURfN3QtNmRENDNEVk04MUpDaWNaYnhFU1BldGktV1ZFdmJIUTYwWVQzS3dkZzZja1ZXdnZuNTZBVkhtd3BWU05oZm5UbWxzQ1V3el9XNl9uZUtEcUU4WEgzZDZKOGFrUXR1Tm5WRWtwTXdoT1ZRMkI3RlhFcjFBWjE5UDZHS09zY1pwR2VuT214Z2tGTVRqQWVMZjVKWkJyc1VMdDdfX2tTMTY5MktBN0hSZTJpbWV3QWNkYTRLNGRORXF6WmFJVFFOSHZoR18yTDZIVQ?oc=5",
+        "timestamp": "2026-04-11T13:43:03",
+        "timestamp_display": "11. 04. 2026 13:43",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Posádka Artemis II",
+        "summary": "NASA úspěšně dokončila misi Artemis II, posádka se vrátila na Zemi, zahajuje novou éru letů k Měsíci.",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS2FNOXc3cDM1bUYxVmJpTDlLdmQ2cXYwZzhiQy1Od3FTcUdLX1FwTXpUWGxndEpLRGdfdlNkalVBeXhzak1LbDJ4Vy01cGZacHNjdWtwaXdtQ01xQnBWNTFlMVhWQ3BiZy16YnBvZXFYbFNmeTFROVdXNFJ6MlIxa3AxTFJEZkFWNlRfRjFkRGhHdTZuRU1xOVZB?oc=5",
+        "timestamp": "2026-04-11T06:39:16",
+        "timestamp_display": "11. 04. 2026 06:39",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "Nový fond pro startupy",
         "summary": "Depo Ventures spustil nový fond pro investice do startupů, zaměřený na vesmír a další inovativní oblasti.",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSGhHdDlRS05zY2Nxd2FHZFdHaXgtUjR2SURTc21NamNjVWtSbHZJUjRfSEFieTlTMnBnWE04MjhLVnlVMmZaZHNsNzVaLWdYT2RMSEJVdnVNSWdFcGR4RUp2aUlEaHlQbXlwUWViclFRZDdMbU1iUEYxWlpSV2FzQk9ERWRKX2V4aDVyTVFkdm5DNjFMaTlmRVlhZEVrQmpsazZuQXkzeEFreXk3aWZwdUVCMkxITU5kaTNjUGhHN1lsbmhleXpRVGt5SFhNU2JienNOSWRCeFZuUQ?oc=5",
         "timestamp": "2026-04-11T10:00:00",
         "timestamp_display": "11. 04. 2026 10:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -15,7 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPalJXanlfbjVYcUEzMVhNUmRNMHBTeVFEN3lhNzlXdjRSbzF3cVNxS1RwajN0N1kwRkNFTUVqVGRLSC16R3hmUlg2M1liai13ZlQzZlpFRTF1TEZOTjR3SnJhQXZoQlAxUkQzV3g3emVnM3pJUHJVN0JZaTZ3c25PeTNvcVMzX0ttNEtCWDhWSndnelJKX1pVTjhISG9Kc2VpazhRWkpCaWxvdk9neUJqbjlOcWxYd3hyaVF3SGQ0dzVEZ0ZJSnVZcTIwQVpCODBKNUIwdkt2dHVfSkJ4MlVNaExVQ0FZUQ?oc=5",
         "timestamp": "2026-04-11T05:45:17",
         "timestamp_display": "11. 04. 2026 05:45",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
