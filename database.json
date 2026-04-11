@@ -1,21 +1,39 @@
 [
     {
         "category": "Věda",
+        "title": "Observatoř objevil asteroidy",
+        "summary": "Observatoř Very C. Rubinové objevila přes 11 tisíc asteroidů, včetně 33 blízkozemních těles.",
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPVllsUV81ZWY3ZkMtSWZqSGtLVGZHWDRDY3lnYnRGOWpkTURXUkpHNFg4S3B2MHQ5U1lXXy1jQW0yR214dkxuOWpkRlp1WWZtTERHOVRhcElBTFdKd2o4WHdXS3E5blBSMkRxb0lTaW9adXJlRTdGXzFzMzE3ck02VXdVNHdtZkJJd2lfNGxGMzFnVF9hbWNFQWlCZ0tsczFRSmFCWHRuQTZ6ZGFJeVhpNDQzVWE3OGliMUFmOS1uYkF1LS1uNlVIU0xwU2VpMXVWVXV3WksydVh5ZlRQQVlXX0tnLUdBYWpST2pETENEbkZtX3JseDhidXIyTDl4cXpDc2c?oc=5",
+        "timestamp": "2026-04-11T17:45:18",
+        "timestamp_display": "11. 04. 2026 17:45",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Jiří buduje říši",
+        "summary": "Jiří z Poděbrad buduje stamilionovou říši lahůdek, expanduje svůj byznys.",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM2NOY0pvbllBZ0haR25PZ21zRnZmYy1Jbk9kY05SWDNtbzU5OHN4Yk1mbmVYSll3S3lDc2tEc21WX3BwenZhYTQ1SXdEU0FoSzZPekNIcmhOV1k3cjQxS2VPMkpWeXZZSG5Hdm5neUQ1b19ZME9FWGJQcXUzXzhxaGJQcjdoaUhYbG1R?oc=5",
+        "timestamp": "2026-04-11T16:02:35",
+        "timestamp_display": "11. 04. 2026 16:02",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "AI napsala novou hru",
+        "summary": "Umělá inteligence vytvořila novou hru ve stylu Molièra, francouzského dramatika.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yTlJ1bGI0MlFRczNPS19KZU9rZU9zT1lHc3NNcnlZTzhMUEZXTGVwdWVndzhVOTJpQi03Ul9JZlpSSHR2Q0tyMDNTckdpUlFwSUtN?oc=5",
+        "timestamp": "2026-04-11T08:12:00",
+        "timestamp_display": "11. 04. 2026 08:12",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
         "title": "Asteroidy objeveny",
         "summary": "Observatoř Very C. Rubinové objevila přes 11 tisíc asteroidů, včetně 33 blízkozemních těles.",
         "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWDQyaFFlTmtPNmVQOE8zSnJjdG1QbzJKT0RKWURfN3QtNmRENDNEVk04MUpDaWNaYnhFU1BldGktV1ZFdmJIUTYwWVQzS3dkZzZja1ZXdnZuNTZBVkhtd3BWU05oZm5UbWxzQ1V3el9XNl9uZUtEcUU4WEgzZDZKOGFrUXR1Tm5WRWtwTXdoT1ZRMkI3RlhFcjFBWjE5UDZHS09zY1pwR2VuT214Z2tGTVRqQWVMZjVKWkJyc1VMdDdfX2tTMTY5MktBN0hSZTJpbWV3QWNkYTRLNGRORXF6WmFJVFFOSHZoR18yTDZIVQ?oc=5",
         "timestamp": "2026-04-11T13:43:03",
         "timestamp_display": "11. 04. 2026 13:43",
-        "is_new": true
-    },
-    {
-        "category": "Věda",
-        "title": "Posádka Artemis II",
-        "summary": "NASA úspěšně dokončila misi Artemis II, posádka se vrátila na Zemi, zahajuje novou éru letů k Měsíci.",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS2FNOXc3cDM1bUYxVmJpTDlLdmQ2cXYwZzhiQy1Od3FTcUdLX1FwTXpUWGxndEpLRGdfdlNkalVBeXhzak1LbDJ4Vy01cGZacHNjdWtwaXdtQ01xQnBWNTFlMVhWQ3BiZy16YnBvZXFYbFNmeTFROVdXNFJ6MlIxa3AxTFJEZkFWNlRfRjFkRGhHdTZuRU1xOVZB?oc=5",
-        "timestamp": "2026-04-11T06:39:16",
-        "timestamp_display": "11. 04. 2026 06:39",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,6 +42,15 @@
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSGhHdDlRS05zY2Nxd2FHZFdHaXgtUjR2SURTc21NamNjVWtSbHZJUjRfSEFieTlTMnBnWE04MjhLVnlVMmZaZHNsNzVaLWdYT2RMSEJVdnVNSWdFcGR4RUp2aUlEaHlQbXlwUWViclFRZDdMbU1iUEYxWlpSV2FzQk9ERWRKX2V4aDVyTVFkdm5DNjFMaTlmRVlhZEVrQmpsazZuQXkzeEFreXk3aWZwdUVCMkxITU5kaTNjUGhHN1lsbmhleXpRVGt5SFhNU2JienNOSWRCeFZuUQ?oc=5",
         "timestamp": "2026-04-11T10:00:00",
         "timestamp_display": "11. 04. 2026 10:00",
+        "is_new": false
+    },
+    {
+        "category": "Věda",
+        "title": "Posádka Artemis II",
+        "summary": "NASA úspěšně dokončila misi Artemis II, posádka se vrátila na Zemi, zahajuje novou éru letů k Měsíci.",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS2FNOXc3cDM1bUYxVmJpTDlLdmQ2cXYwZzhiQy1Od3FTcUdLX1FwTXpUWGxndEpLRGdfdlNkalVBeXhzak1LbDJ4Vy01cGZacHNjdWtwaXdtQ01xQnBWNTFlMVhWQ3BiZy16YnBvZXFYbFNmeTFROVdXNFJ6MlIxa3AxTFJEZkFWNlRfRjFkRGhHdTZuRU1xOVZB?oc=5",
+        "timestamp": "2026-04-11T06:39:16",
+        "timestamp_display": "11. 04. 2026 06:39",
         "is_new": false
     },
     {
