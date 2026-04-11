@@ -1,11 +1,20 @@
 [
     {
+        "category": "Byznys",
+        "title": "Nový fond pro startupy",
+        "summary": "Depo Ventures spustil nový fond pro investice do startupů, zaměřený na vesmír a další inovativní oblasti.",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSGhHdDlRS05zY2Nxd2FHZFdHaXgtUjR2SURTc21NamNjVWtSbHZJUjRfSEFieTlTMnBnWE04MjhLVnlVMmZaZHNsNzVaLWdYT2RMSEJVdnVNSWdFcGR4RUp2aUlEaHlQbXlwUWViclFRZDdMbU1iUEYxWlpSV2FzQk9ERWRKX2V4aDVyTVFkdm5DNjFMaTlmRVlhZEVrQmpsazZuQXkzeEFreXk3aWZwdUVCMkxITU5kaTNjUGhHN1lsbmhleXpRVGt5SFhNU2JienNOSWRCeFZuUQ?oc=5",
+        "timestamp": "2026-04-11T10:00:00",
+        "timestamp_display": "11. 04. 2026 10:00",
+        "is_new": true
+    },
+    {
         "category": "Technologie",
-        "title": "Zvonek na kolo",
-        "summary": "Škoda vyvinula zvonek, který je slyšitelný i přes sluchátka.",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYWgwWjVZX2ZBYjVPXzJFNGV1eDhrcUdTWE1BTjM2NjBfaGFfbU9xNU1BamJHSUdLNkdsakM4STAyZHk3c3l0bnhPZUo2V0JnX0RKTklHbjBwcWo1b2gzbXRYZjY3ZXIwOExjdE1rWGhrOVNTbkRtV25ENDVwSWQxWWJyMWh1WDA1VmlibXJQamd2UVh0UkotUUNtYnExQ0Z5V1JFcWx3RExlQQ?oc=5",
-        "timestamp": "2026-04-10T08:51:50",
-        "timestamp_display": "10. 04. 2026 08:51",
+        "title": "Robotický vodicí pes",
+        "summary": "Robotický vodicí pes díky GPT-4 rozumí příkazům a umí mluvit, pomáhá nevidomým lépe chápat okolí.",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPalJXanlfbjVYcUEzMVhNUmRNMHBTeVFEN3lhNzlXdjRSbzF3cVNxS1RwajN0N1kwRkNFTUVqVGRLSC16R3hmUlg2M1liai13ZlQzZlpFRTF1TEZOTjR3SnJhQXZoQlAxUkQzV3g3emVnM3pJUHJVN0JZaTZ3c25PeTNvcVMzX0ttNEtCWDhWSndnelJKX1pVTjhISG9Kc2VpazhRWkpCaWxvdk9neUJqbjlOcWxYd3hyaVF3SGQ0dzVEZ0ZJSnVZcTIwQVpCODBKNUIwdkt2dHVfSkJ4MlVNaExVQ0FZUQ?oc=5",
+        "timestamp": "2026-04-11T05:45:17",
+        "timestamp_display": "11. 04. 2026 05:45",
         "is_new": true
     },
     {
@@ -24,6 +33,15 @@
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdEY0TFpHUzdJd2l0TmNzSWxEZkFIMjAtVHdUX1B2V3dwUEgwTnB6TVBnWlpDTndwZ0ROYXEtUVlDZWdya0xNck5tQXJ5UDYzczZPSFJIVFVIdFFJOWpYbGREZEU0dlJmbldhMXBpVUVqMUViTjVmU3RTcHg0MDhPRm1lYno5Y29uNmZsZWRXZ2gyOFdhVEpmS083YnlNcXJFd2ZUbHkyWWVVcjdDTnJjV2tNZjZGOWllb1RHMnYxeGRqTldyb09pMjd1ekNwUnI3U3dwVFE4ZnE?oc=5",
         "timestamp": "2026-04-10T09:44:45",
         "timestamp_display": "10. 04. 2026 09:44",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Zvonek na kolo",
+        "summary": "Škoda vyvinula zvonek, který je slyšitelný i přes sluchátka.",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYWgwWjVZX2ZBYjVPXzJFNGV1eDhrcUdTWE1BTjM2NjBfaGFfbU9xNU1BamJHSUdLNkdsakM4STAyZHk3c3l0bnhPZUo2V0JnX0RKTklHbjBwcWo1b2gzbXRYZjY3ZXIwOExjdE1rWGhrOVNTbkRtV25ENDVwSWQxWWJyMWh1WDA1VmlibXJQamd2UVh0UkotUUNtYnExQ0Z5V1JFcWx3RExlQQ?oc=5",
+        "timestamp": "2026-04-10T08:51:50",
+        "timestamp_display": "10. 04. 2026 08:51",
         "is_new": false
     },
     {
