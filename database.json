@@ -1,30 +1,21 @@
 [
     {
+        "category": "Technologie",
+        "title": "Zvonek na kolo",
+        "summary": "Škoda vyvinula zvonek, který je slyšitelný i přes sluchátka.",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYWgwWjVZX2ZBYjVPXzJFNGV1eDhrcUdTWE1BTjM2NjBfaGFfbU9xNU1BamJHSUdLNkdsakM4STAyZHk3c3l0bnhPZUo2V0JnX0RKTklHbjBwcWo1b2gzbXRYZjY3ZXIwOExjdE1rWGhrOVNTbkRtV25ENDVwSWQxWWJyMWh1WDA1VmlibXJQamd2UVh0UkotUUNtYnExQ0Z5V1JFcWx3RExlQQ?oc=5",
+        "timestamp": "2026-04-10T08:51:50",
+        "timestamp_display": "10. 04. 2026 08:51",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "Investice mění život",
         "summary": "Investice může změnit život, jeden dobrý tah může vést k úspěchu a finančním ziskům.",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2UnpXb1hKWFNONFl6ck55VzY1d3lwWHc1M01QQks3MXRHVmRLQTIxeTlKWExDMXN0cUdUWGY2bjBqTXJRSG5FOXJqUEZOeERscWlqX2pZTnR3UQ?oc=5",
         "timestamp": "2026-04-10T17:30:28",
         "timestamp_display": "10. 04. 2026 17:30",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Nový květinový byznys",
-        "summary": "Zakladatel úspěšné značky spouští nový květinový byznys s inovativním přístupem.",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZbWplcmJKSkg4Vkx4a0xndnBnSVpQNlF5MHlXOVl1bU9TZmZFWGpNMUl3NkNxTzFaTGw3Tm9McnYzdDhlMjA2WWljVjFCQkVZeWZuaFNsNGx0UDh1UDhCWkV5SXB4X1EtRGFlZEZ0V3BkcjNldFVn?oc=5",
-        "timestamp": "2026-04-09T15:41:55",
-        "timestamp_display": "09. 04. 2026 15:41",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "AI pro daňové přiznání",
-        "summary": "Ministerstvo financí představilo umělou inteligenci, která pomáhá s daňovým přiznáním, ale uživatelé zůstávají zodpovědní za případné chyby.",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTU81NEZYWHgtWWRJUmZqVjQ0cmM0ZWxhblRJYkEtdmZUZWNQeGw0UWhHcHItb1FIdWNiNnVZRE9KdERPejd2V0dJUENYbGZISmV4OE1yU09rWUlEbENYek9fdFlYakFsMFRjZWxBbjJEd1RuTloxVXc1V211NURoem5TWEhoSHhDZWhWWkhKRXpvTmxZQkNpcTVOMmFFVnlQM2RMWmJmZWo3NU0wQVQ5d1MxTlRPX3MySFE?oc=5",
-        "timestamp": "2026-04-09T09:43:01",
-        "timestamp_display": "09. 04. 2026 09:43",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -51,6 +42,15 @@
         "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPblZUQ3U3VGdlN1U2c1ZLOXg2LXBxRzlDdmJ6WmhQM2l2UWZudzhkU3ItS1BtYm53RGk3aUNTcWpnVFZvMVRVZHJHbW92bmRVQy1VQ2h6Q0EzUEowNjFLOUV1a1lwQ0lIcFZjMk40QThoUS1MMENoNkdzTDR1NkFOR0hOcFc5TE5jVVY2N2FoUXVZMFIteHQzOGl4Tk1DNWdHV2pxTFNLaEJBTG5xYURJRXNCb1VqTk12UXp5M1ZrSFB4ZjRxYjdtWHlYZmVJYk9rSEZyUHZlamRwYS1HMFpab1JEbXhqdGU0amdPWlF5QQ?oc=5",
         "timestamp": "2026-04-10T05:43:08",
         "timestamp_display": "10. 04. 2026 05:43",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Nový květinový byznys",
+        "summary": "Zakladatel úspěšné značky spouští nový květinový byznys s inovativním přístupem.",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZbWplcmJKSkg4Vkx4a0xndnBnSVpQNlF5MHlXOVl1bU9TZmZFWGpNMUl3NkNxTzFaTGw3Tm9McnYzdDhlMjA2WWljVjFCQkVZeWZuaFNsNGx0UDh1UDhCWkV5SXB4X1EtRGFlZEZ0V3BkcjNldFVn?oc=5",
+        "timestamp": "2026-04-09T15:41:55",
+        "timestamp_display": "09. 04. 2026 15:41",
         "is_new": false
     },
     {
@@ -150,6 +150,15 @@
         "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRmVtendMWVNtY1VHV1dleklRemphZHNpS1FzTFdGZGVTd1p0dGlOODQwNTVYTFM2cmRwZW84c1B6cWRRQzJTZ1UzY0lKTTNpQkJGa3RrODlPSFkxbVU1cEZySl84UkYyXzRZcjVDR3Y5OHNoTmd2SndKMko0NkdwYmpDN242MnVIazhDa1p2dFBQMDY5dkxLelpSZWxoRzNNRmVQdjU0bEtvdExUQWNxNER4eDFOUUFlZjVjR3pBcVRmX21qWk9fVm1FNDBIRzNyUE5aX1lreFhrWXFoaXJ2dGhrZ3dnMXd6YlNQd2xfRmFvaXNGNGRnaQ?oc=5",
         "timestamp": "2026-04-09T09:48:37",
         "timestamp_display": "09. 04. 2026 09:48",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "AI pro daňové přiznání",
+        "summary": "Ministerstvo financí představilo umělou inteligenci, která pomáhá s daňovým přiznáním, ale uživatelé zůstávají zodpovědní za případné chyby.",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTU81NEZYWHgtWWRJUmZqVjQ0cmM0ZWxhblRJYkEtdmZUZWNQeGw0UWhHcHItb1FIdWNiNnVZRE9KdERPejd2V0dJUENYbGZISmV4OE1yU09rWUlEbENYek9fdFlYakFsMFRjZWxBbjJEd1RuTloxVXc1V211NURoem5TWEhoSHhDZWhWWkhKRXpvTmxZQkNpcTVOMmFFVnlQM2RMWmJmZWo3NU0wQVQ5d1MxTlRPX3MySFE?oc=5",
+        "timestamp": "2026-04-09T09:43:01",
+        "timestamp_display": "09. 04. 2026 09:43",
         "is_new": false
     },
     {
