@@ -1,12 +1,66 @@
 [
     {
+        "category": "Byznys",
+        "title": "Cukrářský talent v Praze",
+        "summary": "Ruský cukrář Ryasnyy otevřel v Praze cukrárnu s makronkami a dalšími specialitami.",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRi1qSVAxOGVqU3VDaGRiRkFzMWlMZWtQNjY2WUdDUXF2TkNHRGNDeHQwMGdVNEtYRURiVlQxamllVi0yNWVpOUJHQmUzdEFKVXVHdHlmaFVYUzMybFBVZnpzdTlLWnc0dFpDN2U4cHQ5RU5FNk10eXVUT1pDdm1QaG9nNVRGWENHX3VKUzVnYUZIQzRRZXJR?oc=5",
+        "timestamp": "2026-04-12T10:07:30",
+        "timestamp_display": "12. 04. 2026 10:07",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Průmysl mění život",
+        "summary": "Forbes Česko přináší inspirativní články o průmyslu a jeho vlivu na životy lidí.",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Ob3ZqbmpkVUV1THF4d1ctN3JObUNLU3V2eVRkZElQektSMG1TMldtN1pERUhNTEVpalhKdEJUTWRXMFZ0Qjdoa2NEbjhkM1RkeEtGdGdUMA?oc=5",
+        "timestamp": "2026-04-12T04:44:37",
+        "timestamp_display": "12. 04. 2026 04:44",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Průmysl mění život",
+        "summary": "Forbes Česko přináší inspirativní články o úspěších v průmyslu a podnikání.",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1JTDlsMVRNNl9YREFZUFN2YzU2UmxYdnZvbGJhblFtekhDS2pkM0Fqa0RoSzBMeVB1VktGRVlFMm52T2cyd01naGlPYW9xSWk3eHZ6NU1IMA?oc=5",
+        "timestamp": "2026-04-11T16:47:54",
+        "timestamp_display": "11. 04. 2026 16:47",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "AI napsala novou hru",
+        "summary": "Umělá inteligence vytvořila novou hru ve stylu Molièra, francouzského dramatika.",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV0xYV1daUHE0WEctdXE0amFFSlkzeWZqTXc3cjFOUFhCeXhLOFRYSmVQX2hIVGNxUV9FcXhOYUxJaVlhN3FqOHY0Qk4tOHNXUzdrX1BUeWtEWERJWDMtRnktLXBHWmVVZ19lTWg3RjNCQXIwMU5OOF9xZ0dMdTRDQ3ZYdUR0aTdZVXQ1UU5Ha3hkRTU0bElvZThJb1hhWTljVnlUbThHY0pqQ05r?oc=5",
+        "timestamp": "2026-04-11T08:12:00",
+        "timestamp_display": "11. 04. 2026 08:12",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Průmysl mění život",
+        "summary": "Forbes Česko přináší inspirativní články o průmyslu a jeho vlivu na životy lidí.",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5OVGVhWjhFZ3p1TGlPeFB5Q21xV0RTc1lXQUxsZDJycjdrY1B0Z1FCcGpCaWFBd0ZZcmJsNjZPbzNfZ19PNm5RMy1tWTl1bzR1T20tYkJzYw?oc=5",
+        "timestamp": "2026-04-08T08:45:08",
+        "timestamp_display": "08. 04. 2026 08:45",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Změň život jedinou větou",
+        "summary": "Forbes Česko nabízí inspiraci pro změnu života pomocí jedné věty.",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxOUc4NlNteVVCdklpMWZOYlVZaG9haXYzU3FFM3R3Nk5ybWtzdTF2dzU2MElDNVJvSm9KMFV0cW51OEdyZi1aU1lXeTV3SzRHTGc?oc=5",
+        "timestamp": "2026-04-01T07:00:00",
+        "timestamp_display": "01. 04. 2026 07:00",
+        "is_new": true
+    },
+    {
         "category": "Technologie",
         "title": "Blue Origin testoval lunární loď",
         "summary": "Blue Origin úspěšně otestoval lunární loď ve vakuové komoře a míří na Floridu.",
         "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPaUxZWEFnWU5DRHE2Mml5MzQ3Smg2QVJSWkI4aU5YZExLZGwtRVFZSkszSXRtOEhQWjlaUlc1QWRuNHBJazRWcVBjdlBjRTk1dkNGSGxiRWd4a3EwMkJhNWJ5VE11V21fMVNiZmlWUk5sS1dGZ21WTVZpZ3A3WUw4c0J4MmY0al9rY1oyUEROUGJ5VFZJeEVOT21jYzNzWWJIV3pkUkRsdEp0WFpnVHljeXRIOGk2ekNCMlNyYmdyUHdPd2NxYlo2NWpIUHpQRV9PX25CRWZqVWRUMXpqVmtJSGQ3U21wMHdxZFRJWkdsNTlvRHplVENyaU0tUEtlOHJIRTBVMjVtdm12M1lnWmlv?oc=5",
         "timestamp": "2026-04-12T06:45:10",
         "timestamp_display": "12. 04. 2026 06:45",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -15,7 +69,7 @@
         "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPT0J4NGVhZl85ZzhwY0k5WTgzNjFWUldTU2dtS2VmRThrczhib2VkYS1iTTZXYk5tSXJkRjF0OWtKaUJCMEtsZFpvYWNsc1g5d3BWRl9BS2JkeTVBOGY3SjN6cEZ0RW5YRlF2OXcyQ3BQZ0xHeHlsamVxSVQwRDJoWHhILTg1S1VVRHowTzg4TTBadDY0Z0xlX0F3d2lTR3N2a2hMVXVEOUtBVW1RX2xxUnQ1elVzVTU1R3N4MmdlM19PNE03WDFiZGprZC1EdTZSdlRMNTFmYTBteFFWcTRUbmFCWjRHSFp2TlNIVkV1dXBYZjFWMmstNF9hbmM?oc=5",
         "timestamp": "2026-04-12T05:42:57",
         "timestamp_display": "12. 04. 2026 05:42",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,7 +78,7 @@
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQakpiSE5pZ1FxUzNrQ1hiV1VTcFVuWG9LbDM0aEJGZnNwbldaZk83UjB5SmNpb1lrVHVYYkItT1M0cHloNjJYX2lwZjEwZzBDSEM3SWZVWU5PWXlDZk5ZeUNkQ001VUtmbVZ3Tm5nYXlxVHE4MWRCS3NVYTktTUs3QnFPdUJMUk8yMXJPLXUzNVdzblhnS0xtZmQ5cnBMdVdraVotd0xLa1RVUDA3YUs3Z0Q1NFY?oc=5",
         "timestamp": "2026-04-12T05:17:57",
         "timestamp_display": "12. 04. 2026 05:17",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
