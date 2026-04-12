@@ -1,12 +1,39 @@
 [
     {
+        "category": "Technologie",
+        "title": "Blue Origin testoval lunární loď",
+        "summary": "Blue Origin úspěšně otestoval lunární loď ve vakuové komoře a míří na Floridu.",
+        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPaUxZWEFnWU5DRHE2Mml5MzQ3Smg2QVJSWkI4aU5YZExLZGwtRVFZSkszSXRtOEhQWjlaUlc1QWRuNHBJazRWcVBjdlBjRTk1dkNGSGxiRWd4a3EwMkJhNWJ5VE11V21fMVNiZmlWUk5sS1dGZ21WTVZpZ3A3WUw4c0J4MmY0al9rY1oyUEROUGJ5VFZJeEVOT21jYzNzWWJIV3pkUkRsdEp0WFpnVHljeXRIOGk2ekNCMlNyYmdyUHdPd2NxYlo2NWpIUHpQRV9PX25CRWZqVWRUMXpqVmtJSGQ3U21wMHdxZFRJWkdsNTlvRHplVENyaU0tUEtlOHJIRTBVMjVtdm12M1lnWmlv?oc=5",
+        "timestamp": "2026-04-12T06:45:10",
+        "timestamp_display": "12. 04. 2026 06:45",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Blue Origin testoval lunární loď",
+        "summary": "Blue Origin úspěšně otestoval lunární loď ve vakuové komoře a míří na Floridu.",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPT0J4NGVhZl85ZzhwY0k5WTgzNjFWUldTU2dtS2VmRThrczhib2VkYS1iTTZXYk5tSXJkRjF0OWtKaUJCMEtsZFpvYWNsc1g5d3BWRl9BS2JkeTVBOGY3SjN6cEZ0RW5YRlF2OXcyQ3BQZ0xHeHlsamVxSVQwRDJoWHhILTg1S1VVRHowTzg4TTBadDY0Z0xlX0F3d2lTR3N2a2hMVXVEOUtBVW1RX2xxUnQ1elVzVTU1R3N4MmdlM19PNE03WDFiZGprZC1EdTZSdlRMNTFmYTBteFFWcTRUbmFCWjRHSFp2TlNIVkV1dXBYZjFWMmstNF9hbmM?oc=5",
+        "timestamp": "2026-04-12T05:42:57",
+        "timestamp_display": "12. 04. 2026 05:42",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Podnikatel vydělal miliardu",
+        "summary": "Podnikatel vydělal poprvé miliardu korun, jeho recept na úspěch je delegovat a relaxovat.",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQakpiSE5pZ1FxUzNrQ1hiV1VTcFVuWG9LbDM0aEJGZnNwbldaZk83UjB5SmNpb1lrVHVYYkItT1M0cHloNjJYX2lwZjEwZzBDSEM3SWZVWU5PWXlDZk5ZeUNkQ001VUtmbVZ3Tm5nYXlxVHE4MWRCS3NVYTktTUs3QnFPdUJMUk8yMXJPLXUzNVdzblhnS0xtZmQ5cnBMdVdraVotd0xLa1RVUDA3YUs3Z0Q1NFY?oc=5",
+        "timestamp": "2026-04-12T05:17:57",
+        "timestamp_display": "12. 04. 2026 05:17",
+        "is_new": true
+    },
+    {
         "category": "Věda",
         "title": "Observatoř objevil asteroidy",
         "summary": "Observatoř Very C. Rubinové objevila přes 11 tisíc asteroidů, včetně 33 blízkozemních těles.",
         "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPVllsUV81ZWY3ZkMtSWZqSGtLVGZHWDRDY3lnYnRGOWpkTURXUkpHNFg4S3B2MHQ5U1lXXy1jQW0yR214dkxuOWpkRlp1WWZtTERHOVRhcElBTFdKd2o4WHdXS3E5blBSMkRxb0lTaW9adXJlRTdGXzFzMzE3ck02VXdVNHdtZkJJd2lfNGxGMzFnVF9hbWNFQWlCZ0tsczFRSmFCWHRuQTZ6ZGFJeVhpNDQzVWE3OGliMUFmOS1uYkF1LS1uNlVIU0xwU2VpMXVWVXV3WksydVh5ZlRQQVlXX0tnLUdBYWpST2pETENEbkZtX3JseDhidXIyTDl4cXpDc2c?oc=5",
         "timestamp": "2026-04-11T17:45:18",
         "timestamp_display": "11. 04. 2026 17:45",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,16 +42,7 @@
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM2NOY0pvbllBZ0haR25PZ21zRnZmYy1Jbk9kY05SWDNtbzU5OHN4Yk1mbmVYSll3S3lDc2tEc21WX3BwenZhYTQ1SXdEU0FoSzZPekNIcmhOV1k3cjQxS2VPMkpWeXZZSG5Hdm5neUQ1b19ZME9FWGJQcXUzXzhxaGJQcjdoaUhYbG1R?oc=5",
         "timestamp": "2026-04-11T16:02:35",
         "timestamp_display": "11. 04. 2026 16:02",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "AI napsala novou hru",
-        "summary": "Umělá inteligence vytvořila novou hru ve stylu Molièra, francouzského dramatika.",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yTlJ1bGI0MlFRczNPS19KZU9rZU9zT1lHc3NNcnlZTzhMUEZXTGVwdWVndzhVOTJpQi03Ul9JZlpSSHR2Q0tyMDNTckdpUlFwSUtN?oc=5",
-        "timestamp": "2026-04-11T08:12:00",
-        "timestamp_display": "11. 04. 2026 08:12",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -42,6 +60,15 @@
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSGhHdDlRS05zY2Nxd2FHZFdHaXgtUjR2SURTc21NamNjVWtSbHZJUjRfSEFieTlTMnBnWE04MjhLVnlVMmZaZHNsNzVaLWdYT2RMSEJVdnVNSWdFcGR4RUp2aUlEaHlQbXlwUWViclFRZDdMbU1iUEYxWlpSV2FzQk9ERWRKX2V4aDVyTVFkdm5DNjFMaTlmRVlhZEVrQmpsazZuQXkzeEFreXk3aWZwdUVCMkxITU5kaTNjUGhHN1lsbmhleXpRVGt5SFhNU2JienNOSWRCeFZuUQ?oc=5",
         "timestamp": "2026-04-11T10:00:00",
         "timestamp_display": "11. 04. 2026 10:00",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "AI napsala novou hru",
+        "summary": "Umělá inteligence vytvořila novou hru ve stylu Molièra, francouzského dramatika.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yTlJ1bGI0MlFRczNPS19KZU9rZU9zT1lHc3NNcnlZTzhMUEZXTGVwdWVndzhVOTJpQi03Ul9JZlpSSHR2Q0tyMDNTckdpUlFwSUtN?oc=5",
+        "timestamp": "2026-04-11T08:12:00",
+        "timestamp_display": "11. 04. 2026 08:12",
         "is_new": false
     },
     {
