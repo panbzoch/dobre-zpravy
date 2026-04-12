@@ -1,12 +1,30 @@
 [
     {
+        "category": "Technologie",
+        "title": "Rychlé nabíjení elektromobilu",
+        "summary": "Čínský elektromobil lze nabít na 70 % za méně než 5 minut, podobně jako tankování.",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPb0RIajh3MXlJU3RGdW5PV3ZWam5GRFFSUFQ5dnlkcU5McXVSTXlGbVF1NEpTNFFueEhyelJxdkRuaHduLXhMS1pnYWNxTXpzNHMyYmQ3RllJU3hsajJBSzhHcHZFSk8ta1lZY082dXF5cG1FejQ2ako4MmFnNXlFalJpYWxqYV9ia0J5RndVYXEwelhRYnQ2eU5HbGxrQThRa2pDRXpSY2xiOUU5V3I0LTRreUNsM0JlZTJIZWdmdi1DRnVpNDkxem1hb3Q2Y09kLXRuTHZYTmFCcy1NX0FUY0pxVUdQRUVobHVvc0huNA?oc=5",
+        "timestamp": "2026-04-12T13:43:13",
+        "timestamp_display": "12. 04. 2026 13:43",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Cloudflare na kryptografii",
+        "summary": "Cloudflare implementuje postkvantovou kryptografii, Poláci kupují kvantový stroj, evropská firma vstupuje na burzu.",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaGtDTmhVQXU2N1dXeUw4U3RIWnYwNjZhNjN2eFN1YzRCQndvYTVhNG9VRjQxWkdEU2lYNGNBSlZZaEtpVWN6U1VsUFpOc2NJbk52bE45aDMwN2VnMC0tN0VhdmowYnNRcmRGYmxUSDQwc3lCWVE5Z3kxNkV0WERsQ0ZLYnBQUkMxblU4cENwbENJdjVFMzhCRkdOUUwzQS1jSVV4ejFWV0tmM1BUSWYyTFRYSzQ0NGFfNFF0czhJdndYcExLOWxYRVpn?oc=5",
+        "timestamp": "2026-04-10T07:00:00",
+        "timestamp_display": "10. 04. 2026 07:00",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "Architekt navrhuje domov",
         "summary": "Zakladatel Studia Perspektiv navrhl svůj vlastní domov, ukazuje své architektonické dovednosti.",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQTQ5amtjeHRHWnNqcUJfNEpqb1MzYUt6TlJGMHRBWjBoLVJCVjVIaHdwSkt2Mk1QSjRjc3Z5TUc5eEl3N3dLd0F4Z01ubGRmeVRiSkFCYkpfVjNURkpaR29lU3ZyV0pTU1pnZGlVTXhOakZBYkRBaE9Ya0x4SmtwSWU4OVFqdkZCV3hqbWJUYUpPZXlMT1hDQTMzWHRFLUZwMHc?oc=5",
         "timestamp": "2026-04-12T14:09:33",
         "timestamp_display": "12. 04. 2026 14:09",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -15,34 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNElqczRpaHhxdy1NVHQycEF1UWN4RVF0OVRzRDI4YUl6VzcxRklRdVpiUzNUQkFhcUNGWmxaekdhUGpvZTlYLUFUYnF4WUJVLUNNVTVkMHk5dzE1NHdqLThwV0RKSzJVbTRxbUNKd1RuU2tDc2ZRUmV2VmxmWnhrVHhmV3JVdE9rUFRjY0x2aXJTRHFVVnBqeVpTQURfYTJIZ0RuclZoVkN2MXc?oc=5",
         "timestamp": "2026-04-12T10:10:51",
         "timestamp_display": "12. 04. 2026 10:10",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Ben Cristovao staví byznys",
-        "summary": "Ben Cristovao a jeho společníci rozvíjejí byznys zaměřený na péči o pleť.",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcGJrbWpjX0JnaTA1bTM0OUFDUlFubUhlUzA3QWc3TlhZamdydmpieFpEWlE5T05rV1RtTzU3V3hyNTBpeGdGZENWMHFocEk2ZkJZWU9FX1hpM0tlaU0yUGZqMGxlUzYtVkRIZDFyUF9ydm96YVA2TVBKNXotV0wwTlllUlgzNGxrSXNzQlF4RlJYeWxTSExBS1ZaMnd0em40TjMwdk56MmVEaGVjcFlHYTJkeVRIZDNqajFQb2ZWeUxUcW5SNVhwWF9vUlNIZ0k?oc=5",
-        "timestamp": "2026-04-12T10:00:00",
-        "timestamp_display": "12. 04. 2026 10:00",
-        "is_new": true
-    },
-    {
-        "category": "Věda",
-        "title": "Asteroid Ryugu přinesl stavební kameny",
-        "summary": "Vědci objevili ve vzorcích z asteroidu Ryugu stavební kameny DNA a RNA, což naznačuje, že život na Zemi mohl pocházet z vesmíru.",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObnc2UE5NcFJXQWRiczNlbWdPOVFqSmZ1VkFLV2ltbVZCaFM5RVRxTHVGaWRrWTZHekphT2ljZlpoeDRxcTFxZTJnaWhmVmttY3Q3WmtmS0tQeFRWTmZSQ21QTDVLbV9zTVQtQXQ5MDhLME9iTndtVUo5S2lNVGdJcU84MXFQYklyejdUWE9Hck9yYTAwZ09oS0huc2M4SExmMTZ3Tm9xZ09UWHZiN0ZhQmI5U1psRTd0djRodTIzTlVSTWhNUHFDYmVFSTFYUVhvZndFNTdPVWRwckFRY2M2QW5QbVg1Wlpj?oc=5",
-        "timestamp": "2026-04-12T09:42:29",
-        "timestamp_display": "12. 04. 2026 09:42",
-        "is_new": true
-    },
-    {
-        "category": "Společnost",
-        "title": "Rekonstrukce koupaliště",
-        "summary": "V Břeclavi pokračuje rekonstrukce koupaliště, přibude bazén, tobogan a wellness centrum.",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbUU1VEZoc2lDSUlPVXVTSmxEMldZUXpCRWlOWUxzMlFMNzlVX2xQY3kweExuTTVxcmhwek5LQzNHQXlPNXF4Tno4elVZd1VLUlphMnpQeXZCZkQwQURYX0ppXzc3VEdJd2cxNEVKZWJXOGZZTmF1TXFLaTJyQ1ZvWVlLVHlVdkc3UkI0azhOTks4Smw5N3poZnBmYUhQSENqQU9LbG1CdU9FY2trOHhybUoxcVpZU0d4SzVscXJMNWpxNkE?oc=5",
-        "timestamp": "2026-04-12T03:48:00",
-        "timestamp_display": "12. 04. 2026 03:48",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -51,6 +42,24 @@
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRi1qSVAxOGVqU3VDaGRiRkFzMWlMZWtQNjY2WUdDUXF2TkNHRGNDeHQwMGdVNEtYRURiVlQxamllVi0yNWVpOUJHQmUzdEFKVXVHdHlmaFVYUzMybFBVZnpzdTlLWnc0dFpDN2U4cHQ5RU5FNk10eXVUT1pDdm1QaG9nNVRGWENHX3VKUzVnYUZIQzRRZXJR?oc=5",
         "timestamp": "2026-04-12T10:07:30",
         "timestamp_display": "12. 04. 2026 10:07",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Ben Cristovao staví byznys",
+        "summary": "Ben Cristovao a jeho společníci rozvíjejí byznys zaměřený na péči o pleť.",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcGJrbWpjX0JnaTA1bTM0OUFDUlFubUhlUzA3QWc3TlhZamdydmpieFpEWlE5T05rV1RtTzU3V3hyNTBpeGdGZENWMHFocEk2ZkJZWU9FX1hpM0tlaU0yUGZqMGxlUzYtVkRIZDFyUF9ydm96YVA2TVBKNXotV0wwTlllUlgzNGxrSXNzQlF4RlJYeWxTSExBS1ZaMnd0em40TjMwdk56MmVEaGVjcFlHYTJkeVRIZDNqajFQb2ZWeUxUcW5SNVhwWF9vUlNIZ0k?oc=5",
+        "timestamp": "2026-04-12T10:00:00",
+        "timestamp_display": "12. 04. 2026 10:00",
+        "is_new": false
+    },
+    {
+        "category": "Věda",
+        "title": "Asteroid Ryugu přinesl stavební kameny",
+        "summary": "Vědci objevili ve vzorcích z asteroidu Ryugu stavební kameny DNA a RNA, což naznačuje, že život na Zemi mohl pocházet z vesmíru.",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObnc2UE5NcFJXQWRiczNlbWdPOVFqSmZ1VkFLV2ltbVZCaFM5RVRxTHVGaWRrWTZHekphT2ljZlpoeDRxcTFxZTJnaWhmVmttY3Q3WmtmS0tQeFRWTmZSQ21QTDVLbV9zTVQtQXQ5MDhLME9iTndtVUo5S2lNVGdJcU84MXFQYklyejdUWE9Hck9yYTAwZ09oS0huc2M4SExmMTZ3Tm9xZ09UWHZiN0ZhQmI5U1psRTd0djRodTIzTlVSTWhNUHFDYmVFSTFYUVhvZndFNTdPVWRwckFRY2M2QW5QbVg1Wlpj?oc=5",
+        "timestamp": "2026-04-12T09:42:29",
+        "timestamp_display": "12. 04. 2026 09:42",
         "is_new": false
     },
     {
@@ -87,6 +96,15 @@
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Ob3ZqbmpkVUV1THF4d1ctN3JObUNLU3V2eVRkZElQektSMG1TMldtN1pERUhNTEVpalhKdEJUTWRXMFZ0Qjdoa2NEbjhkM1RkeEtGdGdUMA?oc=5",
         "timestamp": "2026-04-12T04:44:37",
         "timestamp_display": "12. 04. 2026 04:44",
+        "is_new": false
+    },
+    {
+        "category": "Společnost",
+        "title": "Rekonstrukce koupaliště",
+        "summary": "V Břeclavi pokračuje rekonstrukce koupaliště, přibude bazén, tobogan a wellness centrum.",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbUU1VEZoc2lDSUlPVXVTSmxEMldZUXpCRWlOWUxzMlFMNzlVX2xQY3kweExuTTVxcmhwek5LQzNHQXlPNXF4Tno4elVZd1VLUlphMnpQeXZCZkQwQURYX0ppXzc3VEdJd2cxNEVKZWJXOGZZTmF1TXFLaTJyQ1ZvWVlLVHlVdkc3UkI0azhOTks4Smw5N3poZnBmYUhQSENqQU9LbG1CdU9FY2trOHhybUoxcVpZU0d4SzVscXJMNWpxNkE?oc=5",
+        "timestamp": "2026-04-12T03:48:00",
+        "timestamp_display": "12. 04. 2026 03:48",
         "is_new": false
     },
     {
