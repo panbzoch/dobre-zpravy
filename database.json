@@ -1,21 +1,57 @@
 [
     {
         "category": "Technologie",
+        "title": "AI šéf Meta",
+        "summary": "Meta vyvíjí digitálního šéfa pro komunikaci se zaměstnanci pomocí umělé inteligence.",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYmRidWowZy1uNFlMd1A3U3dla3RjRHVKUi13T1RKUkFsWXdQQ1JZamVUT3l2OTIydVpFdzM2cVNGOG9oN2doZUY1UnMtVmU5VzJuZEZqS3Zsb3EtdkFuZzhZN0NtaXFReTFVMVp4WmxHUkhiU3ZWMGxoS0x3R0hrS2VUd1BsNnMxVENYcXFNU2dWbzFWRndB?oc=5",
+        "timestamp": "2026-04-13T13:48:42",
+        "timestamp_display": "13. 04. 2026 13:48",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Nová výšková budova",
+        "summary": "V Praze vyroste nová výšková budova s 200 byty a kancelářemi.",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVGJ2OHY2WjhhOEx6N1duR1dkbGUzOXFpWjRlck9ZU21EN29EdGUyaUJNUlNMcUR6RUtPMHphY1JWX2NkZlNTU1FwaEJkcV9TX2ZiQWJPYlRJOWNlMUllVnRNV1RkZHpOQ2JvUTZfUkMtS09Ic0RWOHVxOFBUWG1FNFdhN0NDeF9IX0FHeGFFUDFKNHNJNTNjRkQ5cXFPaEh1V2tacmJraWEwM1VKX2lwdnZjUWlDNlZ0ckFqQ21TMU4ydVI0cjlJ?oc=5",
+        "timestamp": "2026-04-13T10:42:00",
+        "timestamp_display": "13. 04. 2026 10:42",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Robotika pro žáky",
+        "summary": "Žáci základní školy v Javorníku získají učebny robotiky a šicí dílny po opravě polytechnického centra.",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdEU1cFBCMlZyWFA5UXJDY2w1U2xMc2g1bENJeUtjYVpVbWhONUFVb2JHWlFFaFpkUlJwX0l6OGwtaVowcGpPQ0JlZHk1X1dMWHloeGN6V0o0bzBydGt6RExrQUp1aEJONTN0Y05XRlIzUUFTUUFKNl9iR3E5RVpXMmE1UFZUN1N2REQ4VElFN2J6UlJyMUZuLThteTNwZ0NKYTVEYlpQOXFrS1V4Q3I2LWJhRl9rNk1zQXFtN2tpUjNST2lC?oc=5",
+        "timestamp": "2026-04-13T06:56:00",
+        "timestamp_display": "13. 04. 2026 06:56",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Průmysl mění život",
+        "summary": "Forbes Česko nabízí inspirativní články o podnikání a úspěchu.",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPS25hQTJJc2ZLaW9JRVMxenhramlyR0x2cmw5eWJaaXJSQW1lYVEzRlN1MkJYTmRwQV95bFZ2RUszVlNpWjNmSGpRbzRXLTRJc3RYaXk2VQ?oc=5",
+        "timestamp": "2026-04-12T10:56:49",
+        "timestamp_display": "12. 04. 2026 10:56",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Forbes změna života",
+        "summary": "Forbes nabízí inspiraci pro změnu života prostřednictvím motivačních článků a příběhů úspěchu.",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFMzh6TlpsM2ZON0w3anRPa2xqMzk2RlNVQ0o4TEhrZ19RQ3JsTnZCeFJqd3p6NkZMM041TGdCNVA0STNUOTZxdExTWVJKak5sQmdfQXFRbE5hcU0?oc=5",
+        "timestamp": "2026-04-10T15:07:31",
+        "timestamp_display": "10. 04. 2026 15:07",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
         "title": "SpaceX ukázalo Starship",
         "summary": "SpaceX představilo fotografie Starshipu V3, který se chystá na premiérový let, ačkoli s mírným zpožděním.",
         "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOTzVhV0xKRklTVWNmV3J0dU5hQW9yY3FhcWxoVTh0WFFMNmJReTdMZmJqdUVFdVNwcGc3N0RIY3lQLTlyZS15aGxrVks5b3RRSVNsMmJjYVJOdVVpMlZuSlhpSUozdGN6QVBJQnJFRzVJTHN6dHh1LUN2aDhxeWFFa0ltaFRIUWYyanNleFUzeC1Odko0RjJZV3dhZThNdVBmYUtHNTR5Rkt1SWhVN0MzODgzVy1fNlpqb2lJXzdpdm94Q0NpT2lVWVo2bHc5VG1vSmhkb2tnUGwweUtZZ3BJalowQVpVNkJzS3RFUmhlWVhFaTN1amNMaENwcjNlcTNfbmZBMmJJaEdFZTFpRnc?oc=5",
         "timestamp": "2026-04-13T10:54:43",
         "timestamp_display": "13. 04. 2026 10:54",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "EU vyžaduje označení AI",
-        "summary": "Evropská unie plánuje zavést povinné označování obsahu vytvořeného umělou inteligencí.",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOERudm00YURxLWEyWTNXRGdId3h2VzZ3VGhvbmROZHZyUm9YRWNLYmlBZU0tajBNaGk4TUVvVW9OTTEtT3JuZXg5WnIxRjYzUkRwdEstMW9GaThqbUNqS0FCWmx5RXF6WFd1Z191R2pQVElYN2drT1Z1MlhncGs5RmRxRE81YWF4ZEpQNks2Sno4OXVkVXBlc3dPX3JHblZi?oc=5",
-        "timestamp": "2026-04-10T07:00:00",
-        "timestamp_display": "10. 04. 2026 07:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -258,6 +294,15 @@
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYWgwWjVZX2ZBYjVPXzJFNGV1eDhrcUdTWE1BTjM2NjBfaGFfbU9xNU1BamJHSUdLNkdsakM4STAyZHk3c3l0bnhPZUo2V0JnX0RKTklHbjBwcWo1b2gzbXRYZjY3ZXIwOExjdE1rWGhrOVNTbkRtV25ENDVwSWQxWWJyMWh1WDA1VmlibXJQamd2UVh0UkotUUNtYnExQ0Z5V1JFcWx3RExlQQ?oc=5",
         "timestamp": "2026-04-10T08:51:50",
         "timestamp_display": "10. 04. 2026 08:51",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "EU vyžaduje označení AI",
+        "summary": "Evropská unie plánuje zavést povinné označování obsahu vytvořeného umělou inteligencí.",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOERudm00YURxLWEyWTNXRGdId3h2VzZ3VGhvbmROZHZyUm9YRWNLYmlBZU0tajBNaGk4TUVvVW9OTTEtT3JuZXg5WnIxRjYzUkRwdEstMW9GaThqbUNqS0FCWmx5RXF6WFd1Z191R2pQVElYN2drT1Z1MlhncGs5RmRxRE81YWF4ZEpQNks2Sno4OXVkVXBlc3dPX3JHblZi?oc=5",
+        "timestamp": "2026-04-10T07:00:00",
+        "timestamp_display": "10. 04. 2026 07:00",
         "is_new": false
     },
     {
