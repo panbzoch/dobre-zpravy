@@ -1,12 +1,30 @@
 [
     {
+        "category": "Technologie",
+        "title": "SpaceX ukázalo Starship",
+        "summary": "SpaceX představilo fotografie Starshipu V3, který se chystá na premiérový let, ačkoli s mírným zpožděním.",
+        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOTzVhV0xKRklTVWNmV3J0dU5hQW9yY3FhcWxoVTh0WFFMNmJReTdMZmJqdUVFdVNwcGc3N0RIY3lQLTlyZS15aGxrVks5b3RRSVNsMmJjYVJOdVVpMlZuSlhpSUozdGN6QVBJQnJFRzVJTHN6dHh1LUN2aDhxeWFFa0ltaFRIUWYyanNleFUzeC1Odko0RjJZV3dhZThNdVBmYUtHNTR5Rkt1SWhVN0MzODgzVy1fNlpqb2lJXzdpdm94Q0NpT2lVWVo2bHc5VG1vSmhkb2tnUGwweUtZZ3BJalowQVpVNkJzS3RFUmhlWVhFaTN1amNMaENwcjNlcTNfbmZBMmJJaEdFZTFpRnc?oc=5",
+        "timestamp": "2026-04-13T10:54:43",
+        "timestamp_display": "13. 04. 2026 10:54",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "EU vyžaduje označení AI",
+        "summary": "Evropská unie plánuje zavést povinné označování obsahu vytvořeného umělou inteligencí.",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOERudm00YURxLWEyWTNXRGdId3h2VzZ3VGhvbmROZHZyUm9YRWNLYmlBZU0tajBNaGk4TUVvVW9OTTEtT3JuZXg5WnIxRjYzUkRwdEstMW9GaThqbUNqS0FCWmx5RXF6WFd1Z191R2pQVElYN2drT1Z1MlhncGs5RmRxRE81YWF4ZEpQNks2Sno4OXVkVXBlc3dPX3JHblZi?oc=5",
+        "timestamp": "2026-04-10T07:00:00",
+        "timestamp_display": "10. 04. 2026 07:00",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "Colt vstupuje na burzu",
         "summary": "Společnost Colt vstupuje na amsterodamskou burzu, obchodování začne ve středu.",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaTFIZWxRcWVMUFh0STU3RF9WT1FhUWZNVWpVd19JRTlFV2gxcG1Jc1RVUGY3Rmt1QkFZZV9QTHZyZ2RMXzN1OWdKS3pqa09fU0FDSkJSR1hWdVhaTTltaUFpTjV5OFBhOGF6OVc4b0dqQzlSX3R6anN0TXBkbkRwN3NTcXpIZjZ1bUF2N0FNb1U?oc=5",
         "timestamp": "2026-04-13T07:15:05",
         "timestamp_display": "13. 04. 2026 07:15",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Společnost",
@@ -15,7 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNQUlRdWNyak9sTWIxVnZyUUpKX19ITWZNb1Y4LUUxeGlHeDd6MFB2ZHVRSHVRcVFRSE1mN2h6ZG94UHJ2WFhHMy1ER1VVakZKLTNFQ0tUemc0WGxIYkx5czVyWGQ4WmE5NENEN2xZSEJTWENjY0hHSVNnd1hTSWxmVFZucTJpUjhVWjdLRTU3aER3cnc1ekFZbGFCWTZYaUJuQVRTdFpMLWpBQ3lYUW1aQkNURE8zOVlRYnZtRC00VW5NRVlQc1VVdjVsbERsRENkWVlzRUZYTlhEMjJ4ZVcxZklIY3M5VVlYbjhGZjEtX1REazV0NGtXZw?oc=5",
         "timestamp": "2026-04-13T05:43:21",
         "timestamp_display": "13. 04. 2026 05:43",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -24,16 +42,7 @@
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPWjFBNVVlVnQtT1UtRkFEVlUzSjlxYXhMaGdsV2RGdkNkNThjcHo2LXBFSHlCUGw1ZC1OWHJMR0VITjlzYzV1a2E2RDY2Q09BYWNuQzNjYzg4Znhfdjh3NE1NWDJLY05taFpTR0VJU3dCUQ?oc=5",
         "timestamp": "2026-04-12T14:11:42",
         "timestamp_display": "12. 04. 2026 14:11",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Společnost mění život",
-        "summary": "Forbes Česko nabízí inspirativní články o úspěších a změnách v životě lidí.",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kNmJlQjhqbjZ3VjVWandTRXVRZ0hJU05GQmV5UVo4WUhnbWNRbmVKMVNzTjQtVFo1U0pZZ3lwbkR0cXRLZHVhSENDVlVpLWZ5TWpkd0xPNFRUSnM?oc=5",
-        "timestamp": "2026-04-10T15:36:28",
-        "timestamp_display": "10. 04. 2026 15:36",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -222,6 +231,15 @@
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2UnpXb1hKWFNONFl6ck55VzY1d3lwWHc1M01QQks3MXRHVmRLQTIxeTlKWExDMXN0cUdUWGY2bjBqTXJRSG5FOXJqUEZOeERscWlqX2pZTnR3UQ?oc=5",
         "timestamp": "2026-04-10T17:30:28",
         "timestamp_display": "10. 04. 2026 17:30",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Společnost mění život",
+        "summary": "Forbes Česko nabízí inspirativní články o úspěších a změnách v životě lidí.",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kNmJlQjhqbjZ3VjVWandTRXVRZ0hJU05GQmV5UVo4WUhnbWNRbmVKMVNzTjQtVFo1U0pZZ3lwbkR0cXRLZHVhSENDVlVpLWZ5TWpkd0xPNFRUSnM?oc=5",
+        "timestamp": "2026-04-10T15:36:28",
+        "timestamp_display": "10. 04. 2026 15:36",
         "is_new": false
     },
     {
