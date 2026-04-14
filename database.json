@@ -1,12 +1,48 @@
 [
     {
         "category": "Byznys",
+        "title": "Energo-Pro roste",
+        "summary": "Energo-Pro miliardáře Tesaře zaznamenala růst tržeb a rozšířila své portfolio.",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdExaM0d2aVQ2Z05RQnVuSVQxTTRBZUhnWlNNc1VtTHNXSGY3TVRNa1FYcUxPWExwYkR4SS1veC1hRHJ5d3J1NTZMWEtRRUVMOXVtMW04dGtCcHRZQmNHT1RZNThmdGtJM3NXRjZCM3lPVkhDaHN2TkstWTFNdmtJUGFpSERXdGxHMVZRWlZOOGcxUzM3NU5z?oc=5",
+        "timestamp": "2026-04-14T09:37:10",
+        "timestamp_display": "14. 04. 2026 09:37",
+        "is_new": true
+    },
+    {
+        "category": "Medicína",
+        "title": "Přelom v léčbě rakoviny",
+        "summary": "Nový preparát od RevMed zdvojnásobil dobu přežití pacientů s rakovinou slinivky.",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX1d3UU9sODhSbGRRbFlTVTZRcDJuS3JTTmc2UHpqOGFaS1V6NDlmaV9NUXlLQUhjdWZ4VTVNb050V1RsMi1weHpkTDdrYWdSd1AxQ2lVaHZHRjVlNnUxbGxfdUVfTjRKQWJDSGNVdDNkaUNNUWdUOEl2bF9OdC1ZODB2cjBmTTdJTTRpUUpSQ1phOUFCdmdKNEtJcDZ4VUE4NUJNMTlfR0U0Zjczc2dTLVpHVFpKanBtOTc0M1FHTm82UQ?oc=5",
+        "timestamp": "2026-04-14T09:15:00",
+        "timestamp_display": "14. 04. 2026 09:15",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Zemědělci zahajují jarní práce",
+        "summary": "Zemědělci na Hané zahájili jarní práce na chmelnicích a čekají na první úrodu z nových výsadeb.",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORjYxTXE5VHlDalgxSGN0VEVLUHdNd1doS01KVC1IMUxlSmNqNGdVQW1LdGkyd3hhc3djXzlqWTlIejNFRDI3QTNhSjRCMEdwX1VlU0pCODhOakY1cVVMVzNuSnNZdWh6LXJkT21kbTNMSElqaDBiREFaSnpTbDZpR3RyMGRDR1UyNUhMbkNZazJ4MVM3NlFuV3FDcXdqSjA0M0kxU0dhTmlOSnloaXg1OGJwUHUzTHBoUV9iQWE4TVYxemo1?oc=5",
+        "timestamp": "2026-04-12T07:53:00",
+        "timestamp_display": "12. 04. 2026 07:53",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Nová Olympia Teplice",
+        "summary": "Olympia Teplice se rozšiřuje o nový retail park, který je plně obsazen a klade důraz na udržitelnost.",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSHBxc1VhaVo0dUI0N1NxYnk2bzFDRXpJem5Ka3NaU3JKYTZmaXh3MWx4cjlDQWwwa1FHY1A1dmY2SENkRV9ucHU3V1pmUklYbjYtNWlxajNWUXN0THVIczg3NjExSE1NOHJ2cTdyTzlLeWV1alB2Y1gyWnE2TXVJdlFVcmQxT2tJd1FlZXRCYm5idDJkQ21hcjRiOXpCVmdtaHByTVJRWmxOVDZEZGJLM3hFcm1DZVBjWmhpUEkwakNUZXc?oc=5",
+        "timestamp": "2026-04-09T17:16:00",
+        "timestamp_display": "09. 04. 2026 17:16",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Ridera staví byty",
         "summary": "Skupina Ridera staví přes tisíc nových bytů, rozšiřuje své stavební projekty.",
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xaGp6U0hacWJSakI2cWFNalpXRVQ2TE15NHZWUUp1eDk4MGY4N0xiMnQ1RUx0NXBYcy1JUnlHZldQckk5WnZ0cUd2cTJmZ2xiZC0wN1JiNkVYcHI0UU5PWlZUQWlhaXFXSmVDTDRXSVY1bUtkSlNoNG5XRTM?oc=5",
         "timestamp": "2026-04-14T06:01:45",
         "timestamp_display": "14. 04. 2026 06:01",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -15,7 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRlhXbF8talptMUhmWnU1V3I0ZUtuRFhJWnBQc01zLWtyZDRoZWRJZUl2VzgxWm0zVVhzdU93MlNuNDBfMUZqaG1IbWFwNThZMnBrWENGemZXYS1GeVkwaXVzNVVVcW10V2hLcGI5N3JrWnhpUHpleGl1T2dGUzNpSnRqZzZyc0QxNjNoUWxZXzVTYW9XLTVpc2RyMHFiMk9LMnZiNjJHeVRSZFhtUFBORTBIZlRVc0pyNnlsOENwSUFZWjM5Z2NfRFdseUVIME5uaENYdnlMXzhIc09ISmk2ajhDVDI0TG5XYnEzTXV3RQ?oc=5",
         "timestamp": "2026-04-14T05:43:05",
         "timestamp_display": "14. 04. 2026 05:43",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -24,7 +60,7 @@
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbGFxU09lcGZEZl9oOVVQSjkzZUc1Sm5GeldrVGtVMG9neU1yaThFLVEtaVRWQmczS19aRk5CUGRSanhaRFNUXzB0Wmp6SzBmVUNZMVphcVlfMFVGczBYcUZEZDBoNkp5bzNyNk5Lc1pwaDVVZmZISk1VcWM0cVV2M1YxdTZjQ2xfSFExRjZEZDlMTzFMLXRHODBBRQ?oc=5",
         "timestamp": "2026-04-14T04:03:10",
         "timestamp_display": "14. 04. 2026 04:03",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,7 +69,7 @@
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSTkzT2JwaE5jdHhnMnluVlVObTFRbTVhMURNdVIzOHNrWmdma0QxRXVpMXo0aDFUc1VzQ2ZqUFBUSlFIYm5aRWRROFZKWkRDWUNwWWNva3pZWENVbzVXVXJiQXN3R3FqUUp6NTZYQ1UtV0FYaXluRU82YmxnTktxVU16aWNBMFB6S0MxeFJwMGg4TjJuOVh2TFdWbkxCNWcwOG1kaGJub2pkS0NhRU4zWkt5eUp3ck52OXVLUWkycVpJTklPaVhmazRB?oc=5",
         "timestamp": "2026-04-13T18:43:00",
         "timestamp_display": "13. 04. 2026 18:43",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Společnost",
