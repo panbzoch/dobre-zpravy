@@ -1,12 +1,48 @@
 [
     {
+        "category": "Byznys",
+        "title": "Ridera staví byty",
+        "summary": "Skupina Ridera staví přes tisíc nových bytů, rozšiřuje své stavební projekty.",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xaGp6U0hacWJSakI2cWFNalpXRVQ2TE15NHZWUUp1eDk4MGY4N0xiMnQ1RUx0NXBYcy1JUnlHZldQckk5WnZ0cUd2cTJmZ2xiZC0wN1JiNkVYcHI0UU5PWlZUQWlhaXFXSmVDTDRXSVY1bUtkSlNoNG5XRTM?oc=5",
+        "timestamp": "2026-04-14T06:01:45",
+        "timestamp_display": "14. 04. 2026 06:01",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Nový model Velkého třesku",
+        "summary": "Vědci vytvořili nový fyzikální model, který vyvrací počáteční singularitu při Velkém třesku a nabízí novou perspektivu na vznik vesmíru.",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRlhXbF8talptMUhmWnU1V3I0ZUtuRFhJWnBQc01zLWtyZDRoZWRJZUl2VzgxWm0zVVhzdU93MlNuNDBfMUZqaG1IbWFwNThZMnBrWENGemZXYS1GeVkwaXVzNVVVcW10V2hLcGI5N3JrWnhpUHpleGl1T2dGUzNpSnRqZzZyc0QxNjNoUWxZXzVTYW9XLTVpc2RyMHFiMk9LMnZiNjJHeVRSZFhtUFBORTBIZlRVc0pyNnlsOENwSUFZWjM5Z2NfRFdseUVIME5uaENYdnlMXzhIc09ISmk2ajhDVDI0TG5XYnEzTXV3RQ?oc=5",
+        "timestamp": "2026-04-14T05:43:05",
+        "timestamp_display": "14. 04. 2026 05:43",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Meta buduje AI",
+        "summary": "Meta buduje umělou inteligenci, kterou vede Mark Zuckerberg, a Praha se stává centrem pro fitness pro děti.",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbGFxU09lcGZEZl9oOVVQSjkzZUc1Sm5GeldrVGtVMG9neU1yaThFLVEtaVRWQmczS19aRk5CUGRSanhaRFNUXzB0Wmp6SzBmVUNZMVphcVlfMFVGczBYcUZEZDBoNkp5bzNyNk5Lc1pwaDVVZmZISk1VcWM0cVV2M1YxdTZjQ2xfSFExRjZEZDlMTzFMLXRHODBBRQ?oc=5",
+        "timestamp": "2026-04-14T04:03:10",
+        "timestamp_display": "14. 04. 2026 04:03",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Intel akcie vyskočily",
+        "summary": "Akcie Intelu vyskočily o 56 procent, nejlepší výsledek dekády.",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSTkzT2JwaE5jdHhnMnluVlVObTFRbTVhMURNdVIzOHNrWmdma0QxRXVpMXo0aDFUc1VzQ2ZqUFBUSlFIYm5aRWRROFZKWkRDWUNwWWNva3pZWENVbzVXVXJiQXN3R3FqUUp6NTZYQ1UtV0FYaXluRU82YmxnTktxVU16aWNBMFB6S0MxeFJwMGg4TjJuOVh2TFdWbkxCNWcwOG1kaGJub2pkS0NhRU4zWkt5eUp3ck52OXVLUWkycVpJTklPaVhmazRB?oc=5",
+        "timestamp": "2026-04-13T18:43:00",
+        "timestamp_display": "13. 04. 2026 18:43",
+        "is_new": true
+    },
+    {
         "category": "Společnost",
         "title": "The Little Gym",
         "summary": "The Little Gym buduje dětem zdravé sebevědomí a nabízí pohybové aktivity pro děti.",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa0QzOXZsZmt5TjRLUXg4LW0yQUFVX2hLRjNLbUNJSmptSHNWWEtNRTQ1bkRwNWlhSEljSnYzRDlIdm1FS1BIQ2IybmFFSjlCaUh1ckdkNjhhMl9jWGFaODJGSnJ4WmYwNHZEaXg3bnY3WVhWaVVrbFVuUVNLZkhFd181TVZhME1XaHR0QkpSa2FDaXZ6U29tb2FabXhNUnhGSVlv?oc=5",
         "timestamp": "2026-04-13T16:09:46",
         "timestamp_display": "13. 04. 2026 16:09",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
