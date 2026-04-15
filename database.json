@@ -1,21 +1,39 @@
 [
     {
+        "category": "Věda",
+        "title": "Nový čínský krystal",
+        "summary": "Čína objevila nový krystal, který umožňuje navigaci ponorek a raket bez satelitního signálu.",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPTGlWZ1BDOTE2YnZaTjRBZHN2THptTmQya01qWWIwemJiSERKY0FoZnY3azRmLXU4VUJHZHFjMFZxdmlwYVJ4MDh3Tjg4ZDFub3JUREt5N0tVb1UtSmJpWE5NSVVPZTRycy1pelRNcUJaWWk2NEpHT3dQOHI4WkdmR3lSVFlEdzdXLVNmdGUzdndvTEQtbmpjNmJtVUNYV1pBWFhrci1xMlc1R0N2TFNCNnJUMUhzWnhIczVhSm82SEtXcGdSaWJ3eXdpNmY2X1ppU2RrQlZCd3lwTVd0VGRGVzFHRWpfU3NTYjZyZWgzM3NRdGdRN1ZCVQ?oc=5",
+        "timestamp": "2026-04-15T06:11:27",
+        "timestamp_display": "15. 04. 2026 06:11",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Česko spustilo kvantovou síť",
+        "summary": "Česko spustilo kvantovou síť, která zajišťuje bezpečnou komunikaci bez odposlechu.",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdHV6cEtmTjhKYm0tZTdKTkZIbW1MUGVLVDlIRi11eFhNdXRWenBrS0hPb0VFWmRMNks4clpjQ1MwM2dsTUtPaTc1VUlxM25JaTVzTVdDNUxyb00zdXRWQjFBZ0RfNTlOVzdhVEI2UUJqWFNiNjU0cm4zWEk5MlBjcjNrdEZhUWpqWE1QcDgySWdYTEpwWERFMTU3eWNCUVVkdnFMVXYwZTE4VndnbVU3blYwWGhPYjEyTVBVa05UOVdnbWdGWkE?oc=5",
+        "timestamp": "2026-04-13T07:00:00",
+        "timestamp_display": "13. 04. 2026 07:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Tomáš Čupr nový AI startup",
+        "summary": "Tomáš Čupr získal přes 340 milionů od investorů pro svůj nový AI startup, který chce vyřešit problémy firem.",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUVEycTc4RHdSNjdONU16QmZYaWpVUzh1SXVzYjl5RnoyWVFEMjZBQzcxRElNdEtYSy1OOEhOVWI5ZHpmRm80ZG41UTVycDNEQWxhekJZeVJaaXE2VGMzRmRhRHdZQk9LeHBfX2t5cmFLRnFVY2lXQmE4dkNhc0dQY3Q0U1VaVG4yUGhmTjJRdUxoYnNrakhyeXRCM2JwTXZKSWFkZUJVbjdmQkZ6UFE?oc=5",
+        "timestamp": "2025-12-02T08:00:00",
+        "timestamp_display": "02. 12. 2025 08:00",
+        "is_new": true
+    },
+    {
         "category": "Společnost",
         "title": "Výstava cukrovinek",
         "summary": "Depozitář výstavy o cukrovinkách z Opavska je naplněn dary, včetně dobových etiket a forem na čokoládu.",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUTNuLTlWaGRXWFQtN1VWWjJ5R2xYOWJDbTk3RmNFeGItRzdkSk9ZS3pILTlfMkozN2hIZjM2R1ZWcTFKejh2ZFRiNF9jaWVBZXZpbTh6eDRpNTZJNlRzekxIUldLWmZ5dDhXYVZGZE1OSy1ISlNyM0toSFVPUzFHNnlEejdkRmVZOFh5MFNXcXJyb3U1OEJGcDV5NFZkNTJQNE9fSTF6VVF5RG1TSjQxNzJ1RzEwdGRJS19XazVFcXByVl9fa3BJYVl3cXNIeHV3dlRSU1lFVQ?oc=5",
         "timestamp": "2026-04-14T17:08:00",
         "timestamp_display": "14. 04. 2026 17:08",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Nerezová ocel v Česku",
-        "summary": "Nerezová ocel se používá v moderním bydlení a průmyslu v Česku díky svým výhodám.",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aaWJtTFh3bUxFdDY4bU1wN2JGSV9scE9EbkR4cWpfcG1ONUlCQ09CWFk2dGpoRkV1RUw4aTB1dlNoaFc2eEJmS0RKa0I3bEZEV2tV?oc=5",
-        "timestamp": "2026-04-14T13:54:37",
-        "timestamp_display": "14. 04. 2026 13:54",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -24,6 +42,15 @@
         "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQQWcybUlFUDJueE0yb19BYXFWNzNvdGRTQXplVDZqdlpBdVFYcTF2c1lDS0tnX2tISkFCTERXUktBcFdRaE5jMmZ4UXdDd0RjV0l0OTNud1UxR3pJN0xQaTEtX2Y1Y2UzcDRrd2Q0Vkk3YW01M3M5b0xBOGpQN3AtTW5MM29HZ2l2Zl9XSDhwZ2w0eVVsUGFuZ2tKMHQzc2RaUEw0TmZCejdjd0dtZFdFa3p6UjZudTdWWmw4RTh0U0o0Z0JUeWxScjJ6TGJxWVhIUXF1b1huWVVBNVNTUTZqQlZpaXVlWjgtMkJPSFlhSDFKM0FUQ3FCMk56QkVOX215SXpxUXBpUFRqWUNBYkE?oc=5",
         "timestamp": "2026-04-14T14:56:18",
         "timestamp_display": "14. 04. 2026 14:56",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Nerezová ocel v Česku",
+        "summary": "Nerezová ocel se používá v moderním bydlení a průmyslu v Česku díky svým výhodám.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aaWJtTFh3bUxFdDY4bU1wN2JGSV9scE9EbkR4cWpfcG1ONUlCQ09CWFk2dGpoRkV1RUw4aTB1dlNoaFc2eEJmS0RKa0I3bEZEV2tV?oc=5",
+        "timestamp": "2026-04-14T13:54:37",
+        "timestamp_display": "14. 04. 2026 13:54",
         "is_new": false
     },
     {
