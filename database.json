@@ -1,30 +1,57 @@
 [
     {
+        "category": "Byznys",
+        "title": "České firmy investují do AI",
+        "summary": "Přes 70 % českých firem má strategii pro umělou inteligenci, ale investice jsou stále opatrné.",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS0JsT01uT0VXakZOVHVfQ1pHNHluUG8xdnExM2JBVmt1aHdiT2VGTXlycGQya21YZHFOZWVWaHcxbUIwUERCSlRLNmxudUJfem9OQVNUS0tEcUxfZEV4ZktJZnpEajY1clZ3MHJKdG16ZnQyNGctbTNTbFpNRUw1YUF1bFI3Y0txLXhiZ2JXak4tRm92MXlldkZpMTc5ZTBsS2dWTzdQZTU?oc=5",
+        "timestamp": "2026-04-15T10:30:00",
+        "timestamp_display": "15. 04. 2026 10:30",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Komárek investuje",
+        "summary": "Český holding zvyšuje podíl ve Ferretti, investice dosahuje téměř tří miliard korun.",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSEVRdzg2Y1N5SExERlo3NElrM3pLanRJbzU4a2xIWkt0MDNYbi0zbWRpR25hZjNXQUZLWUNlZGVSVk9BQWtkaGNsTnl3RTNKX1kyMUgzeUxiRHdGMlU3YXFJWnVEN1Vzd2t5LVItc0p2czU5d29kaE1CRnktQlNjMC1nZXRYM2hXOUVCdWJNZXRYNF9hTXBRc05halJVU2NVVm5yVDN1ZDRhRlQ3bVE?oc=5",
+        "timestamp": "2026-04-15T08:50:50",
+        "timestamp_display": "15. 04. 2026 08:50",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Český startup získává miliony",
+        "summary": "Český startup získal desítky milionů na vývoj umělé inteligence a její regulaci.",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUm1waHg1QW9hQy05dUt1eWpPZTE0M0lMcEt0NEcxM2dIUXFKelY3TGVZOE85MFFGRHNqU2RrWnNCbUNMaW9vVXFDNGxmVTQzUmtSZDQ0d3JrQ0hOeFpaN1ZZWWJER3diUlFRRFg3cTRldGhIRmY3TTVqbHpmUG9PeTFlWHVpYnZMZTNvcDdQaHBfd3pRTFpWMjRnLTZEczBGRUI3YVpiQWlWUkpESzJz?oc=5",
+        "timestamp": "2026-04-15T07:00:08",
+        "timestamp_display": "15. 04. 2026 07:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Byty místo drátů",
+        "summary": "Penta a PSN chystají bydlení v bývalé telefonní ústředně, nabízí nové byty.",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUFlGLUZhVEdaR19MVGpaWldZcThSR182SlVBdzlNeS1nRDVRYjJLdGdwenQxWWpNaGw0OXBaX0xHU0tXVUVaWlhPLU1vWm1xNnBIVHp3NlNkWmpKOUpnS2l5QnhUTVJUSndmN0p6aDJLWTg4WTR6c2JSbTVXZDdsbGdOTzVNckZDZl9FS2hBb2liS3hITmQ1NEVUT2pqdGZVOEFjMVpqcVY0MlFYZjNLSVVlTEpTM0dUSi13VC03OEc?oc=5",
+        "timestamp": "2026-04-15T06:00:00",
+        "timestamp_display": "15. 04. 2026 06:00",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Čínský krystal naviguje",
+        "summary": "Čínský krystal umožňuje navigaci bez satelitního signálu, otevírá cestu pro ponorky a rakety.",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbnNUX0V3UElEdHN2WWNwYV8tY3I1aUtyS2RJd2tQQ0dqOF9ub1ZkQ0RsampTMkFuRHJLeVdjcUdBWjV4bkVJMldUQWotLVNyZkZOeGtNdXVyVnJ0OFY4ZEdlTVZnbVhiVEQtcDVaZUtxRlhCUFBSTW1OYU5wc1lxcTZaQTVEWS1iUHhkajVLVWEwXzhpaVFfWXh1Um1IVEY1cW9CSVIxOWJpa3pMUDdnam9EODRUQW1RUzk0SGFQZFBTNTlRZjBHem5idHhNR3diUHUxVUFFNFQ2Yk12OUJNNVlBU0pPakVi?oc=5",
+        "timestamp": "2026-04-15T05:42:50",
+        "timestamp_display": "15. 04. 2026 05:42",
+        "is_new": true
+    },
+    {
         "category": "Věda",
         "title": "Nový čínský krystal",
         "summary": "Čína objevila nový krystal, který umožňuje navigaci ponorek a raket bez satelitního signálu.",
         "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPTGlWZ1BDOTE2YnZaTjRBZHN2THptTmQya01qWWIwemJiSERKY0FoZnY3azRmLXU4VUJHZHFjMFZxdmlwYVJ4MDh3Tjg4ZDFub3JUREt5N0tVb1UtSmJpWE5NSVVPZTRycy1pelRNcUJaWWk2NEpHT3dQOHI4WkdmR3lSVFlEdzdXLVNmdGUzdndvTEQtbmpjNmJtVUNYV1pBWFhrci1xMlc1R0N2TFNCNnJUMUhzWnhIczVhSm82SEtXcGdSaWJ3eXdpNmY2X1ppU2RrQlZCd3lwTVd0VGRGVzFHRWpfU3NTYjZyZWgzM3NRdGdRN1ZCVQ?oc=5",
         "timestamp": "2026-04-15T06:11:27",
         "timestamp_display": "15. 04. 2026 06:11",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Česko spustilo kvantovou síť",
-        "summary": "Česko spustilo kvantovou síť, která zajišťuje bezpečnou komunikaci bez odposlechu.",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdHV6cEtmTjhKYm0tZTdKTkZIbW1MUGVLVDlIRi11eFhNdXRWenBrS0hPb0VFWmRMNks4clpjQ1MwM2dsTUtPaTc1VUlxM25JaTVzTVdDNUxyb00zdXRWQjFBZ0RfNTlOVzdhVEI2UUJqWFNiNjU0cm4zWEk5MlBjcjNrdEZhUWpqWE1QcDgySWdYTEpwWERFMTU3eWNCUVVkdnFMVXYwZTE4VndnbVU3blYwWGhPYjEyTVBVa05UOVdnbWdGWkE?oc=5",
-        "timestamp": "2026-04-13T07:00:00",
-        "timestamp_display": "13. 04. 2026 07:00",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Tomáš Čupr nový AI startup",
-        "summary": "Tomáš Čupr získal přes 340 milionů od investorů pro svůj nový AI startup, který chce vyřešit problémy firem.",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUVEycTc4RHdSNjdONU16QmZYaWpVUzh1SXVzYjl5RnoyWVFEMjZBQzcxRElNdEtYSy1OOEhOVWI5ZHpmRm80ZG41UTVycDNEQWxhekJZeVJaaXE2VGMzRmRhRHdZQk9LeHBfX2t5cmFLRnFVY2lXQmE4dkNhc0dQY3Q0U1VaVG4yUGhmTjJRdUxoYnNrakhyeXRCM2JwTXZKSWFkZUJVbjdmQkZ6UFE?oc=5",
-        "timestamp": "2025-12-02T08:00:00",
-        "timestamp_display": "02. 12. 2025 08:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Společnost",
@@ -177,6 +204,15 @@
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaTFIZWxRcWVMUFh0STU3RF9WT1FhUWZNVWpVd19JRTlFV2gxcG1Jc1RVUGY3Rmt1QkFZZV9QTHZyZ2RMXzN1OWdKS3pqa09fU0FDSkJSR1hWdVhaTTltaUFpTjV5OFBhOGF6OVc4b0dqQzlSX3R6anN0TXBkbkRwN3NTcXpIZjZ1bUF2N0FNb1U?oc=5",
         "timestamp": "2026-04-13T07:15:05",
         "timestamp_display": "13. 04. 2026 07:15",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Česko spustilo kvantovou síť",
+        "summary": "Česko spustilo kvantovou síť, která zajišťuje bezpečnou komunikaci bez odposlechu.",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdHV6cEtmTjhKYm0tZTdKTkZIbW1MUGVLVDlIRi11eFhNdXRWenBrS0hPb0VFWmRMNks4clpjQ1MwM2dsTUtPaTc1VUlxM25JaTVzTVdDNUxyb00zdXRWQjFBZ0RfNTlOVzdhVEI2UUJqWFNiNjU0cm4zWEk5MlBjcjNrdEZhUWpqWE1QcDgySWdYTEpwWERFMTU3eWNCUVVkdnFMVXYwZTE4VndnbVU3blYwWGhPYjEyTVBVa05UOVdnbWdGWkE?oc=5",
+        "timestamp": "2026-04-13T07:00:00",
+        "timestamp_display": "13. 04. 2026 07:00",
         "is_new": false
     },
     {
@@ -7503,6 +7539,15 @@
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZjBDblhYd3B5YTdIWmNzSVBHbWVkMXNUemJ1a1p3RlNVWTkzZ0pHX1U1bzExMDdBTVBpWndhRnFwREZDLUY2bXlEUEtWRDhMMWJ1Sl9YRDFsWnNqZWM0MXhNU09mQi1iN2ZFNi15czVTdmVuVktUT1lnYWJtYVpwNUZLanRweVN3Rno3YzRHd0REaEtIU3FCY2paVzZ3QWZtRHFUal8yRDYzeWZPTHd5dGZ2TzI?oc=5",
         "timestamp": "2025-12-29T08:00:00",
         "timestamp_display": "29. 12. 2025 08:00",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Tomáš Čupr nový AI startup",
+        "summary": "Tomáš Čupr získal přes 340 milionů od investorů pro svůj nový AI startup, který chce vyřešit problémy firem.",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUVEycTc4RHdSNjdONU16QmZYaWpVUzh1SXVzYjl5RnoyWVFEMjZBQzcxRElNdEtYSy1OOEhOVWI5ZHpmRm80ZG41UTVycDNEQWxhekJZeVJaaXE2VGMzRmRhRHdZQk9LeHBfX2t5cmFLRnFVY2lXQmE4dkNhc0dQY3Q0U1VaVG4yUGhmTjJRdUxoYnNrakhyeXRCM2JwTXZKSWFkZUJVbjdmQkZ6UFE?oc=5",
+        "timestamp": "2025-12-02T08:00:00",
+        "timestamp_display": "02. 12. 2025 08:00",
         "is_new": false
     },
     {
