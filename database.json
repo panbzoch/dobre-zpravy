@@ -1,12 +1,57 @@
 [
     {
+        "category": "Věda",
+        "title": "Kosmický kluzák testován",
+        "summary": "Kosmický kluzák Dream Chaser prošel testem a možná poletí na podzim.",
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOd21hemRfX2dWRjhXWUtSMkFqUnp0aVRLYU9DakM4RmJVbnJDa3NHRThDQndYMmVMcHh1NVpKMDEtYUNGMHZIVDNTVUo5eHlBN2pkdU1RU0VTbktJMFJNeERrMTdyN0d6M2dfSFVPVnNDaVp1UHlKaHVuT2JEem13ZDVMWDV2M0VGZklOb3JkZEhiODNnallPMjRaeUNTVEhuRzFRUDRlWW9TRjF1TElDUWNVaHpfaEdhOFA5bnBkcDlwUnJGRTJGYWJ1VkVPNDBTOVY1dWw0ejMzNDEteHJDeHpCQ0FyUm5vemJkdnlpOF80b1FaaXNQMElBbFdfeTg?oc=5",
+        "timestamp": "2026-04-15T14:12:53",
+        "timestamp_display": "15. 04. 2026 14:12",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Kosmický kluzák testován",
+        "summary": "Kosmický kluzák Dream Chaser prošel testem a možná poletí na podzim.",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaXYzUVZnWU5GeUkwRGU4VE5EMDlCYjZFLTFiYjlXcXo5cGNVVlRBMFBRWllfaU1GT2dwY2hYZ3JHT2RTR2pVNFFXVzBfZ0VfQXFlZkprU0lzeEtUalJkUVVHVGFCeXlrRGx4cGs0ckRQSWJGY3ZqMEtyTzkzeWZsOTlXVGdXVDZBZ0VLYnBsUWJtMmgzWHp6d1ROZTluWlJ6ay01ZTQxQzBKbHdzUVJxU0c0UnBsMVBkbEFoQ3RsbW1La2RRNWpoVVpxNk1ReFZDY29HSERscFlVS1lrYzVYNFd0TXNEaWNpNHkzTQ?oc=5",
+        "timestamp": "2026-04-15T13:42:15",
+        "timestamp_display": "15. 04. 2026 13:42",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Nová kvantová síť",
+        "summary": "Česko spustilo novou kvantovou síť pro ochranu klíčových systémů a přípravu na kvantové počítače.",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSWhxVWlTWERUcnF0RmlRUXQzODRFMmxoZVdycC1VUXdLZzNwTDF3dVpJbFVXMFJBdVNWWUVaLW11N2JmMU40QzhMTUFkbC01ZFgtLUxwNjYxSTRLZUxlbzM1cXQ2MjZNVnZ2S2FJMzljOVZ3eE92OEFiNFVQTWd4YXpmVG81M0RBQmI5MDJUVlBpU1VkVVBiZk9vcS1kQ0VJX1Blb2tRZVdXVFpPQXBvaVV0Z0xYQXJMeVJxa01BRU1CUnF1T2p4c09OVmVKaDFLNjRvOXBiaVVVUjRtMEg3Uw?oc=5",
+        "timestamp": "2026-04-15T12:03:00",
+        "timestamp_display": "15. 04. 2026 12:03",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Zisk Bank of America",
+        "summary": "Zisk Bank of America stoupl o 17% na 8 miliard dolarů, překonal odhady.",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd3hnVk5XbTBpeGJ4Qk82b09PTHZiZEJQVS1rSnFQYkxtWWt3Z0YzWTNCXzlnNzRaOXcyTjVGemxnVnVvZnF3TXlGbGF4ckFPTTc2YURtUC1hckxXT3diR1dxTHVnLUxaa3FmVDg3Mm5ibTFTNTBLNVdhOExlbTdKeDFzSmdQVFlrWG9DNk4zempoTTBZMmJPRzh2TUxHcU5fbGNZeF8xSE1YT1dpeUNEbnFB?oc=5",
+        "timestamp": "2026-04-15T11:59:42",
+        "timestamp_display": "15. 04. 2026 11:59",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Změňte život technologií",
+        "summary": "Nová technologie může změnit životy lidí, přináší inovace a zlepšuje kvalitu života.",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11MTY1TXpYcWVMQk9kNWpwaXQwX3RwMEpYbkozZXZOT1JxQUFsM1lIMzgyeVROclJfSWgzdmFkSlA2UXJvajBMS2VNQTJHWUszZnRoSWJMSUJiU0lH?oc=5",
+        "timestamp": "2026-04-15T11:07:38",
+        "timestamp_display": "15. 04. 2026 11:07",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "České firmy investují do AI",
         "summary": "Přes 70 % českých firem má strategii pro umělou inteligenci, ale investice jsou stále opatrné.",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS0JsT01uT0VXakZOVHVfQ1pHNHluUG8xdnExM2JBVmt1aHdiT2VGTXlycGQya21YZHFOZWVWaHcxbUIwUERCSlRLNmxudUJfem9OQVNUS0tEcUxfZEV4ZktJZnpEajY1clZ3MHJKdG16ZnQyNGctbTNTbFpNRUw1YUF1bFI3Y0txLXhiZ2JXak4tRm92MXlldkZpMTc5ZTBsS2dWTzdQZTU?oc=5",
         "timestamp": "2026-04-15T10:30:00",
         "timestamp_display": "15. 04. 2026 10:30",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +60,7 @@
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSEVRdzg2Y1N5SExERlo3NElrM3pLanRJbzU4a2xIWkt0MDNYbi0zbWRpR25hZjNXQUZLWUNlZGVSVk9BQWtkaGNsTnl3RTNKX1kyMUgzeUxiRHdGMlU3YXFJWnVEN1Vzd2t5LVItc0p2czU5d29kaE1CRnktQlNjMC1nZXRYM2hXOUVCdWJNZXRYNF9hTXBRc05halJVU2NVVm5yVDN1ZDRhRlQ3bVE?oc=5",
         "timestamp": "2026-04-15T08:50:50",
         "timestamp_display": "15. 04. 2026 08:50",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,25 +69,7 @@
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUm1waHg1QW9hQy05dUt1eWpPZTE0M0lMcEt0NEcxM2dIUXFKelY3TGVZOE85MFFGRHNqU2RrWnNCbUNMaW9vVXFDNGxmVTQzUmtSZDQ0d3JrQ0hOeFpaN1ZZWWJER3diUlFRRFg3cTRldGhIRmY3TTVqbHpmUG9PeTFlWHVpYnZMZTNvcDdQaHBfd3pRTFpWMjRnLTZEczBGRUI3YVpiQWlWUkpESzJz?oc=5",
         "timestamp": "2026-04-15T07:00:08",
         "timestamp_display": "15. 04. 2026 07:00",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Byty místo drátů",
-        "summary": "Penta a PSN chystají bydlení v bývalé telefonní ústředně, nabízí nové byty.",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUFlGLUZhVEdaR19MVGpaWldZcThSR182SlVBdzlNeS1nRDVRYjJLdGdwenQxWWpNaGw0OXBaX0xHU0tXVUVaWlhPLU1vWm1xNnBIVHp3NlNkWmpKOUpnS2l5QnhUTVJUSndmN0p6aDJLWTg4WTR6c2JSbTVXZDdsbGdOTzVNckZDZl9FS2hBb2liS3hITmQ1NEVUT2pqdGZVOEFjMVpqcVY0MlFYZjNLSVVlTEpTM0dUSi13VC03OEc?oc=5",
-        "timestamp": "2026-04-15T06:00:00",
-        "timestamp_display": "15. 04. 2026 06:00",
-        "is_new": true
-    },
-    {
-        "category": "Věda",
-        "title": "Čínský krystal naviguje",
-        "summary": "Čínský krystal umožňuje navigaci bez satelitního signálu, otevírá cestu pro ponorky a rakety.",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbnNUX0V3UElEdHN2WWNwYV8tY3I1aUtyS2RJd2tQQ0dqOF9ub1ZkQ0RsampTMkFuRHJLeVdjcUdBWjV4bkVJMldUQWotLVNyZkZOeGtNdXVyVnJ0OFY4ZEdlTVZnbVhiVEQtcDVaZUtxRlhCUFBSTW1OYU5wc1lxcTZaQTVEWS1iUHhkajVLVWEwXzhpaVFfWXh1Um1IVEY1cW9CSVIxOWJpa3pMUDdnam9EODRUQW1RUzk0SGFQZFBTNTlRZjBHem5idHhNR3diUHUxVUFFNFQ2Yk12OUJNNVlBU0pPakVi?oc=5",
-        "timestamp": "2026-04-15T05:42:50",
-        "timestamp_display": "15. 04. 2026 05:42",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -51,6 +78,24 @@
         "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPTGlWZ1BDOTE2YnZaTjRBZHN2THptTmQya01qWWIwemJiSERKY0FoZnY3azRmLXU4VUJHZHFjMFZxdmlwYVJ4MDh3Tjg4ZDFub3JUREt5N0tVb1UtSmJpWE5NSVVPZTRycy1pelRNcUJaWWk2NEpHT3dQOHI4WkdmR3lSVFlEdzdXLVNmdGUzdndvTEQtbmpjNmJtVUNYV1pBWFhrci1xMlc1R0N2TFNCNnJUMUhzWnhIczVhSm82SEtXcGdSaWJ3eXdpNmY2X1ppU2RrQlZCd3lwTVd0VGRGVzFHRWpfU3NTYjZyZWgzM3NRdGdRN1ZCVQ?oc=5",
         "timestamp": "2026-04-15T06:11:27",
         "timestamp_display": "15. 04. 2026 06:11",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Byty místo drátů",
+        "summary": "Penta a PSN chystají bydlení v bývalé telefonní ústředně, nabízí nové byty.",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUFlGLUZhVEdaR19MVGpaWldZcThSR182SlVBdzlNeS1nRDVRYjJLdGdwenQxWWpNaGw0OXBaX0xHU0tXVUVaWlhPLU1vWm1xNnBIVHp3NlNkWmpKOUpnS2l5QnhUTVJUSndmN0p6aDJLWTg4WTR6c2JSbTVXZDdsbGdOTzVNckZDZl9FS2hBb2liS3hITmQ1NEVUT2pqdGZVOEFjMVpqcVY0MlFYZjNLSVVlTEpTM0dUSi13VC03OEc?oc=5",
+        "timestamp": "2026-04-15T06:00:00",
+        "timestamp_display": "15. 04. 2026 06:00",
+        "is_new": false
+    },
+    {
+        "category": "Věda",
+        "title": "Čínský krystal naviguje",
+        "summary": "Čínský krystal umožňuje navigaci bez satelitního signálu, otevírá cestu pro ponorky a rakety.",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbnNUX0V3UElEdHN2WWNwYV8tY3I1aUtyS2RJd2tQQ0dqOF9ub1ZkQ0RsampTMkFuRHJLeVdjcUdBWjV4bkVJMldUQWotLVNyZkZOeGtNdXVyVnJ0OFY4ZEdlTVZnbVhiVEQtcDVaZUtxRlhCUFBSTW1OYU5wc1lxcTZaQTVEWS1iUHhkajVLVWEwXzhpaVFfWXh1Um1IVEY1cW9CSVIxOWJpa3pMUDdnam9EODRUQW1RUzk0SGFQZFBTNTlRZjBHem5idHhNR3diUHUxVUFFNFQ2Yk12OUJNNVlBU0pPakVi?oc=5",
+        "timestamp": "2026-04-15T05:42:50",
+        "timestamp_display": "15. 04. 2026 05:42",
         "is_new": false
     },
     {
