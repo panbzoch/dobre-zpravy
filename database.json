@@ -1,12 +1,48 @@
 [
     {
         "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Investice může změnit život, jeden dobrý tah může vést k úspěchu a finančním ziskům.",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CSzE5dVFFSjNpa0dTNnVXVTNCc3RwdVBvX29DUnZhSEtKR1BHYzVNb2lqcnFTOTBQWGp0SzgtbFM2NzRmZ1lQUnE4N3ZjVkJqTHVVSFl6dnR1QQ?oc=5",
+        "timestamp": "2026-04-16T10:09:21",
+        "timestamp_display": "16. 04. 2026 10:09",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Obchodování s ETF BSWC",
+        "summary": "Začalo obchodování s fondem ETF BSWC na pražské burze, nabízí nové investiční možnosti.",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWmZpeGN6a2JMWWtYZlpsV2hqMWJOMW9hbExNRnVpUnptYlRGeUl3bmpfSTJKdlhyU3F4eU1Ra21meDhoclFiNlRKS2NMQmdEUWpPaVBQVmtWTjNyTmJ0Unl1d1Y3SWVFTXhHYUZfRmU3NC1aWW9tN005U0RGcjlWSE84VDczRG8?oc=5",
+        "timestamp": "2026-04-16T09:12:52",
+        "timestamp_display": "16. 04. 2026 09:12",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Rekordní zisk TSMC",
+        "summary": "TSMC hlásí rekordní zisk díky rostoucímu zájmu o umělou inteligenci a čipy.",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRHNfeGlwb1RPV3hKbkxBNzh4UzU1Q05ldUlObTUyYkNDY1dzMzNSbXE0bWJhOXpEc1VoVDJidEVmZDVNYmQxTDEtQWg1eVdsYU54SFJXLUx4V0hnQm9PZXlGckpiZm4xbGJRVkdXa2xubjBFX3lJSUtGV0RrMWpmbVpuMlBQNTJ4NDNFdF94SWZHU1NpRGN6Vm50MEF6RWlRUk1ubw?oc=5",
+        "timestamp": "2026-04-16T08:51:49",
+        "timestamp_display": "16. 04. 2026 08:51",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Podcasty Forbes",
+        "summary": "Forbes Česko nabízí podcasty o byznysu a ekonomice.",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tODJkR0tZX0RrRzU1UGx5QlY4WjhSdGs0MW91U2ZKdUM1LTlNZW5KTjE5bklhbk9ualhCOUJvR2N4a2luUjNfVFoxU1BKYnBzSXl0blJySm9Md0NXWUNrc3Z3?oc=5",
+        "timestamp": "2026-04-16T08:44:07",
+        "timestamp_display": "16. 04. 2026 08:44",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Projekt proti šikaně roste",
         "summary": "Projekt FaceUP proti šikaně se stal globálním byznys.",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcG5zU1ctakt2bTNBQzFELV9rbE0wYVE4bU5jbndaZzhndDU0YlY1dWdiUFNlaWdkZU41cndMOFdKM1ZvVjN4amd0aDg0Tm9JMWZUSHdPTWxaN1Q4WmpTVXIyNVlUMEgxTGpMQm5wa1BvY1hPLXBBZEF0UFNDTDNuS0Z3M1V4Q0JWenJqeTRwOU9UNXh2R0ZsWUNWbFg3X1U5cXFaQkNzUHdiSWdFUWpoa1g1V0swbXFQZTV2NWRYb3Fac29KN3NQbTdqVGpXQjg?oc=5",
         "timestamp": "2026-04-16T04:00:00",
         "timestamp_display": "16. 04. 2026 04:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQS1IU1lBZ01VZEJEcGJHYk90OWNGcEV4dFN6Rm83c1hSQVBEQW1GZmlRbVFNSHV2djRob3RMMmJOZC1UdURWWWctZllHVGRMN1dJYVRIZG1FeTB5VENkNktMelZFSzltbzAxS3diUHJGbUtHZDhueG9rWS1jX1dsZFItNmVCX2FSRlJUNXVHcWN6eVlka3U1NEdRXzJaUTZobGtLYXlVQVFCWlFOZ3Z5MjB4ZUpNX3puZ1YwaTc0eFIxTkluclBXY05JR1gxUzdwV29BWnZB?oc=5",
         "timestamp": "2026-04-16T03:30:00",
         "timestamp_display": "16. 04. 2026 03:30",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,16 +60,7 @@
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcXBvWEJCdzBaTkJ3N3NIMXZsVUpyTFlNTDM2NEVscjR6cWE3MEZPenFCTUpkNUZyM0RZcGdzampqMS1XazkyMlpSQl83Y1NIWWR4THBodWZCV1BrLVEzQ3A4Y1U1SjZXRGlXWF8weGRNMi1qU2RmVWliSU9sWTBOZW9zT0RlWXdndXJlQ1NOaFFNRkJuY05RYTVXamRCRUV3dmVfMnhtT0VWZUFya2hWMVhMVjBtS2pZajZSTVJpeU9LNThraEZRTVVKRkdCb09zMnlHcU9QUURnUUZ3T0VWeHA1ZVc0Zw?oc=5",
         "timestamp": "2026-04-15T15:20:00",
         "timestamp_display": "15. 04. 2026 15:20",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Aplikace ověřuje věk",
-        "summary": "Evropská komise dokončila aplikaci pro ověřování věku uživatelů online platforem.",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53S1JBVm9EVmZmMW5OTXVoU25LMElaTkNzX01iRXJYX2d0cVc2bnEyOG0tMWhVMTNSVnh6YmVxVFVFbFFoSWM0SE1wZ2JWMG9oR2ZB?oc=5",
-        "timestamp": "2026-04-15T09:29:00",
-        "timestamp_display": "15. 04. 2026 09:29",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -96,6 +123,15 @@
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS0JsT01uT0VXakZOVHVfQ1pHNHluUG8xdnExM2JBVmt1aHdiT2VGTXlycGQya21YZHFOZWVWaHcxbUIwUERCSlRLNmxudUJfem9OQVNUS0tEcUxfZEV4ZktJZnpEajY1clZ3MHJKdG16ZnQyNGctbTNTbFpNRUw1YUF1bFI3Y0txLXhiZ2JXak4tRm92MXlldkZpMTc5ZTBsS2dWTzdQZTU?oc=5",
         "timestamp": "2026-04-15T10:30:00",
         "timestamp_display": "15. 04. 2026 10:30",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Aplikace ověřuje věk",
+        "summary": "Evropská komise dokončila aplikaci pro ověřování věku uživatelů online platforem.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53S1JBVm9EVmZmMW5OTXVoU25LMElaTkNzX01iRXJYX2d0cVc2bnEyOG0tMWhVMTNSVnh6YmVxVFVFbFFoSWM0SE1wZ2JWMG9oR2ZB?oc=5",
+        "timestamp": "2026-04-15T09:29:00",
+        "timestamp_display": "15. 04. 2026 09:29",
         "is_new": false
     },
     {
