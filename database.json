@@ -1,12 +1,30 @@
 [
     {
         "category": "Byznys",
+        "title": "Prodej technologické firmy",
+        "summary": "Baudiš a Kučera prodali technologickou firmu z Brna Američanům.",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdUJqQmIxZVpRWnZxOEE3SEZCTjBoNXpZa2Z0RndEUVlwendCUEJ1aWxFQ0cxX3o3aVBNejE5enN5cHdXbUoxS1Z2TG8zck5FcVNaa2JIVHhEQ0RwYWhkYm5jdjBqRWhHNjNVdUdCU0hZRlJHMnVDUXc5Um82UnJnVXV4bEtWeWU2ajdONlVvVE10MGZ1YTBsWG9nVVVrZFJRNXdtamdlSTJYY1RoZXJfRmZ2WnVpNE0?oc=5",
+        "timestamp": "2026-04-16T15:10:00",
+        "timestamp_display": "16. 04. 2026 15:10",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Průmysl mění život",
+        "summary": "Forbes Česko přináší inspirativní články o průmyslu a jeho vlivu na životy lidí.",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DWGxBcEk4eDgwUXpYbHIwejgtbjI0VDhmdHc0QkdQNS1tbE1WLWpDRWZFdlJCZnpSTkhQeTJrYUd0U29Wak1YS0w1aHo4TWZLVG5VRnJsQQ?oc=5",
+        "timestamp": "2026-04-15T03:42:51",
+        "timestamp_display": "15. 04. 2026 03:42",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Daimler v Chebu",
         "summary": "Daimler Truck vstoupí do chebského průmyslového parku a začne vyrábět od roku 2029.",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQUw3dFA5ZGJVTDllZ0lCb2RVa0t2UUJHZXdYMVZ1TEtIdWJqS3lmNGd5ZHhWRV9TM0VRWnZadnl0dDIwb1VPUHRYR280bnBBdXItNGtWQlBwUy11N1NVeFI5cDZxb1ZXbDNQeGcxblkwVWRJV0VhVTRQcjJhNjEzU0NIcHZPMnJBaWkwaXFUb19SazY2ajc1b2tVSVl0cmN2bHV6WUlDME9FX2RyRkJMcEVfTlRXWVVTMFZINWJ3?oc=5",
         "timestamp": "2026-04-16T14:01:00",
         "timestamp_display": "16. 04. 2026 14:01",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYW9oT255WmdjRHliY1hVVHRVcW5JVWpVOGNSbVNvUzdYQjQtelMyTXJja29LQUFadWhWcHY5RUNQYmxLcWwzYmxsT1V4MUplMzZRa1RPc19JWTRaWEFSTHNSRVMtWkdXeFhjalhQSTdwenMxdURVa2w3aXJiUUZyVWdnT3RRQXBBbDhuOEFNbmpZLVE4N1JlUjRwbUR6Mlg1RkpodFN3?oc=5",
         "timestamp": "2026-04-16T12:04:11",
         "timestamp_display": "16. 04. 2026 12:04",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
