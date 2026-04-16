@@ -1,12 +1,30 @@
 [
     {
         "category": "Byznys",
+        "title": "Daimler v Chebu",
+        "summary": "Daimler Truck vstoupí do chebského průmyslového parku a začne vyrábět od roku 2029.",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQUw3dFA5ZGJVTDllZ0lCb2RVa0t2UUJHZXdYMVZ1TEtIdWJqS3lmNGd5ZHhWRV9TM0VRWnZadnl0dDIwb1VPUHRYR280bnBBdXItNGtWQlBwUy11N1NVeFI5cDZxb1ZXbDNQeGcxblkwVWRJV0VhVTRQcjJhNjEzU0NIcHZPMnJBaWkwaXFUb19SazY2ajc1b2tVSVl0cmN2bHV6WUlDME9FX2RyRkJMcEVfTlRXWVVTMFZINWJ3?oc=5",
+        "timestamp": "2026-04-16T14:01:00",
+        "timestamp_display": "16. 04. 2026 14:01",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Nová linka toaletního papíru",
+        "summary": "Firma Moracell postavila novou linku na výrobu toaletního papíru za 400 milionů korun.",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYW9oT255WmdjRHliY1hVVHRVcW5JVWpVOGNSbVNvUzdYQjQtelMyTXJja29LQUFadWhWcHY5RUNQYmxLcWwzYmxsT1V4MUplMzZRa1RPc19JWTRaWEFSTHNSRVMtWkdXeFhjalhQSTdwenMxdURVa2w3aXJiUUZyVWdnT3RRQXBBbDhuOEFNbmpZLVE4N1JlUjRwbUR6Mlg1RkpodFN3?oc=5",
+        "timestamp": "2026-04-16T12:04:11",
+        "timestamp_display": "16. 04. 2026 12:04",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Investice mění život",
         "summary": "Investice může změnit život, jeden dobrý tah může vést k úspěchu a finančním ziskům.",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CSzE5dVFFSjNpa0dTNnVXVTNCc3RwdVBvX29DUnZhSEtKR1BHYzVNb2lqcnFTOTBQWGp0SzgtbFM2NzRmZ1lQUnE4N3ZjVkJqTHVVSFl6dnR1QQ?oc=5",
         "timestamp": "2026-04-16T10:09:21",
         "timestamp_display": "16. 04. 2026 10:09",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWmZpeGN6a2JMWWtYZlpsV2hqMWJOMW9hbExNRnVpUnptYlRGeUl3bmpfSTJKdlhyU3F4eU1Ra21meDhoclFiNlRKS2NMQmdEUWpPaVBQVmtWTjNyTmJ0Unl1d1Y3SWVFTXhHYUZfRmU3NC1aWW9tN005U0RGcjlWSE84VDczRG8?oc=5",
         "timestamp": "2026-04-16T09:12:52",
         "timestamp_display": "16. 04. 2026 09:12",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -24,7 +42,7 @@
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRHNfeGlwb1RPV3hKbkxBNzh4UzU1Q05ldUlObTUyYkNDY1dzMzNSbXE0bWJhOXpEc1VoVDJidEVmZDVNYmQxTDEtQWg1eVdsYU54SFJXLUx4V0hnQm9PZXlGckpiZm4xbGJRVkdXa2xubjBFX3lJSUtGV0RrMWpmbVpuMlBQNTJ4NDNFdF94SWZHU1NpRGN6Vm50MEF6RWlRUk1ubw?oc=5",
         "timestamp": "2026-04-16T08:51:49",
         "timestamp_display": "16. 04. 2026 08:51",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,7 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tODJkR0tZX0RrRzU1UGx5QlY4WjhSdGs0MW91U2ZKdUM1LTlNZW5KTjE5bklhbk9ualhCOUJvR2N4a2luUjNfVFoxU1BKYnBzSXl0blJySm9Md0NXWUNrc3Z3?oc=5",
         "timestamp": "2026-04-16T08:44:07",
         "timestamp_display": "16. 04. 2026 08:44",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
