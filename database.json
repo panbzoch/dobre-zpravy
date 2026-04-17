@@ -1,12 +1,30 @@
 [
     {
+        "category": "Byznys",
+        "title": "Průmysl mění život",
+        "summary": "Forbes Česko přináší inspirativní články o průmyslu a jeho vlivu na životy lidí.",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TMXM5TWJneFFoU1J5UUM0N2lQek9PVXc1YjVVREpwM2xtVVgwcFdlVDNZTThWUWNFdGlmVTdBNDBvc1oyS2FaWlgxZ2ItMHNzekpxSHNCWQ?oc=5",
+        "timestamp": "2026-04-17T08:40:37",
+        "timestamp_display": "17. 04. 2026 08:40",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Daimler Truck do Chebu",
+        "summary": "Město Cheb schválilo vstup automobilky Daimler Truck do místního průmyslového parku.",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdHY1aXdiNmh1NHJ4STRDLWN4Qll0TkkwSU53LXFZc0xsRkxVSS1nNjBMQ2lHMzN3eWJfbDJaTzNydkctM2llalVwdzRfeTVfTzZtNjNmeVVKVmRMak5PbVVsMlBMOTZQTFFqOTliZDlkZldhSW5qZzlmazFLdmRld1JCQ1lhc2tFUTVwSVI0VFZhcDMzMC1RRW1tR1N4dDlhNVhvcXZtS2xBSllIdF9iM3RFTk1PbmhtQUt1ZDcyY3ZrRUo3OWRB?oc=5",
+        "timestamp": "2026-04-16T15:40:00",
+        "timestamp_display": "16. 04. 2026 15:40",
+        "is_new": true
+    },
+    {
         "category": "Věda",
         "title": "Houby ovlivňují počasí",
         "summary": "Vědci objevili, že některé houby získaly gen, který jim umožňuje ovlivňovat počasí, konkrétně srážky.",
         "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQcjJhUEFLY0NfbzIwNFYyVG5mejFYSWFQeTdGRGJ5NjVObktibTFLcm5PaHdBbk1kdGU2V1ZEVndBNTE2TWVQeGxqWkZ2MmRKZ0dzM2ZCb2lrY1U5TlF0bzgzaWJvNndhZUF3ckVneHcwbmZBbWlHeHVGT081TVRCbDgyRkJ6RGpmR2E1azJ2cTRRWjFPaFR5bXR0VklCNFdIaFRTdTdNLTdTdWttc0thT2pqcF9RWUJOaTUzNFc4Q3lidHFRMG1XSTduaGxSa3d1S2pENVR3RGNKYzltX05uSGFLNzRtZ1Y2TzhDVXJiX3JjSWM5Z2RqTWF4SFowdVU?oc=5",
         "timestamp": "2026-04-17T06:07:31",
         "timestamp_display": "17. 04. 2026 06:07",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -15,43 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdWg2Vm9WRlVBZEttbVFDSFllQ3RmQjdjekF2LTVDWXdQWk9rVU9BeVpNVFYwQ2xvTVdkOXk4YVVqZm5SY0hfdkE1TGZ5UDhJZnRlOGRnSmh2WjJpaDV0c1FiWTZIcmZIU3NUMVc3NVZ4Szlpd0lSZGdFSU9wYnlvU2cxRlJkTlZ5aTYwSDhrYmdWejJDVWlGeWgzdEF6OEc0WXpGeEdSdy11NmxvaDdGcFhsaXJHYkstWXg5M0hUUlZvS3V0VGYwVWcwNFVYWVVuYk9mT3VoRzlTMUNTNlZzS2RZY0IxTDRIM3RPSQ?oc=5",
         "timestamp": "2026-04-17T05:42:31",
         "timestamp_display": "17. 04. 2026 05:42",
-        "is_new": true
-    },
-    {
-        "category": "Společnost",
-        "title": "Biotopová koupaliště",
-        "summary": "Vznikají biotopová koupaliště v Turnově a Jilemnici, která zadrží vodu a poskytnou relaxační zázemí.",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQS2VSOFk3U3FmMl9xNkQtYVNtdUNhUExveGp1aFdrakdYS0QyUGpkX3RRWUt5WldzcGpsc2VBb3dweGVEVElkUnFzRG1XWUtZTm1SVXNRWjF4YUpsZFRrdmJRV0djNmV1U24teWZvbEtzWFNGd3ZvMXZWSU1vQ2NZY3o5aFpjMWlPalVhS1FzbjlkWVpadnlXRWVnS1dKNmhhMW5nWTRfWl9QN0ZIV2xHZzZVdTM2anByYS1EZ1BoU09ETXE5eU5EdGFwcWJXZnhCZjF6VU9pRzZMSEU?oc=5",
-        "timestamp": "2026-04-16T14:44:00",
-        "timestamp_display": "16. 04. 2026 14:44",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Baťa obnovuje legendární botu",
-        "summary": "Baťa představuje novou verzi legendární boty z 19. století, aby oživil český trh.",
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQzY5V3otOTVjU3VaMjRJNUhxQ0FxMHdhZHpBOE9IQlc4Zm9aMkJGVnBJeE1Gd2w3WVVXTWpub01GNFQ3dmFPd2xjLUJqYlppTExmWTZqRmxiY0JUcWtaT0VqeUgxM2VfR0ExMVc5aXE2aHlSNVM4VzFtclMwaGFKcjJNbThtMzVid3pia1RMUlUzX2ZtTVBHaUlzV3A4amYwUFRaTFJsOWpxaDRJTF9JS2JGdmFSblNqQkNYbFN5cTlGTGlfaW5kOHJwcm9xbTItczJOQW9WMy1iV2tHRG4tYWZRWTkzbGl3MXUycTVBYWxZM0QzX1FZZTNFOXc?oc=5",
-        "timestamp": "2026-04-16T14:43:04",
-        "timestamp_display": "16. 04. 2026 14:43",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Daimler v Chebu",
-        "summary": "Daimler Truck vstoupí do chebského průmyslového parku a začne vyrábět od roku 2029.",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41ZjhLQ0tGNlJ4bk50b3JSRWwxYUpvNjZyTGVmOFlWdzRlUUFDbG9CeWZDcXV1ck41bzljRHRZTTNOOF91M1p1YmpHUkV4ZjlreVo0?oc=5",
-        "timestamp": "2026-04-16T14:01:00",
-        "timestamp_display": "16. 04. 2026 14:01",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Dlouhodobý investiční produkt",
-        "summary": "DIP je produkt pro dlouhodobé investice, vhodné pro penzijní spoření a plánování.",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94OFJiQVdoN3c4ak1aWVd6cFN0cldNTFh5Zy1pMlNyY1RRMTd5TXJIREhOUHpISjd3bXg1aDBVT0JzSE5ZM3FRcllmb25mQlpCaUFrQlNWTmRaajFnZXp6WjJuRlZPaVN6MldnOWxqa0Nqbm1jLTJCRGVCZw?oc=5",
-        "timestamp": "2026-04-16T11:51:10",
-        "timestamp_display": "16. 04. 2026 11:51",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -60,6 +42,33 @@
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdUJqQmIxZVpRWnZxOEE3SEZCTjBoNXpZa2Z0RndEUVlwendCUEJ1aWxFQ0cxX3o3aVBNejE5enN5cHdXbUoxS1Z2TG8zck5FcVNaa2JIVHhEQ0RwYWhkYm5jdjBqRWhHNjNVdUdCU0hZRlJHMnVDUXc5Um82UnJnVXV4bEtWeWU2ajdONlVvVE10MGZ1YTBsWG9nVVVrZFJRNXdtamdlSTJYY1RoZXJfRmZ2WnVpNE0?oc=5",
         "timestamp": "2026-04-16T15:10:00",
         "timestamp_display": "16. 04. 2026 15:10",
+        "is_new": false
+    },
+    {
+        "category": "Společnost",
+        "title": "Biotopová koupaliště",
+        "summary": "Vznikají biotopová koupaliště v Turnově a Jilemnici, která zadrží vodu a poskytnou relaxační zázemí.",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQS2VSOFk3U3FmMl9xNkQtYVNtdUNhUExveGp1aFdrakdYS0QyUGpkX3RRWUt5WldzcGpsc2VBb3dweGVEVElkUnFzRG1XWUtZTm1SVXNRWjF4YUpsZFRrdmJRV0djNmV1U24teWZvbEtzWFNGd3ZvMXZWSU1vQ2NZY3o5aFpjMWlPalVhS1FzbjlkWVpadnlXRWVnS1dKNmhhMW5nWTRfWl9QN0ZIV2xHZzZVdTM2anByYS1EZ1BoU09ETXE5eU5EdGFwcWJXZnhCZjF6VU9pRzZMSEU?oc=5",
+        "timestamp": "2026-04-16T14:44:00",
+        "timestamp_display": "16. 04. 2026 14:44",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Baťa obnovuje legendární botu",
+        "summary": "Baťa představuje novou verzi legendární boty z 19. století, aby oživil český trh.",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQzY5V3otOTVjU3VaMjRJNUhxQ0FxMHdhZHpBOE9IQlc4Zm9aMkJGVnBJeE1Gd2w3WVVXTWpub01GNFQ3dmFPd2xjLUJqYlppTExmWTZqRmxiY0JUcWtaT0VqeUgxM2VfR0ExMVc5aXE2aHlSNVM4VzFtclMwaGFKcjJNbThtMzVid3pia1RMUlUzX2ZtTVBHaUlzV3A4amYwUFRaTFJsOWpxaDRJTF9JS2JGdmFSblNqQkNYbFN5cTlGTGlfaW5kOHJwcm9xbTItczJOQW9WMy1iV2tHRG4tYWZRWTkzbGl3MXUycTVBYWxZM0QzX1FZZTNFOXc?oc=5",
+        "timestamp": "2026-04-16T14:43:04",
+        "timestamp_display": "16. 04. 2026 14:43",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Daimler v Chebu",
+        "summary": "Daimler Truck vstoupí do chebského průmyslového parku a začne vyrábět od roku 2029.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41ZjhLQ0tGNlJ4bk50b3JSRWwxYUpvNjZyTGVmOFlWdzRlUUFDbG9CeWZDcXV1ck41bzljRHRZTTNOOF91M1p1YmpHUkV4ZjlreVo0?oc=5",
+        "timestamp": "2026-04-16T14:01:00",
+        "timestamp_display": "16. 04. 2026 14:01",
         "is_new": false
     },
     {
@@ -78,6 +87,15 @@
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYW9oT255WmdjRHliY1hVVHRVcW5JVWpVOGNSbVNvUzdYQjQtelMyTXJja29LQUFadWhWcHY5RUNQYmxLcWwzYmxsT1V4MUplMzZRa1RPc19JWTRaWEFSTHNSRVMtWkdXeFhjalhQSTdwenMxdURVa2w3aXJiUUZyVWdnT3RRQXBBbDhuOEFNbmpZLVE4N1JlUjRwbUR6Mlg1RkpodFN3?oc=5",
         "timestamp": "2026-04-16T12:04:11",
         "timestamp_display": "16. 04. 2026 12:04",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Dlouhodobý investiční produkt",
+        "summary": "DIP je produkt pro dlouhodobé investice, vhodné pro penzijní spoření a plánování.",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94OFJiQVdoN3c4ak1aWVd6cFN0cldNTFh5Zy1pMlNyY1RRMTd5TXJIREhOUHpISjd3bXg1aDBVT0JzSE5ZM3FRcllmb25mQlpCaUFrQlNWTmRaajFnZXp6WjJuRlZPaVN6MldnOWxqa0Nqbm1jLTJCRGVCZw?oc=5",
+        "timestamp": "2026-04-16T11:51:10",
+        "timestamp_display": "16. 04. 2026 11:51",
         "is_new": false
     },
     {
