@@ -1,11 +1,20 @@
 [
     {
         "category": "Byznys",
-        "title": "Úspěšný podnikatel",
-        "summary": "Podnikatel přesahuje neúspěch a spolupracuje s velkými firmami.",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOUkyRlNHZkh5MjV4bUlNeUVPT05tWUhZTTEtcDU4cWVULVJYajdITkkzWE1DNU5ZaVNyVzFxX0k1YVprVC1pZ0d0ZFljSnlPMmdjR1lJM3ZaUVdXY2FTWEtVcEw1OEt6Y0FYWUxfZTN4NFY2NWRibWgwcURIaWU2c2ZBRjRrQkdMN1NaUmZiVEJPU25XdmE0UzExMk5tNXFCY2hSVVFOM0xTUjhFemc?oc=5",
-        "timestamp": "2026-04-17T04:28:19",
-        "timestamp_display": "17. 04. 2026 04:28",
+        "title": "Trh dlouhověkosti roste",
+        "summary": "Trh související s dlouhověkostí v USA má potenciál růst na 2 biliony dolarů.",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU3hlM29OeXAtdEpLaHZhZVhsTzc0Y1lLa3FsRzc0TUYtMUFSdjM3UDdQRnNaWEZKb0FMSVNGUVFiRmNaTm1CcUlybjVWY3QybGlQRUZIX2xLcEliVFJoVm5CM3NKbkZ1eFhNdHF0aDQwbmZQNnVEQkU0d1hiRjFYQ1o2a3kybndpTldkYTlQSnU3NUpBQzMybmpBUDlUV25SMEZkTDJQMGJKZDc5c0VvUmkwaTRhdFZJc2NN?oc=5",
+        "timestamp": "2026-04-18T03:00:00",
+        "timestamp_display": "18. 04. 2026 03:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Zakladatel prodal firmu",
+        "summary": "Zakladatel realitní firmy prodal svůj podíl a vrátil se ke své dětské vášni, sběratelským kartičkám.",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZzNTZG92T0RobFcwYXpPVU8zY1NqVV9HeVAyQXJEY1pyaE1BT3dDTlNyNktVcG1EMWhFM0FraHVKQ09fSllXTG4yajFTc241cGNtbFpIMlE4ZDlnd2VWYVVZb08tTnhIUEFFaXFqNW85aWYtQlRJeElwZ0xqaUJQVWlaWWhZa09tUGlLX0EtYUZMSFd0N1hPc09CejhvYk1HWDhpN2RyRUEtY1BYb3BiaHFoVGpQUHNfQmFPeg?oc=5",
+        "timestamp": "2026-04-17T04:25:12",
+        "timestamp_display": "17. 04. 2026 04:25",
         "is_new": true
     },
     {
@@ -33,6 +42,15 @@
         "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdWg2Vm9WRlVBZEttbVFDSFllQ3RmQjdjekF2LTVDWXdQWk9rVU9BeVpNVFYwQ2xvTVdkOXk4YVVqZm5SY0hfdkE1TGZ5UDhJZnRlOGRnSmh2WjJpaDV0c1FiWTZIcmZIU3NUMVc3NVZ4Szlpd0lSZGdFSU9wYnlvU2cxRlJkTlZ5aTYwSDhrYmdWejJDVWlGeWgzdEF6OEc0WXpGeEdSdy11NmxvaDdGcFhsaXJHYkstWXg5M0hUUlZvS3V0VGYwVWcwNFVYWVVuYk9mT3VoRzlTMUNTNlZzS2RZY0IxTDRIM3RPSQ?oc=5",
         "timestamp": "2026-04-17T05:42:31",
         "timestamp_display": "17. 04. 2026 05:42",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Úspěšný podnikatel",
+        "summary": "Podnikatel přesahuje neúspěch a spolupracuje s velkými firmami.",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOUkyRlNHZkh5MjV4bUlNeUVPT05tWUhZTTEtcDU4cWVULVJYajdITkkzWE1DNU5ZaVNyVzFxX0k1YVprVC1pZ0d0ZFljSnlPMmdjR1lJM3ZaUVdXY2FTWEtVcEw1OEt6Y0FYWUxfZTN4NFY2NWRibWgwcURIaWU2c2ZBRjRrQkdMN1NaUmZiVEJPU25XdmE0UzExMk5tNXFCY2hSVVFOM0xTUjhFemc?oc=5",
+        "timestamp": "2026-04-17T04:28:19",
+        "timestamp_display": "17. 04. 2026 04:28",
         "is_new": false
     },
     {
