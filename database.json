@@ -1,39 +1,57 @@
 [
     {
         "category": "Technologie",
+        "title": "Japonci staví drony",
+        "summary": "Japonští experti se učí stavět drony na Ukrajině, výsledkem je dvoumetrový kluzák Shirana.",
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQRldGY2RmanVOczc2SmRhMWZycm4yWnlld0JEY2pqS0RBTzhycjdBZzA2S2tYZmFDSUN4bmVFc254Tk5DVGEzd19qSkpJd2pYVElRUTlCbTlxRDB5QkRkdHZJd09uYmQtNkttcnJEUF9TUXNtXy1mVEx0bWJOTi10MGU1U0tLUDZhQUFEc2gxNU1neDJIdndqb2t2U2dmcWktY2NYdy13dUQ1TDBCWjhmcGU2MGgyRGRFeEpYNjdnQ2pNUnVvRGhfRFhhN2ZCanFQcnYxSmdWODF1WS1lcDRPZFlWQ0JTM3BZbHg4MnMwY1UxNVVHbmliajIyWDM4Vm54UXc?oc=5",
+        "timestamp": "2026-04-18T12:02:11",
+        "timestamp_display": "18. 04. 2026 12:02",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Tlačítka S3XY Buttons",
+        "summary": "Tlačítka S3XY Buttons jsou přizpůsobitelná, lze je umístit kamkoli a programovat k provádění různých funkcí v autech Tesla.",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNU2FDMUhMOGpYRUxDcGxvMmRTSHZXR3lzRTQ1d2tWSDlOWERVWjg0WEZMT29OeU1HWlpuR002dXU1bjk0aEk3ZjFYNEpRSkNBNmRDU01jZkJuY3NnX0xOcHZJWldOeHprZGNES1czQ3dCQjR1UkVTSlBYSEg5R2c0T3F1a3h2akdtRlo1Nk9aeTVVMVlhX29xZzMwcVpGNTFzZ045c2J0OUl2ZFRock9WMnFGYXBkX1VEMDd1YTJEODNnb014OFBTMjdvTk5ab1Jydkx6ZHczZU03VGtJbFZHZw?oc=5",
+        "timestamp": "2026-04-18T11:43:21",
+        "timestamp_display": "18. 04. 2026 11:43",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Hra vybrala miliony",
+        "summary": "Hra vybrala desítky milionů dolarů na Kickstarteru, překonala očekávání.",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa29pcEUyVzRzWnlnWnNpTDRwZmczZlg2TWFWXzB6RXZiazBFNWo5QlJ6OGdrUV9VdmtJVG52dlFFbmVGdkdSSzh4YmRSTl9LdFh3MC1qSWNsakM5a1U1V1dWYlZOTUQwb2NiVjN0ODBPWFRyR01tN3VLYVRRbFNrT0VaZzVjdmJCNGVTeW1SQjIxbDZWcWRabE5MYw?oc=5",
+        "timestamp": "2026-04-18T07:55:58",
+        "timestamp_display": "18. 04. 2026 07:55",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Investice do nemovitostí může změnit život, nabízí nové příležitosti a růst.",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ickROeHl3dkZqenM2aFVqRGxKMlpQSUhHak1BSHZNelNMZzBBWl9FNnNFXzN2TkwtZDgtbV9tQjhHWmV3cVlmN09SV2xkSXlPZmJoemFDU1Nnc3lCa2M1dTV6OUtZenBF?oc=5",
+        "timestamp": "2026-04-17T14:50:37",
+        "timestamp_display": "17. 04. 2026 14:50",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Jívová získala milion",
+        "summary": "Jívová získala první milion korun z větrníků, které použije na investice a další rozvoj.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wR2tjd2ZTVHpsZUhkbU1xdzNZaFY4VmtUNnlhNkF2cUh4WjRSZEJheUxkMTZ4TkJhSzdoWHpXQjdzaWxXTzRvZU13YW5POGQ2TzNz?oc=5",
+        "timestamp": "2026-04-17T10:41:00",
+        "timestamp_display": "17. 04. 2026 10:41",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
         "title": "Dron Shirana",
         "summary": "Japonci se učí stavět drony na Ukrajině, výsledkem je dvoumetrový kluzák Shirana za 9 tisíc korun.",
         "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNUltR2NXeGx0X0YtUVJLUk53RGItdkFBazlrNUpKb0tqVzZwNTYwSU1tRnpXWllSMVZEWXpXcW1MNzV1YmNfRkVlYzRrOVBuRHZtVV9iSVlwbExwVEFTeVFlNV9UV3pBRlJsWUdrUGd4amFfTVUyck4xakRHS0I0bkQyQ3Y0enRzSFNVSGJqcUdnUU1Oa2RjYURDdF9CbGVBcjdDdjlWNkRfay1haC13WGVOaEVrcnRoMFJEREI2OUdNbGYxR29CRUVpQU82WkR3aFVobTJrVnREdVpxa1RrZll1TEtMUTk0SzItY1lzeU9kdw?oc=5",
         "timestamp": "2026-04-18T09:42:51",
         "timestamp_display": "18. 04. 2026 09:42",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Bata Group roste",
-        "summary": "Bata Group expanduje a roste, podle Forbes Česko.",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE03d3JiTlQ2eVR4d0wwQ3dhYU5EMWlxeWRTdkUzRDNBNUhoWjg4RFUxc2IycFB3YXlPeS03VTF5R1pHT2FTeThKLTBvZw?oc=5",
-        "timestamp": "2026-04-17T14:41:10",
-        "timestamp_display": "17. 04. 2026 14:41",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Lidl a Botas spolupracují",
-        "summary": "Lidl a Botas vydávají omezenou edici tenisek, které lze koupit přes mobilní aplikaci.",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS1R1Q1hzamhmV0QyMnJxRFRDcjk2enFpMXR5WWE3Z1hRa2JoWlM0YUowX3hkMlZNZkpuQVVVT1g0Y0FKN2xKMHE5c2JLLU9uVTNrejNtLUZ2VUxEQklDMTdDZE5oMlFVR0liMDZ6Z2dFRF84WDBheTBfNWR1ZzlZSEx4WXBkRDRHQ1ZpOFp2bFYwYXJoVEVqZFhIVzBiZmo4Yzl1cU5ZMnpja1U?oc=5",
-        "timestamp": "2026-04-17T12:25:05",
-        "timestamp_display": "17. 04. 2026 12:25",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "H2 Global Group slaví",
-        "summary": "H2 Global Group a VR LIFE slaví globální úspěch, zájem médií a investorů stoupá.",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRU90WTQ3WTNwZ1FEQ282MXVtZklLVUU5dkZjY19PNk1FWGhKdHQ3Q1lXamVoamk2OWtUQzVSSHpqSzNBbjZFN1QwandNVW1uY3hwS1FaaThld09jeWJ4b3I1NS03YVlYdF9QM2N1ZXM5aXYxMG9MMENkZFM5ckFIQlBwQWZvVy1LZXhRb05TMDZldXNOX05WYVBRTlhiZ2JyWG04bWdITmlsMFVSdnNRbDB4UUp6WXc4M2pKUUtYU1Y?oc=5",
-        "timestamp": "2026-04-07T07:00:00",
-        "timestamp_display": "07. 04. 2026 07:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -42,6 +60,24 @@
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU3hlM29OeXAtdEpLaHZhZVhsTzc0Y1lLa3FsRzc0TUYtMUFSdjM3UDdQRnNaWEZKb0FMSVNGUVFiRmNaTm1CcUlybjVWY3QybGlQRUZIX2xLcEliVFJoVm5CM3NKbkZ1eFhNdHF0aDQwbmZQNnVEQkU0d1hiRjFYQ1o2a3kybndpTldkYTlQSnU3NUpBQzMybmpBUDlUV25SMEZkTDJQMGJKZDc5c0VvUmkwaTRhdFZJc2NN?oc=5",
         "timestamp": "2026-04-18T03:00:00",
         "timestamp_display": "18. 04. 2026 03:00",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Bata Group roste",
+        "summary": "Bata Group expanduje a roste, podle Forbes Česko.",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE03d3JiTlQ2eVR4d0wwQ3dhYU5EMWlxeWRTdkUzRDNBNUhoWjg4RFUxc2IycFB3YXlPeS03VTF5R1pHT2FTeThKLTBvZw?oc=5",
+        "timestamp": "2026-04-17T14:41:10",
+        "timestamp_display": "17. 04. 2026 14:41",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Lidl a Botas spolupracují",
+        "summary": "Lidl a Botas vydávají omezenou edici tenisek, které lze koupit přes mobilní aplikaci.",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS1R1Q1hzamhmV0QyMnJxRFRDcjk2enFpMXR5WWE3Z1hRa2JoWlM0YUowX3hkMlZNZkpuQVVVT1g0Y0FKN2xKMHE5c2JLLU9uVTNrejNtLUZ2VUxEQklDMTdDZE5oMlFVR0liMDZ6Z2dFRF84WDBheTBfNWR1ZzlZSEx4WXBkRDRHQ1ZpOFp2bFYwYXJoVEVqZFhIVzBiZmo4Yzl1cU5ZMnpja1U?oc=5",
+        "timestamp": "2026-04-17T12:25:05",
+        "timestamp_display": "17. 04. 2026 12:25",
         "is_new": false
     },
     {
@@ -1212,6 +1248,15 @@
         "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQN3NpdEJzQktoTGY1WTVMdzhxajN2UzZHODFIQll5SFhWWFpycVl3bktwMjNub0dqb2l1WEtwRktTMkdialZsVzNtUUsxdE1jQW9WTmU3QUttTzFJV05MTDM1SmZ0WmlVdU5RTTZnNHByR01lUGRFNzhhd1NrLU9ILW5hQ0dRY0dfaXotdDlDUWxib2NzZjlMMGFqb3U1UVRrcGo5N3c4RGl4UGJYM2lBU2pOTDd1dzlxQW1Hd3FGeXpoYXRMY0NpZU1fcG0wY3dhd09ZWXNEOTlWbTIwZ3ptWFRXVHI0NW1DdU5LZUctYWVVYUhZMU9j?oc=5",
         "timestamp": "2026-04-07T09:47:35",
         "timestamp_display": "07. 04. 2026 09:47",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "H2 Global Group slaví",
+        "summary": "H2 Global Group a VR LIFE slaví globální úspěch, zájem médií a investorů stoupá.",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRU90WTQ3WTNwZ1FEQ282MXVtZklLVUU5dkZjY19PNk1FWGhKdHQ3Q1lXamVoamk2OWtUQzVSSHpqSzNBbjZFN1QwandNVW1uY3hwS1FaaThld09jeWJ4b3I1NS03YVlYdF9QM2N1ZXM5aXYxMG9MMENkZFM5ckFIQlBwQWZvVy1LZXhRb05TMDZldXNOX05WYVBRTlhiZ2JyWG04bWdITmlsMFVSdnNRbDB4UUp6WXc4M2pKUUtYU1Y?oc=5",
+        "timestamp": "2026-04-07T07:00:00",
+        "timestamp_display": "07. 04. 2026 07:00",
         "is_new": false
     },
     {
