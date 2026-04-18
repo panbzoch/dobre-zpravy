@@ -1,21 +1,48 @@
 [
     {
+        "category": "Technologie",
+        "title": "Dron Shirana",
+        "summary": "Japonci se učí stavět drony na Ukrajině, výsledkem je dvoumetrový kluzák Shirana za 9 tisíc korun.",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNUltR2NXeGx0X0YtUVJLUk53RGItdkFBazlrNUpKb0tqVzZwNTYwSU1tRnpXWllSMVZEWXpXcW1MNzV1YmNfRkVlYzRrOVBuRHZtVV9iSVlwbExwVEFTeVFlNV9UV3pBRlJsWUdrUGd4amFfTVUyck4xakRHS0I0bkQyQ3Y0enRzSFNVSGJqcUdnUU1Oa2RjYURDdF9CbGVBcjdDdjlWNkRfay1haC13WGVOaEVrcnRoMFJEREI2OUdNbGYxR29CRUVpQU82WkR3aFVobTJrVnREdVpxa1RrZll1TEtMUTk0SzItY1lzeU9kdw?oc=5",
+        "timestamp": "2026-04-18T09:42:51",
+        "timestamp_display": "18. 04. 2026 09:42",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Bata Group roste",
+        "summary": "Bata Group expanduje a roste, podle Forbes Česko.",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE03d3JiTlQ2eVR4d0wwQ3dhYU5EMWlxeWRTdkUzRDNBNUhoWjg4RFUxc2IycFB3YXlPeS03VTF5R1pHT2FTeThKLTBvZw?oc=5",
+        "timestamp": "2026-04-17T14:41:10",
+        "timestamp_display": "17. 04. 2026 14:41",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Lidl a Botas spolupracují",
+        "summary": "Lidl a Botas vydávají omezenou edici tenisek, které lze koupit přes mobilní aplikaci.",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS1R1Q1hzamhmV0QyMnJxRFRDcjk2enFpMXR5WWE3Z1hRa2JoWlM0YUowX3hkMlZNZkpuQVVVT1g0Y0FKN2xKMHE5c2JLLU9uVTNrejNtLUZ2VUxEQklDMTdDZE5oMlFVR0liMDZ6Z2dFRF84WDBheTBfNWR1ZzlZSEx4WXBkRDRHQ1ZpOFp2bFYwYXJoVEVqZFhIVzBiZmo4Yzl1cU5ZMnpja1U?oc=5",
+        "timestamp": "2026-04-17T12:25:05",
+        "timestamp_display": "17. 04. 2026 12:25",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "H2 Global Group slaví",
+        "summary": "H2 Global Group a VR LIFE slaví globální úspěch, zájem médií a investorů stoupá.",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRU90WTQ3WTNwZ1FEQ282MXVtZklLVUU5dkZjY19PNk1FWGhKdHQ3Q1lXamVoamk2OWtUQzVSSHpqSzNBbjZFN1QwandNVW1uY3hwS1FaaThld09jeWJ4b3I1NS03YVlYdF9QM2N1ZXM5aXYxMG9MMENkZFM5ckFIQlBwQWZvVy1LZXhRb05TMDZldXNOX05WYVBRTlhiZ2JyWG04bWdITmlsMFVSdnNRbDB4UUp6WXc4M2pKUUtYU1Y?oc=5",
+        "timestamp": "2026-04-07T07:00:00",
+        "timestamp_display": "07. 04. 2026 07:00",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "Trh dlouhověkosti roste",
         "summary": "Trh související s dlouhověkostí v USA má potenciál růst na 2 biliony dolarů.",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU3hlM29OeXAtdEpLaHZhZVhsTzc0Y1lLa3FsRzc0TUYtMUFSdjM3UDdQRnNaWEZKb0FMSVNGUVFiRmNaTm1CcUlybjVWY3QybGlQRUZIX2xLcEliVFJoVm5CM3NKbkZ1eFhNdHF0aDQwbmZQNnVEQkU0d1hiRjFYQ1o2a3kybndpTldkYTlQSnU3NUpBQzMybmpBUDlUV25SMEZkTDJQMGJKZDc5c0VvUmkwaTRhdFZJc2NN?oc=5",
         "timestamp": "2026-04-18T03:00:00",
         "timestamp_display": "18. 04. 2026 03:00",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Zakladatel prodal firmu",
-        "summary": "Zakladatel realitní firmy prodal svůj podíl a vrátil se ke své dětské vášni, sběratelským kartičkám.",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZzNTZG92T0RobFcwYXpPVU8zY1NqVV9HeVAyQXJEY1pyaE1BT3dDTlNyNktVcG1EMWhFM0FraHVKQ09fSllXTG4yajFTc241cGNtbFpIMlE4ZDlnd2VWYVVZb08tTnhIUEFFaXFqNW85aWYtQlRJeElwZ0xqaUJQVWlaWWhZa09tUGlLX0EtYUZMSFd0N1hPc09CejhvYk1HWDhpN2RyRUEtY1BYb3BiaHFoVGpQUHNfQmFPeg?oc=5",
-        "timestamp": "2026-04-17T04:25:12",
-        "timestamp_display": "17. 04. 2026 04:25",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -51,6 +78,15 @@
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOUkyRlNHZkh5MjV4bUlNeUVPT05tWUhZTTEtcDU4cWVULVJYajdITkkzWE1DNU5ZaVNyVzFxX0k1YVprVC1pZ0d0ZFljSnlPMmdjR1lJM3ZaUVdXY2FTWEtVcEw1OEt6Y0FYWUxfZTN4NFY2NWRibWgwcURIaWU2c2ZBRjRrQkdMN1NaUmZiVEJPU25XdmE0UzExMk5tNXFCY2hSVVFOM0xTUjhFemc?oc=5",
         "timestamp": "2026-04-17T04:28:19",
         "timestamp_display": "17. 04. 2026 04:28",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Zakladatel prodal firmu",
+        "summary": "Zakladatel realitní firmy prodal svůj podíl a vrátil se ke své dětské vášni, sběratelským kartičkám.",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZzNTZG92T0RobFcwYXpPVU8zY1NqVV9HeVAyQXJEY1pyaE1BT3dDTlNyNktVcG1EMWhFM0FraHVKQ09fSllXTG4yajFTc241cGNtbFpIMlE4ZDlnd2VWYVVZb08tTnhIUEFFaXFqNW85aWYtQlRJeElwZ0xqaUJQVWlaWWhZa09tUGlLX0EtYUZMSFd0N1hPc09CejhvYk1HWDhpN2RyRUEtY1BYb3BiaHFoVGpQUHNfQmFPeg?oc=5",
+        "timestamp": "2026-04-17T04:25:12",
+        "timestamp_display": "17. 04. 2026 04:25",
         "is_new": false
     },
     {
