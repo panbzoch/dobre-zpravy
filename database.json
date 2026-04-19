@@ -1,5 +1,32 @@
 [
     {
+        "category": "Věda",
+        "title": "Asteroidy vytvořily život",
+        "summary": "Vědci objevili, že dopady asteroidů mohly vytvořit podmínky pro vznik života na Zemi.",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNTNsZ0h3Vjk0V0ZHazdxY0dsX256eUJ2Q0huS3hpRm1XZnY3Rjk5U0VteWJMTV93VGsyZ1Zjc3lZWGpFSXprX0VRRjNPM0tCV3h0UERacGdjT19vdlprMjB4ZnJDcWNMYm5ZZTJLYjRZVHF2S1hYZDROdlY1RXVlZVBQQmpyaXpsTzVDU2NqSFM3TjRLN3hEY0d3cm44TmlicXlKNG93LVZhVWRIeUtqbFEtOVMyajdablcyYXE3Um9WWEtoaWQ5WncwU0w0ZVlGUUlvbkNZRDE4cEJBaHc1ZHdqUHBtSGl0akZXd1VUVVM?oc=5",
+        "timestamp": "2026-04-19T14:14:52",
+        "timestamp_display": "19. 04. 2026 14:14",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Luxus za polovinu",
+        "summary": "Julius Meinl VI. nabízí luxusní ubytování za nižší ceny než Four Seasons.",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaEo4emdleUN0RjI3T0diTkxxVUpjV2h2MEVmc2Q0TW9BcFhRMnpEQUxUX3NCVXpIcFhreWl6d1NGcGxsMm9hek1TaFIyeEZhcnZaRHQ2RGJVNHlqbl9YbzIyUl9naWlRd291eXkzNzgtMmExODRnZDdtU01sTzY0SHJRa2g3V01KQmpCTE9FTzZINjBiVW9iMw?oc=5",
+        "timestamp": "2026-04-19T12:08:07",
+        "timestamp_display": "19. 04. 2026 12:08",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Nové koupaliště otevřeno",
+        "summary": "Nový Jičín otevře opravené koupaliště s novým toboganem a systémem na detekci tonutí.",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYWgzQW5FN0gta0h6UzhvblF2NmpEdkgxWW9pcThVWnlWTHh6NURYd3ZvQ3h5YnhWaFc3dTYyYklsbjBDVXo0ME5FdVJQeVRacEdMUmZFZlJWN01nUzEzZEV1Z3ZRSzNJckEtZjBUQ1J0REJ0UkJDOVBWNHJwbnQyZkNVNy1fQjlvbEx4ZU9uRzd1QWVPOGNTZ3dfQWdPSEVsc0Q2M2JENkc3NE5TSmstclRxOEhwRFg4NHhnRjlXTWE1b1RLNDUzQkhqbw?oc=5",
+        "timestamp": "2026-04-19T06:32:00",
+        "timestamp_display": "19. 04. 2026 06:32",
+        "is_new": true
+    },
+    {
         "category": "Technologie",
         "title": "Japonci staví drony",
         "summary": "Japonští experti se učí stavět drony na Ukrajině, výsledkem je dvoumetrový kluzák Shirana.",
