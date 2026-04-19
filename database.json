@@ -1,14 +1,5 @@
 [
     {
-        "category": "Medicína",
-        "title": "Nová nemocnice v Chebu",
-        "summary": "Karlovarský kraj buduje v Chebu novou nemocnici s urgentním příjmem, heliportem a magnetickou rezonancí, stavba začne letos.",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaTNzZWl5d1F0NjBzMURlUDFYdlE4d1FyTnVuOEp6SGFtaUhRaVN1Z3k1Sjc0YzJ2RDB6eGxPRm43QWYyQ2lqLUlLUFFpWjB2WjJNTVhySHdoX0E2OW9YTldOYTJ3b29iOXF0enpFV1E3U19nUUhCVEJPZTFPUFhQT3dkVG15VDdtWEo4alR2TFlnTGR5aEVSRHItT0FLdTVQWUNLeTV4QnBvZERiblUxSUJadHoxV20temVPRlJCdE1kQjF0VHhKbDU4a0JRTkY1?oc=5",
-        "timestamp": "2026-04-17T19:09:00",
-        "timestamp_display": "17. 04. 2026 19:09",
-        "is_new": true
-    },
-    {
         "category": "Technologie",
         "title": "Japonci staví drony",
         "summary": "Japonští experti se učí stavět drony na Ukrajině, výsledkem je dvoumetrový kluzák Shirana.",
@@ -51,6 +42,15 @@
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU3hlM29OeXAtdEpLaHZhZVhsTzc0Y1lLa3FsRzc0TUYtMUFSdjM3UDdQRnNaWEZKb0FMSVNGUVFiRmNaTm1CcUlybjVWY3QybGlQRUZIX2xLcEliVFJoVm5CM3NKbkZ1eFhNdHF0aDQwbmZQNnVEQkU0d1hiRjFYQ1o2a3kybndpTldkYTlQSnU3NUpBQzMybmpBUDlUV25SMEZkTDJQMGJKZDc5c0VvUmkwaTRhdFZJc2NN?oc=5",
         "timestamp": "2026-04-18T03:00:00",
         "timestamp_display": "18. 04. 2026 03:00",
+        "is_new": false
+    },
+    {
+        "category": "Medicína",
+        "title": "Nová nemocnice v Chebu",
+        "summary": "Karlovarský kraj buduje v Chebu novou nemocnici s urgentním příjmem, heliportem a magnetickou rezonancí, stavba začne letos.",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaTNzZWl5d1F0NjBzMURlUDFYdlE4d1FyTnVuOEp6SGFtaUhRaVN1Z3k1Sjc0YzJ2RDB6eGxPRm43QWYyQ2lqLUlLUFFpWjB2WjJNTVhySHdoX0E2OW9YTldOYTJ3b29iOXF0enpFV1E3U19nUUhCVEJPZTFPUFhQT3dkVG15VDdtWEo4alR2TFlnTGR5aEVSRHItT0FLdTVQWUNLeTV4QnBvZERiblUxSUJadHoxV20temVPRlJCdE1kQjF0VHhKbDU4a0JRTkY1?oc=5",
+        "timestamp": "2026-04-17T19:09:00",
+        "timestamp_display": "17. 04. 2026 19:09",
         "is_new": false
     },
     {
