@@ -1,11 +1,11 @@
 [
     {
-        "category": "Byznys",
-        "title": "Bommy šéf hledá magii",
-        "summary": "Ředitel Bommy mluví o důležitosti lidského doteku a magie v designu.",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOUhRMXduUUJhOVctb3hDWDV0QVozSUFvNjIwZ0RFdFlUWHdtLUgyMkhCSVc0bU1ORm5pS3hkUWpPeENMdnBGaFZWeDgyZDJFY2lvSWxVNGt2aE93TWxXV2J4YzNKWV8wWlIwamZwMVVINmowOUZoZ1NDOTNZellYelZwOEpuek9lYTNGV1hsN2o2b29aMHc?oc=5",
-        "timestamp": "2026-04-19T10:07:17",
-        "timestamp_display": "19. 04. 2026 10:07",
+        "category": "Věda",
+        "title": "Díra v genetice",
+        "summary": "Vědci objevili novou informaci, která vyvrací tradiční genetické teorie.",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE85a1RLSEJoWnprZzJqdElSZVQ1NGRGaWdfXzBha3NHRFdPT1praXZSQjd5MnNYSUg1ZkhFeHhRMmhRU3RYSXc3VmdVUFU3eHI5d3NLRkdIVjV2NEktVnZVNEdxNDVxR21tUmtnR0h0TjBLQQ?oc=5",
+        "timestamp": "2026-04-18T15:59:55",
+        "timestamp_display": "18. 04. 2026 15:59",
         "is_new": true
     },
     {
@@ -33,6 +33,15 @@
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaEo4emdleUN0RjI3T0diTkxxVUpjV2h2MEVmc2Q0TW9BcFhRMnpEQUxUX3NCVXpIcFhreWl6d1NGcGxsMm9hek1TaFIyeEZhcnZaRHQ2RGJVNHlqbl9YbzIyUl9naWlRd291eXkzNzgtMmExODRnZDdtU01sTzY0SHJRa2g3V01KQmpCTE9FTzZINjBiVW9iMw?oc=5",
         "timestamp": "2026-04-19T12:08:07",
         "timestamp_display": "19. 04. 2026 12:08",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Bommy šéf hledá magii",
+        "summary": "Ředitel Bommy mluví o důležitosti lidského doteku a magie v designu.",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOUhRMXduUUJhOVctb3hDWDV0QVozSUFvNjIwZ0RFdFlUWHdtLUgyMkhCSVc0bU1ORm5pS3hkUWpPeENMdnBGaFZWeDgyZDJFY2lvSWxVNGt2aE93TWxXV2J4YzNKWV8wWlIwamZwMVVINmowOUZoZ1NDOTNZellYelZwOEpuek9lYTNGV1hsN2o2b29aMHc?oc=5",
+        "timestamp": "2026-04-19T10:07:17",
+        "timestamp_display": "19. 04. 2026 10:07",
         "is_new": false
     },
     {
