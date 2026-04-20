@@ -1,21 +1,21 @@
 [
     {
         "category": "Byznys",
+        "title": "Bommy šéf hledá magii",
+        "summary": "Ředitel Bommy mluví o důležitosti lidského doteku a magie v designu.",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOUhRMXduUUJhOVctb3hDWDV0QVozSUFvNjIwZ0RFdFlUWHdtLUgyMkhCSVc0bU1ORm5pS3hkUWpPeENMdnBGaFZWeDgyZDJFY2lvSWxVNGt2aE93TWxXV2J4YzNKWV8wWlIwamZwMVVINmowOUZoZ1NDOTNZellYelZwOEpuek9lYTNGV1hsN2o2b29aMHc?oc=5",
+        "timestamp": "2026-04-19T10:07:17",
+        "timestamp_display": "19. 04. 2026 10:07",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Slovenský developer expanduje",
         "summary": "Slovenský developer míří do Česka, Praha je cílem expanze, silní developeři přinášejí nové projekty.",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVFo0ODk3Q05NOVpkbmMzV0NtMnF6bU5UZi1ZSzVPQ0NnYUZRdDdTRE1aNWpXWFNaMm5RX0Q1Mkg2VTlLVWt0alFWZ3RXaVBId1RWTUx6bENXam5vTUtMRGpaRzdnUXg3Sm5fSjU4dG1jN2NHd21CQU5yVmg4WXVjR0g4M19nVUZFZURNSVhR?oc=5",
         "timestamp": "2026-04-19T16:10:14",
         "timestamp_display": "19. 04. 2026 16:10",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Česko má kvantovou síť",
-        "summary": "Česko spustilo kvantovou síť a plánuje kvantovou komunikaci se vesmírnou stanicí a další kvantový satelit.",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWlpTQm12S2VmckJUSUF1RWxSRldnbXdObGR0RDJEeWltY0dYVEo1UXRUdkx1NkZuTXRnQUlQX3R3bnJCb2p1UkFHcmxERG9qWXlqZl9jb2tXbUYtMTdwek8xUjV0d294eUJBbl8xZXBTSG5vQ3dsNFoySXNyMzB0U29tMnQ4TFhDTVdUVmFpNEMzdjNNLXVRSGdZRHdhMk9BcTZmLUlYajRNb3oyUG9hVzY1ajRHcXluN0lTVGNOWVU?oc=5",
-        "timestamp": "2026-04-17T07:00:00",
-        "timestamp_display": "17. 04. 2026 07:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -141,6 +141,15 @@
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TMXM5TWJneFFoU1J5UUM0N2lQek9PVXc1YjVVREpwM2xtVVgwcFdlVDNZTThWUWNFdGlmVTdBNDBvc1oyS2FaWlgxZ2ItMHNzekpxSHNCWQ?oc=5",
         "timestamp": "2026-04-17T08:40:37",
         "timestamp_display": "17. 04. 2026 08:40",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Česko má kvantovou síť",
+        "summary": "Česko spustilo kvantovou síť a plánuje kvantovou komunikaci se vesmírnou stanicí a další kvantový satelit.",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWlpTQm12S2VmckJUSUF1RWxSRldnbXdObGR0RDJEeWltY0dYVEo1UXRUdkx1NkZuTXRnQUlQX3R3bnJCb2p1UkFHcmxERG9qWXlqZl9jb2tXbUYtMTdwek8xUjV0d294eUJBbl8xZXBTSG5vQ3dsNFoySXNyMzB0U29tMnQ4TFhDTVdUVmFpNEMzdjNNLXVRSGdZRHdhMk9BcTZmLUlYajRNb3oyUG9hVzY1ajRHcXluN0lTVGNOWVU?oc=5",
+        "timestamp": "2026-04-17T07:00:00",
+        "timestamp_display": "17. 04. 2026 07:00",
         "is_new": false
     },
     {
