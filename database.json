@@ -1,12 +1,39 @@
 [
     {
         "category": "Byznys",
+        "title": "Nová japonská restaurace",
+        "summary": "Provozovatelé L’Osterie otevřou v Praze novou japonskou restauraci, která nabídne sushi a další japonská speciality.",
+        "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8wdU9uYTRmdkF6RndnWThGbGhITS0tSnIyS1B5UlctNnBlWDYtNzJ2elA2VXZWand1ZktfdEwzS1Btdw?oc=5",
+        "timestamp": "2026-04-20T16:08:54",
+        "timestamp_display": "20. 04. 2026 16:08",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Robot běhá půlmaraton",
+        "summary": "Humanoidní robot zlepšil běžecký čas z 3 hodin na 50 minut.",
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRGJZWDEyV1J5bTlnbTVrWmxxQzVhN25rRHJzMHMzZnB6S1FIcUJXVXVOallyN3lCOW0xVFJ2cEVzdnQwVHhSOFN4SDZ5VEhMY2lXMmFDZU1MeVp4RjFXV3gteE9QaWs1M3c0MFBkeDB1UFIyMi1HaDNUbDZMT3hyZ3Mzak03MlgzX29qQkdyR1pfU2NTY2lYZGZZUmZfOE4tMmp2bXRqaDVQa0xoMmNPNU5BV1IwbTM0RE5ZMnhSazJ0UEVDei1yWGluREJucnhPdkktd2R3aUM1UXhvZXlTbG5XbDA1d0NXVHRCVnFiQ1RnU2Fwd1hvMExOSQ?oc=5",
+        "timestamp": "2026-04-20T14:09:13",
+        "timestamp_display": "20. 04. 2026 14:09",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Úspěšný exit Kijonkové",
+        "summary": "Kijonková prodala pozemky na Spojovací firmě J&T, další úspěšný exit.",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUVRFa1hMTjROb05MNnVvUTlsVnpkWEtveWZpVTFya3FlZWxucXBqYjM0Sm9lNkQyV2hzeFJOY0RKTDJzXzZrWEpXQVJRZTVkMU9ncy1LaEtqdVh2T3loNnlSNVZFQkVtVmVfdG1wYWl3bE03NGExSGJET1FqaWpUd3lWZ0dZN0N0WVFuQWE1N1ZSSlAzanBPVXpXQV9xYmRUcnNjSDNpaUM3VnNjZHZqX183ZUVicFZGZE0xaDlRbVBRUnBGRC1XMHFn?oc=5",
+        "timestamp": "2026-04-20T11:00:00",
+        "timestamp_display": "20. 04. 2026 11:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "České firmy na veletrhu",
         "summary": "České firmy se chystají účastnit milánského designérského veletrhu, kde představí své produkty a služby.",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYTRVemJoN1RPdGhpUXk4SjJpM0luN0hIY1FhZXhUMUZMWDdxNi0yMEhyV090WnBsRUJZR0txNU0tck0wLTV4QU1rakl0Vm14TEJYOWttUEE5TDhyQmdYekY1dVJfMGFTRERmdVllWS1zWVpSV3ZISnMwYU9XWUJqdUY0SVo3UEc4RVBFeDk1Q1pyVGtPSXhydlNucDU3dw?oc=5",
         "timestamp": "2026-04-20T14:09:51",
         "timestamp_display": "20. 04. 2026 14:09",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -15,7 +42,7 @@
         "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMnRXNnhLRlRjZU5kcngyZEt6ZW15bnJ3UkRJamUwd3NYU2JfTlA4Q05fYkh2TDB0SmpEcVdHN2NOX3hTelZnVVcyYVZDR1A2aHh6NHRnbEF5bmdaLXFsYnhXU3poUEtHNl9FU0M4NENjUTBvUWpfTkk2dGNJZV9abGJCZ28wZUlsdWZfWWtwV2ozNzhoeG9QcTE4blp6MnBfUDgyRzd3OUh3TUpEUTZIZ01BV3Z6eWo3X3VoeW1qUjNIV0FmV01fSGtVVWFDbEdCd2MyNmh1MXpLNUJYbWhjd0t0SjZ0T2tkMDlJbXRKcDRtaU9qVkpJdmlCa21TQQ?oc=5",
         "timestamp": "2026-04-20T14:09:21",
         "timestamp_display": "20. 04. 2026 14:09",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -24,7 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRTVWb1FUWFoyV0llYTlnS1dGMFN4bkwtQUlDYTloLXg4WU9Vanp5dmhVcGlNVUtNVnotYy1RQTVTSzlBSl85YUtqWnFRX0JubzZlUHQ3YWxWazhURGZRd01zTHZ0eHlTNjd5N1JhclR5cWttNWNXdlZGSERRY0RtM1ZWR1UwbnFPMTd2NFBiYzB1eHQxb1VMUzF5Q0hLOXBERlJEYzVLMEpRcnZ0V2lMZjJyYnZxZzYtRlVwY0RDNlRmT3JpUVhHSkIwVVpIaTVrTk1Sc0lLNl80a1dGR3FJQVI3Q3ZLckxvMWJB?oc=5",
         "timestamp": "2026-04-20T14:04:13",
         "timestamp_display": "20. 04. 2026 14:04",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,7 +60,7 @@
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa3VFTUlWcFlkZWdDZG9GT3FKUFo5RGVsTGJlVVh5Snp6Ry00TUZFaUlmRUE2b0RYQjFoUGQwUEJzeWM2Rm81b0VuSW5fRUEybldXZTZLQTUwc0x6UlRpaExpaHVXNzVLNzZ0SHJ6WG1uRGFoaDJvcWNPcXNid0RwU0hDWXMzVjluZ2prbWlWaXdmbkVZMGpyRnNVcVRjbnk1?oc=5",
         "timestamp": "2026-04-20T12:51:41",
         "timestamp_display": "20. 04. 2026 12:51",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -42,7 +69,7 @@
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQTh0anBPZFZEV3B4NmpzNU94WXNYQTZ4NkF4dVhtN1pOSXI0R09sTWdXSkRMWFBZT0pFM1h0MERjXzdDU0FBU2ZaTnZvLU1WUVRFU2MtMlJTQU5vUWNiSUdxUndlbDBHcC16Z1lEZHlnb0tickF3b1d5YUFDSjhIVzNPSzc1T3ZlazJUc2hud3laRVF6ZzhmMlNJWjZ1aXhNU3BIQ2dEVGkxbHFoaldyMzNqTQ?oc=5",
         "timestamp": "2026-04-20T12:30:00",
         "timestamp_display": "20. 04. 2026 12:30",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -51,7 +78,7 @@
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeHBKNE5adUs5SGc1MWJxNmlxNUpXT0VvdEpJdkplVzNpcjBPNnBsM2lUT3dRbHV6Z2JDUjJ0T1J4Q1VMeGhmMzRFYU5vdFVJQVJwUXZOSlpseGlSWEQ0SWRWak1UWmtiYUNZNFJoRDJtOUczVkJTZDlzdTlvUWRZQ2trSE9BcGRxU0ZheUJKNzNzeVM5a054eTVVOFdaNVlTR0NoRVlYWE5taUk2Z1BQX3FBcHZGOFFkRmJyOFNhSnJwN0VJVnJxWERn?oc=5",
         "timestamp": "2026-04-20T08:10:00",
         "timestamp_display": "20. 04. 2026 08:10",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
