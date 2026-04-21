@@ -1,12 +1,21 @@
 [
     {
+        "category": "Společnost",
+        "title": "Změň život vědou",
+        "summary": "Forbes Česko nabízí inspirativní články, které mohou změnit život.",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91TnM5XzB3cjZVVG9HaVh0R3JfLU40M20zM2JUY2JpTE5zZ2ZZUV9QZjlIY0lWcmlnMm1HOHpWdGpuNWFERTE3T0lndmlCRHpPOFE?oc=5",
+        "timestamp": "2026-04-21T06:54:09",
+        "timestamp_display": "21. 04. 2026 06:54",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "Amazon investuje do AI",
         "summary": "Amazon investuje 25 miliard do startupu Anthropic, který se zabývá umělou inteligencí, aby podpořil jeho vývoj a růst.",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOakZETHJacGZyZ1NBRnFmaEMzRXNGdEhKYTJuUGRKMWREMXppQUZRbFNjdGFNbFUyVFNldjM2MzhCamdCWTM3Znh4ekFjVFZoX0I2WXUyOGFaUlpvQjhRMXc4aUMwUVNVYVVtN2tKNDJ5QjQ2Q3JjUFBrZ3NDak4xaTEzOUcxeXJITGdVWHRva1VvdUJ2WUNIeVFWbUstWEdzYlEzMm1USGM?oc=5",
         "timestamp": "2026-04-21T12:45:00",
         "timestamp_display": "21. 04. 2026 12:45",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Společnost",
