@@ -1,12 +1,21 @@
 [
     {
+        "category": "Byznys",
+        "title": "Amazon investuje do AI",
+        "summary": "Amazon investuje 25 miliard do startupu Anthropic, který se zabývá umělou inteligencí, aby podpořil jeho vývoj a růst.",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOakZETHJacGZyZ1NBRnFmaEMzRXNGdEhKYTJuUGRKMWREMXppQUZRbFNjdGFNbFUyVFNldjM2MzhCamdCWTM3Znh4ekFjVFZoX0I2WXUyOGFaUlpvQjhRMXc4aUMwUVNVYVVtN2tKNDJ5QjQ2Q3JjUFBrZ3NDak4xaTEzOUcxeXJITGdVWHRva1VvdUJ2WUNIeVFWbUstWEdzYlEzMm1USGM?oc=5",
+        "timestamp": "2026-04-21T12:45:00",
+        "timestamp_display": "21. 04. 2026 12:45",
+        "is_new": true
+    },
+    {
         "category": "Společnost",
         "title": "Nová metoda vaření",
         "summary": "Indický vařič rozkládá vodu pomocí elektrolýzy a ohřívá pomocí vodíku.",
         "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPTjVaWDRKTVg1cnVCeGNiSW5uaGtHclY1WGI5LTZrMzZXMTlNYnRDemp2OE5EX2IwbU1zX05VZHNSb3FtSWc3Y2Y0dk55RVZzNGRLUFBaZkJIN0kwU2xEQXJnTVduMGZYYmRpLXB2Z2RtR3dNWGJqSHdhclBFN0ZkTDBmSzhYbmR5RUJNUkUwWlVmbTZSdFI4MXJqeDEwclpKRThRWWY4YWRQaDBZaFp6M0ZERE5xNExzUFJ5T2ZOMlgxN25YZUR4dXVpMzNHTmcxUmNqYi1qSWt2SnNWMzFNU2o0eXFXTlRyRkRtUFN6RHFBR1RpWFR5NEU0SXBGeVk2M29yQmh1aFVrQQ?oc=5",
         "timestamp": "2026-04-21T10:19:11",
         "timestamp_display": "21. 04. 2026 10:19",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Společnost",
@@ -15,7 +24,7 @@
         "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTFk2QlVPU2VkY2ttX0h0XzB1OXpLMFl1bk1vUTFRUUtTVTFCLUpnV2tMUkx2b2JYeUxNZ3NGZFpVTy1WcG9peTBWZUZqdHNTdi16b0FKck4tZFNnb3FEX0p1dHZBalpoem9vTnRCRmpEZWF3S3R3bzkxOW9WZnFVQ19TZENYdC1qRjZJakRjSC1GQ3V6dmYyRXduNjNMMGdSTE1nUzFFRWpQbkJ2Uml5ZGY4S0tMdGk0dkpNSXdNWE04UzVSOUtlWkZBOU9yOG85d0FkNXNwc0psT3Z0UGEwY1J4SmV1Y3piaUdJMlE2SmNGVGZEdWVZXzZ3?oc=5",
         "timestamp": "2026-04-21T09:43:11",
         "timestamp_display": "21. 04. 2026 09:43",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,7 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbEYwdVFtTVBYNWVjd3VkYXVuazlFOUZXXzQyM2w0V2VSZXNkQUhoVDZfUlRzd0JLWWxEb0p4c2c2R2U5VTgyUElQYmlXTjBvb1ZNcFVqRGRiYVUtTVBNMk9TNjVfV3Vua0ZWUGQyNHh4c1JiUTJYRGRyOGlreEJ5NFRBNDBQOU5QNGpMc3RFeC1KVkQyQzM1TlBzU3NnbzZNZWUw?oc=5",
         "timestamp": "2026-04-21T09:38:39",
         "timestamp_display": "21. 04. 2026 09:38",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,7 +42,7 @@
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWkhhSUhPQkc2Mk5vcEE1SGlfNnZFNVA4ZWdlb1ZWRGJMdXFZR29YNVFZSTc0QmZEdURwTVQ5VkdSVUZnTlhDVF9lOEtoMW1KcFpGTWh3M2NlNmdBX1RnTVlManlGODBHaVNhSUM5ZVBiZ3Zxem1uQWpUWU1DZV93YlhlLUc4T2VNZmV2RkY2LWJiNDlMbVNvbWNScS1uZ0xKVk0yRkdZUmxia2M?oc=5",
         "timestamp": "2026-04-21T09:29:00",
         "timestamp_display": "21. 04. 2026 09:29",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -42,7 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPOGpGUTZsN2lrcEpVT2M4ZmQzTFVnbXNnYzF6VEhkX080Qjc5eTRsYUh1MkFCeG8yekM5V1BOcHZYLVNSQUNETEZFSXNER09ONXJkWXVFUTh0LVE0alJGNmxJZzBLWkEzT0JPVlBxX19Lc3F0Tm10RXVNMVQtdmFmSVZrZ29pcGtDLTI2S3U3OFB6dGRaUFNiRkxMSVF6anJfVFNhTDVpcTljRGx3M3NKZ0JCM0ctWkcxLTU0eG9SdXU4NXE2RFREbnM2aDhJbDhMdU9kU1dTM0JUeXdMdGczS0syeGVUN2tYM2s0enEwWGJ6TXdOaDVLeWJEWm5iTTdmUFRlZ1d3?oc=5",
         "timestamp": "2026-04-21T09:08:00",
         "timestamp_display": "21. 04. 2026 09:08",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -51,7 +60,7 @@
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZnVfMy1ocXpNQ0lieC1rb2dxeVpYMXZaOURadmhMOUctS0VGR2FIZzBOSEl5TUJNMlNtcHRmNnU5Y3NYT2VJakc4LUEwMzBhcWo5Um5HUWhwRko5NkVXVC00RWU4NERCYS1UYkRfTUdUZGhROUZPMVZoNVFWSEFTWEFFYVZkN1U3UzlzUzFIOGNsN3ZTeWZic1M5MEE0VDV2ZFZaTUZHU0o3cVNmSU1hamRsVUxITUdmbFBHY2lfYnRLRkMyRFp4d0tPOC1peWY2ZTRPUk50Y1JGX1JzQm1uRFJmcklVUVVS?oc=5",
         "timestamp": "2026-04-21T08:00:00",
         "timestamp_display": "21. 04. 2026 08:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Společnost",
@@ -60,7 +69,7 @@
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FbzFRVXN2RnlodzE1d1ZWZ0VaUHF1YmkzNUR6ajZlWUhQRXMtTGpUUER0bnhZZkhnLVI3VnFSdHJGNklLZmdSREg4dnpyRmU1LVQ0?oc=5",
         "timestamp": "2026-04-20T16:53:34",
         "timestamp_display": "20. 04. 2026 16:53",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
