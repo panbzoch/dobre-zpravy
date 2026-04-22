@@ -1,12 +1,39 @@
 [
     {
+        "category": "Byznys",
+        "title": "Investice do DeepSeeku",
+        "summary": "Tencent a Alibaba jednají o investici do čínského start-upu DeepSeek, který konkuruje americkým gigantům.",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUU5vTVFUVWFsd2RtdFlhaTRxT3QwZ21NZGRnYVJwWGwtUkZ4ZmJSWExSMXFPdlpZWTdtZVZjZnBhOUp6cGVWY2tXWXhVbVVoTG82emZKQktQdTRwazVZYy1rRFY4TEFVRFF4Y0NPVHFodWhXMnc2TVludHRGanV2Rjd5NE53Wnp5SVExWTNYUmdlZ0NtTXAzOGpoZnpoZTVIN280Xy1hZE5lSlBnbnljdlhB?oc=5",
+        "timestamp": "2026-04-22T16:45:12",
+        "timestamp_display": "22. 04. 2026 16:45",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Musk navyšuje hodnotu",
+        "summary": "Elon Musk plánuje navýšit hodnotu SpaceX nákupem startupu za bilion.",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUGtzRTZ6QmUzTHprZ081OS1OYzVYaGlab3dlRTR1TVkxS2tHbW9uRGZsVHdUcFQ5LWJ0dndTRUR1SHhVUGJHcFE5UmZGcXBkYnN5QUlOei04dTJMcHVmbmpPb00xWGJYekcwN2J1U1lmb0NkV3lkcVVRQXl6d0I1QWtIbFdQbmhabFFITXhySl9manpuMlZxRGhHdDBodTVHWFh6Z2IxaEJVWGF5aTRYSg?oc=5",
+        "timestamp": "2026-04-22T09:02:48",
+        "timestamp_display": "22. 04. 2026 09:02",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Nový tekutý kov",
+        "summary": "Vědci objevili nový materiál, který se chová jako tekutý kov, tvořený klubkem kancelářských sponek.",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWndHdHRCS2s5M25RUzdMckhrR0Q4LVQ3elNQajFtQnVSS0dSUWtpYjVseW15aXZCVTNNZGZieTJjc3lSLUYzX1UxY0IzbkdaaWdCVm12aTVseENITDZwY0RVcUxoNWg0VGJ3MDBQMDd1SGFfYzJpdnRJZ25yQ0ExVkw0WmFFSDMwSE9Kd0dYeWNmQkhBT0wxREFB?oc=5",
+        "timestamp": "2026-04-20T19:27:52",
+        "timestamp_display": "20. 04. 2026 19:27",
+        "is_new": true
+    },
+    {
         "category": "Technologie",
         "title": "Nová baterie pro elektromobily",
         "summary": "Čínská firma CATL představila dvě nové baterie pro elektromobily, jedna nabízí dojezd až 1500 km, druhá se nabije za 6,5 minut.",
         "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOb0VUV0FjNGI1RjZvcUFUZjJ5Z1VMYTNFU05yRk81VU5UYlpNeUdTOHhVekZHMmNudU9ObTI5bXlocUVNdFYtbFQ4S3oxZ2h6cXpiUGxCSDNCbndmSFVEekpiYnowbjIyYktSckdqUndCbG1CVWpydldGcWppZTVic1J1czVqclloTmJqRFBnNE93X3hpN205VXo4U0pnMkxaUy1LZUplbWlSa1Z4eWZfMUZBY2Nob0NFaC01MDBKYk9ndzFFZDNqVHlMQ1YxTjlhVWJPV016QXZyMDI1UVVoNlJESFNidWx5NkhRU0xzWjM?oc=5",
         "timestamp": "2026-04-22T13:42:31",
         "timestamp_display": "22. 04. 2026 13:42",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,16 +42,7 @@
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdkI1aE9HUHRBWmdEclQyLTRFT2Z1dlRkNVozYzViRUpVTFZOS3BTU3lSOGxpOE1BcHhxbjJ0cldkQThkMlJ1SkxidnBZd2IxdWZmMVlmS3ZZMmdoUWtQc2dGdTgyS0pBS2ZZZVBqWVlPWWh1MEJxNmc4dHpzazhpbFRZbGRiMXlEUnJqeUI4MTc3b2xMZzNIQzJBamk0a2c?oc=5",
         "timestamp": "2026-04-22T13:28:41",
         "timestamp_display": "22. 04. 2026 13:28",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Změň život vědou",
-        "summary": "Forbes Česko nabízí inspirativní články o úspěších a změně života.",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IVnZjS3FsZVd1ZHFmMEJRdnFxYnNlSW9LQ1VqNXV4QnFGMVhNX211aXV1SkhJRi1kQ0FNc1dTSDRROHhVeldRckVBWEYxWmlnLXNwUDJyYTRVZEk?oc=5",
-        "timestamp": "2026-04-19T08:58:04",
-        "timestamp_display": "19. 04. 2026 08:58",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -366,6 +384,15 @@
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOUhRMXduUUJhOVctb3hDWDV0QVozSUFvNjIwZ0RFdFlUWHdtLUgyMkhCSVc0bU1ORm5pS3hkUWpPeENMdnBGaFZWeDgyZDJFY2lvSWxVNGt2aE93TWxXV2J4YzNKWV8wWlIwamZwMVVINmowOUZoZ1NDOTNZellYelZwOEpuek9lYTNGV1hsN2o2b29aMHc?oc=5",
         "timestamp": "2026-04-19T10:07:17",
         "timestamp_display": "19. 04. 2026 10:07",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Změň život vědou",
+        "summary": "Forbes Česko nabízí inspirativní články o úspěších a změně života.",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IVnZjS3FsZVd1ZHFmMEJRdnFxYnNlSW9LQ1VqNXV4QnFGMVhNX211aXV1SkhJRi1kQ0FNc1dTSDRROHhVeldRckVBWEYxWmlnLXNwUDJyYTRVZEk?oc=5",
+        "timestamp": "2026-04-19T08:58:04",
+        "timestamp_display": "19. 04. 2026 08:58",
         "is_new": false
     },
     {
