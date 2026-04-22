@@ -1,12 +1,39 @@
 [
     {
+        "category": "Technologie",
+        "title": "Nová baterie pro elektromobily",
+        "summary": "Čínská firma CATL představila dvě nové baterie pro elektromobily, jedna nabízí dojezd až 1500 km, druhá se nabije za 6,5 minut.",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOb0VUV0FjNGI1RjZvcUFUZjJ5Z1VMYTNFU05yRk81VU5UYlpNeUdTOHhVekZHMmNudU9ObTI5bXlocUVNdFYtbFQ4S3oxZ2h6cXpiUGxCSDNCbndmSFVEekpiYnowbjIyYktSckdqUndCbG1CVWpydldGcWppZTVic1J1czVqclloTmJqRFBnNE93X3hpN205VXo4U0pnMkxaUy1LZUplbWlSa1Z4eWZfMUZBY2Nob0NFaC01MDBKYk9ndzFFZDNqVHlMQ1YxTjlhVWJPV016QXZyMDI1UVVoNlJESFNidWx5NkhRU0xzWjM?oc=5",
+        "timestamp": "2026-04-22T13:42:31",
+        "timestamp_display": "22. 04. 2026 13:42",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Atmos Space Cargo",
+        "summary": "Atmos Space Cargo získal 25 milionů eur investice, včetně příspěvku od Strnadova fondu.",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdkI1aE9HUHRBWmdEclQyLTRFT2Z1dlRkNVozYzViRUpVTFZOS3BTU3lSOGxpOE1BcHhxbjJ0cldkQThkMlJ1SkxidnBZd2IxdWZmMVlmS3ZZMmdoUWtQc2dGdTgyS0pBS2ZZZVBqWVlPWWh1MEJxNmc4dHpzazhpbFRZbGRiMXlEUnJqeUI4MTc3b2xMZzNIQzJBamk0a2c?oc=5",
+        "timestamp": "2026-04-22T13:28:41",
+        "timestamp_display": "22. 04. 2026 13:28",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Změň život vědou",
+        "summary": "Forbes Česko nabízí inspirativní články o úspěších a změně života.",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IVnZjS3FsZVd1ZHFmMEJRdnFxYnNlSW9LQ1VqNXV4QnFGMVhNX211aXV1SkhJRi1kQ0FNc1dTSDRROHhVeldRckVBWEYxWmlnLXNwUDJyYTRVZEk?oc=5",
+        "timestamp": "2026-04-19T08:58:04",
+        "timestamp_display": "19. 04. 2026 08:58",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "Průmysl mění život",
         "summary": "Forbes Česko přináší inspirativní články o úspěších v průmyslu a podnikání.",
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tbm0yMV9tenJ3WjdsLXNLZHhoeTRZZUZZdG84SmRCSXR2NkhWeV9zLU5CQ1MwTmt1SlMxNlNTRmxfYTFhSDVmWTQ2Tk0wSS1KX3FHM19KOA?oc=5",
         "timestamp": "2026-04-22T10:39:31",
         "timestamp_display": "22. 04. 2026 10:39",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +42,7 @@
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBwQUV6YXE2QXMyTWRNUDFVYi1qa19UWlJZV3ZtTHFtQTNJLXlxVEtPWHhLSm1yYUY4eG5FRV9FeExrY2M5S0tmdms2dkY3dw?oc=5",
         "timestamp": "2026-04-22T09:31:16",
         "timestamp_display": "22. 04. 2026 09:31",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,7 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWm9ObEhoSjM4a01SUHJCSUdzS2c3Z0RiLTR5Y2ZhRnpXektrQmF2b1BOUUZsMkIyODI3cGtYaGF6WVpLU0NDMW5kaE9sQjAxN1lCYUxsV0ZDMGJ4b2k3Ui1NMWFyUDJBbnIzWnhqLWI2RkdocGo5Wjl3bjR4dFNHOFlCQkk3cnEwQ2k4eVpXeG9yeUF2dUt5Z2h1Y1RubGlsRDUyWg?oc=5",
         "timestamp": "2026-04-22T08:12:00",
         "timestamp_display": "22. 04. 2026 08:12",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,25 +60,7 @@
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaTd2N3lrcFg0NVZEYXA5WERPOFpQYXJYWEtETXl5N3lQVzVkdzctWGZ4SUdXazdXNEN0dkplV2dBYUtpUEs4ajBDalhpOFZjeWZXdi1zT3BGd3c1UGRGRVQxLW9uMVJiWGVGNUZRU1R5V2FnS3lXTmNjYnItcm9uLVJicjZzbUMwTXFQTHk5dTlsUVNKRnpFc20td1BtbFE3bXdiT2M2YVROWDV4Mm5YS0lRWnBreWIyZWFueUQ4cHFtcGtaTG9kcGVrVExkSFJGeUoyWlY5SDNiQzBsYmc?oc=5",
         "timestamp": "2026-04-22T07:30:00",
         "timestamp_display": "22. 04. 2026 07:30",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Změň život technologií",
-        "summary": "Technologie může změnit život jedné věty, nabízí nové možnosti a příležitosti pro zlepšení života.",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nTFdnRXIyQ00xa2U1aHlZekY0azBFOFdLX2YtaW05LXFHc3FnLTM1OVVUQTktQ1NwYThJOWliM0pYR2U2SUpIcXZSVk9LakxwYXdfemUxYWJ6WW5N?oc=5",
-        "timestamp": "2026-04-22T05:18:01",
-        "timestamp_display": "22. 04. 2026 05:18",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "AI vyrábí herní reklamu",
-        "summary": "Slovenský tým naučil AI vyrábět herní reklamu, která předčí klasické metody.",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMUxqYXdMWkJGX2JBUEhxTGFFMG1fZ1VUdVFVSjBzakhSeWZTckFlVzRvSzBxRXJjQXBKYXlYMW5nbnpmbnpTLVVrX3lLNlZmVXhoVGNuR0UyMkZwNnFIOHVhdEY0VG9WUVJDTGxCQ0VnNEQ2SURSTloxcUkxaDY1bkFFUWxkZkQ0aWVrUGw3aVZuYUFianpHYmFicG5TUlNzSzEyRGwyZUEyQlF4djdLY2xZUkhmS0x2?oc=5",
-        "timestamp": "2026-04-20T07:00:00",
-        "timestamp_display": "20. 04. 2026 07:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -78,6 +87,15 @@
         "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNRkhrOUZKQVJRbGxTNnZjVjk4VHN5dl9mdDJTLURrN254VWxnT05CNXhlVVZtMXNIYjN5QTA3SmczbDdJSVhNdUpjMlJpQlM4M0J0cnpSeXFBZFJnVkk4SDVNU2E2d3JKUjBaSWdEZ3psTXYwc1h3RHRodWducnVjTTA0VkRMb1lsNHA1cnEtQUlkM0hTTjdqckY5WGMxXzFiN0ZOTTJ6QzFUZGVyNjdHQzJzdnNPWEhOMzNEeUtzbVV5YV9hZWNaVHVEcFBxeTNnY3RtbEE4dEhSWlVVX1U1eTg0SUJQcnJDY1QzS2xGNmtzT3UwWk9ZaFVzRzRkTEFEUjQ0?oc=5",
         "timestamp": "2026-04-22T05:46:34",
         "timestamp_display": "22. 04. 2026 05:46",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Změň život technologií",
+        "summary": "Technologie může změnit život jedné věty, nabízí nové možnosti a příležitosti pro zlepšení života.",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nTFdnRXIyQ00xa2U1aHlZekY0azBFOFdLX2YtaW05LXFHc3FnLTM1OVVUQTktQ1NwYThJOWliM0pYR2U2SUpIcXZSVk9LakxwYXdfemUxYWJ6WW5N?oc=5",
+        "timestamp": "2026-04-22T05:18:01",
+        "timestamp_display": "22. 04. 2026 05:18",
         "is_new": false
     },
     {
@@ -294,6 +312,15 @@
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQTdCWThOQURFUmNhU0JaOXBiMUNpbUJsTVdsNEVsTl9tbmpFSHYxb1kwNV9Xby1YWWl3Q0FEbHlielp5RTQ0VmdwaUR1UzE3M05NaE43cmJHZ0JScGFHNENnbXNmejJENXFvQUx3YWlwOWFiNkxmb2Y3SHRfQWphTDdwdHlPQnRlamR0dWQySkp1akpoTEpMUkJUTzR1WVZLQUYwOGJxN2dhelctZzRfX0FZODZxaWd6ZXVmQ1dIbGNDSV9qWVNJ?oc=5",
         "timestamp": "2026-04-20T07:47:00",
         "timestamp_display": "20. 04. 2026 07:47",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "AI vyrábí herní reklamu",
+        "summary": "Slovenský tým naučil AI vyrábět herní reklamu, která předčí klasické metody.",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMUxqYXdMWkJGX2JBUEhxTGFFMG1fZ1VUdVFVSjBzakhSeWZTckFlVzRvSzBxRXJjQXBKYXlYMW5nbnpmbnpTLVVrX3lLNlZmVXhoVGNuR0UyMkZwNnFIOHVhdEY0VG9WUVJDTGxCQ0VnNEQ2SURSTloxcUkxaDY1bkFFUWxkZkQ0aWVrUGw3aVZuYUFianpHYmFicG5TUlNzSzEyRGwyZUEyQlF4djdLY2xZUkhmS0x2?oc=5",
+        "timestamp": "2026-04-20T07:00:00",
+        "timestamp_display": "20. 04. 2026 07:00",
         "is_new": false
     },
     {
