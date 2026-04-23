@@ -1,6 +1,33 @@
 [
     {
         "category": "Byznys",
+        "title": "Tesla zvýšila prodej",
+        "summary": "Tesla zvýšila čistý zisk o 17 procent a prodala více aut ve prvním čtvrtletí.",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY25tdUVIdjBnb3RLRUU0dlRhcUZIRHhXOVY5aXctZFgwNEJLb19LYXM4YkozdmlDLWxRaGVOdEMxcFNNREpyb0dpX3ZZQWkzbXJxUzJWdkF2a0F0aUFnMEMxMElXY25URjl5Z1RabDFmc3BSU21hVTMxenJBbHpXNW9MUURZaktoLVZoQzZwdDRaTWx6SU1QTVh3WDlGZHc?oc=5",
+        "timestamp": "2026-04-23T08:21:08",
+        "timestamp_display": "23. 04. 2026 08:21",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Tencent investuje do DeepSeeku",
+        "summary": "Čínské firmy Tencent a Alibaba jednají o investici do startupu DeepSeek, který konkuruje americkým gigantům.",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdUpQSnBmX3RlR3JBN2RadzE2UnpveWdFRTd4TXF3c2JmZEc0RV91ZlRXUXZDZk1GbUJMVUZkZ0RyV29vUnk4aUlId19Ea290SmtfQVVNSGtIY1A0WnQzUGdnMG56SnZManZIaTFPNlhkcUNOU1BuV1lWc3pSQ20tNUJ0UVMwZ2FfdC0tVExaNGNrQTl3eFF0RWFENWVnREM5R2JEQmtOR01ka2ItbklibA?oc=5",
+        "timestamp": "2026-04-23T07:35:46",
+        "timestamp_display": "23. 04. 2026 07:35",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Změň život vědou",
+        "summary": "Forbes Česko nabízí články o osobním rozvoji a úspěchu.",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50Z1p2XzJEa3BLd2Y2QlF6TWZleEM4d0twaE50V0xIbUI5TmVRcVB1WGtsREg4eUo0ZWg5eEdrclVCNlI4T0hlVnBsSlBYQ1lWWlE?oc=5",
+        "timestamp": "2026-04-20T23:27:43",
+        "timestamp_display": "20. 04. 2026 23:27",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Investice do DeepSeeku",
         "summary": "Tencent a Alibaba jednají o investici do čínského start-upu DeepSeek, který konkuruje americkým gigantům.",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUU5vTVFUVWFsd2RtdFlhaTRxT3QwZ21NZGRnYVJwWGwtUkZ4ZmJSWExSMXFPdlpZWTdtZVZjZnBhOUp6cGVWY2tXWXhVbVVoTG82emZKQktQdTRwazVZYy1rRFY4TEFVRFF4Y0NPVHFodWhXMnc2TVludHRGanV2Rjd5NE53Wnp5SVExWTNYUmdlZ0NtTXAzOGpoZnpoZTVIN280Xy1hZE5lSlBnbnljdlhB?oc=5",
