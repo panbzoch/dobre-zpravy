@@ -1,12 +1,39 @@
 [
     {
+        "category": "Medicína",
+        "title": "Nová poliklinika otevřena",
+        "summary": "Penta Hospitals otevřela novou polikliniku s komplexní péčí na Florenci.",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUlRtMW1OUXB3ZE96QUVZaEItVzF0MTVCRTdsMFByS3E1WnlnQUMyenVmVXprRTVsdDByNDBVYlc0dmhsZmI3X0ZaX2ZjV1RpbWxCUnl6cUl4aWlTWGIzb3c0LUR1SzE4OGI5aGFwdVVnQWs1YXJlOFlJZEpGb21wY1VhbjczQnA5RFNydlY1bDZDUEJsVERMY2xEWmlyc2YtVlU3WlF0emNsRFdmRjE5WEs3dUFJVW1DaTVIUjZOVUxnNDdld1E?oc=5",
+        "timestamp": "2026-04-23T10:58:00",
+        "timestamp_display": "23. 04. 2026 10:58",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Revoluce v investování",
+        "summary": "Pražský depozitář a Crowdberry spouští unikátní investiční platformu.",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdnczR2FjWXhsUHdJTm5hSmNiMi1TaXk2TjEtbHlPNERldURHcGJGNVpjczlrX21abURZNWMtaExGaFp0ZkhmRVVmT0FSVzhuM3pNM29VWmNuVy1DZEhuYklvaEI3UVpheHZQNXRfV3gzaVNLTjV3eEdENlFDTC1PUGJSQnpHMFJpR05xVW54UDY0SC01WFNrdUFzNnZ6UnFnY1dVZnFqSG9jdWZVN3FoNnZnMzhHQWxmS25NVWY5MURjMEtQ?oc=5",
+        "timestamp": "2026-04-23T06:14:00",
+        "timestamp_display": "23. 04. 2026 06:14",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Luxusní hotel vznikne",
+        "summary": "Masarykovo letní sídlo se promění v luxusní hotel, který bude otevřen i investorům.",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcVdSTWRyQTI4OUkzNS1kMnRsY3RfeG5oc2FPNkc5OEJpOXFtalVoYTZNX0RsSmtaQ3Eyd2JkYWVlbHByOFNtNEVrSGFFUnQ5ZUh3dTZxRFdTT3E4WEtDcDZmSnRsME56SmVxM3A1bHQ1eXdQaW1TT2tQam5pbE5ET0QzblZtemZnTDVoeG1JcjAzMnpYWi02YTRjV3dfZHU0QkpsMmhnajdXZEJmWFhuYVFQZTB1cUJKak5J?oc=5",
+        "timestamp": "2026-04-23T04:23:56",
+        "timestamp_display": "23. 04. 2026 04:23",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "Tesla zvýšila prodej",
         "summary": "Tesla zvýšila čistý zisk o 17 procent a prodala více aut ve prvním čtvrtletí.",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY25tdUVIdjBnb3RLRUU0dlRhcUZIRHhXOVY5aXctZFgwNEJLb19LYXM4YkozdmlDLWxRaGVOdEMxcFNNREpyb0dpX3ZZQWkzbXJxUzJWdkF2a0F0aUFnMEMxMElXY25URjl5Z1RabDFmc3BSU21hVTMxenJBbHpXNW9MUURZaktoLVZoQzZwdDRaTWx6SU1QTVh3WDlGZHc?oc=5",
         "timestamp": "2026-04-23T08:21:08",
         "timestamp_display": "23. 04. 2026 08:21",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,16 +42,7 @@
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdUpQSnBmX3RlR3JBN2RadzE2UnpveWdFRTd4TXF3c2JmZEc0RV91ZlRXUXZDZk1GbUJMVUZkZ0RyV29vUnk4aUlId19Ea290SmtfQVVNSGtIY1A0WnQzUGdnMG56SnZManZIaTFPNlhkcUNOU1BuV1lWc3pSQ20tNUJ0UVMwZ2FfdC0tVExaNGNrQTl3eFF0RWFENWVnREM5R2JEQmtOR01ka2ItbklibA?oc=5",
         "timestamp": "2026-04-23T07:35:46",
         "timestamp_display": "23. 04. 2026 07:35",
-        "is_new": true
-    },
-    {
-        "category": "Společnost",
-        "title": "Změň život vědou",
-        "summary": "Forbes Česko nabízí články o osobním rozvoji a úspěchu.",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50Z1p2XzJEa3BLd2Y2QlF6TWZleEM4d0twaE50V0xIbUI5TmVRcVB1WGtsREg4eUo0ZWg5eEdrclVCNlI4T0hlVnBsSlBYQ1lWWlE?oc=5",
-        "timestamp": "2026-04-20T23:27:43",
-        "timestamp_display": "20. 04. 2026 23:27",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -231,6 +249,15 @@
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91TnM5XzB3cjZVVG9HaVh0R3JfLU40M20zM2JUY2JpTE5zZ2ZZUV9QZjlIY0lWcmlnMm1HOHpWdGpuNWFERTE3T0lndmlCRHpPOFE?oc=5",
         "timestamp": "2026-04-21T06:54:09",
         "timestamp_display": "21. 04. 2026 06:54",
+        "is_new": false
+    },
+    {
+        "category": "Společnost",
+        "title": "Změň život vědou",
+        "summary": "Forbes Česko nabízí články o osobním rozvoji a úspěchu.",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50Z1p2XzJEa3BLd2Y2QlF6TWZleEM4d0twaE50V0xIbUI5TmVRcVB1WGtsREg4eUo0ZWg5eEdrclVCNlI4T0hlVnBsSlBYQ1lWWlE?oc=5",
+        "timestamp": "2026-04-20T23:27:43",
+        "timestamp_display": "20. 04. 2026 23:27",
         "is_new": false
     },
     {
