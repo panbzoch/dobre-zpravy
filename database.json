@@ -6,25 +6,7 @@
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUU5vTVFUVWFsd2RtdFlhaTRxT3QwZ21NZGRnYVJwWGwtUkZ4ZmJSWExSMXFPdlpZWTdtZVZjZnBhOUp6cGVWY2tXWXhVbVVoTG82emZKQktQdTRwazVZYy1rRFY4TEFVRFF4Y0NPVHFodWhXMnc2TVludHRGanV2Rjd5NE53Wnp5SVExWTNYUmdlZ0NtTXAzOGpoZnpoZTVIN280Xy1hZE5lSlBnbnljdlhB?oc=5",
         "timestamp": "2026-04-22T16:45:12",
         "timestamp_display": "22. 04. 2026 16:45",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Musk navyšuje hodnotu",
-        "summary": "Elon Musk plánuje navýšit hodnotu SpaceX nákupem startupu za bilion.",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUGtzRTZ6QmUzTHprZ081OS1OYzVYaGlab3dlRTR1TVkxS2tHbW9uRGZsVHdUcFQ5LWJ0dndTRUR1SHhVUGJHcFE5UmZGcXBkYnN5QUlOei04dTJMcHVmbmpPb00xWGJYekcwN2J1U1lmb0NkV3lkcVVRQXl6d0I1QWtIbFdQbmhabFFITXhySl9manpuMlZxRGhHdDBodTVHWFh6Z2IxaEJVWGF5aTRYSg?oc=5",
-        "timestamp": "2026-04-22T09:02:48",
-        "timestamp_display": "22. 04. 2026 09:02",
-        "is_new": true
-    },
-    {
-        "category": "Věda",
-        "title": "Nový tekutý kov",
-        "summary": "Vědci objevili nový materiál, který se chová jako tekutý kov, tvořený klubkem kancelářských sponek.",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWndHdHRCS2s5M25RUzdMckhrR0Q4LVQ3elNQajFtQnVSS0dSUWtpYjVseW15aXZCVTNNZGZieTJjc3lSLUYzX1UxY0IzbkdaaWdCVm12aTVseENITDZwY0RVcUxoNWg0VGJ3MDBQMDd1SGFfYzJpdnRJZ25yQ0ExVkw0WmFFSDMwSE9Kd0dYeWNmQkhBT0wxREFB?oc=5",
-        "timestamp": "2026-04-20T19:27:52",
-        "timestamp_display": "20. 04. 2026 19:27",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -60,6 +42,15 @@
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBwQUV6YXE2QXMyTWRNUDFVYi1qa19UWlJZV3ZtTHFtQTNJLXlxVEtPWHhLSm1yYUY4eG5FRV9FeExrY2M5S0tmdms2dkY3dw?oc=5",
         "timestamp": "2026-04-22T09:31:16",
         "timestamp_display": "22. 04. 2026 09:31",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Musk navyšuje hodnotu",
+        "summary": "Elon Musk plánuje navýšit hodnotu SpaceX nákupem startupu za bilion.",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUGtzRTZ6QmUzTHprZ081OS1OYzVYaGlab3dlRTR1TVkxS2tHbW9uRGZsVHdUcFQ5LWJ0dndTRUR1SHhVUGJHcFE5UmZGcXBkYnN5QUlOei04dTJMcHVmbmpPb00xWGJYekcwN2J1U1lmb0NkV3lkcVVRQXl6d0I1QWtIbFdQbmhabFFITXhySl9manpuMlZxRGhHdDBodTVHWFh6Z2IxaEJVWGF5aTRYSg?oc=5",
+        "timestamp": "2026-04-22T09:02:48",
+        "timestamp_display": "22. 04. 2026 09:02",
         "is_new": false
     },
     {
@@ -213,6 +204,15 @@
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91TnM5XzB3cjZVVG9HaVh0R3JfLU40M20zM2JUY2JpTE5zZ2ZZUV9QZjlIY0lWcmlnMm1HOHpWdGpuNWFERTE3T0lndmlCRHpPOFE?oc=5",
         "timestamp": "2026-04-21T06:54:09",
         "timestamp_display": "21. 04. 2026 06:54",
+        "is_new": false
+    },
+    {
+        "category": "Věda",
+        "title": "Nový tekutý kov",
+        "summary": "Vědci objevili nový materiál, který se chová jako tekutý kov, tvořený klubkem kancelářských sponek.",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWndHdHRCS2s5M25RUzdMckhrR0Q4LVQ3elNQajFtQnVSS0dSUWtpYjVseW15aXZCVTNNZGZieTJjc3lSLUYzX1UxY0IzbkdaaWdCVm12aTVseENITDZwY0RVcUxoNWg0VGJ3MDBQMDd1SGFfYzJpdnRJZ25yQ0ExVkw0WmFFSDMwSE9Kd0dYeWNmQkhBT0wxREFB?oc=5",
+        "timestamp": "2026-04-20T19:27:52",
+        "timestamp_display": "20. 04. 2026 19:27",
         "is_new": false
     },
     {
