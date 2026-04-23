@@ -1,30 +1,30 @@
 [
     {
+        "category": "Byznys",
+        "title": "Artem Saykin Forbes",
+        "summary": "Artem Saykin uveden v Forbes Česko, úspěch v byznysu.",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xWlplR3gtTnB6d3kwbVQ1bUZoM0w0T1R0NzdPN3B2cGNpajhqMTl2elNWS3o1cDBQLWl6ZGdnbTBaR0Q4eDdZajFXWUk1UQ?oc=5",
+        "timestamp": "2026-04-23T15:38:27",
+        "timestamp_display": "23. 04. 2026 15:38",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Tesla investuje do AI",
+        "summary": "Tesla zvýšila čistý zisk a potvrdila investice do robotů a umělé inteligence.",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVExObktRN1RrbVVTbW43RHhoXzZfZHQySkJxTVMyblRfTnJ3bnh6U09vTTVKNVBiTFhqeHVoNW1CbExFSzBZdldEUUJFejZCOUtrbEJacEcwY0M2M2F0UkNZZFJUXzNoc2JVSjJaMTRLNXFBM1paMHEyOVpvWjFIanN5a05QX1l0UjJDODYyNmdVbFFHeEJEY0NNakh5N24zV0VTbXdWbUktNUlYX1ZTWWVqYlV4UFE?oc=5",
+        "timestamp": "2026-04-23T08:01:00",
+        "timestamp_display": "23. 04. 2026 08:01",
+        "is_new": true
+    },
+    {
         "category": "Medicína",
         "title": "Nová poliklinika otevřena",
         "summary": "Penta Hospitals otevřela novou polikliniku s komplexní péčí na Florenci.",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUlRtMW1OUXB3ZE96QUVZaEItVzF0MTVCRTdsMFByS3E1WnlnQUMyenVmVXprRTVsdDByNDBVYlc0dmhsZmI3X0ZaX2ZjV1RpbWxCUnl6cUl4aWlTWGIzb3c0LUR1SzE4OGI5aGFwdVVnQWs1YXJlOFlJZEpGb21wY1VhbjczQnA5RFNydlY1bDZDUEJsVERMY2xEWmlyc2YtVlU3WlF0emNsRFdmRjE5WEs3dUFJVW1DaTVIUjZOVUxnNDdld1E?oc=5",
         "timestamp": "2026-04-23T10:58:00",
         "timestamp_display": "23. 04. 2026 10:58",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Revoluce v investování",
-        "summary": "Pražský depozitář a Crowdberry spouští unikátní investiční platformu.",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdnczR2FjWXhsUHdJTm5hSmNiMi1TaXk2TjEtbHlPNERldURHcGJGNVpjczlrX21abURZNWMtaExGaFp0ZkhmRVVmT0FSVzhuM3pNM29VWmNuVy1DZEhuYklvaEI3UVpheHZQNXRfV3gzaVNLTjV3eEdENlFDTC1PUGJSQnpHMFJpR05xVW54UDY0SC01WFNrdUFzNnZ6UnFnY1dVZnFqSG9jdWZVN3FoNnZnMzhHQWxmS25NVWY5MURjMEtQ?oc=5",
-        "timestamp": "2026-04-23T06:14:00",
-        "timestamp_display": "23. 04. 2026 06:14",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Luxusní hotel vznikne",
-        "summary": "Masarykovo letní sídlo se promění v luxusní hotel, který bude otevřen i investorům.",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcVdSTWRyQTI4OUkzNS1kMnRsY3RfeG5oc2FPNkc5OEJpOXFtalVoYTZNX0RsSmtaQ3Eyd2JkYWVlbHByOFNtNEVrSGFFUnQ5ZUh3dTZxRFdTT3E4WEtDcDZmSnRsME56SmVxM3A1bHQ1eXdQaW1TT2tQam5pbE5ET0QzblZtemZnTDVoeG1JcjAzMnpYWi02YTRjV3dfZHU0QkpsMmhnajdXZEJmWFhuYVFQZTB1cUJKak5J?oc=5",
-        "timestamp": "2026-04-23T04:23:56",
-        "timestamp_display": "23. 04. 2026 04:23",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -42,6 +42,24 @@
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdUpQSnBmX3RlR3JBN2RadzE2UnpveWdFRTd4TXF3c2JmZEc0RV91ZlRXUXZDZk1GbUJMVUZkZ0RyV29vUnk4aUlId19Ea290SmtfQVVNSGtIY1A0WnQzUGdnMG56SnZManZIaTFPNlhkcUNOU1BuV1lWc3pSQ20tNUJ0UVMwZ2FfdC0tVExaNGNrQTl3eFF0RWFENWVnREM5R2JEQmtOR01ka2ItbklibA?oc=5",
         "timestamp": "2026-04-23T07:35:46",
         "timestamp_display": "23. 04. 2026 07:35",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Revoluce v investování",
+        "summary": "Pražský depozitář a Crowdberry spouští unikátní investiční platformu.",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdnczR2FjWXhsUHdJTm5hSmNiMi1TaXk2TjEtbHlPNERldURHcGJGNVpjczlrX21abURZNWMtaExGaFp0ZkhmRVVmT0FSVzhuM3pNM29VWmNuVy1DZEhuYklvaEI3UVpheHZQNXRfV3gzaVNLTjV3eEdENlFDTC1PUGJSQnpHMFJpR05xVW54UDY0SC01WFNrdUFzNnZ6UnFnY1dVZnFqSG9jdWZVN3FoNnZnMzhHQWxmS25NVWY5MURjMEtQ?oc=5",
+        "timestamp": "2026-04-23T06:14:00",
+        "timestamp_display": "23. 04. 2026 06:14",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Luxusní hotel vznikne",
+        "summary": "Masarykovo letní sídlo se promění v luxusní hotel, který bude otevřen i investorům.",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcVdSTWRyQTI4OUkzNS1kMnRsY3RfeG5oc2FPNkc5OEJpOXFtalVoYTZNX0RsSmtaQ3Eyd2JkYWVlbHByOFNtNEVrSGFFUnQ5ZUh3dTZxRFdTT3E4WEtDcDZmSnRsME56SmVxM3A1bHQ1eXdQaW1TT2tQam5pbE5ET0QzblZtemZnTDVoeG1JcjAzMnpYWi02YTRjV3dfZHU0QkpsMmhnajdXZEJmWFhuYVFQZTB1cUJKak5J?oc=5",
+        "timestamp": "2026-04-23T04:23:56",
+        "timestamp_display": "23. 04. 2026 04:23",
         "is_new": false
     },
     {
