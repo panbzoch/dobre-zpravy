@@ -1,12 +1,48 @@
 [
     {
+        "category": "Medicína",
+        "title": "Nová dětská ambulance",
+        "summary": "Ve Frýdlantu vzniká nová dětská ambulance, která má pomoci řešit nedostatek praktických lékařů pro děti.",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVmpmTXo5bDNxZWZ5bk5oYXQ3WEFDNUV6N3o1WkdtM19wUUh0YkwtcUtfUHkzeHFLajNRS0tYLVpsOHhmR1FZQWhjZV9QRUkwX1Rld21vNFZHV1VodU9IREU2c3NqTExzbmZOazVZQjVKQ2txclA3c1NyZkJsZ2JjckVGLW91dFVHZXBYSUZNdHpNWkFmekJzVDVKeWt6aVJOcEtMckt6ODFIbEcyaEtCaWlvWEJIWHdHUERfekhRU0RlNnRNQVFKemtsdnM?oc=5",
+        "timestamp": "2026-04-24T14:13:00",
+        "timestamp_display": "24. 04. 2026 14:13",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "ChatGPT předstihl konkurenci",
+        "summary": "Nový model GPT-5.5 překonal Claude Opus 4.7 a Gemini 3.1 Pro.",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNT2JjQzZ2YVdSbDdDSERRdkFkNWdiZXJHYmRxZmF3VHhlM3JVbHYyTzdoUTNyWlBqWnUwXzBxdlZFdXN2MGNkV3FPNXZXVGxCSnZCWGR0UVh6RHB0WC13cng0LXNmeHlHMEhmamVpZG5wVU9Dc21PSmhKaUhObXJmOHRaR2FNV1Vhdi11akJwMGcybXdyRWNsNEpGNzZZMG40VXItSUp3ZVBrU3BSVjV6YmlDM29TTmZwelIydU9zMWVSV0tWcE1BTzJCYmJVQ1BYYm13?oc=5",
+        "timestamp": "2026-04-24T11:44:18",
+        "timestamp_display": "24. 04. 2026 11:44",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Intel hlásí úspěch",
+        "summary": "Intel oznámil úspěšný kvartál, jeho akcie vyskočily o 20 procent.",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSnl0MlN0ODBQQ01pdDA3XzhZbWd0dWNuZGQxaUZZU1lNckp3TzcwTXY3bnRoQ01YaUlwd3BFZ1ZyemhybE45bWhtaC1uYXJiNkk2Xy1OWERuMnZJbVh0ZmJtS0JXRzhqeDRVU1JkSFpkVkpPWlctWXR2Wkg2VTZ1dlgyeVQ3U3YwLUJNeEZOSXhWMVRaOFpleHdCSC1ra0phOUdMQmlYMUU0TFQz?oc=5",
+        "timestamp": "2026-04-24T11:21:56",
+        "timestamp_display": "24. 04. 2026 11:21",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Nová firma ČEZ",
+        "summary": "ČEZ vytváří novou dceřinou firmu pro distribuci a prodej energie, která vznikne v roce 2027.",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbHFQT1RZbHVISUdiVE8xc3ptOGJXRldfRk4xcmhCTUR4Mm85b0w0V21yMm5TUFpxWDBLZnFvMGc5VV9EbXhwb1pSWGRVRkQzNzYxbk1paDQ2NFhBajJfY2pIYm5XbGp3YWt5MGxJYXNvWXd2a3ItU2JwSG1JWkNmNmZGaTRMX3J6LU1Jdm5kSXhlREwwVFNRbnR1eG9ub3N5WGs3bWs2WVRiaDFnN1lqbUxTQVFDcTBycmcwR21PQmFERVFCWkZzdjBVcHI5ZG54VkFHdU9FVUE?oc=5",
+        "timestamp": "2026-04-24T11:14:00",
+        "timestamp_display": "24. 04. 2026 11:14",
+        "is_new": true
+    },
+    {
         "category": "Společnost",
         "title": "Malé reaktory v Temelíně",
         "summary": "ČEZ podepsal dohodu s Rolls-Royce SMR na výstavbu prvních malých modulárních reaktorů.",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYjU0QkpONjl4VTB6cU95ejdxMmtqZ1BWSXR0WWp4WGpERU1oUkhQeWh1YWNMYndVX2NFS1Q4c2FLNkZIQ0JEQXdvUWppQ0RneWdYdm5GYndfOXBUZkdYdnAwajVYVUc0cUxzZ0JuSkw4OHpCQThBTDVON0hxcU1zVEpfYTBsdmJld0hWNnpGaGJ4RkQxTWl6Xzd3dFdYaV9Da0VPQTBvaTVUdw?oc=5",
         "timestamp": "2026-04-24T10:21:46",
         "timestamp_display": "24. 04. 2026 10:21",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -15,7 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPYUdqUURxVmFRT3Z2RjN6X1hyM2JrVk5LMEVmcy10SERTaTZyZDFvYnBaSDlabHdOZTFNazdxczM4RFRSbE5VdTRtbVpvMVBndVhka1Aya1JfeW9Zbi1zZV9NOFZWVS04XzRZXzhaVmpEMEYwZ0tYVE1YUXdFQnhyYUI5clctZEU4SlIzYmdUVTE5bS1wbVZsVDQtNXlhczJvMGIxQUN0MzRvQXhhel9VVFdaYnZKaTZlTW5qZXdVZ3o3ak84RXhTREIxUVBIdWF1cEFGMUFTdVo2ekdVR0ZhNjF3SmxqUEprZXBscTAtQWpJd1dFR19zVU9zblZFQQ?oc=5",
         "timestamp": "2026-04-24T09:58:34",
         "timestamp_display": "24. 04. 2026 09:58",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -24,16 +60,7 @@
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQmRPZ0tLZmZUcTJMMGhKNWxHeHZraUE4V0JBTEVxM25TdTBVaVN5YXZ4ckotYnktM2gyYTFneU1fdmUybGlmSll1MUF1dGhlQ1VCS3l6ckJSMEo5aXpzOEZIb2FwQ2J2UE9MZUFFRkJxLTZYSmF6aFpaakZKTFYyQkRqUFR0VjY4UWl0YUsxTERxOXBSWEhfNEc1U09SVkROamg5SDNteUpuY3FJVDhvc0dPWVdhcENvc2NKcEVONUhvQ2ZuaXB4M3c2UExndjJRX0kxYnA5OTZETkVjdkctTVFMT1RHbVNaT0hn?oc=5",
         "timestamp": "2026-04-24T09:42:37",
         "timestamp_display": "24. 04. 2026 09:42",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Automatizace reklamy",
-        "summary": "Slovenský startup vyvíjí řešení pro automatizaci reklamy, aby pomohl zvýšit viditelnost her a aplikací.",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNR2RZZzNtRmJnY2JKbFlhajBiYi1iTTZaSXl3UkxjODcyUFIzSEphaXRFNTh6NHV4NnNmb1U4UlY0TXBFTEd6Yy0taFhfQmw2Y0hfeFllT1BRZEpIdkp5ZDZTY0ZjLVo1RE1UbjU2Z2pJbGc2RENSZ1ZKSURoMDZNNURqbFgwdld5REdWTnZrenY4WkxCcDVJbkNMcWZzRUpJRHhHOTVnOFBSMERSaTEwejhQWWRjNDBUOENKNkVnTnVRNklvakVnSGhZQXMwdzMwdGwxcG5zWjJfQmpFZlRuU0k0dmo2N2NhMjdCNDdsbkQ?oc=5",
-        "timestamp": "2026-04-22T16:29:15",
-        "timestamp_display": "22. 04. 2026 16:29",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -168,6 +195,15 @@
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUU5vTVFUVWFsd2RtdFlhaTRxT3QwZ21NZGRnYVJwWGwtUkZ4ZmJSWExSMXFPdlpZWTdtZVZjZnBhOUp6cGVWY2tXWXhVbVVoTG82emZKQktQdTRwazVZYy1rRFY4TEFVRFF4Y0NPVHFodWhXMnc2TVludHRGanV2Rjd5NE53Wnp5SVExWTNYUmdlZ0NtTXAzOGpoZnpoZTVIN280Xy1hZE5lSlBnbnljdlhB?oc=5",
         "timestamp": "2026-04-22T16:45:12",
         "timestamp_display": "22. 04. 2026 16:45",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Automatizace reklamy",
+        "summary": "Slovenský startup vyvíjí řešení pro automatizaci reklamy, aby pomohl zvýšit viditelnost her a aplikací.",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNR2RZZzNtRmJnY2JKbFlhajBiYi1iTTZaSXl3UkxjODcyUFIzSEphaXRFNTh6NHV4NnNmb1U4UlY0TXBFTEd6Yy0taFhfQmw2Y0hfeFllT1BRZEpIdkp5ZDZTY0ZjLVo1RE1UbjU2Z2pJbGc2RENSZ1ZKSURoMDZNNURqbFgwdld5REdWTnZrenY4WkxCcDVJbkNMcWZzRUpJRHhHOTVnOFBSMERSaTEwejhQWWRjNDBUOENKNkVnTnVRNklvakVnSGhZQXMwdzMwdGwxcG5zWjJfQmpFZlRuU0k0dmo2N2NhMjdCNDdsbkQ?oc=5",
+        "timestamp": "2026-04-22T16:29:15",
+        "timestamp_display": "22. 04. 2026 16:29",
         "is_new": false
     },
     {
