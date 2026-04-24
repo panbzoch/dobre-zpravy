@@ -1,12 +1,57 @@
 [
     {
+        "category": "Byznys",
+        "title": "Mladý Nepala zrychluje",
+        "summary": "Mladý podnikatel z Nepálu zaujal v Silicon Valley a nyní zrychluje rodinnou firmu Renomii.",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTDdTQTJCTU4tdjM2MURtUk41bVhDWmtFRDdUN2dfby1aaGJaY0Mwd1pRdUVxLXJpbHBSRXdVWG9FNTl2ZnFvOE5zSlp1WEZ5NXlQV3ROdUxwODc0MzBkNHFkVjVMakNvQS1LSnNlZkhQYllKUHNMWldPeDRmUzQxNXo5cG5GT0ZLdjdfNXRqekc4eGpPb0pockk2VUZNS2pv?oc=5",
+        "timestamp": "2026-04-24T18:00:52",
+        "timestamp_display": "24. 04. 2026 18:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Google investuje",
+        "summary": "Google investuje 40 miliard dolarů do Anthropicu, posiluje pozici v AI.",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV0JwbzVhNUdPS25ha0V1eG16Q1Y4UVNDek5hVXBuY3EtaFpvcmZ3TEVPWk1MVVlHMVFzNS1HZ0pGR2dnQUhpWmFiRm50WHBZcG45NjcxWnZDR0JRNXA5b3h4UjAtbUp4LUxQM2hwcGVLMVROa3FhQWhtS2dhbG5tS0pzS29obXV2TjB4MkxtdU9Hd280OFIwcnpKM0l6dw?oc=5",
+        "timestamp": "2026-04-24T16:54:44",
+        "timestamp_display": "24. 04. 2026 16:54",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "AI a hudba",
+        "summary": "Vědci zkoumají, jak lidé interagují s hudbou pomocí umělé inteligence, projekt získává finance z Česka.",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa0YydTNMZ2ItU2RONjVfcmFBak9XQmdPdnR6QUM3VWpPN0xzb25XMDlUczltejFHdHpxYlN4ZlQxN3M2UFlfbFpmSVdnYnNCWjRmQVlEQ0JpSm9jRkVWd2RITnZaTnBLeUJpSE53NXVZT3o1dEF5WHlibUdqNjNENU82b3d2OFpLdVVHTXhJLTk3LTd2d2phQWs0NjF4TENZdDIwZGFHbU85V3I0RkVZM1AyWQ?oc=5",
+        "timestamp": "2026-04-24T15:07:47",
+        "timestamp_display": "24. 04. 2026 15:07",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Testujeme USB rychlonabíječky",
+        "summary": "Testování USB rychlonabíječek vyžaduje moderní metody, multimetr již nestačí.",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOWlFFTVUtSEVlOWc3Ry04NWdrR09sb21IVldxRFVNR25aTlFUNEF6dXh3UXJlai00SzRCVVFjRzhUeHh4c0x5d3Q0WmRheG5mdTZqeFFZMHVYeE42Z1VOS2tNbHpLOFozX3FrSURCM29FQ0JBX29NV291SjRQQy14Z1A0OWZfOWlSWDRxOWNYLTNub1FXRV9zcEFpTElWTzRlZDVsa2MxbFFPbDJZVE50UF84Z0NxNFRRV1Y2Y2dQOXdoaG5TWktQc0VjeGxQQUhVTUJyb3c4NHJkMW1ubW80VHByb0REdlo1dEh2RXNKWQ?oc=5",
+        "timestamp": "2026-04-23T19:13:07",
+        "timestamp_display": "23. 04. 2026 19:13",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Nová stodola v muzeu",
+        "summary": "Nová stodola láká návštěvníky do Muzea v přírodě Vysočina, třetina konstrukce zůstala původní.",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPblJnYzhQdW1ILXl6SjhadkpxUlU2UXpILTZUb3E1WHVpTEdTZmZjcVBxUlRtVFhXUjZXZE1nTVBSOEx5ZFBQMnlVWlFiTVpHZklKZ3o3MDR3MkZlNnN6TlIzQ2lpNWNHUi13R19MUUhBd3BKNmRpNFdoX1R0YlNYN1YxNFVES3VscEJfMUt6dXNESXl3Y2M3cC1XQUF0dGxGNnRxQWJxRlYwT2R4b3dVQ1AwX3hfRTAxZ0NzZnhsSTFlLXhQWlIydEFTMFA3Z1o1RHloT0E4T2ZKUQ?oc=5",
+        "timestamp": "2026-04-23T10:02:00",
+        "timestamp_display": "23. 04. 2026 10:02",
+        "is_new": true
+    },
+    {
         "category": "Medicína",
         "title": "Nová dětská ambulance",
         "summary": "Ve Frýdlantu vzniká nová dětská ambulance, která má pomoci řešit nedostatek praktických lékařů pro děti.",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVmpmTXo5bDNxZWZ5bk5oYXQ3WEFDNUV6N3o1WkdtM19wUUh0YkwtcUtfUHkzeHFLajNRS0tYLVpsOHhmR1FZQWhjZV9QRUkwX1Rld21vNFZHV1VodU9IREU2c3NqTExzbmZOazVZQjVKQ2txclA3c1NyZkJsZ2JjckVGLW91dFVHZXBYSUZNdHpNWkFmekJzVDVKeWt6aVJOcEtMckt6ODFIbEcyaEtCaWlvWEJIWHdHUERfekhRU0RlNnRNQVFKemtsdnM?oc=5",
         "timestamp": "2026-04-24T14:13:00",
         "timestamp_display": "24. 04. 2026 14:13",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -15,7 +60,7 @@
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNT2JjQzZ2YVdSbDdDSERRdkFkNWdiZXJHYmRxZmF3VHhlM3JVbHYyTzdoUTNyWlBqWnUwXzBxdlZFdXN2MGNkV3FPNXZXVGxCSnZCWGR0UVh6RHB0WC13cng0LXNmeHlHMEhmamVpZG5wVU9Dc21PSmhKaUhObXJmOHRaR2FNV1Vhdi11akJwMGcybXdyRWNsNEpGNzZZMG40VXItSUp3ZVBrU3BSVjV6YmlDM29TTmZwelIydU9zMWVSV0tWcE1BTzJCYmJVQ1BYYm13?oc=5",
         "timestamp": "2026-04-24T11:44:18",
         "timestamp_display": "24. 04. 2026 11:44",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,7 +69,7 @@
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSnl0MlN0ODBQQ01pdDA3XzhZbWd0dWNuZGQxaUZZU1lNckp3TzcwTXY3bnRoQ01YaUlwd3BFZ1ZyemhybE45bWhtaC1uYXJiNkk2Xy1OWERuMnZJbVh0ZmJtS0JXRzhqeDRVU1JkSFpkVkpPWlctWXR2Wkg2VTZ1dlgyeVQ3U3YwLUJNeEZOSXhWMVRaOFpleHdCSC1ra0phOUdMQmlYMUU0TFQz?oc=5",
         "timestamp": "2026-04-24T11:21:56",
         "timestamp_display": "24. 04. 2026 11:21",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,7 +78,7 @@
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbHFQT1RZbHVISUdiVE8xc3ptOGJXRldfRk4xcmhCTUR4Mm85b0w0V21yMm5TUFpxWDBLZnFvMGc5VV9EbXhwb1pSWGRVRkQzNzYxbk1paDQ2NFhBajJfY2pIYm5XbGp3YWt5MGxJYXNvWXd2a3ItU2JwSG1JWkNmNmZGaTRMX3J6LU1Jdm5kSXhlREwwVFNRbnR1eG9ub3N5WGs3bWs2WVRiaDFnN1lqbUxTQVFDcTBycmcwR21PQmFERVFCWkZzdjBVcHI5ZG54VkFHdU9FVUE?oc=5",
         "timestamp": "2026-04-24T11:14:00",
         "timestamp_display": "24. 04. 2026 11:14",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Společnost",
