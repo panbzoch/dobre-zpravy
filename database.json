@@ -1,21 +1,75 @@
 [
     {
         "category": "Byznys",
+        "title": "Sandberg kupuje italskou firmu",
+        "summary": "Sandberg a ARX vstupují do Itálie, kupují firmu, která digitalizuje kempy, posilují tak své postavení na trhu.",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORjVlR2I5R19NTUxWWGlCQXF4bTNrV0hTdElxYlRjdWtnSVdvU0ktczBvME9GQXR2NnpQYXlFNF9qVUJxR2dITWZ4NE5GOGdoVUZ4WWZUZ213SDI3cmJfZFd2ZmxFU3JGeXJEWUk5VzJIVXJFZ3BEM0FxNGF0MTF5cEtqeDFHYkhoU2U4aUhLbkFMSDNFWUtmRFRpal8ySWxtbjlULWJDeXFmaGlrbk1ZNjZaV1pvT19GZHR4R19jMENYRHJvZ1YtVWMyRDV5cVkweVk5RHJXdndNbkQteVdZdFlfX0dBMnlsMGdqaQ?oc=5",
+        "timestamp": "2026-04-24T07:15:41",
+        "timestamp_display": "24. 04. 2026 07:15",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Jet Investment růst",
+        "summary": "Oldřich Šoba z Jet Investment zdůrazňuje zaměření na fundament a růst.",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNUdzWENIb3Uxck04U0w3U1UxOTh2RWo3T1duUzZpSk1tYVM0WUpmVTdsMzZ1Y1RHSU54RFdOb2p1NFZtdWtndDN5NF9oT01RaF84cUxidU9zY3Q4LVNoc2Y5RjdnNWFyTmFaS0dJbzhDeUEwWXEwbEtINUl1SmU3Qm1qT3Z2YkM2REw2cVBCbUdtOVloTGZFSDhObGNHa0I2LTkyZ3EzSTFIaVNIb2dCVUQ1bGl2Zw?oc=5",
+        "timestamp": "2026-04-24T06:30:00",
+        "timestamp_display": "24. 04. 2026 06:30",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Čistý zisk Monety vzrostl",
+        "summary": "Čistý zisk Monety vzrostl o osm procent, banka těží z levnějších vkladů a zájmu o investice.",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNFNQZ0hEMG92Zm81ZTJyMFJrbFowNVJZd0JhUHNoMnE3WGtfVDZia2xtODBIVkpCNFFsWHIwS1lERXJSdWpCcEdCOTFlVkN2RGVBR0tkV0h1QmdRNXdWaGNYQ1RndVpURVQ4NGxCVExlQkhNbm5taVUzSDVZcUlScHJKSkpDWkVTeVREdld0Ymc2QnQ4ZG9XVW9Md0lpYmdNaWFndHBKT3ZLWmxXdEhjeTA3ZWhnUmJRUVZMLThkZFJ5WmhRcGFrZEhZcHlWRWgzWldHMlZGQnF3cWxWa3BkRA?oc=5",
+        "timestamp": "2026-04-24T06:20:00",
+        "timestamp_display": "24. 04. 2026 06:20",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Nová AirPods Max 2",
+        "summary": "Nová verze sluchátek AirPods Max 2 nabízí nové funkce a vylepšení, přestože design zůstal stejný.",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU2FJR2dVWHpfYTJnNE5oTlNBc3BXZFJBS3hKVi1Cb2VjVzlKX0p2cGhKVG9JRFBhSXB1TWRPQzhycU9YbFBWb1RhLTRwUUI2VVU4NHkwNE8tTldjRHhzdzNsR1dxVjdzcS1QLWhRTnpDc0JsdDhXSGRhVm5hNmNna1JwaTlUdHpUeEl6QjVmdkxEUkhaN2pYTU5VSUdIRWpwUlZ1Nw?oc=5",
+        "timestamp": "2026-04-24T06:06:06",
+        "timestamp_display": "24. 04. 2026 06:06",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Investice může změnit život, říká Forbes Česko, poskytující rady a tipy pro úspěšné investice.",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yN3JtMnZWaW1ITy16RFdRNF9YUDhxb3lfN0RxRmxaVVdReU1qZzVTd18wUXhPNmVyal9tSHdHRTNaQXZ0UWdfX2RFelJXVEZ1YTlIdjY0NXRndw?oc=5",
+        "timestamp": "2026-04-23T18:21:15",
+        "timestamp_display": "23. 04. 2026 18:21",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Úspěch podnikatelky",
+        "summary": "Jana Kremlová mluví o změně směru jako klíči k úspěchu v podnikání.",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZZHo2cU9SbTc5TEh5aFFGU3JqZDZCcWxiQ3J0Sk1sblZWTFQ3ZzVEZW1USmhTNGFIYU9HamJBTERFSFlEVXdaSlRWd1laZWpNRkNPb0FR?oc=5",
+        "timestamp": "2026-04-23T18:01:06",
+        "timestamp_display": "23. 04. 2026 18:01",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Rychlonabíječka AlzaPower",
+        "summary": "Test rychlonabíječky AlzaPower G610CCA, která nabízí rychlé nabíjení až 67W.",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaVJHQXI5ekZGVXZUS2tkLUFEaVdHUEUzR0paYmhkLXlLR2U1T0M0V1NqYkY0N1V3RXA4aDRPcDVKbVM4ZVlvQ0xoeE4zTjNKbjRIbFdON19CdHB0OXNuZ2JneWxmdDdGWDNqT1JlVjN2eUxLQWowbXVnSXJ0dDd0R1otd19Nd0RxM2ZnM1kzSkgyR0gxUW1OMmk3cGc4RzdGLTlNaW1zUFJVc1gxOVRSTkljQ09ENV80V2RCdm1IQ3E0WGZ4SGF3eVpnNnFUY1ZvUGQwVnIza180dnN1U1E?oc=5",
+        "timestamp": "2026-04-23T16:47:25",
+        "timestamp_display": "23. 04. 2026 16:47",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Artem Saykin Forbes",
         "summary": "Artem Saykin uveden v Forbes Česko, úspěch v byznysu.",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xWlplR3gtTnB6d3kwbVQ1bUZoM0w0T1R0NzdPN3B2cGNpajhqMTl2elNWS3o1cDBQLWl6ZGdnbTBaR0Q4eDdZajFXWUk1UQ?oc=5",
         "timestamp": "2026-04-23T15:38:27",
         "timestamp_display": "23. 04. 2026 15:38",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Tesla investuje do AI",
-        "summary": "Tesla zvýšila čistý zisk a potvrdila investice do robotů a umělé inteligence.",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVExObktRN1RrbVVTbW43RHhoXzZfZHQySkJxTVMyblRfTnJ3bnh6U09vTTVKNVBiTFhqeHVoNW1CbExFSzBZdldEUUJFejZCOUtrbEJacEcwY0M2M2F0UkNZZFJUXzNoc2JVSjJaMTRLNXFBM1paMHEyOVpvWjFIanN5a05QX1l0UjJDODYyNmdVbFFHeEJEY0NNakh5N24zV0VTbXdWbUktNUlYX1ZTWWVqYlV4UFE?oc=5",
-        "timestamp": "2026-04-23T08:01:00",
-        "timestamp_display": "23. 04. 2026 08:01",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Medicína",
@@ -33,6 +87,15 @@
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY25tdUVIdjBnb3RLRUU0dlRhcUZIRHhXOVY5aXctZFgwNEJLb19LYXM4YkozdmlDLWxRaGVOdEMxcFNNREpyb0dpX3ZZQWkzbXJxUzJWdkF2a0F0aUFnMEMxMElXY25URjl5Z1RabDFmc3BSU21hVTMxenJBbHpXNW9MUURZaktoLVZoQzZwdDRaTWx6SU1QTVh3WDlGZHc?oc=5",
         "timestamp": "2026-04-23T08:21:08",
         "timestamp_display": "23. 04. 2026 08:21",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Tesla investuje do AI",
+        "summary": "Tesla zvýšila čistý zisk a potvrdila investice do robotů a umělé inteligence.",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVExObktRN1RrbVVTbW43RHhoXzZfZHQySkJxTVMyblRfTnJ3bnh6U09vTTVKNVBiTFhqeHVoNW1CbExFSzBZdldEUUJFejZCOUtrbEJacEcwY0M2M2F0UkNZZFJUXzNoc2JVSjJaMTRLNXFBM1paMHEyOVpvWjFIanN5a05QX1l0UjJDODYyNmdVbFFHeEJEY0NNakh5N24zV0VTbXdWbUktNUlYX1ZTWWVqYlV4UFE?oc=5",
+        "timestamp": "2026-04-23T08:01:00",
+        "timestamp_display": "23. 04. 2026 08:01",
         "is_new": false
     },
     {
