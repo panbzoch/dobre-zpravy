@@ -1,12 +1,48 @@
 [
     {
         "category": "Byznys",
+        "title": "Google investuje do Anthropic",
+        "summary": "Google plánuje investovat až 40 miliard dolarů do firmy Anthropic, která se zabývá umělou inteligencí.",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVzZlSHNpOG9mSFVxY01JNVlrQUhpNGRncWtLaktXQ1hoa1dYYVVrMUtOOXVZNmNWWEZEWmZwTmlZRE5PUElmXzhsZ3ROTWhxOEl1YkN0cU56dkFORlhUSGI3UHZDWjBhUWlrT2Z2aktIZWlrdHNoR3RXa24yekh0MVFMcjduT2ZOUHN2NkRic2txSXdlcWZJclAzTk51SmJnUllnd2tPM3g?oc=5",
+        "timestamp": "2026-04-24T16:42:00",
+        "timestamp_display": "24. 04. 2026 16:42",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "FMTG kupuje resort",
+        "summary": "FMTG kupuje Falkensteiner Resort na jihu Sardinie, rozšiřuje své aktivity.",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT2xBLWtCNG1ma0MxMVJBLWVxcjNMcU5EUDEwSk41RnY5QW95d2tNTmg5WndZdXgzWVpQaG1DdWxzMFFNbUVobHhIbTZLX2V6Y0pWYkVqWV9UU2FVd2hwbDQ3UlZPTFRNdHR1SkxzdmVtSmM4MDdhY3hTMHFVYl9RV29WMXhQNmRubWk1WUxTY0hUN3VVX3FCMWk0cF9lcE9nNGFZOVo4SVBoczNm?oc=5",
+        "timestamp": "2026-04-24T11:52:00",
+        "timestamp_display": "24. 04. 2026 11:52",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Změň život jedinou větou",
+        "summary": "Forbes Česko nabízí inspiraci pro změnu života pomocí jedné věty.",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jYXpORXFCdzc3cFRHYUU5dGdkUEpjSlQzY05jYkpLN3F4V1IybS14dWctUXliOVYxbElnS2sxYWtTNXhwWng1RGFZZng1bWx2WHc?oc=5",
+        "timestamp": "2026-04-24T10:52:00",
+        "timestamp_display": "24. 04. 2026 10:52",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice do vesmírné logistiky",
+        "summary": "Český Tech Horizons investuje do evropské vesmírné logistiky, částka přesahuje půl miliardu.",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU2hZUEFERjFWRkk4WjF2cXBZS2hNTjAtd1lVSTk2YmtIS0M4alJxVkJpZzE3aUZ5czRPOWtmT1dTaXptU1lBdzU1Vi1fSVdQWDd1a0tpY3VSeHVYRlZXRjJNNWV3SDN4VFg5QmpXWkcyNUdEVldiRkU2MU5tQUEwQnIzemY0dlRFVUhIelZFTWtzSzhUbnZvQ3ctSEpBMlE3THBZRXBUV2wxM0ZqeVY5Y0hPRXJPTHBnZWl0djN6Rm1xX0FD?oc=5",
+        "timestamp": "2026-04-22T07:00:00",
+        "timestamp_display": "22. 04. 2026 07:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Mladý Nepala zrychluje",
         "summary": "Mladý podnikatel z Nepálu zaujal v Silicon Valley a nyní zrychluje rodinnou firmu Renomii.",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTDdTQTJCTU4tdjM2MURtUk41bVhDWmtFRDdUN2dfby1aaGJaY0Mwd1pRdUVxLXJpbHBSRXdVWG9FNTl2ZnFvOE5zSlp1WEZ5NXlQV3ROdUxwODc0MzBkNHFkVjVMakNvQS1LSnNlZkhQYllKUHNMWldPeDRmUzQxNXo5cG5GT0ZLdjdfNXRqekc4eGpPb0pockk2VUZNS2pv?oc=5",
         "timestamp": "2026-04-24T18:00:52",
         "timestamp_display": "24. 04. 2026 18:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV0JwbzVhNUdPS25ha0V1eG16Q1Y4UVNDek5hVXBuY3EtaFpvcmZ3TEVPWk1MVVlHMVFzNS1HZ0pGR2dnQUhpWmFiRm50WHBZcG45NjcxWnZDR0JRNXA5b3h4UjAtbUp4LUxQM2hwcGVLMVROa3FhQWhtS2dhbG5tS0pzS29obXV2TjB4MkxtdU9Hd280OFIwcnpKM0l6dw?oc=5",
         "timestamp": "2026-04-24T16:54:44",
         "timestamp_display": "24. 04. 2026 16:54",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -24,25 +60,7 @@
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa0YydTNMZ2ItU2RONjVfcmFBak9XQmdPdnR6QUM3VWpPN0xzb25XMDlUczltejFHdHpxYlN4ZlQxN3M2UFlfbFpmSVdnYnNCWjRmQVlEQ0JpSm9jRkVWd2RITnZaTnBLeUJpSE53NXVZT3o1dEF5WHlibUdqNjNENU82b3d2OFpLdVVHTXhJLTk3LTd2d2phQWs0NjF4TENZdDIwZGFHbU85V3I0RkVZM1AyWQ?oc=5",
         "timestamp": "2026-04-24T15:07:47",
         "timestamp_display": "24. 04. 2026 15:07",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Testujeme USB rychlonabíječky",
-        "summary": "Testování USB rychlonabíječek vyžaduje moderní metody, multimetr již nestačí.",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOWlFFTVUtSEVlOWc3Ry04NWdrR09sb21IVldxRFVNR25aTlFUNEF6dXh3UXJlai00SzRCVVFjRzhUeHh4c0x5d3Q0WmRheG5mdTZqeFFZMHVYeE42Z1VOS2tNbHpLOFozX3FrSURCM29FQ0JBX29NV291SjRQQy14Z1A0OWZfOWlSWDRxOWNYLTNub1FXRV9zcEFpTElWTzRlZDVsa2MxbFFPbDJZVE50UF84Z0NxNFRRV1Y2Y2dQOXdoaG5TWktQc0VjeGxQQUhVTUJyb3c4NHJkMW1ubW80VHByb0REdlo1dEh2RXNKWQ?oc=5",
-        "timestamp": "2026-04-23T19:13:07",
-        "timestamp_display": "23. 04. 2026 19:13",
-        "is_new": true
-    },
-    {
-        "category": "Společnost",
-        "title": "Nová stodola v muzeu",
-        "summary": "Nová stodola láká návštěvníky do Muzea v přírodě Vysočina, třetina konstrukce zůstala původní.",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPblJnYzhQdW1ILXl6SjhadkpxUlU2UXpILTZUb3E1WHVpTEdTZmZjcVBxUlRtVFhXUjZXZE1nTVBSOEx5ZFBQMnlVWlFiTVpHZklKZ3o3MDR3MkZlNnN6TlIzQ2lpNWNHUi13R19MUUhBd3BKNmRpNFdoX1R0YlNYN1YxNFVES3VscEJfMUt6dXNESXl3Y2M3cC1XQUF0dGxGNnRxQWJxRlYwT2R4b3dVQ1AwX3hfRTAxZ0NzZnhsSTFlLXhQWlIydEFTMFA3Z1o1RHloT0E4T2ZKUQ?oc=5",
-        "timestamp": "2026-04-23T10:02:00",
-        "timestamp_display": "23. 04. 2026 10:02",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Medicína",
@@ -144,6 +162,15 @@
         "is_new": false
     },
     {
+        "category": "Technologie",
+        "title": "Testujeme USB rychlonabíječky",
+        "summary": "Testování USB rychlonabíječek vyžaduje moderní metody, multimetr již nestačí.",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOWlFFTVUtSEVlOWc3Ry04NWdrR09sb21IVldxRFVNR25aTlFUNEF6dXh3UXJlai00SzRCVVFjRzhUeHh4c0x5d3Q0WmRheG5mdTZqeFFZMHVYeE42Z1VOS2tNbHpLOFozX3FrSURCM29FQ0JBX29NV291SjRQQy14Z1A0OWZfOWlSWDRxOWNYLTNub1FXRV9zcEFpTElWTzRlZDVsa2MxbFFPbDJZVE50UF84Z0NxNFRRV1Y2Y2dQOXdoaG5TWktQc0VjeGxQQUhVTUJyb3c4NHJkMW1ubW80VHByb0REdlo1dEh2RXNKWQ?oc=5",
+        "timestamp": "2026-04-23T19:13:07",
+        "timestamp_display": "23. 04. 2026 19:13",
+        "is_new": false
+    },
+    {
         "category": "Byznys",
         "title": "Investice mění život",
         "summary": "Investice může změnit život, říká Forbes Česko, poskytující rady a tipy pro úspěšné investice.",
@@ -186,6 +213,15 @@
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUlRtMW1OUXB3ZE96QUVZaEItVzF0MTVCRTdsMFByS3E1WnlnQUMyenVmVXprRTVsdDByNDBVYlc0dmhsZmI3X0ZaX2ZjV1RpbWxCUnl6cUl4aWlTWGIzb3c0LUR1SzE4OGI5aGFwdVVnQWs1YXJlOFlJZEpGb21wY1VhbjczQnA5RFNydlY1bDZDUEJsVERMY2xEWmlyc2YtVlU3WlF0emNsRFdmRjE5WEs3dUFJVW1DaTVIUjZOVUxnNDdld1E?oc=5",
         "timestamp": "2026-04-23T10:58:00",
         "timestamp_display": "23. 04. 2026 10:58",
+        "is_new": false
+    },
+    {
+        "category": "Společnost",
+        "title": "Nová stodola v muzeu",
+        "summary": "Nová stodola láká návštěvníky do Muzea v přírodě Vysočina, třetina konstrukce zůstala původní.",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPblJnYzhQdW1ILXl6SjhadkpxUlU2UXpILTZUb3E1WHVpTEdTZmZjcVBxUlRtVFhXUjZXZE1nTVBSOEx5ZFBQMnlVWlFiTVpHZklKZ3o3MDR3MkZlNnN6TlIzQ2lpNWNHUi13R19MUUhBd3BKNmRpNFdoX1R0YlNYN1YxNFVES3VscEJfMUt6dXNESXl3Y2M3cC1XQUF0dGxGNnRxQWJxRlYwT2R4b3dVQ1AwX3hfRTAxZ0NzZnhsSTFlLXhQWlIydEFTMFA3Z1o1RHloT0E4T2ZKUQ?oc=5",
+        "timestamp": "2026-04-23T10:02:00",
+        "timestamp_display": "23. 04. 2026 10:02",
         "is_new": false
     },
     {
