@@ -1,12 +1,30 @@
 [
     {
+        "category": "Věda",
+        "title": "Lasery místo paliva",
+        "summary": "Vědci testují metajety poháněné lasery, které by mohly dopravit sondu k Alfa Centauri za 20 let.",
+        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOM0laMFFNX1VBYWRoYXcxY19iVFJEa2lHeUliRDhnMUg5QkpvUHExcVA2QS1va0p3MWRiTnhES1duaS14MFJIWUp4NmlDbm5pTHNNSGpzV3QyOHZzMGNFSTRUOW1pbWk3N1VKdDROdk05bGpvR2pUTHZTLWpLamowVVc3SHoyVlc4Vl9kYmwzWExJdzd5d3pKUFYyMW9zeGtRd1EzeFExTUNnZGRsR1hOMGlSNHdTNC1OVlQtM2Nwd05JT1lkQ3E0YlYzUTJFNk5lZGdJWWppTXhxNmtFWjFRR0llRlhJVUYzdDQxaUVTZUtjamZhbW9jLTBud3plWGJ5NlgxTzNqdVl3RlU?oc=5",
+        "timestamp": "2026-04-25T07:40:07",
+        "timestamp_display": "25. 04. 2026 07:40",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Pivovar Matuška",
+        "summary": "Pivovar Matuška získal dvě medaile v prestižní světové soutěži, jako jediný z Česka.",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPam1CZmN0STBORGZaT00yb0tTOC1CMENHZS1pc0VoVV9Cc2tXZjRwMGpRWUNrcWVjWUVBTzBMTUVBRjBicmpkMi1xd0FEdGd4d2U4VWZkRmdjX3oyMl9SM1hhb1dycmdMU2gtcXowZWZabkhmMlJVZDkwYi1VN0JsZmdGRHlQUFlVaDlWRENWdzBXN1o4N3ZmLXBiN28xc2M0M3FrRFkyUGRuV3BwOTg0SEtn?oc=5",
+        "timestamp": "2026-04-24T04:45:13",
+        "timestamp_display": "24. 04. 2026 04:45",
+        "is_new": true
+    },
+    {
         "category": "Společnost",
         "title": "ČEZ investuje do energií",
         "summary": "ČEZ investuje do obnovitelných energií a upouští od uhlí ve své ledvické elektrárně.",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSGhrRnV2dXV4am9QS01nM0l6NUpFT01ya2xnSXJha0JRanpULU5zc1ZnamNfS2JndllRLWFnUUpYUXhHY3NJS0wtaUNxeHJkZURDTUo4bmN3WUlxZm5iZTZhOTFkVDd4OE04TGlZZ2xIMkdIRXYxdlVSaURTQUN1MnctX2M3NG9qX2FQTGtUMi1LTnpKUkZTbnpudWZJUk1mY0NHSzN0NHdkbFEwY1U0RzRqSXZQRFd5YzN1MHJSV0ZvRW10?oc=5",
         "timestamp": "2026-04-24T19:45:00",
         "timestamp_display": "24. 04. 2026 19:45",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,16 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBBUXp6WjIzektWVHdDTEM4X1BzTzZhTWxHYjVfdHkyNnd3VDBhYm93dlcyTHJ2dXhDUTRtbnliaUVGdmtyY1pRSmdOUQ?oc=5",
         "timestamp": "2026-04-24T19:42:24",
         "timestamp_display": "24. 04. 2026 19:42",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Komerční banka vyplatí zisk",
-        "summary": "Komerční banka vyplatí akcionářům téměř 100 korun na akcii z loňského zisku.",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTFpTS3ZMYmdFVG1Uc05FcEsxbVBlVnM1eEJnblM3Zk5EM09DSGRzelF5N0Y2ejdFR2dKc24yc3o0dlBGbTVPUGxwZFl2WGdQSC1sQnRoY18zbzR6bFlkZmdBZVdKWUQ1dzhfd1pHNGRTV09aaTZ5aGlyeTZ0ckpSN2FZbU9hU0RmQUpYcEFNN090ZDVtWnFfSXpDTEFqMHBNTGZMT3Z5V05vbnJPU1FiZUlCc1JFNkt4ZDBKUVZyT3FUX1Fmd1F3VUczc3ZYMnl2eXRtN2xjRQ?oc=5",
-        "timestamp": "2026-04-23T14:17:00",
-        "timestamp_display": "23. 04. 2026 14:17",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -222,6 +231,15 @@
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xWlplR3gtTnB6d3kwbVQ1bUZoM0w0T1R0NzdPN3B2cGNpajhqMTl2elNWS3o1cDBQLWl6ZGdnbTBaR0Q4eDdZajFXWUk1UQ?oc=5",
         "timestamp": "2026-04-23T15:38:27",
         "timestamp_display": "23. 04. 2026 15:38",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Komerční banka vyplatí zisk",
+        "summary": "Komerční banka vyplatí akcionářům téměř 100 korun na akcii z loňského zisku.",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTFpTS3ZMYmdFVG1Uc05FcEsxbVBlVnM1eEJnblM3Zk5EM09DSGRzelF5N0Y2ejdFR2dKc24yc3o0dlBGbTVPUGxwZFl2WGdQSC1sQnRoY18zbzR6bFlkZmdBZVdKWUQ1dzhfd1pHNGRTV09aaTZ5aGlyeTZ0ckpSN2FZbU9hU0RmQUpYcEFNN090ZDVtWnFfSXpDTEFqMHBNTGZMT3Z5V05vbnJPU1FiZUlCc1JFNkt4ZDBKUVZyT3FUX1Fmd1F3VUczc3ZYMnl2eXRtN2xjRQ?oc=5",
+        "timestamp": "2026-04-23T14:17:00",
+        "timestamp_display": "23. 04. 2026 14:17",
         "is_new": false
     },
     {
