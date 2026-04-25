@@ -1,21 +1,30 @@
 [
     {
+        "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Forbes Česko nabízí rady pro investice, které mohou změnit život.",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wMXpjUWcweEM0RUJqWi1KNVFTdEV1XzNsdHJMelJzYlhDdk9QM2VTenZGMEpDWWQ4b0ZOZzNPMHdhNDBwQUYwTk5PWnVOdXdkZlBqTUtpWVlzMXNEZ0l2TVZ3?oc=5",
+        "timestamp": "2026-04-24T11:19:20",
+        "timestamp_display": "24. 04. 2026 11:19",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Změň život jedinou větou",
+        "summary": "Forbes Česko nabízí inspiraci pro změnu života pomocí jedné věty.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04ZW0zZ2ZyWUZIU1FRM1duUVVuX0pxUm0wTTVpLU5rNzhweTBHUXN0RTBvVmJsTExhZjR6d295YnlwcWV6YTMtNGdRV3prVVFSRkhZ?oc=5",
+        "timestamp": "2026-04-20T16:49:22",
+        "timestamp_display": "20. 04. 2026 16:49",
+        "is_new": true
+    },
+    {
         "category": "Věda",
         "title": "Lasery místo paliva",
         "summary": "Vědci testují metajety poháněné lasery, které by mohly dopravit sondu k Alfa Centauri za 20 let.",
         "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOM0laMFFNX1VBYWRoYXcxY19iVFJEa2lHeUliRDhnMUg5QkpvUHExcVA2QS1va0p3MWRiTnhES1duaS14MFJIWUp4NmlDbm5pTHNNSGpzV3QyOHZzMGNFSTRUOW1pbWk3N1VKdDROdk05bGpvR2pUTHZTLWpLamowVVc3SHoyVlc4Vl9kYmwzWExJdzd5d3pKUFYyMW9zeGtRd1EzeFExTUNnZGRsR1hOMGlSNHdTNC1OVlQtM2Nwd05JT1lkQ3E0YlYzUTJFNk5lZGdJWWppTXhxNmtFWjFRR0llRlhJVUYzdDQxaUVTZUtjamZhbW9jLTBud3plWGJ5NlgxTzNqdVl3RlU?oc=5",
         "timestamp": "2026-04-25T07:40:07",
         "timestamp_display": "25. 04. 2026 07:40",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Pivovar Matuška",
-        "summary": "Pivovar Matuška získal dvě medaile v prestižní světové soutěži, jako jediný z Česka.",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPam1CZmN0STBORGZaT00yb0tTOC1CMENHZS1pc0VoVV9Cc2tXZjRwMGpRWUNrcWVjWUVBTzBMTUVBRjBicmpkMi1xd0FEdGd4d2U4VWZkRmdjX3oyMl9SM1hhb1dycmdMU2gtcXowZWZabkhmMlJVZDkwYi1VN0JsZmdGRHlQUFlVaDlWRENWdzBXN1o4N3ZmLXBiN28xc2M0M3FrRFkyUGRuV3BwOTg0SEtn?oc=5",
-        "timestamp": "2026-04-24T04:45:13",
-        "timestamp_display": "24. 04. 2026 04:45",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Společnost",
@@ -186,6 +195,15 @@
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU2FJR2dVWHpfYTJnNE5oTlNBc3BXZFJBS3hKVi1Cb2VjVzlKX0p2cGhKVG9JRFBhSXB1TWRPQzhycU9YbFBWb1RhLTRwUUI2VVU4NHkwNE8tTldjRHhzdzNsR1dxVjdzcS1QLWhRTnpDc0JsdDhXSGRhVm5hNmNna1JwaTlUdHpUeEl6QjVmdkxEUkhaN2pYTU5VSUdIRWpwUlZ1Nw?oc=5",
         "timestamp": "2026-04-24T06:06:06",
         "timestamp_display": "24. 04. 2026 06:06",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Pivovar Matuška",
+        "summary": "Pivovar Matuška získal dvě medaile v prestižní světové soutěži, jako jediný z Česka.",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPam1CZmN0STBORGZaT00yb0tTOC1CMENHZS1pc0VoVV9Cc2tXZjRwMGpRWUNrcWVjWUVBTzBMTUVBRjBicmpkMi1xd0FEdGd4d2U4VWZkRmdjX3oyMl9SM1hhb1dycmdMU2gtcXowZWZabkhmMlJVZDkwYi1VN0JsZmdGRHlQUFlVaDlWRENWdzBXN1o4N3ZmLXBiN28xc2M0M3FrRFkyUGRuV3BwOTg0SEtn?oc=5",
+        "timestamp": "2026-04-24T04:45:13",
+        "timestamp_display": "24. 04. 2026 04:45",
         "is_new": false
     },
     {
