@@ -1,20 +1,29 @@
 [
     {
-        "category": "Byznys",
-        "title": "Investice mění život",
-        "summary": "Forbes Česko nabízí rady pro investice, které mohou změnit život.",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wMXpjUWcweEM0RUJqWi1KNVFTdEV1XzNsdHJMelJzYlhDdk9QM2VTenZGMEpDWWQ4b0ZOZzNPMHdhNDBwQUYwTk5PWnVOdXdkZlBqTUtpWVlzMXNEZ0l2TVZ3?oc=5",
-        "timestamp": "2026-04-24T11:19:20",
-        "timestamp_display": "24. 04. 2026 11:19",
+        "category": "Technologie",
+        "title": "Nová jaderná elektrárna",
+        "summary": "Firma TerraPower Billa Gatese vyvíjí jadernou elektrárnu s tekutým sodíkem a horkými solemi, nabízející výkon až 500 MW.",
+        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPY3MwN0xmbHVhRURvY1k3Q3J6dHJZQXJUYkktTWhIRDNDN0lrVTZSZGJENVA1c2RyOXVMYVRDSTRndmE3b0lVQVhUYjlIbFlXR1BPaGtnaFUtdjczVmktcDMwblUzcUFnZXNnTGF3TUhmby1UcFRRdUdSbGk0WUhkNjhhWG1yeElWaUFWT3pqd2ZKU0h3cFNnb1V6VWZzYUdmLTdWckhJX0M2bzVGMzM3RnREclhsWHZOZXJlNHpsd0pzUEE4dmRtMHZQanhua0tPZEF1LVFqYnY1cTEzamF3YzdZa0ZlQ0ZTRUJjNWJCTUZNUFdFSXQyVE9NRWlFNW5QVXMzTnQ3QUFUQQ?oc=5",
+        "timestamp": "2026-04-25T20:06:49",
+        "timestamp_display": "25. 04. 2026 20:06",
         "is_new": true
     },
     {
-        "category": "Společnost",
-        "title": "Změň život jedinou větou",
-        "summary": "Forbes Česko nabízí inspiraci pro změnu života pomocí jedné věty.",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04ZW0zZ2ZyWUZIU1FRM1duUVVuX0pxUm0wTTVpLU5rNzhweTBHUXN0RTBvVmJsTExhZjR6d295YnlwcWV6YTMtNGdRV3prVVFSRkhZ?oc=5",
-        "timestamp": "2026-04-20T16:49:22",
-        "timestamp_display": "20. 04. 2026 16:49",
+        "category": "Medicína",
+        "title": "Injekce proti HIV",
+        "summary": "Vědec z Gileadu pomáhal vyvíjet injekci proti HIV, která ukazuje cestu dalším vědcům.",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPREtCYURNTlJILWlmZUV5NXRWVC1fRy1lcGxoTDg4a3A0N3Zkc2lkeDgxZl9aZXhna0Jua0pSQlNxc2NsOHFXS2R2c290OTBlenBhUTcxd3N1TFRBUm02SlJfdTUwWWZld1AxT1ZBMG12SF9zQ3FXclFodGRBSEZ4V2hPaGJ3U3pzTjRRLXp5Y3FIVmFQX1ZHOUhaOHc2UFBuWXZIdEZIVEdrRERPZ012blRLUUNiTUVqeUR0UEwzdnViWHRnVldjSw?oc=5",
+        "timestamp": "2026-04-25T10:00:00",
+        "timestamp_display": "25. 04. 2026 10:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Nová dceřiná firma ČEZ",
+        "summary": "Nová dceřiná firma ČEZ by měla vzniknout do 1. čtvrtletí 2027, oznámil ředitel ČEZ.",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSzRreEFUT0ZWSVYzOEc2Zm5OdzBiUFJyQWQ5aXdrMTJXcHd1cHluWWlHdW5wcmlIMHRQc3RSczNLVHJJajFjd0Y2RFRhQnZFZ19GRi12aDcyeU1iREc2aW9nenY3Q01BUWMyNlBFVVZzSklCTXhOS3JKZXpzTTdXWldGTldmTFl2V2tEcnNCM0RTRTl2RTZRZGNuSFlpd3BfVVhURGZkTzVxV3ZI?oc=5",
+        "timestamp": "2026-04-24T11:03:00",
+        "timestamp_display": "24. 04. 2026 11:03",
         "is_new": true
     },
     {
@@ -114,6 +123,15 @@
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSnl0MlN0ODBQQ01pdDA3XzhZbWd0dWNuZGQxaUZZU1lNckp3TzcwTXY3bnRoQ01YaUlwd3BFZ1ZyemhybE45bWhtaC1uYXJiNkk2Xy1OWERuMnZJbVh0ZmJtS0JXRzhqeDRVU1JkSFpkVkpPWlctWXR2Wkg2VTZ1dlgyeVQ3U3YwLUJNeEZOSXhWMVRaOFpleHdCSC1ra0phOUdMQmlYMUU0TFQz?oc=5",
         "timestamp": "2026-04-24T11:21:56",
         "timestamp_display": "24. 04. 2026 11:21",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Forbes Česko nabízí rady pro investice, které mohou změnit život.",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wMXpjUWcweEM0RUJqWi1KNVFTdEV1XzNsdHJMelJzYlhDdk9QM2VTenZGMEpDWWQ4b0ZOZzNPMHdhNDBwQUYwTk5PWnVOdXdkZlBqTUtpWVlzMXNEZ0l2TVZ3?oc=5",
+        "timestamp": "2026-04-24T11:19:20",
+        "timestamp_display": "24. 04. 2026 11:19",
         "is_new": false
     },
     {
@@ -573,6 +591,15 @@
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FbzFRVXN2RnlodzE1d1ZWZ0VaUHF1YmkzNUR6ajZlWUhQRXMtTGpUUER0bnhZZkhnLVI3VnFSdHJGNklLZmdSREg4dnpyRmU1LVQ0?oc=5",
         "timestamp": "2026-04-20T16:53:34",
         "timestamp_display": "20. 04. 2026 16:53",
+        "is_new": false
+    },
+    {
+        "category": "Společnost",
+        "title": "Změň život jedinou větou",
+        "summary": "Forbes Česko nabízí inspiraci pro změnu života pomocí jedné věty.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04ZW0zZ2ZyWUZIU1FRM1duUVVuX0pxUm0wTTVpLU5rNzhweTBHUXN0RTBvVmJsTExhZjR6d295YnlwcWV6YTMtNGdRV3prVVFSRkhZ?oc=5",
+        "timestamp": "2026-04-20T16:49:22",
+        "timestamp_display": "20. 04. 2026 16:49",
         "is_new": false
     },
     {
