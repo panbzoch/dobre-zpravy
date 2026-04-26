@@ -1,12 +1,30 @@
 [
     {
         "category": "Technologie",
+        "title": "Číňané vynalezli UPS pro lednici",
+        "summary": "Číňané vyvinuli UPS pro lednici, která ji udrží v provozu téměř čtyři dny během blackoutu.",
+        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPampoVDE4M0hUbDRYdTFBZW5UVFQxQnBZc0F2M0hiMF9lWWk3dy1fUzFGdnpLR0p3NGg3VFdDSnZMMFdUWWZsRjBrSG9IRVFTWExxQ3dBeEgwNWpkVzdZUDgtczllb3hadmpWSmNlNDNfSEVVYl9nSlFKb2JVc0puSU1rd0JXZ3pQdG1rVW40NGlOaHp2Sk80MTdXWmVIbl82ZHJ0UFVabkJ2Y1o5Ym5UVi1DX25jRWxIU18tR29RSnc3T05zeUFvVldJRHRBb055WVBkb1p5NzRQM3VpR3FaV0JaNHZ2Zi1RRHpOODZYQkJ6Snp0aTVLUEJmbGJNODgzNnVDXzljZnlMUk9D?oc=5",
+        "timestamp": "2026-04-26T10:19:46",
+        "timestamp_display": "26. 04. 2026 10:19",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Růst pražského letiště",
+        "summary": "Pražské letiště zaznamenalo růst, první čtvrtletí přineslo o 343 tisíc cestujících více než loni.",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTG05TzB0RW1RWFdFYkhzUVQzV3h3SGRoM08tV2U4YmxBSjMwMjBnUVY3MWZSWkpyOTh6aUgtWlhWSDRFX01laDl6MjdCWW0yWTljXzFPUjYtM0ptaWY4TzFYTC11SXF1LW0wbkNFM09nUTVSNWhrVHg2YmxiOTltUkxjeVVJWERxVVB3U0dMbWxUeGVYRDEzZnlyR0NjQlA0STl4NjJlcVNETkhN?oc=5",
+        "timestamp": "2026-04-26T09:11:15",
+        "timestamp_display": "26. 04. 2026 09:11",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
         "title": "Nová jaderná elektrárna",
         "summary": "Firma TerraPower Billa Gatese vyvíjí jadernou elektrárnu s tekutým sodíkem a horkými solemi, nabízející výkon až 500 MW.",
         "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPY3MwN0xmbHVhRURvY1k3Q3J6dHJZQXJUYkktTWhIRDNDN0lrVTZSZGJENVA1c2RyOXVMYVRDSTRndmE3b0lVQVhUYjlIbFlXR1BPaGtnaFUtdjczVmktcDMwblUzcUFnZXNnTGF3TUhmby1UcFRRdUdSbGk0WUhkNjhhWG1yeElWaUFWT3pqd2ZKU0h3cFNnb1V6VWZzYUdmLTdWckhJX0M2bzVGMzM3RnREclhsWHZOZXJlNHpsd0pzUEE4dmRtMHZQanhua0tPZEF1LVFqYnY1cTEzamF3YzdZa0ZlQ0ZTRUJjNWJCTUZNUFdFSXQyVE9NRWlFNW5QVXMzTnQ3QUFUQQ?oc=5",
         "timestamp": "2026-04-25T20:06:49",
         "timestamp_display": "25. 04. 2026 20:06",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Medicína",
@@ -15,16 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPREtCYURNTlJILWlmZUV5NXRWVC1fRy1lcGxoTDg4a3A0N3Zkc2lkeDgxZl9aZXhna0Jua0pSQlNxc2NsOHFXS2R2c290OTBlenBhUTcxd3N1TFRBUm02SlJfdTUwWWZld1AxT1ZBMG12SF9zQ3FXclFodGRBSEZ4V2hPaGJ3U3pzTjRRLXp5Y3FIVmFQX1ZHOUhaOHc2UFBuWXZIdEZIVEdrRERPZ012blRLUUNiTUVqeUR0UEwzdnViWHRnVldjSw?oc=5",
         "timestamp": "2026-04-25T10:00:00",
         "timestamp_display": "25. 04. 2026 10:00",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Nová dceřiná firma ČEZ",
-        "summary": "Nová dceřiná firma ČEZ by měla vzniknout do 1. čtvrtletí 2027, oznámil ředitel ČEZ.",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSzRreEFUT0ZWSVYzOEc2Zm5OdzBiUFJyQWQ5aXdrMTJXcHd1cHluWWlHdW5wcmlIMHRQc3RSczNLVHJJajFjd0Y2RFRhQnZFZ19GRi12aDcyeU1iREc2aW9nenY3Q01BUWMyNlBFVVZzSklCTXhOS3JKZXpzTTdXWldGTldmTFl2V2tEcnNCM0RTRTl2RTZRZGNuSFlpd3BfVVhURGZkTzVxV3ZI?oc=5",
-        "timestamp": "2026-04-24T11:03:00",
-        "timestamp_display": "24. 04. 2026 11:03",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -141,6 +150,15 @@
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbHFQT1RZbHVISUdiVE8xc3ptOGJXRldfRk4xcmhCTUR4Mm85b0w0V21yMm5TUFpxWDBLZnFvMGc5VV9EbXhwb1pSWGRVRkQzNzYxbk1paDQ2NFhBajJfY2pIYm5XbGp3YWt5MGxJYXNvWXd2a3ItU2JwSG1JWkNmNmZGaTRMX3J6LU1Jdm5kSXhlREwwVFNRbnR1eG9ub3N5WGs3bWs2WVRiaDFnN1lqbUxTQVFDcTBycmcwR21PQmFERVFCWkZzdjBVcHI5ZG54VkFHdU9FVUE?oc=5",
         "timestamp": "2026-04-24T11:14:00",
         "timestamp_display": "24. 04. 2026 11:14",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Nová dceřiná firma ČEZ",
+        "summary": "Nová dceřiná firma ČEZ by měla vzniknout do 1. čtvrtletí 2027, oznámil ředitel ČEZ.",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSzRreEFUT0ZWSVYzOEc2Zm5OdzBiUFJyQWQ5aXdrMTJXcHd1cHluWWlHdW5wcmlIMHRQc3RSczNLVHJJajFjd0Y2RFRhQnZFZ19GRi12aDcyeU1iREc2aW9nenY3Q01BUWMyNlBFVVZzSklCTXhOS3JKZXpzTTdXWldGTldmTFl2V2tEcnNCM0RTRTl2RTZRZGNuSFlpd3BfVVhURGZkTzVxV3ZI?oc=5",
+        "timestamp": "2026-04-24T11:03:00",
+        "timestamp_display": "24. 04. 2026 11:03",
         "is_new": false
     },
     {
