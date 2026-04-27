@@ -1,12 +1,39 @@
 [
     {
+        "category": "Společnost",
+        "title": "Fotovoltaika v historických městech",
+        "summary": "Nové fotovoltaické panely vypadají jako střešní tašky a umožňují integrovat solární energii do historických budov.",
+        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQUGxScGhHdWNzeGRvRFdCSlN3OTFPTlZ2UU8yUHdQaUpWb0dfRlotUDZPZm5Mc04yRzl2dDNCaVFlU3RlbUYwUHBLS0l6YkJYb0w1RjhVeDllYkl1bkd3d09Yd1k1LUZNS2Y5SlhUMnZaRm81X1VOTVVTVWd5WlloSEhXcGRRc2VaNWZ0LWtqZmVFcm1vYmdXT3BLbE95STdaUHlpRVVyVkJ0eVF5R3lWamJIY0pJOEJJVUlUaFRwYU5IMnpoSzRjY2RPQkxzOXk3T1NfbFlXLTdOakxDdU8wZkFEd2JIQklaUHE5MldVZWw4dElxUkhWUEhtWG5ZLW1JM2JqMXJ0cTZ0QTht?oc=5",
+        "timestamp": "2026-04-27T18:31:06",
+        "timestamp_display": "27. 04. 2026 18:31",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Elektrobusy se vyplácí",
+        "summary": "65 elektrobusů jezdí na Zlínsku, investice se vyplácí díky zdražení paliv.",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTkN6NTNIb0lNdFNFdVJSSVlScWQzcnVWdE1YbW1IYUlQeTJFZHV4bGQ4STh1YVNtZmwxczRoWG5JMDUzWEpSM0E2aEtNZDkzZmJlNjJVeGZKNXNSNV9ISm10WnE3dzBBaHltV2ZXNFRLOE5ManZMU0toU1JEQTUwSzhtbDZtbFFqdjJxRHo1eGgxeW9wMjRXR0V1U3ZqSjhkM01BV0F2RmJqTnBEOHN1RERzZ1pjbUxHMVZ1eGV1Y21WMEVQbUhB?oc=5",
+        "timestamp": "2026-04-27T16:16:00",
+        "timestamp_display": "27. 04. 2026 16:16",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Nová spánková maska",
+        "summary": "Silk Contour Sleep Mask Bluebelle je nová produkt, který usnadňuje spánek.",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wanFXUUNTbFdOczhWV3JxZFQwLVgtN0FBX0VvcGtJVnVXQ0JqTzY3cEk5U0tzZDk5eWxacUd6UEJNYi1vNlVDMXNSRE5fdjViLTRCNnNKQkNOVm4wWHppOURsb0RoT1pCQjZSaWdiaE85d3k4aFE?oc=5",
+        "timestamp": "2026-04-27T12:07:31",
+        "timestamp_display": "27. 04. 2026 12:07",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "Pobočka ČS vyhrála",
         "summary": "Pobočka České spořitelny v Karlových Varech získala ocenění Bank Branch of the Year za 1. kvartál 2026.",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdldZME8waXRXVGMwdDh2RnNWZ0VWQ214TlRINnROMEw0RjNTbS11bFYwTUl3YnFDaHpjZkJTNUFfQ0VYZEdkUHdMTklBTm5Ed3FjdGRycG05Uzc1Ul9WSFJ0Y3FYMzRHZUN4cUVUTzcweXlsZUJUMTdhWF9jUEZfWDZwQTZYVGpqUkxtbmJsYWcyU2ZWWjhXaktvczVLT2RqYkdwbkUwLUN5VFM0Rl93dWJVRzlTOUpJRVA2MDFZSE5oX2NPNENVNQ?oc=5",
         "timestamp": "2026-04-27T13:04:00",
         "timestamp_display": "27. 04. 2026 13:04",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +42,7 @@
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd3pHa2xibDJPZHlZcGxRN1pBUUQ3TEhnUFBpLTJtelBnYy02eWotWjlkdW5jZXlzM3dhUmhIenBpOG9MRUFBT2doZnlsX3RKMUJLUUxYNnZucFMydXBTUHRhRnJ5a25sdV9mc1ZJcGNnZW5rc2NFc3JfaThVR1RDamF1bGZwZ0E4eGVzbTZtZDJucGhZX1Q0?oc=5",
         "timestamp": "2026-04-27T12:08:00",
         "timestamp_display": "27. 04. 2026 12:08",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,7 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbGZJU0dxdThKdlpZOHRYLU84V3cxc3pFS1FOdjdCLWtVWS0zTzBNNmN3cXVRdEdvTngxVVlMY0ZkWGRXQnczREtlWjZwczY3dWZZU2Vta0hvOURVZjVleThtb0dKN1NtMGxVZ1ZjLTItS1F0R2hGYkpKenBTVlRYODI4NWE0d25a?oc=5",
         "timestamp": "2026-04-27T12:06:57",
         "timestamp_display": "27. 04. 2026 12:06",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,7 +60,7 @@
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLXpGNHVBV2VHX2w1V0VqNEdZZ290ZmxVNHMyeERBVHotZ2RyNVdNeGw3MzRxb0MzWm9PbmNLeFBsNHhKSW5KMG1Ub1VDWExnbWp0VVh5THRnZklRcElndjZaU0t3LXdPMl9kX2o5Vmk2Q2FiRXlCZURpSkdybUYtRV9VQnMtczVVNWdFejZVVUR5MXlRSncweQ?oc=5",
         "timestamp": "2026-04-27T12:06:45",
         "timestamp_display": "27. 04. 2026 12:06",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -42,16 +69,7 @@
         "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOR3ZIemlqVWZSUDZNWWZGV0tqcG5LcFM2enYwd2NuOU96VmRsdGkyN3ZYR0dSYWJrYVlJUVNZMWhUWTk1LWl2THNSY3psOW5CblVJbkRwY2tpSXNvaV9pa3RLQnJ1ZXJWYVo1LXFOaXVrSFZlOEMtZGotOC1jWmVINjU1WWZZR3dJdV9ReUlCazcwVWxvWE52R2NyZGRtQlQ0bEdFOHQtVU53M1pQOFQtVGYwOVRwNlg4MXg5LVQ3akwtQmlxa0QtVGtpLXotSWVpTGN0ZHJFZ0s1NVRBdnhMZUtqSF82UF9PeWdQVEZpcXp5S2ZMbEE?oc=5",
         "timestamp": "2026-04-27T10:04:58",
         "timestamp_display": "27. 04. 2026 10:04",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "OpenAI přidala české E2B",
-        "summary": "OpenAI přidala české E2B do svého Agents SDK, což usnadní vývojářům v Pythonu práci s umělou inteligencí.",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWEJRcWl5cVB0YW9Hb2JCdGpGdnhKZXJGNlpEYXNjRElLTTdMUVdtSDlTMTZVRjNtOGxTSW5vRnV2OHJsSVEtUUYycWczZm9ERS1fbGVwWVdlczM2UDRmeHFEd0c4MTZ0bHhaUHhkdVc1dzctdW5NeDZmRHAzV1NOWlhwQTYtX1BRMVE1alI5RGhsempDMW9TMHYwRUNzY1c1ZjRiT2tUQkc3dDhlQVJz?oc=5",
-        "timestamp": "2026-04-24T07:00:00",
-        "timestamp_display": "24. 04. 2026 07:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Medicína",
@@ -339,6 +357,15 @@
         "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORjVlR2I5R19NTUxWWGlCQXF4bTNrV0hTdElxYlRjdWtnSVdvU0ktczBvME9GQXR2NnpQYXlFNF9qVUJxR2dITWZ4NE5GOGdoVUZ4WWZUZ213SDI3cmJfZFd2ZmxFU3JGeXJEWUk5VzJIVXJFZ3BEM0FxNGF0MTF5cEtqeDFHYkhoU2U4aUhLbkFMSDNFWUtmRFRpal8ySWxtbjlULWJDeXFmaGlrbk1ZNjZaV1pvT19GZHR4R19jMENYRHJvZ1YtVWMyRDV5cVkweVk5RHJXdndNbkQteVdZdFlfX0dBMnlsMGdqaQ?oc=5",
         "timestamp": "2026-04-24T07:15:41",
         "timestamp_display": "24. 04. 2026 07:15",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "OpenAI přidala české E2B",
+        "summary": "OpenAI přidala české E2B do svého Agents SDK, což usnadní vývojářům v Pythonu práci s umělou inteligencí.",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWEJRcWl5cVB0YW9Hb2JCdGpGdnhKZXJGNlpEYXNjRElLTTdMUVdtSDlTMTZVRjNtOGxTSW5vRnV2OHJsSVEtUUYycWczZm9ERS1fbGVwWVdlczM2UDRmeHFEd0c4MTZ0bHhaUHhkdVc1dzctdW5NeDZmRHAzV1NOWlhwQTYtX1BRMVE1alI5RGhsempDMW9TMHYwRUNzY1c1ZjRiT2tUQkc3dDhlQVJz?oc=5",
+        "timestamp": "2026-04-24T07:00:00",
+        "timestamp_display": "24. 04. 2026 07:00",
         "is_new": false
     },
     {
