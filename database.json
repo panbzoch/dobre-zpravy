@@ -1,12 +1,48 @@
 [
     {
+        "category": "Byznys",
+        "title": "Češi v prestižním výběru",
+        "summary": "Tři čeští mladí lidé se dostali do prestižního výběru 30 pod 30 let podle Forbes Česko.",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYTZWeTlDRENUbHlTd0xZLUUtRDdENWVORHlUTU5PbWVHdHFzU2V2RS1HS2JOU1dURTZfOUtzSVFuN29aaXVCR0hoQlM5N2JLS1RfYXQyUktHdUtQSWlCcW9iWThRdENIY2hlTTg2OGZmbEh4WmEyVUNHdjJwck90SV9HTDhfbk1ERm15TC1ZMjByNDJHVDVGZ0FJdXZfNFM4bEE?oc=5",
+        "timestamp": "2026-04-28T18:10:31",
+        "timestamp_display": "28. 04. 2026 18:10",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "3D mapa vesmíru",
+        "summary": "Nová mapa zachycuje 47 milionů galaxií a kvasarů, může změnit chápání temné energie.",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxObGVjN3RZSFZ3b3A3X09ydUFnY1B5bWdOd1dMSENnT0FWYllNQWoxVms5bURTbW1LLUFscmJjbEwyLVNaTWxobTQ0NVZMNmZvWEk4X1BuQVlsb3NDNVNINmU0dDlvdWpob1NndzVnUEo1eVNfZDRlNERsZm9KMUJ0NmcwMkx2R3M4UFY3YzZpTVpyOXp3MWJyVkJPMDRyTGdBdTIwZm9jM19DQmljYmxRSEg0S2ktdWtrNXJqZThXQnFUUmZ0bWFsZWlIT21Cc3ZuNzZHelN6dTNTTHROOUVtam1tQ2FoWENOQW54a09mRFdBQ2sxV3FPamtLbkpOS1JM?oc=5",
+        "timestamp": "2026-04-28T16:47:54",
+        "timestamp_display": "28. 04. 2026 16:47",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Praha roste v realitách",
+        "summary": "Praha je nejrychleji rostoucím trhem s prémiovými realitami v Evropě, podle Forbes Česko.",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR0VQMVBab0lRVTBKYkMzWXdvVVA0QkZiS1loa01hU2lad1VlaU9jNGoxdW5SRzhyajAxWW91N1ZPQ1dGRTNhNExIVUM0dlFFZFBUanE1eDM2d0JNdXpwcEx6RUtycXEwUU0yTWdSYlFUdGp0Rnc0c19Rbmp3dTlRbGNCQTVFb2xkNFRjQ1BkaFk?oc=5",
+        "timestamp": "2026-04-28T16:08:28",
+        "timestamp_display": "28. 04. 2026 16:08",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Segway vyrobil milion",
+        "summary": "Segway Navimow vyrobil milion robotických sekaček a rozšiřuje výrobu do Malajsie.",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQnhfUmt5Z0puYWlJS25MZDdtMFdTZFNjT2tTZGxOcnN2bzZmbW5lTGJxY2NSNnV2RjNUeUxVaFlmalJGUVZsR3F2eHlvUGJzWXR2WWtTMHBfdlFlMGtZVTdmV1hRdGViQ01uTVNqR3U1TFhuUlpRUnl1YUg3d3hyVG1ZWmpGS1E5VHFUT2F6NF8zRDVpN2dIemkxVHJNSGw2Z1J3M0ZWaDNWM1libV82THZEdUtDRjFoWWF4OWdqdWthaXB3OUE?oc=5",
+        "timestamp": "2026-04-28T10:57:00",
+        "timestamp_display": "28. 04. 2026 10:57",
+        "is_new": true
+    },
+    {
         "category": "Medicína",
         "title": "Projekt HX Clinic",
         "summary": "Daniel Křetínský představil projekt HX Clinic, který se zaměřuje na spolupráci s pacienty pro lepší zdravotní péči.",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSmJkZ3dKUG5XcUx2b1JSM0QxZnhFZmpiYk1Fb2RDN2RpZHJYYXRWY0t2WU9iQzF0Q3c0a1I4a0Z2aHNablRJZHNiVUphdnZsYmhybnNlTUV2TW83WE5HZ3pYS24tTmtvREsySEFmQkRNSzRaTlVIdVB0c2FSTkRjY2RYUHJmZ09CSjJWeHBmTy1HSnVVMUtKcmZwemNoSE42NWVGRHp2YnR0dlg0SU8xY0RnNS1fQ3Z4NTluMzVpQQ?oc=5",
         "timestamp": "2026-04-28T15:05:00",
         "timestamp_display": "28. 04. 2026 15:05",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVEtMdDhqc0NJMEdBaXVJZUdIX05LcVBtbnhmdUVWbkdvelpUU0hlVHJsV0YtTXVCNXhJNG9kbmxSQUhsaEo3eXVRejRyWi1zbHA5VTk2NGwtamtaUGRRblFqMmttRGpibUJWcWpWMU5BMEtsX2xTOVZraVZsTWFDWUowX0ZCVjk3QnhXOWJIWUtCQXNvcm5ETVcxSnVPbmhTZDhyY3VxN2NwMWdKYUVTSGpJd29HNzJITnVEbA?oc=5",
         "timestamp": "2026-04-28T14:02:00",
         "timestamp_display": "28. 04. 2026 14:02",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,7 +60,7 @@
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcTNxZ0hoVk5RZEFwZVJDQUc4RGNhdjJJdHZSRVltTGJ3c05nQWxrQlF5SVB0dng2ejA1MC0tdUs1V2NyMlhTZ3R4clpVT09XcEtGN2NYVzh4cmFfVjNZbF96YjhFb3d2M2kwZ3VuRnVfOEVydGQxMk5nd3pNM3AtTVdaQ0xLV19ZanBnNExkUnNsUXFCNUFRYVF4Vk8tVkFZZnJGUkJTNnQzblliemNB?oc=5",
         "timestamp": "2026-04-28T14:01:00",
         "timestamp_display": "28. 04. 2026 14:01",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,7 +69,7 @@
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYktOZkUyWkoxc0owVjFiemItOXZqRHpWQVRXRGpzakxUdkhmUTk1eFR1VkhqNVNCc0tFRXdkaWR3UG5MRGFMaWF3TTVEVWppVE5ORVJudmJyaElMSm0zVURIeGlIbXg3dk5pckZQdnBicUVmZWZmWExrTFgtelZnNldXcmItajA0dmg5QUM5bGF4ekFXUGtv?oc=5",
         "timestamp": "2026-04-28T12:22:55",
         "timestamp_display": "28. 04. 2026 12:22",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -42,25 +78,7 @@
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOTJRSTZPQW9ycThPYTUzTEJqcDdlYzN5THNrdDB4Wm1kb3VtbmloeFJrLTlKX2Y0ZXhuQ1VJTHMyRlcwNjFXdGVlam54b1NOWkh4QVZVSHNVamR3ODNSR2xRd1RfVjNpcTNSTkJCR3JENFFrOFN5OElRNGhZQVkxV20yajIxNGllY2FXU0lGa0pYVGJzOFlGUXN1Mnk4X2xlU01VZQ?oc=5",
         "timestamp": "2026-04-28T12:07:34",
         "timestamp_display": "28. 04. 2026 12:07",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Češi mění mobil v terminál",
-        "summary": "Češi vyvinuli technologii, která umožňuje měnit jakýkoli mobilní telefon v platební terminál.",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOREhtNUd3ajBGUW8xNWF1UTF6b0NpX29ZNmdsT0NCaFJpcndVTkRYSzE1S01QVXBoX0xEaTI2bjUxMGdYUlk0bHE0c3cyeVduUXg4OGFnTURwYk1oWFFTTGVBU3ZVM25sRDExRHJ1bF9UZldnbTB0TWN0NlBjdXRjTWJPSnVpY2dGMzRNN0picWdGSlU2bzlsbEpBcnE?oc=5",
-        "timestamp": "2026-04-28T08:00:19",
-        "timestamp_display": "28. 04. 2026 08:00",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Spotify má 300 milionů",
-        "summary": "Spotify dosáhl téměř 300 milionů předplatitelů a chystá nové funkce.",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYlV0d1VJbFZhWnZ0cU5KSjA5MEZ2SXFtSXViaHp0YV91WmtPcWdLVGFSZ0l1UHhmM2RUTDNxVWdzWWlSTlZYWkM0MUlJLXNNM1pJekdOSEZGdGVQSHR6WGRLUGZySmlEQ1RFN2x1Q2NxZmJjVHZSRnp2RlN5OXJDRnd4b3FwSlM4dUlEQmxIa2twOVctTGNjYldLYTk?oc=5",
-        "timestamp": "2026-04-26T07:00:00",
-        "timestamp_display": "26. 04. 2026 07:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -87,6 +105,15 @@
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOa3NIdlZlMkpWc1g3YkY0aXRnOWw3bEFhZ3R2VnVieFZ0T0FsVHZRNmp6eVpHUUNRQkQ5N1VoNUpXYWZ4ajdrQ1VGRnBOWjVHNXIycU52b1QyREl5TGw0SlFheDFvY1hOenJRTVI3c2ZBeWNPRWpyUURRWDQ3cHVnQnY2UVlVenJOaGhLSGlOSjhFdE90WElhSzU5TVRjbDVsUTV6UDdwdmo3QjBtRTF6a1hNWEdleEhiODFIS3B3ZU56QXJfUnluZTBaTQ?oc=5",
         "timestamp": "2026-04-28T08:02:00",
         "timestamp_display": "28. 04. 2026 08:02",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Češi mění mobil v terminál",
+        "summary": "Češi vyvinuli technologii, která umožňuje měnit jakýkoli mobilní telefon v platební terminál.",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOREhtNUd3ajBGUW8xNWF1UTF6b0NpX29ZNmdsT0NCaFJpcndVTkRYSzE1S01QVXBoX0xEaTI2bjUxMGdYUlk0bHE0c3cyeVduUXg4OGFnTURwYk1oWFFTTGVBU3ZVM25sRDExRHJ1bF9UZldnbTB0TWN0NlBjdXRjTWJPSnVpY2dGMzRNN0picWdGSlU2bzlsbEpBcnE?oc=5",
+        "timestamp": "2026-04-28T08:00:19",
+        "timestamp_display": "28. 04. 2026 08:00",
         "is_new": false
     },
     {
@@ -294,6 +321,15 @@
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTG05TzB0RW1RWFdFYkhzUVQzV3h3SGRoM08tV2U4YmxBSjMwMjBnUVY3MWZSWkpyOTh6aUgtWlhWSDRFX01laDl6MjdCWW0yWTljXzFPUjYtM0ptaWY4TzFYTC11SXF1LW0wbkNFM09nUTVSNWhrVHg2YmxiOTltUkxjeVVJWERxVVB3U0dMbWxUeGVYRDEzZnlyR0NjQlA0STl4NjJlcVNETkhN?oc=5",
         "timestamp": "2026-04-26T09:11:15",
         "timestamp_display": "26. 04. 2026 09:11",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Spotify má 300 milionů",
+        "summary": "Spotify dosáhl téměř 300 milionů předplatitelů a chystá nové funkce.",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYlV0d1VJbFZhWnZ0cU5KSjA5MEZ2SXFtSXViaHp0YV91WmtPcWdLVGFSZ0l1UHhmM2RUTDNxVWdzWWlSTlZYWkM0MUlJLXNNM1pJekdOSEZGdGVQSHR6WGRLUGZySmlEQ1RFN2x1Q2NxZmJjVHZSRnp2RlN5OXJDRnd4b3FwSlM4dUlEQmxIa2twOVctTGNjYldLYTk?oc=5",
+        "timestamp": "2026-04-26T07:00:00",
+        "timestamp_display": "26. 04. 2026 07:00",
         "is_new": false
     },
     {
