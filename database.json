@@ -1,12 +1,75 @@
 [
     {
+        "category": "Medicína",
+        "title": "Projekt HX Clinic",
+        "summary": "Daniel Křetínský představil projekt HX Clinic, který se zaměřuje na spolupráci s pacienty pro lepší zdravotní péči.",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSmJkZ3dKUG5XcUx2b1JSM0QxZnhFZmpiYk1Fb2RDN2RpZHJYYXRWY0t2WU9iQzF0Q3c0a1I4a0Z2aHNablRJZHNiVUphdnZsYmhybnNlTUV2TW83WE5HZ3pYS24tTmtvREsySEFmQkRNSzRaTlVIdVB0c2FSTkRjY2RYUHJmZ09CSjJWeHBmTy1HSnVVMUtKcmZwemNoSE42NWVGRHp2YnR0dlg0SU8xY0RnNS1fQ3Z4NTluMzVpQQ?oc=5",
+        "timestamp": "2026-04-28T15:05:00",
+        "timestamp_display": "28. 04. 2026 15:05",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Raiffeisenbank zvyšuje úroky",
+        "summary": "Raiffeisenbank zvyšuje úroky na spořicím účtu s podmínkou.",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVEtMdDhqc0NJMEdBaXVJZUdIX05LcVBtbnhmdUVWbkdvelpUU0hlVHJsV0YtTXVCNXhJNG9kbmxSQUhsaEo3eXVRejRyWi1zbHA5VTk2NGwtamtaUGRRblFqMmttRGpibUJWcWpWMU5BMEtsX2xTOVZraVZsTWFDWUowX0ZCVjk3QnhXOWJIWUtCQXNvcm5ETVcxSnVPbmhTZDhyY3VxN2NwMWdKYUVTSGpJd29HNzJITnVEbA?oc=5",
+        "timestamp": "2026-04-28T14:02:00",
+        "timestamp_display": "28. 04. 2026 14:02",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "J&T otevírá druhý fond",
+        "summary": "J&T otevírá druhý investiční fond, který naváže na úspěšný první fond s dvousetmiliardovým objemem.",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcTNxZ0hoVk5RZEFwZVJDQUc4RGNhdjJJdHZSRVltTGJ3c05nQWxrQlF5SVB0dng2ejA1MC0tdUs1V2NyMlhTZ3R4clpVT09XcEtGN2NYVzh4cmFfVjNZbF96YjhFb3d2M2kwZ3VuRnVfOEVydGQxMk5nd3pNM3AtTVdaQ0xLV19ZanBnNExkUnNsUXFCNUFRYVF4Vk8tVkFZZnJGUkJTNnQzblliemNB?oc=5",
+        "timestamp": "2026-04-28T14:01:00",
+        "timestamp_display": "28. 04. 2026 14:01",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "CPI prodala budovu",
+        "summary": "Společnost CPI prodala budovu na prestižní adrese v Praze společnosti Generali.",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYktOZkUyWkoxc0owVjFiemItOXZqRHpWQVRXRGpzakxUdkhmUTk1eFR1VkhqNVNCc0tFRXdkaWR3UG5MRGFMaWF3TTVEVWppVE5ORVJudmJyaElMSm0zVURIeGlIbXg3dk5pckZQdnBicUVmZWZmWExrTFgtelZnNldXcmItajA0dmg5QUM5bGF4ekFXUGtv?oc=5",
+        "timestamp": "2026-04-28T12:22:55",
+        "timestamp_display": "28. 04. 2026 12:22",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Portfolio drtí trh",
+        "summary": "Nejnudnější portfolio má nejlepší výkon od roku 1933, překonává trh.",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOTJRSTZPQW9ycThPYTUzTEJqcDdlYzN5THNrdDB4Wm1kb3VtbmloeFJrLTlKX2Y0ZXhuQ1VJTHMyRlcwNjFXdGVlam54b1NOWkh4QVZVSHNVamR3ODNSR2xRd1RfVjNpcTNSTkJCR3JENFFrOFN5OElRNGhZQVkxV20yajIxNGllY2FXU0lGa0pYVGJzOFlGUXN1Mnk4X2xlU01VZQ?oc=5",
+        "timestamp": "2026-04-28T12:07:34",
+        "timestamp_display": "28. 04. 2026 12:07",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Češi mění mobil v terminál",
+        "summary": "Češi vyvinuli technologii, která umožňuje měnit jakýkoli mobilní telefon v platební terminál.",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOREhtNUd3ajBGUW8xNWF1UTF6b0NpX29ZNmdsT0NCaFJpcndVTkRYSzE1S01QVXBoX0xEaTI2bjUxMGdYUlk0bHE0c3cyeVduUXg4OGFnTURwYk1oWFFTTGVBU3ZVM25sRDExRHJ1bF9UZldnbTB0TWN0NlBjdXRjTWJPSnVpY2dGMzRNN0picWdGSlU2bzlsbEpBcnE?oc=5",
+        "timestamp": "2026-04-28T08:00:19",
+        "timestamp_display": "28. 04. 2026 08:00",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Spotify má 300 milionů",
+        "summary": "Spotify dosáhl téměř 300 milionů předplatitelů a chystá nové funkce.",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYlV0d1VJbFZhWnZ0cU5KSjA5MEZ2SXFtSXViaHp0YV91WmtPcWdLVGFSZ0l1UHhmM2RUTDNxVWdzWWlSTlZYWkM0MUlJLXNNM1pJekdOSEZGdGVQSHR6WGRLUGZySmlEQ1RFN2x1Q2NxZmJjVHZSRnp2RlN5OXJDRnd4b3FwSlM4dUlEQmxIa2twOVctTGNjYldLYTk?oc=5",
+        "timestamp": "2026-04-26T07:00:00",
+        "timestamp_display": "26. 04. 2026 07:00",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "Logistický park u Gdaňsku",
         "summary": "Jet Investment investuje 50 milionů eur do výstavby logistického parku u Gdaňsku.",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOR0hmZHBKVWItdktaMmJNYjFwcXVrOWhubk5ObVN2NV9iZzlvOW5EUkVURDZ6SFJ3Smg2WHlDNk5tdGFienoyZ3AtNnNfeHZtRVhsM0IyblVCQkphV0xWMXBrWE00Y2N4ZzVxNkJmQUpqNWVqVFZyZWdqSEtLckt3dzdOM3c2czJzbTE1RllrRVJHUzk1SjR6T2lTM3hDbnY3YmZIeWtOMWdfVkxqSkZTWg?oc=5",
         "timestamp": "2026-04-28T09:57:01",
         "timestamp_display": "28. 04. 2026 09:57",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +78,7 @@
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSktjT244YUVTbDRYOGpiMDR4NUg1dUI2Sy0wZ0lFcGdfZGxxZ1FuOHZLbU5rQkRza0J4V2tETS1kOVpEM3BKV2FIMG9MeUF0RkRmQktHN0x5cjV3NGtEY2UxaXJxX0ZEVVQxTVlSTjBVbHBHYnVPdDJCb25oNTFLcmJucmlpYVdQWWhTd2hpbVplUzNYRnBkMUZyQzVmUnRMcGhNeFI4cw?oc=5",
         "timestamp": "2026-04-28T09:49:21",
         "timestamp_display": "28. 04. 2026 09:49",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -24,7 +87,7 @@
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOa3NIdlZlMkpWc1g3YkY0aXRnOWw3bEFhZ3R2VnVieFZ0T0FsVHZRNmp6eVpHUUNRQkQ5N1VoNUpXYWZ4ajdrQ1VGRnBOWjVHNXIycU52b1QyREl5TGw0SlFheDFvY1hOenJRTVI3c2ZBeWNPRWpyUURRWDQ3cHVnQnY2UVlVenJOaGhLSGlOSjhFdE90WElhSzU5TVRjbDVsUTV6UDdwdmo3QjBtRTF6a1hNWEdleEhiODFIS3B3ZU56QXJfUnluZTBaTQ?oc=5",
         "timestamp": "2026-04-28T08:02:00",
         "timestamp_display": "28. 04. 2026 08:02",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -33,34 +96,7 @@
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd181RTNaeEJyN1lKX0c0Zm9qNWtNTnpSSVplazlMbUhpUUNQNmo1eEhiMTE3NUtoV0wzT0tLdldxSnUwT3JUY2dsdXVtOUFsSHZQbGNBcEdZRzRhcFo1d0d0eWlBRmRtTmRhbEE1UUt2TWdWMlBmTy1XcGItVXZlSFpieml0dVRpWFB2VmVULUxkQ21LenB3YXhpemxqNUpRS3duNFRjTDdIWi05TEpRcmRSS1JhbWpnWHJUQmVBTnNwUjQ?oc=5",
         "timestamp": "2026-04-28T07:00:00",
         "timestamp_display": "28. 04. 2026 07:00",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Investice do polských přístavů",
-        "summary": "Faitova Jet Investment investuje miliardu do polských přístavů, očekává růst zájmu o ně.",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbDF1LWNJX0pUMHlWampOMElkNUJKN2dUbkdFRHdHaHpQSm41ZmtCQ2ZWVmVQZGhOSktGdHVBVlQ1RTh2bkFjSW5YSHh1ZUlaajFyWkhDQUFGY3hsd2ZPZl95Y3I3aGFwQVI4SG9pVWg0bUdfNGRnUFdJTU5jdWVFY1VzUDNtVkJ2YWpXT2xIbjFvVnA4VDhSTFpNc1NUcGtBNDBRcGhLcFh1czBqQlp1eWNSUWdNS0I1Q2Y1V2JfbHRzNjY1QTMyVXlUMFUxMjZmUGhjckM2MXhuSndGaERHSEFxWllFZw?oc=5",
-        "timestamp": "2026-04-28T03:30:00",
-        "timestamp_display": "28. 04. 2026 03:30",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "REMAX mění majitele",
-        "summary": "Realitní skupina REMAX mění majitele, kupuje ji platforma Real Brokerage.",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWXQ1MWRicVpnRTg1TkY5cDAyMV9WNFE2N0I4UGExdEJ5ZTJlY3dLNkFqN3lEa1lieUtDR3V3SDJ4OTlLMkVFSG1NYXVBVE5YYWtOQ2VFcDVvc1FycFNLN1d4X0JUZWM1cERGVjBVVXg0OXg2cERhQk9zTUM4ZjFrUzlNRjF2UUI4bXZhZVpuRllnVVkzc25fLVpmMzN6Q0V4T1NZay1SQ0paWlpfb1NqUVpra1dXY3IwY3RGeVFOcFFCQjV1SnZ3?oc=5",
-        "timestamp": "2026-04-27T17:00:00",
-        "timestamp_display": "27. 04. 2026 17:00",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Singapur nová ekonomika",
-        "summary": "Čeští byznysmeni vidí příležitost v Singapuru, který se rozvíjí jako ekonomický hub.",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ3AycDRoRVJYQjdLcWZDSTlTV29rWUpHdVc1d3lnbDRvczRkU1NWX0s5Zm1KYk5ZQVJySkdGMV9Da0pEeGVqZjBXaVJZQ2hQNHdsWjYzeGczN3hlZHFlX3daQTNrSFdqdGNaZ293WWtnVklsV0plbTV2WDNidFF0Uk5Mank1aXJEeTRtcThocW9fTFhHX2FRU1NVbjc1aGM?oc=5",
-        "timestamp": "2026-04-25T03:00:00",
-        "timestamp_display": "25. 04. 2026 03:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Medicína",
@@ -69,6 +105,15 @@
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQVhzeGtxV2FiVVdaaVRGU000amdseXFsaXhJYmRyTEg2Z1Nia084bW93aUl0bDBMMlMzeU9xNXlxa0lSRlhQdUk2eWxieHlTV3d5dXF1SHpXdXctZEhTUk5abEVIR0hiOU1wLXpoOW5DaTIzazJiTmZub2h0QXlUajN1SEp5SzIxcGlvcHE5Y0pxekMyUF85UFFXSjNEd3lHQVhkbk11M0UzRDdoSGNfUGF6SXZwN1I0UGtkcERVZ3JIWGI0ZFd4SHBRaWxFUTZ6UVRDcktFZmE?oc=5",
         "timestamp": "2026-04-28T04:51:00",
         "timestamp_display": "28. 04. 2026 04:51",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice do polských přístavů",
+        "summary": "Faitova Jet Investment investuje miliardu do polských přístavů, očekává růst zájmu o ně.",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbDF1LWNJX0pUMHlWampOMElkNUJKN2dUbkdFRHdHaHpQSm41ZmtCQ2ZWVmVQZGhOSktGdHVBVlQ1RTh2bkFjSW5YSHh1ZUlaajFyWkhDQUFGY3hsd2ZPZl95Y3I3aGFwQVI4SG9pVWg0bUdfNGRnUFdJTU5jdWVFY1VzUDNtVkJ2YWpXT2xIbjFvVnA4VDhSTFpNc1NUcGtBNDBRcGhLcFh1czBqQlp1eWNSUWdNS0I1Q2Y1V2JfbHRzNjY1QTMyVXlUMFUxMjZmUGhjckM2MXhuSndGaERHSEFxWllFZw?oc=5",
+        "timestamp": "2026-04-28T03:30:00",
+        "timestamp_display": "28. 04. 2026 03:30",
         "is_new": false
     },
     {
@@ -87,6 +132,15 @@
         "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQUGxScGhHdWNzeGRvRFdCSlN3OTFPTlZ2UU8yUHdQaUpWb0dfRlotUDZPZm5Mc04yRzl2dDNCaVFlU3RlbUYwUHBLS0l6YkJYb0w1RjhVeDllYkl1bkd3d09Yd1k1LUZNS2Y5SlhUMnZaRm81X1VOTVVTVWd5WlloSEhXcGRRc2VaNWZ0LWtqZmVFcm1vYmdXT3BLbE95STdaUHlpRVVyVkJ0eVF5R3lWamJIY0pJOEJJVUlUaFRwYU5IMnpoSzRjY2RPQkxzOXk3T1NfbFlXLTdOakxDdU8wZkFEd2JIQklaUHE5MldVZWw4dElxUkhWUEhtWG5ZLW1JM2JqMXJ0cTZ0QTht?oc=5",
         "timestamp": "2026-04-27T18:31:06",
         "timestamp_display": "27. 04. 2026 18:31",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "REMAX mění majitele",
+        "summary": "Realitní skupina REMAX mění majitele, kupuje ji platforma Real Brokerage.",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWXQ1MWRicVpnRTg1TkY5cDAyMV9WNFE2N0I4UGExdEJ5ZTJlY3dLNkFqN3lEa1lieUtDR3V3SDJ4OTlLMkVFSG1NYXVBVE5YYWtOQ2VFcDVvc1FycFNLN1d4X0JUZWM1cERGVjBVVXg0OXg2cERhQk9zTUM4ZjFrUzlNRjF2UUI4bXZhZVpuRllnVVkzc25fLVpmMzN6Q0V4T1NZay1SQ0paWlpfb1NqUVpra1dXY3IwY3RGeVFOcFFCQjV1SnZ3?oc=5",
+        "timestamp": "2026-04-27T17:00:00",
+        "timestamp_display": "27. 04. 2026 17:00",
         "is_new": false
     },
     {
@@ -285,6 +339,15 @@
         "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOM0laMFFNX1VBYWRoYXcxY19iVFJEa2lHeUliRDhnMUg5QkpvUHExcVA2QS1va0p3MWRiTnhES1duaS14MFJIWUp4NmlDbm5pTHNNSGpzV3QyOHZzMGNFSTRUOW1pbWk3N1VKdDROdk05bGpvR2pUTHZTLWpLamowVVc3SHoyVlc4Vl9kYmwzWExJdzd5d3pKUFYyMW9zeGtRd1EzeFExTUNnZGRsR1hOMGlSNHdTNC1OVlQtM2Nwd05JT1lkQ3E0YlYzUTJFNk5lZGdJWWppTXhxNmtFWjFRR0llRlhJVUYzdDQxaUVTZUtjamZhbW9jLTBud3plWGJ5NlgxTzNqdVl3RlU?oc=5",
         "timestamp": "2026-04-25T07:40:07",
         "timestamp_display": "25. 04. 2026 07:40",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Singapur nová ekonomika",
+        "summary": "Čeští byznysmeni vidí příležitost v Singapuru, který se rozvíjí jako ekonomický hub.",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ3AycDRoRVJYQjdLcWZDSTlTV29rWUpHdVc1d3lnbDRvczRkU1NWX0s5Zm1KYk5ZQVJySkdGMV9Da0pEeGVqZjBXaVJZQ2hQNHdsWjYzeGczN3hlZHFlX3daQTNrSFdqdGNaZ293WWtnVklsV0plbTV2WDNidFF0Uk5Mank1aXJEeTRtcThocW9fTFhHX2FRU1NVbjc1aGM?oc=5",
+        "timestamp": "2026-04-25T03:00:00",
+        "timestamp_display": "25. 04. 2026 03:00",
         "is_new": false
     },
     {
