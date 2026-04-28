@@ -1,12 +1,48 @@
 [
     {
+        "category": "Medicína",
+        "title": "Lék pro kočky",
+        "summary": "Nový lék pro kočky s chronickým onemocněním ledvin čeká na schválení, může pomoci většině postižených zvířat.",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQVhzeGtxV2FiVVdaaVRGU000amdseXFsaXhJYmRyTEg2Z1Nia084bW93aUl0bDBMMlMzeU9xNXlxa0lSRlhQdUk2eWxieHlTV3d5dXF1SHpXdXctZEhTUk5abEVIR0hiOU1wLXpoOW5DaTIzazJiTmZub2h0QXlUajN1SEp5SzIxcGlvcHE5Y0pxekMyUF85UFFXSjNEd3lHQVhkbk11M0UzRDdoSGNfUGF6SXZwN1I0UGtkcERVZ3JIWGI0ZFd4SHBRaWxFUTZ6UVRDcktFZmE?oc=5",
+        "timestamp": "2026-04-28T04:51:00",
+        "timestamp_display": "28. 04. 2026 04:51",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Faitova investice logistického areálu",
+        "summary": "Faitova Jet Investment staví logistický areál u Baltu, sází na rostoucí zájem o polské přístavy.",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZEg2cDhFdlN4UDYzWUtiWm1WYXVRQmpFclhyZGpBSmJjaDMxek1CeVE5ZGprTjRlSGs2VXVPcGdjbUx0UlhrdFVKNzJVTzRUTXJDMUZlS014cGlWSUxyWXNoRUFTMmxXM05vZzlvN1FzZ3B1ampuMTFtMHNuV2hrVXFxRS1QT09FOHcwN2IwdFhaa0d6eUl1amZSNzJZN0wtWl9QTXl0RzN4WkJRZUhCX3FCU3BjdE1WY2Vqd09FdWR6UFdNSFU1UGpWSlVQZzVBTFFLV3Vod21VQ19tNVYtUUI1WHZjeE9GR3FJ?oc=5",
+        "timestamp": "2026-04-28T03:30:00",
+        "timestamp_display": "28. 04. 2026 03:30",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Superpočítač za sto tisíc",
+        "summary": "Nvidia DGX Spark je malý superpočítač, který nabízí výkonné zpracování dat a umělou inteligenci za cenu kolem 100 tisíc korun.",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbEZ5bE56TEV2ZTlBc3lHQnFDa3dRTmFTR25sY1A0aEwzanIyM2pxVGFfVW95TmxJeTFWWEpDOUFHaHJta2xRTnhWSkU5VDVYU2oySktGNlY4RnctbUFQQTItVlR6WjJaN0dHdmpwZjJrTTFGdUVULVpCZGxzLU85ZlpKcnVhaTNPekU4Z19OS2xVLWJmRFI5RERIWmdCc2xzMUgyME5wYVgyUzBhNWtJSkNtZ19jb1RNTlZLMHZKWFNVbXc?oc=5",
+        "timestamp": "2026-04-26T11:42:39",
+        "timestamp_display": "26. 04. 2026 11:42",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Mobilní platební terminál",
+        "summary": "Český projekt mění mobilní telefony v platební terminály, získává finance z Británie a Lotyšska.",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS2F6UkIxN0pSZjJ0X2Y2Rko4a29lV0pkbldiUnBBbjZydTZ3dUN5ZlN0cURtRHlyMHJTamU2czlFU2l3LUxIdnNia0lQc002aVlFS2l5YkNEUVdOLXdEdHdoanhYUWhFRDhiZkhYbFVYQnJxS3dTOHJlYVhLR1ZHbVpYOGlOZ0RGWklHWnpVVmRhcjlRRnJkREo5STJHS1J4OWxZWXJZMDVVREhZZkNLTmJoeTBtTVp0?oc=5",
+        "timestamp": "2026-04-26T07:00:00",
+        "timestamp_display": "26. 04. 2026 07:00",
+        "is_new": true
+    },
+    {
         "category": "Společnost",
         "title": "Fotovoltaika v historických městech",
         "summary": "Nové fotovoltaické panely vypadají jako střešní tašky a umožňují integrovat solární energii do historických budov.",
         "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQUGxScGhHdWNzeGRvRFdCSlN3OTFPTlZ2UU8yUHdQaUpWb0dfRlotUDZPZm5Mc04yRzl2dDNCaVFlU3RlbUYwUHBLS0l6YkJYb0w1RjhVeDllYkl1bkd3d09Yd1k1LUZNS2Y5SlhUMnZaRm81X1VOTVVTVWd5WlloSEhXcGRRc2VaNWZ0LWtqZmVFcm1vYmdXT3BLbE95STdaUHlpRVVyVkJ0eVF5R3lWamJIY0pJOEJJVUlUaFRwYU5IMnpoSzRjY2RPQkxzOXk3T1NfbFlXLTdOakxDdU8wZkFEd2JIQklaUHE5MldVZWw4dElxUkhWUEhtWG5ZLW1JM2JqMXJ0cTZ0QTht?oc=5",
         "timestamp": "2026-04-27T18:31:06",
         "timestamp_display": "27. 04. 2026 18:31",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,16 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTkN6NTNIb0lNdFNFdVJSSVlScWQzcnVWdE1YbW1IYUlQeTJFZHV4bGQ4STh1YVNtZmwxczRoWG5JMDUzWEpSM0E2aEtNZDkzZmJlNjJVeGZKNXNSNV9ISm10WnE3dzBBaHltV2ZXNFRLOE5ManZMU0toU1JEQTUwSzhtbDZtbFFqdjJxRHo1eGgxeW9wMjRXR0V1U3ZqSjhkM01BV0F2RmJqTnBEOHN1RERzZ1pjbUxHMVZ1eGV1Y21WMEVQbUhB?oc=5",
         "timestamp": "2026-04-27T16:16:00",
         "timestamp_display": "27. 04. 2026 16:16",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Nová spánková maska",
-        "summary": "Silk Contour Sleep Mask Bluebelle je nová produkt, který usnadňuje spánek.",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wanFXUUNTbFdOczhWV3JxZFQwLVgtN0FBX0VvcGtJVnVXQ0JqTzY3cEk5U0tzZDk5eWxacUd6UEJNYi1vNlVDMXNSRE5fdjViLTRCNnNKQkNOVm4wWHppOURsb0RoT1pCQjZSaWdiaE85d3k4aFE?oc=5",
-        "timestamp": "2026-04-27T12:07:31",
-        "timestamp_display": "27. 04. 2026 12:07",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -42,6 +69,15 @@
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd3pHa2xibDJPZHlZcGxRN1pBUUQ3TEhnUFBpLTJtelBnYy02eWotWjlkdW5jZXlzM3dhUmhIenBpOG9MRUFBT2doZnlsX3RKMUJLUUxYNnZucFMydXBTUHRhRnJ5a25sdV9mc1ZJcGNnZW5rc2NFc3JfaThVR1RDamF1bGZwZ0E4eGVzbTZtZDJucGhZX1Q0?oc=5",
         "timestamp": "2026-04-27T12:08:00",
         "timestamp_display": "27. 04. 2026 12:08",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Nová spánková maska",
+        "summary": "Silk Contour Sleep Mask Bluebelle je nová produkt, který usnadňuje spánek.",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wanFXUUNTbFdOczhWV3JxZFQwLVgtN0FBX0VvcGtJVnVXQ0JqTzY3cEk5U0tzZDk5eWxacUd6UEJNYi1vNlVDMXNSRE5fdjViLTRCNnNKQkNOVm4wWHppOURsb0RoT1pCQjZSaWdiaE85d3k4aFE?oc=5",
+        "timestamp": "2026-04-27T12:07:31",
+        "timestamp_display": "27. 04. 2026 12:07",
         "is_new": false
     },
     {
