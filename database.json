@@ -6,7 +6,7 @@
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMnVnb3cyY2stcUtlMGd4Ymh6VlU5ZEZiQVJHNEF5cGx1cnRXWDYxVjA1bXo0d0djUmN0Sm00OUtDejhVN1RnVW9ZMHJNaW9zd2QxYTdnaWVrb095azZPNTlGbmo0dEZpRUJsOXBoZkZJVkNEazlFbFd5dXhqS2FlUVBieG8yX24zMVZXeERqTFlUb0NMR0RMUEl2Q0R1ZDRRY05vRnJiay1BSktXa0tadGFNT0lGZVZpeFJZbkI2Znpza2xRanY3NnNmdW1NdG5xdWx2OERYbzFrUUlfOVdORFA2Qk9oeFVkY2tZ?oc=5",
         "timestamp": "2026-04-29T09:31:26",
         "timestamp_display": "29. 04. 2026 09:31",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,16 +15,7 @@
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVGQ2c2dLSlo3MjF6VjRiNGVkbTloZmRwNDlYRVc5NEQyRlp4UG9nRnRQS1VfSWVtZlZIVFlsb2VxLUNmZ1J4aGxLSENhc083SktJbmoxc1VNRmJaNmx3SEdUV1g1Uk5nZHdNTTRVUWJrTmdlM2VENFZ5ZXRaUHIxSVhESXM2T0xkWVlTeE5TcXJwS1FycGxvYzl3Nm1zUVhIckpn?oc=5",
         "timestamp": "2026-04-29T08:41:16",
         "timestamp_display": "29. 04. 2026 08:41",
-        "is_new": true
-    },
-    {
-        "category": "Společnost",
-        "title": "Změň život jedinou větou",
-        "summary": "Forbes Česko nabízí inspiraci pro změnu života pomocí jedné věty.",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHMVUwQ1J2Z0RoZmdOd1NNcUcxYXlta0FOenhWZWk2OC1felY4eUYwUEJVTGx2RDBEM05Iczg5bnM1amFZWWF0M1JrRHdvOGFKUGc?oc=5",
-        "timestamp": "2026-04-24T01:49:58",
-        "timestamp_display": "24. 04. 2026 01:49",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Společnost",
@@ -654,6 +645,15 @@
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPam1CZmN0STBORGZaT00yb0tTOC1CMENHZS1pc0VoVV9Cc2tXZjRwMGpRWUNrcWVjWUVBTzBMTUVBRjBicmpkMi1xd0FEdGd4d2U4VWZkRmdjX3oyMl9SM1hhb1dycmdMU2gtcXowZWZabkhmMlJVZDkwYi1VN0JsZmdGRHlQUFlVaDlWRENWdzBXN1o4N3ZmLXBiN28xc2M0M3FrRFkyUGRuV3BwOTg0SEtn?oc=5",
         "timestamp": "2026-04-24T04:45:13",
         "timestamp_display": "24. 04. 2026 04:45",
+        "is_new": false
+    },
+    {
+        "category": "Společnost",
+        "title": "Změň život jedinou větou",
+        "summary": "Forbes Česko nabízí inspiraci pro změnu života pomocí jedné věty.",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHMVUwQ1J2Z0RoZmdOd1NNcUcxYXlta0FOenhWZWk2OC1felY4eUYwUEJVTGx2RDBEM05Iczg5bnM1amFZWWF0M1JrRHdvOGFKUGc?oc=5",
+        "timestamp": "2026-04-24T01:49:58",
+        "timestamp_display": "24. 04. 2026 01:49",
         "is_new": false
     },
     {
