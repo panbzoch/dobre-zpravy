@@ -1,12 +1,39 @@
 [
     {
+        "category": "Byznys",
+        "title": "Energetický obr vznikl",
+        "summary": "EPH a TotalEnergies založily nový energetický podnik, zaměřený na flexibilní výrobu elektřiny.",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMnVnb3cyY2stcUtlMGd4Ymh6VlU5ZEZiQVJHNEF5cGx1cnRXWDYxVjA1bXo0d0djUmN0Sm00OUtDejhVN1RnVW9ZMHJNaW9zd2QxYTdnaWVrb095azZPNTlGbmo0dEZpRUJsOXBoZkZJVkNEazlFbFd5dXhqS2FlUVBieG8yX24zMVZXeERqTFlUb0NMR0RMUEl2Q0R1ZDRRY05vRnJiay1BSktXa0tadGFNT0lGZVZpeFJZbkI2Znpza2xRanY3NnNmdW1NdG5xdWx2OERYbzFrUUlfOVdORFA2Qk9oeFVkY2tZ?oc=5",
+        "timestamp": "2026-04-29T09:31:26",
+        "timestamp_display": "29. 04. 2026 09:31",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Energetický gigant vzniká",
+        "summary": "EPH a TotalEnergies spojují síly, investují miliardy do energetiky.",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVGQ2c2dLSlo3MjF6VjRiNGVkbTloZmRwNDlYRVc5NEQyRlp4UG9nRnRQS1VfSWVtZlZIVFlsb2VxLUNmZ1J4aGxLSENhc083SktJbmoxc1VNRmJaNmx3SEdUV1g1Uk5nZHdNTTRVUWJrTmdlM2VENFZ5ZXRaUHIxSVhESXM2T0xkWVlTeE5TcXJwS1FycGxvYzl3Nm1zUVhIckpn?oc=5",
+        "timestamp": "2026-04-29T08:41:16",
+        "timestamp_display": "29. 04. 2026 08:41",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Změň život jedinou větou",
+        "summary": "Forbes Česko nabízí inspiraci pro změnu života pomocí jedné věty.",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHMVUwQ1J2Z0RoZmdOd1NNcUcxYXlta0FOenhWZWk2OC1felY4eUYwUEJVTGx2RDBEM05Iczg5bnM1amFZWWF0M1JrRHdvOGFKUGc?oc=5",
+        "timestamp": "2026-04-24T01:49:58",
+        "timestamp_display": "24. 04. 2026 01:49",
+        "is_new": true
+    },
+    {
         "category": "Společnost",
         "title": "Skleněné labutě oslavují",
         "summary": "Sklárna Koulier představuje skleněné labutě, které oslavují práci českých sklářů.",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS2lFMXNfWGpUWWM5V3plQ1U2ajlvRzRPd3NFbENlc0YtZ1BLMjZLbXpfbGZGN1o4ZHdEVkdib1RoaWg2T1IzVEhaZnV6cUp3aDVXZXBIUWRtQnJ4T09GVFozejFWWGtDSHVxTEV1ZmtPTDBZdlJodG84eDJqTXA0QWx1bno5UklmbzRfUjVFd2FXVkFwOFJndnQ0WjNMRGtPQzJNNDJ4Q2h0SFlCZHc?oc=5",
         "timestamp": "2026-04-29T07:42:00",
         "timestamp_display": "29. 04. 2026 07:42",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +42,7 @@
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS3VWZkNpdE5tMUlabFZ5RUI3cmhzc1dMamtiRnpKU3Q5MHJsTl9FS3N5cjhDYjFGZFJYYTAwTDlCd1luZVpfeVAwY3k2Mm40Z1NnSDA1R1RRMzVfbXA0YWJHRk55OVFxNEM2MWV1WExnc1pjS3pOUVhHTkZDaTROUnlTeHRNbjF5RTBRbHRXN0RhMHdRejBFYnlsZ0xjWEZMejU4?oc=5",
         "timestamp": "2026-04-29T06:08:12",
         "timestamp_display": "29. 04. 2026 06:08",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,7 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBjc2hCa2NnN05RNFNhYXZrek11WDBWazIzTUttcld5NkluNU5XRzhsUXEyX2x5d1JmNnlSb01VUWdUaWxOX1dB?oc=5",
         "timestamp": "2026-04-29T01:50:37",
         "timestamp_display": "29. 04. 2026 01:50",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
