@@ -1,12 +1,84 @@
 [
     {
         "category": "Byznys",
+        "title": "Fio banka spouští",
+        "summary": "Fio banka spouští digitální karty pro rychlejší transakce a pohodlnější platby.",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZWNzNXBCY1NfMmZCbDk0alJWaTdfTkttWnpORmtTNlJQcEQwWmVaWHU1dmZUdHlYWm5XVjFOM1ZYNEdiZ2xuS1lkREFvdk5zSExaTG9fRnExMVhQSU4wUzZQSVp0cnNuYkN5NUpZdXZDMG5DVFFrZS1PbVducHNCRVRpcFVfUFNjaGVSTU9ERXUza002TXFZRw?oc=5",
+        "timestamp": "2026-04-30T07:47:00",
+        "timestamp_display": "30. 04. 2026 07:47",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Rouvy kupují Američané",
+        "summary": "Americká firma kupuje českou cyklistickou aplikaci Rouvy, která nabízí virtuální trasy a tréninky.",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYXZIQ3l3enVBRjJmWnJYbklPR21BenJZa1RmNEJaTjRrQnVyQl9mY0tPcUg4NmlvMTJyTmFCY0otZkV0QzBSQmVSUjJRcFNTRU1JTnFpS09mYkRjeWRWRlJZVnJZWXdydGdYZm1oWVZkY0VGalVSVUpudm1KT1FHSXQzZnBlWFQwaU1tTUxMOGhvRUh0YlJXUWJB?oc=5",
+        "timestamp": "2026-04-30T07:30:00",
+        "timestamp_display": "30. 04. 2026 07:30",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "3D tisk v jaderných ponorkách",
+        "summary": "Americké námořnictvo použilo poprvé vytištěnou kovovou součástku v údržbě jaderných ponorek.",
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNbXBYVTZrNkVrNjVyM1pmTTBsNG84WU1tZVBxZUFuZlpaNU9vd0J2aEZpZi10RG1IN3BNbWxsdklraUVqS2lNcXZsVmhrUmpqaVVxNDV4YkZsWVU3WEZnSGJvbGhTb3hSU0stVnlXRGswenBxbWlCaS1IeUVVdXJCWXgwS2NOVkl4cmhWV0VQNlRsV3ZxN3d1amlOVW9KZGMwbVA2UHhWa0MzcEw5MzU0NXlzYUNRU0FBbXpNa0ltU1hmVGttSGFMOEhJVWJnZlVrcnFJMmRYRUdXeExLREhfQ0lIOEtkemJKcGNEWTgtblItVVdJaksyc1JKdDhuMmlzN3c?oc=5",
+        "timestamp": "2026-04-30T06:49:00",
+        "timestamp_display": "30. 04. 2026 06:49",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Investice do nemovitostí může změnit život, nabízí nové příležitosti a růst.",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85OTU0Q3hXb3duZkliQjdkNUxNU3ltbGRQUmM3WFAxaW5PMmFmVVlDbmJic19MWEsyMm81OGNNT2ZhUVlwS1VfVDN2RkgwSlU5VGdVZnRBQkh6QQ?oc=5",
+        "timestamp": "2026-04-30T02:03:27",
+        "timestamp_display": "30. 04. 2026 02:03",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Fond zhodnocení přes 30",
+        "summary": "Fond rodiny Meinlů hlásí zhodnocení přes 30 procent díky investicím do evropských hotelů.",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbEtaTUNJYzRwNkhhWm41ZUlqRmNIMWtJLUtNM213cFFhMjRCSzRwZV9HdzdESERqTHFHZEI1SDhIT2JrYWx2MF9oSGlPRks4YkhPdzJGektveHpuUDRQWE1ZaFhNQU1OalBhdG5pOWk0SS1BdXYtZHcwX1A0YXpZR1VleTJoS0d2NFBidjVZSzhHWnJwSWtjMHNaNDFNYldRREV2NzlzMC1TVFJoQ25rN3hucWVla0MtWUpWcWF1UUZkZVNKVTFJNVJLWnBRbzVvYnJzbFNXdWM3cFNPaUVLdw?oc=5",
+        "timestamp": "2026-04-29T15:40:00",
+        "timestamp_display": "29. 04. 2026 15:40",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Forbes Česko nabízí rady pro investice a změny ve finančním životě.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VdVp4bFlXZ1dHWEdVT044NFdoZGxoVFF2dmtTSUtUb2hrQzVSbEJTbVIyNWdGcnlRcjI0ZjBoSFBkZXZGT21BaVp5aEw4SVVqbmJN?oc=5",
+        "timestamp": "2026-04-29T10:58:23",
+        "timestamp_display": "29. 04. 2026 10:58",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Změňte život technologií",
+        "summary": "Technologie může změnit život jedné věty, nabízí nové možnosti a příležitosti pro zlepšení života.",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BSVFyMUU3WEswb2ljLXZkRDBxdGpLNmZLSkk2YjBWUjlMejYzWEd3Y3hfYVFhWHUzTGJYLUtqb2NDUVZ6RVB6U1NuRUpmSzh5NmU1c1RSempYNTZM?oc=5",
+        "timestamp": "2026-04-28T17:16:12",
+        "timestamp_display": "28. 04. 2026 17:16",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Češka navštívila všechny země",
+        "summary": "Češka cestovala 20 let bez sponzorů a navštívila všechny země světa.",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTHBPdjN0RjA1NlRfU3Q4SE83OVNGSHlQekZLeUhYVFpxOHRwbnhwRTc5T3FtSUZxeDJVajZqb0FiWlRYTzc2ekxjWGR0aklXazNLSUNFVURzdENnNHRsTlF4cDlFbEo4S2NxRHVub3cweFhrQVZ3TDJxODItbVJCOGlpY2l1aHRvYUFfTEFiWVBJcTQ?oc=5",
+        "timestamp": "2026-04-26T16:05:48",
+        "timestamp_display": "26. 04. 2026 16:05",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Fond expanduje",
         "summary": "Fond rodiny Meinlů hlásí zhodnocení přes 30 procent a expanduje do Berlína.",
         "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOc0xJSnJhOGpPdFB5Vjc3R0E4TTBGOG91a2FNY21ndlNwLUNROGUyZTA2MWtSNDJnaTRneGl5YVhhRXV0blJqTDB1c0dNVjFCWEFLYm5rZWhiWE1uS3ZGYkpsbmRKczJzSHl5bXdaLXFMZHl6ZUxJMnN3STZKYjY3U0R3V01DNXN5TGRuYjFqWnFGWTVqcnhtSFNSNGd0NGtOZnljWC1tZ2d2Ry1hNGJ1NWFSaFU2ZEFMRUZXMS1DLUs3QXNob3JtcmZ2N1d6anh0bU1STmhpRG1Ra2oxMjBtbFpKdENobHJxQko1bGJmTEw?oc=5",
         "timestamp": "2026-04-29T15:40:00",
         "timestamp_display": "29. 04. 2026 15:40",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,16 +87,7 @@
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kWXd4SFVQS3lxVnRrcTk1eTVDV1pVWm13RUFpX3VBOVNBbXdhc1BjTzdsMnFhN2dzZFVPdXVCMm5ZRE53NkV3RFBlTm1IdU5XRXc?oc=5",
         "timestamp": "2026-04-29T12:58:59",
         "timestamp_display": "29. 04. 2026 12:58",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Nová železnice na Osoblažsku",
-        "summary": "Na Osoblažsku vyrostla replika historického nádraží, vznikne i nová železnice.",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONG5wS1psR043RVY3c3QtSk85T2UyNkxBR1BRWklaaW5qNkVHSzFxUjFIbkVpeWFZSUUzUEdQdUJpOE8yUFdBbEN4RGNTeFJhSHVIeGh5Uk1iNUxlaG91ZW1oY1BkNW96Z1M4dDJYbzRzMjNJTElfb01Ib3F0cmZqU1VYUXVTQnZTNkFpS3Y4MWF1SW83UkNSbjdGMjJrYzBzc1U5TVdiRlRpOEZ4VlVfOG80cWtOV1JjeDk4THBwRTBKb21KR29UZnRMTHNVa3FabkpwQjU3UEtGZw?oc=5",
-        "timestamp": "2026-04-29T05:03:00",
-        "timestamp_display": "29. 04. 2026 05:03",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -60,6 +123,15 @@
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS3VWZkNpdE5tMUlabFZ5RUI3cmhzc1dMamtiRnpKU3Q5MHJsTl9FS3N5cjhDYjFGZFJYYTAwTDlCd1luZVpfeVAwY3k2Mm40Z1NnSDA1R1RRMzVfbXA0YWJHRk55OVFxNEM2MWV1WExnc1pjS3pOUVhHTkZDaTROUnlTeHRNbjF5RTBRbHRXN0RhMHdRejBFYnlsZ0xjWEZMejU4?oc=5",
         "timestamp": "2026-04-29T06:08:12",
         "timestamp_display": "29. 04. 2026 06:08",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Nová železnice na Osoblažsku",
+        "summary": "Na Osoblažsku vyrostla replika historického nádraží, vznikne i nová železnice.",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONG5wS1psR043RVY3c3QtSk85T2UyNkxBR1BRWklaaW5qNkVHSzFxUjFIbkVpeWFZSUUzUEdQdUJpOE8yUFdBbEN4RGNTeFJhSHVIeGh5Uk1iNUxlaG91ZW1oY1BkNW96Z1M4dDJYbzRzMjNJTElfb01Ib3F0cmZqU1VYUXVTQnZTNkFpS3Y4MWF1SW83UkNSbjdGMjJrYzBzc1U5TVdiRlRpOEZ4VlVfOG80cWtOV1JjeDk4THBwRTBKb21KR29UZnRMTHNVa3FabkpwQjU3UEtGZw?oc=5",
+        "timestamp": "2026-04-29T05:03:00",
+        "timestamp_display": "29. 04. 2026 05:03",
         "is_new": false
     },
     {
