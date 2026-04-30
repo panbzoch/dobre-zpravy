@@ -1,12 +1,57 @@
 [
     {
         "category": "Byznys",
+        "title": "Technologické firmy hlásí zisky",
+        "summary": "Google a Meta hlásí lepší čtvrtletní výsledky, ukazují pozitivní trend ve svém rozvoji.",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMzJ0X0U3Y3JYZndLS19XR2hvYkV3SnptWENJdFZ5VGVQN0tvdGc4UEJVRENIRUdJcER6enN5eTFVZmUyTjdHQTVPbFNDbGRFZVBUU09iQUJyLXVjc3FCRzFrWnN4MmxQa0stei1PS3R0OTZRbFc2N1FPSXdaQzRZX3F0N19BeG5qOHpjVkJJeHppTmxpc2NPNEl0WmR4ajRN?oc=5",
+        "timestamp": "2026-04-30T11:03:45",
+        "timestamp_display": "30. 04. 2026 11:03",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Lehký letecký elektromotor",
+        "summary": "Fraunhofer vyvinul extrémně lehký letecký elektromotor o váze 94 kg s výkonem 750 kW.",
+        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxORW4wYXBqbFplOGJtQWJPUmxzbHE5UG1aMXBtcnV3OExBSXdVV3kxMkg5cjlUbXBLdFM0ay1TSUxOVW9takJncFF1VVlVeGpxcEtYOVVLcVBycWp6SWFJUlNqLUFuUmczMlRmVnItRlJsbzR6U1JjNUM1aFFTaDVBc084V0Z0OVRHTzU5dmhyWWxETVE4Vmc0MUN2ZnNkMVhwRy11dE83TzBvQlJ6OUFBVTVzYnBpNEdrZHo0TVBxeF9hNG5ZY1NWMXVZZ04ybUV3bTFfVUtod1hrRUYzU3lIVUFsMUpjLVAxUGNXTTZ3VHk0UVl3VHVYbHVzdVVhY013cjc2QVp2Zw?oc=5",
+        "timestamp": "2026-04-30T10:57:00",
+        "timestamp_display": "30. 04. 2026 10:57",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Lehký letecký elektromotor",
+        "summary": "Fraunhofer vyvinul lehký elektromotor o váze 94 kg s výkonem 750 kW.",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNb0lRVlBjTzZwLUo0eTJfMXg4ZDlPeGJMYWNjUXk0Z3lTUS1LSlFFZjQwLTNwbDJNYmZHNFlvY2JidUl5V0h6bU43YjdKVFRrVTFJY2I1M2tZWDBwVlU4YW53MVNvUVVLbUNRcE93ZEFCd29NMWFpVFdpNDFTd0pwUGpUN0pmOGpJc0tYbHJWZlFoMkpKMlVkQVVIU3BYYjhtcTNUcFZ1R19zZWRzTEkzWWxQX0FKOWNQdFJCNUlUVlpmODk0c2VRZFYxVTR0LUI4WGp1M1hhdXhOT0M0ZW9US0JRWFplajVFM2ROWjRvd0ZaUnJC?oc=5",
+        "timestamp": "2026-04-30T09:49:09",
+        "timestamp_display": "30. 04. 2026 09:49",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Air Bank novinka",
+        "summary": "Air Bank spustil novou funkci v aplikaci, která pomáhá uživatelům sledovat své výdaje a hospodaření.",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaEtveVFNdmI0eEJicXhkQ3BZekNTNDN4VjNRMWtyNjhRSWpIZHBtX3dKSXRhTGk1MWxyTXdpTnhZMVVyVlpfU0dfbFNMYWRlVXJEVGV2UlE2MHRmbTdtOVo3QVowc2dyTFZCejRtMEkteVJtMDd2dC1PZXhXbzUtZFdHVE5BcG8xWVJOZVJLNWVhTTFJYUh3N2Nya1JJeHBVQ0tid0xaV3ZoZw?oc=5",
+        "timestamp": "2026-04-30T09:03:00",
+        "timestamp_display": "30. 04. 2026 09:03",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "FWG atlantiso posilil portfolio",
+        "summary": "FWG atlantiso získala majoritní podíl ve FWG communication, dynamicky rostoucí firmě.",
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYVdjQ05TVWVDQWRyYmNxanVmWmM0VTVGaFphdW00NU5NaF80YldBeVluaDhMNlo3anYxZXNMdWpfQ2w5Nk9PN0VsMHB0UVJ3QUJxTllYc2dKNkl3S3JTUnpEa0dKZWZHTEVLWDRhbDNRMUlHalhzZUNGUnI5a1FvVXlLUVpibG43UFZvVnRXWkgwekZobzU5d3lvbW42YmcwclB3ZkF6cHBSbGpKQmFXZkpMUnoxZmdRQnNXbHlPVUs3dGF5RWlPcThLZzJqSzhzbndqTnFtdE1EUmhYNENSQ2p5UkJjdEw4Vkl0Z3h3NnVuUVMyeHFzeUpB?oc=5",
+        "timestamp": "2026-04-30T06:24:00",
+        "timestamp_display": "30. 04. 2026 06:24",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Fio banka spouští",
         "summary": "Fio banka spouští digitální karty pro rychlejší transakce a pohodlnější platby.",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZWNzNXBCY1NfMmZCbDk0alJWaTdfTkttWnpORmtTNlJQcEQwWmVaWHU1dmZUdHlYWm5XVjFOM1ZYNEdiZ2xuS1lkREFvdk5zSExaTG9fRnExMVhQSU4wUzZQSVp0cnNuYkN5NUpZdXZDMG5DVFFrZS1PbVducHNCRVRpcFVfUFNjaGVSTU9ERXUza002TXFZRw?oc=5",
         "timestamp": "2026-04-30T07:47:00",
         "timestamp_display": "30. 04. 2026 07:47",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +60,7 @@
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYXZIQ3l3enVBRjJmWnJYbklPR21BenJZa1RmNEJaTjRrQnVyQl9mY0tPcUg4NmlvMTJyTmFCY0otZkV0QzBSQmVSUjJRcFNTRU1JTnFpS09mYkRjeWRWRlJZVnJZWXdydGdYZm1oWVZkY0VGalVSVUpudm1KT1FHSXQzZnBlWFQwaU1tTUxMOGhvRUh0YlJXUWJB?oc=5",
         "timestamp": "2026-04-30T07:30:00",
         "timestamp_display": "30. 04. 2026 07:30",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -24,7 +69,7 @@
         "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNbXBYVTZrNkVrNjVyM1pmTTBsNG84WU1tZVBxZUFuZlpaNU9vd0J2aEZpZi10RG1IN3BNbWxsdklraUVqS2lNcXZsVmhrUmpqaVVxNDV4YkZsWVU3WEZnSGJvbGhTb3hSU0stVnlXRGswenBxbWlCaS1IeUVVdXJCWXgwS2NOVkl4cmhWV0VQNlRsV3ZxN3d1amlOVW9KZGMwbVA2UHhWa0MzcEw5MzU0NXlzYUNRU0FBbXpNa0ltU1hmVGttSGFMOEhJVWJnZlVrcnFJMmRYRUdXeExLREhfQ0lIOEtkemJKcGNEWTgtblItVVdJaksyc1JKdDhuMmlzN3c?oc=5",
         "timestamp": "2026-04-30T06:49:00",
         "timestamp_display": "30. 04. 2026 06:49",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,7 +78,7 @@
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85OTU0Q3hXb3duZkliQjdkNUxNU3ltbGRQUmM3WFAxaW5PMmFmVVlDbmJic19MWEsyMm81OGNNT2ZhUVlwS1VfVDN2RkgwSlU5VGdVZnRBQkh6QQ?oc=5",
         "timestamp": "2026-04-30T02:03:27",
         "timestamp_display": "30. 04. 2026 02:03",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -42,34 +87,7 @@
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbEtaTUNJYzRwNkhhWm41ZUlqRmNIMWtJLUtNM213cFFhMjRCSzRwZV9HdzdESERqTHFHZEI1SDhIT2JrYWx2MF9oSGlPRks4YkhPdzJGektveHpuUDRQWE1ZaFhNQU1OalBhdG5pOWk0SS1BdXYtZHcwX1A0YXpZR1VleTJoS0d2NFBidjVZSzhHWnJwSWtjMHNaNDFNYldRREV2NzlzMC1TVFJoQ25rN3hucWVla0MtWUpWcWF1UUZkZVNKVTFJNVJLWnBRbzVvYnJzbFNXdWM3cFNPaUVLdw?oc=5",
         "timestamp": "2026-04-29T15:40:00",
         "timestamp_display": "29. 04. 2026 15:40",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Investice mění život",
-        "summary": "Forbes Česko nabízí rady pro investice a změny ve finančním životě.",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VdVp4bFlXZ1dHWEdVT044NFdoZGxoVFF2dmtTSUtUb2hrQzVSbEJTbVIyNWdGcnlRcjI0ZjBoSFBkZXZGT21BaVp5aEw4SVVqbmJN?oc=5",
-        "timestamp": "2026-04-29T10:58:23",
-        "timestamp_display": "29. 04. 2026 10:58",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Změňte život technologií",
-        "summary": "Technologie může změnit život jedné věty, nabízí nové možnosti a příležitosti pro zlepšení života.",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BSVFyMUU3WEswb2ljLXZkRDBxdGpLNmZLSkk2YjBWUjlMejYzWEd3Y3hfYVFhWHUzTGJYLUtqb2NDUVZ6RVB6U1NuRUpmSzh5NmU1c1RSempYNTZM?oc=5",
-        "timestamp": "2026-04-28T17:16:12",
-        "timestamp_display": "28. 04. 2026 17:16",
-        "is_new": true
-    },
-    {
-        "category": "Společnost",
-        "title": "Češka navštívila všechny země",
-        "summary": "Češka cestovala 20 let bez sponzorů a navštívila všechny země světa.",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTHBPdjN0RjA1NlRfU3Q4SE83OVNGSHlQekZLeUhYVFpxOHRwbnhwRTc5T3FtSUZxeDJVajZqb0FiWlRYTzc2ekxjWGR0aklXazNLSUNFVURzdENnNHRsTlF4cDlFbEo4S2NxRHVub3cweFhrQVZ3TDJxODItbVJCOGlpY2l1aHRvYUFfTEFiWVBJcTQ?oc=5",
-        "timestamp": "2026-04-26T16:05:48",
-        "timestamp_display": "26. 04. 2026 16:05",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -87,6 +105,15 @@
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kWXd4SFVQS3lxVnRrcTk1eTVDV1pVWm13RUFpX3VBOVNBbXdhc1BjTzdsMnFhN2dzZFVPdXVCMm5ZRE53NkV3RFBlTm1IdU5XRXc?oc=5",
         "timestamp": "2026-04-29T12:58:59",
         "timestamp_display": "29. 04. 2026 12:58",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Forbes Česko nabízí rady pro investice a změny ve finančním životě.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VdVp4bFlXZ1dHWEdVT044NFdoZGxoVFF2dmtTSUtUb2hrQzVSbEJTbVIyNWdGcnlRcjI0ZjBoSFBkZXZGT21BaVp5aEw4SVVqbmJN?oc=5",
+        "timestamp": "2026-04-29T10:58:23",
+        "timestamp_display": "29. 04. 2026 10:58",
         "is_new": false
     },
     {
@@ -150,6 +177,15 @@
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYTZWeTlDRENUbHlTd0xZLUUtRDdENWVORHlUTU5PbWVHdHFzU2V2RS1HS2JOU1dURTZfOUtzSVFuN29aaXVCR0hoQlM5N2JLS1RfYXQyUktHdUtQSWlCcW9iWThRdENIY2hlTTg2OGZmbEh4WmEyVUNHdjJwck90SV9HTDhfbk1ERm15TC1ZMjByNDJHVDVGZ0FJdXZfNFM4bEE?oc=5",
         "timestamp": "2026-04-28T18:10:31",
         "timestamp_display": "28. 04. 2026 18:10",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Změňte život technologií",
+        "summary": "Technologie může změnit život jedné věty, nabízí nové možnosti a příležitosti pro zlepšení života.",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BSVFyMUU3WEswb2ljLXZkRDBxdGpLNmZLSkk2YjBWUjlMejYzWEd3Y3hfYVFhWHUzTGJYLUtqb2NDUVZ6RVB6U1NuRUpmSzh5NmU1c1RSempYNTZM?oc=5",
+        "timestamp": "2026-04-28T17:16:12",
+        "timestamp_display": "28. 04. 2026 17:16",
         "is_new": false
     },
     {
@@ -402,6 +438,15 @@
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOS3laLWRzLTg0NGxMWTZlQ0xxS2lzNmtxQWx4aXpXdWRVWDRNbGt6T01TYVNGeDFxY01yUTBUYjNxdmxqc3FwR2ZsR05TVzBhY05GNzhjaEN1S0lLRHV0OXNWRkNJQ0FjMlI4LUxLMTh4OWpTZi11ODEzd1FEVThNMUVELUlZUVJBX2d1N1NmTGhFM1Uzb3ZFNjZ1VGZxOEJrcUwyMEhReUFsVzR6YzFEeUN5ellMVUhkOHpHdUJ1NldydGJKMjZvbTB4ZG1CU1NTcTdZ?oc=5",
         "timestamp": "2026-04-27T03:30:00",
         "timestamp_display": "27. 04. 2026 03:30",
+        "is_new": false
+    },
+    {
+        "category": "Společnost",
+        "title": "Češka navštívila všechny země",
+        "summary": "Češka cestovala 20 let bez sponzorů a navštívila všechny země světa.",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTHBPdjN0RjA1NlRfU3Q4SE83OVNGSHlQekZLeUhYVFpxOHRwbnhwRTc5T3FtSUZxeDJVajZqb0FiWlRYTzc2ekxjWGR0aklXazNLSUNFVURzdENnNHRsTlF4cDlFbEo4S2NxRHVub3cweFhrQVZ3TDJxODItbVJCOGlpY2l1aHRvYUFfTEFiWVBJcTQ?oc=5",
+        "timestamp": "2026-04-26T16:05:48",
+        "timestamp_display": "26. 04. 2026 16:05",
         "is_new": false
     },
     {
