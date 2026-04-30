@@ -1,12 +1,21 @@
 [
     {
+        "category": "Byznys",
+        "title": "České dráhy v zisku",
+        "summary": "České dráhy dosáhly loni zisku 1,8 miliardy korun, což je pozitivní trend.",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVkRZYmxsZnE0eEFJLWVlWXJqeEpCNjlBdzBacU84azYzWHNIaHdDWXI4R0ptcER0OWxYY041R1g0aDctMXRRWVpzRVhKUy1nOEFVM1RzX25wcm1lc0owV3Y2dk1rTlpfdFM0clZ5R3FpbWhwejNpZlg4WVRYeFd1Z0hFTEdFaW1RR0E0?oc=5",
+        "timestamp": "2026-04-30T12:56:18",
+        "timestamp_display": "30. 04. 2026 12:56",
+        "is_new": true
+    },
+    {
         "category": "Technologie",
         "title": "Autonomní taxíky Waymo",
         "summary": "Waymo sbírá data o výmolech a posílá je městům a do navigace Waze.",
         "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQWVhZcVBHLWl3SVZzVHA4Z0FPSEJhSnozb2FjcEM1MnRzNTFaN3NsOW1sS00yWkx4UW43MWdQZUdwZkxBNU1BMGVNNGxDLXRRVjl0YVd5aE9YbG5ITkRXb3ZFTnZUdG9WWVFHbzhoanFRUC1NcWZWNU5MVW96YU84RHF0Nmx1ZUxPbEJyR3luMEdEMkJhTWZtR2lGdmc4ODR6TnlFWkpOTzd0QjR2eTJFaFZIYWFKN0ROdzdnQzNzcHFIajZRT09wTS1xQnBUS3ZZdGY3bVhPWWVza1FfSVhWcnFmQ3dBeUQ4eWJSYnBPcGpQRDhCYjk4?oc=5",
         "timestamp": "2026-04-30T14:36:00",
         "timestamp_display": "30. 04. 2026 14:36",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,34 +24,7 @@
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU1BNU3FDbmdOVF83ejEwZ3VVeHhJNkxFMU8xWldwVHJmT01tbjZJN2RHZnJsY2FzRmhFMHZIVWI5Q05CZXoyWU12dFNxeUlVb2ZqdEh6dzh4WXYwbzIzbkRUcEdhYU1iS0JwRjlsVGM4ZTBveXpWdVc5S3F4N1Yta1ZjVU1CQmszeXlHa19rdEcxX2ZDbVVPcUVSQTQyTV9XbHFCM1c2emtDQmU4cE9wUHE4V0R2Zw?oc=5",
         "timestamp": "2026-04-30T12:32:25",
         "timestamp_display": "30. 04. 2026 12:32",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Lehký letecký elektromotor",
-        "summary": "Fraunhofer vyvinuli lehký elektromotor o váze 94 kg s výkonem 750 kW.",
-        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQUWREaGRrQTV1RHItdXJqR1Fsak9sckhOSTJUSTZTaHJtOG84VkNzZWxOSWdEU2hNbW5QOVhsOWEyemhmRlVhQkxzRUlKN05hYjFJRldxT2NGSUx5WXBHNE5RUENHWFNJY3drNEVYbGVLaHlrTnI4WFM1bVNZWS0tX2NhaFFta3MxMU9CMnFaU2c4WHBTNW5PRXphMnFUTloyXzlOMk1QbjNadTBWdWxhUndRY2JuYVZwVEdUdVJSZVRKWXF4SHZEX1hWN0FuZl9CNk1ySnpFcFJ2NmVPRkxpdnAzOEM2dEFab1VMWURnTm5IVEFINnJ5RlQ3R09vUjVSTmtQTQ?oc=5",
-        "timestamp": "2026-04-30T10:57:00",
-        "timestamp_display": "30. 04. 2026 10:57",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Investice mění život",
-        "summary": "Investice do nemovitostí může změnit život, nabízí nové příležitosti a růst.",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91ckFJYVNheGY3NmhEVTRFX1Q1bDNwSW1HYlJ2eGlTQi0wZjcyS3UydUZHZE9INVhNYzBOa3NMTlNReUdHc2FZNmt4WURRdVZvSUcwbmxNSEcxdWc?oc=5",
-        "timestamp": "2026-04-30T09:22:08",
-        "timestamp_display": "30. 04. 2026 09:22",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Investice mění život",
-        "summary": "Forbes Česko nabízí rady pro investice a změnu života.",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lWG45enBKTndDVEItVUJ5clpzMmt0NVdSRHRYX1B3RUVYVndDS1lJejRVM3VjSGM4djkzWnpFblhzTktsV1VHaXJueC1vckFCcFBXeA?oc=5",
-        "timestamp": "2026-04-29T22:02:39",
-        "timestamp_display": "29. 04. 2026 22:02",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -51,6 +33,15 @@
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMzJ0X0U3Y3JYZndLS19XR2hvYkV3SnptWENJdFZ5VGVQN0tvdGc4UEJVRENIRUdJcER6enN5eTFVZmUyTjdHQTVPbFNDbGRFZVBUU09iQUJyLXVjc3FCRzFrWnN4MmxQa0stei1PS3R0OTZRbFc2N1FPSXdaQzRZX3F0N19BeG5qOHpjVkJJeHppTmxpc2NPNEl0WmR4ajRN?oc=5",
         "timestamp": "2026-04-30T11:03:45",
         "timestamp_display": "30. 04. 2026 11:03",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Lehký letecký elektromotor",
+        "summary": "Fraunhofer vyvinuli lehký elektromotor o váze 94 kg s výkonem 750 kW.",
+        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQUWREaGRrQTV1RHItdXJqR1Fsak9sckhOSTJUSTZTaHJtOG84VkNzZWxOSWdEU2hNbW5QOVhsOWEyemhmRlVhQkxzRUlKN05hYjFJRldxT2NGSUx5WXBHNE5RUENHWFNJY3drNEVYbGVLaHlrTnI4WFM1bVNZWS0tX2NhaFFta3MxMU9CMnFaU2c4WHBTNW5PRXphMnFUTloyXzlOMk1QbjNadTBWdWxhUndRY2JuYVZwVEdUdVJSZVRKWXF4SHZEX1hWN0FuZl9CNk1ySnpFcFJ2NmVPRkxpdnAzOEM2dEFab1VMWURnTm5IVEFINnJ5RlQ3R09vUjVSTmtQTQ?oc=5",
+        "timestamp": "2026-04-30T10:57:00",
+        "timestamp_display": "30. 04. 2026 10:57",
         "is_new": false
     },
     {
@@ -69,6 +60,15 @@
         "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNb0lRVlBjTzZwLUo0eTJfMXg4ZDlPeGJMYWNjUXk0Z3lTUS1LSlFFZjQwLTNwbDJNYmZHNFlvY2JidUl5V0h6bU43YjdKVFRrVTFJY2I1M2tZWDBwVlU4YW53MVNvUVVLbUNRcE93ZEFCd29NMWFpVFdpNDFTd0pwUGpUN0pmOGpJc0tYbHJWZlFoMkpKMlVkQVVIU3BYYjhtcTNUcFZ1R19zZWRzTEkzWWxQX0FKOWNQdFJCNUlUVlpmODk0c2VRZFYxVTR0LUI4WGp1M1hhdXhOT0M0ZW9US0JRWFplajVFM2ROWjRvd0ZaUnJC?oc=5",
         "timestamp": "2026-04-30T09:49:09",
         "timestamp_display": "30. 04. 2026 09:49",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Investice do nemovitostí může změnit život, nabízí nové příležitosti a růst.",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91ckFJYVNheGY3NmhEVTRFX1Q1bDNwSW1HYlJ2eGlTQi0wZjcyS3UydUZHZE9INVhNYzBOa3NMTlNReUdHc2FZNmt4WURRdVZvSUcwbmxNSEcxdWc?oc=5",
+        "timestamp": "2026-04-30T09:22:08",
+        "timestamp_display": "30. 04. 2026 09:22",
         "is_new": false
     },
     {
@@ -123,6 +123,15 @@
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85OTU0Q3hXb3duZkliQjdkNUxNU3ltbGRQUmM3WFAxaW5PMmFmVVlDbmJic19MWEsyMm81OGNNT2ZhUVlwS1VfVDN2RkgwSlU5VGdVZnRBQkh6QQ?oc=5",
         "timestamp": "2026-04-30T02:03:27",
         "timestamp_display": "30. 04. 2026 02:03",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Forbes Česko nabízí rady pro investice a změnu života.",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lWG45enBKTndDVEItVUJ5clpzMmt0NVdSRHRYX1B3RUVYVndDS1lJejRVM3VjSGM4djkzWnpFblhzTktsV1VHaXJueC1vckFCcFBXeA?oc=5",
+        "timestamp": "2026-04-29T22:02:39",
+        "timestamp_display": "29. 04. 2026 22:02",
         "is_new": false
     },
     {
