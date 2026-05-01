@@ -1,66 +1,48 @@
 [
     {
         "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Forbes nabízí rady pro investice a akcie, které mohou změnit život.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zb24yWUFuNU9mTGNxaHlfQ1lxRXVUN1dseUVvYzkxWGpHd3R5MWtKbTRHTWV1SnJOVkRrTXBMdUJITUVzUlp5aGpTZk1wMEpacnJZ?oc=5",
+        "timestamp": "2026-04-30T16:13:15",
+        "timestamp_display": "30. 04. 2026 16:13",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Český HDP vzrostl",
+        "summary": "Český HDP vzrostl o dvě procenta v prvním čtvrtletí, překonává evropský průměr.",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc2NJRDVLbE9DOFA5UW8zUi1vOGFsT2kxTVVZTVpuSFNna1BUWV9lU3VNSzRXeGJubF95bDhDRXJSWHloWlJlUDlFaE5vamdKMmo4TFRpamNLN2ZaMHh5ZDAySy12cGNjUWw4N2NjWnhXcUdRVGEtNk9CdEN0Qm55VnRVcnBjSFpCNmZkc0ZwLS1ZQXdGM1JjQlJR?oc=5",
+        "timestamp": "2026-04-30T13:57:52",
+        "timestamp_display": "30. 04. 2026 13:57",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Autonomní taxíky Waymo",
+        "summary": "Autonomní taxíky Waymo sbírají data o výmolech a posílají je městům i do navigace Waze.",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSHBTV0FtX0dhSnVCUk8zTE9iUG5mczVkdXZQMHhlN25sUWZMaWVCTE5DcmpfbnBVUU5fLVQ4RUgtNDRBaEZWZEkweUNsa2lUX0paV3lBbjJkbFZUZUs1U1lKOGlJY0MzUDZSTW9WbTFPOFozU2FXcjh2d1VzTFZqbGZhVjZxR3FTeDZOUzZCdjVtN2J3UVEzZHJwLWtfcVJnYmM5R3NobjlVTTg1aWdPYW5rY0JHWEROdnE4eXZwYkxYeVZPaDkxU3VhUUd1N2taNC1acy1td3A0X0FoMVI3dkNIRWpSMkE?oc=5",
+        "timestamp": "2026-04-30T13:56:39",
+        "timestamp_display": "30. 04. 2026 13:56",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Inovační centrum Karlovarsko",
+        "summary": "Karlovarsko hledá dodavatele pro inovační centrum, které má být hotové na podzim.",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeVhzaXU4S1Y0QmRBaVZDNFQ3TDZHZ3FRamk5MWgtQUhnYldTTlIyRkM1LUlQZUJocDFFVDZhT0xhbS15TjZueWtzQ09yelVucEVYYnpDbzBNVF9XWlgyUFctYW1vZk5oeXJ0X1lfd0E5eDRlTkcxVGJUbU5pSS1xeklBZERuLU9tU0t2WnpPNXlVc0tVeGZkX3RwWVFJWjdid01aZnJZcGpGZjQ4SGZVejdjbExhemdrczNYZUlCejVzVFJsLV9Pck1R?oc=5",
+        "timestamp": "2026-04-30T06:55:00",
+        "timestamp_display": "30. 04. 2026 06:55",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Miliardář Martin Wichterle",
         "summary": "Miliardář Martin Wichterle mluví o svém podnikání a úspěších v rozhovoru pro Forbes Česko.",
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE45dk55WWZOdkg1SkFRY3ZzSExySmNtblpKTjJpNEV4U0dHRjlfR2QzaEYzYlNYbFpMdXRyQlZXd3EtMzhvenRNV213RVV1SWdvQXJmWDUtOA?oc=5",
         "timestamp": "2026-04-30T18:11:57",
         "timestamp_display": "30. 04. 2026 18:11",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Investice mění život",
-        "summary": "Investice do nemovitostí může změnit život, nabízí nové příležitosti a růst.",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uY2F4blV2MW9zUVl5RkctNW5fc2NBOXFlbjlxSEhSaW1JU052TUZQLVl2RE5KNUFIYWNFb1pYajlBT3JUR09OaEVNRzVucWJvald5VGV0UVZlNVU?oc=5",
-        "timestamp": "2026-04-30T14:25:56",
-        "timestamp_display": "30. 04. 2026 14:25",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Největší česká baterie",
-        "summary": "Největší česká baterie zahájila provoz, využívá AI pro řízení a nabíjí se při záporné ceně elektřiny.",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYThGWFJxeGNVYVVSUHN6cHhiMUZEenAzUFZXVG9tejR1YUhEUU0zaV9XMFJRSmowNFVYVjBGQVpJR09XLXhGbHdudXozT2tSeHA4cWlrc3d5cU9tbDJpR3BPNWFackxqQ2lfd2VWWU5POVFGRndlU0d3cWlhVm5mUkY2NWRUdkpXUld5ek9FaW9fcXVHTUEzbjJVY1NwWHFwWGpOTnVrYUc4dFc4a2F2SFJURV94cUM1czhUZGVLdkJrMmcySzBFN0ZJVTNxXzl2dFRVbEJyVi1ZMmNVaEJZ?oc=5",
-        "timestamp": "2026-04-30T13:00:00",
-        "timestamp_display": "30. 04. 2026 13:00",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Investice mění život",
-        "summary": "Forbes Česko nabízí rady pro investice, které mohou změnit život.",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YZ0lCdnRIZXpvaTZCbXpXUzU3U19PQzE1Q0tEaTZVMmVGS3pBcFZZNGhzeURwejhJSkI3dUhvOXdEYUZUOWttRC03SUFrZ0EyR2puSw?oc=5",
-        "timestamp": "2026-04-30T12:58:32",
-        "timestamp_display": "30. 04. 2026 12:58",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Investice mění život",
-        "summary": "Forbes nabízí rady pro investice a akcie, které mohou změnit život.",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzRFJUaVJMalFTVWdYUDd6ZWgxNTdURVpmV3RIdDVKSGxhRFF6eXo5UVpTdFFyekl3RTdwYnVjZ2V3TG9NdjB6REVnTEpENHkxUXZF?oc=5",
-        "timestamp": "2026-04-30T09:42:30",
-        "timestamp_display": "30. 04. 2026 09:42",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "PPF čekají miliardové zisky",
-        "summary": "PPF očekává další zisky z telekomunikací, O2 a CETIN plánují akvizice.",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNXVlOXpFb3hWbzczalB5RHZKeEVFblI2bEVDNkxHdTdTbjFNNmE0d2ZJZTZJajJ4OGNFR3loR0pEekh3TnpsUF94S0Nlbm9LWjQwTVFjaVlsWmJ6TGJRTGdtc0duVFZiVVEzRms1V1Jnc0xNb1RVa29MWUJjTjR5ZzNhd19MWi1ka2FMRkx3XzNUc0NyY0dsR1ZNU2pQMG0zX1NlNm9BVnNIQ2NiUzR4YVFfMjRWZlFrdFlSbktRN3FEOXZjeXNUSQ?oc=5",
-        "timestamp": "2026-04-30T03:00:00",
-        "timestamp_display": "30. 04. 2026 03:00",
-        "is_new": true
-    },
-    {
-        "category": "Věda",
-        "title": "Fononový laser",
-        "summary": "Vědci vytvořili ultrachladné zařízení pro výrobu fononů, což může vést k vývoji fononových laserů.",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQXp6WUlXUldUXzVKVTJnQkNQRDJXYWl5Mm0xS0ZiNS1oUGdMWFNfVTdRZ01CVmtrNVRqY1FxRVVzUkp3dEJ4Tkk5WWVyODBld1hhZnhHRE5SYzRTSjduSnR3MUU4Z05LWkkyRUVxVjVxMnFSeWZIYlB6bFZFZ1FnMEJ1bWdwLWZxUllZQ0h2VlVjejJHTkVNTUZyMlhLVVFMSTBpUTRB?oc=5",
-        "timestamp": "2026-04-27T07:00:00",
-        "timestamp_display": "27. 04. 2026 07:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -69,6 +51,33 @@
         "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQWVhZcVBHLWl3SVZzVHA4Z0FPSEJhSnozb2FjcEM1MnRzNTFaN3NsOW1sS00yWkx4UW43MWdQZUdwZkxBNU1BMGVNNGxDLXRRVjl0YVd5aE9YbG5ITkRXb3ZFTnZUdG9WWVFHbzhoanFRUC1NcWZWNU5MVW96YU84RHF0Nmx1ZUxPbEJyR3luMEdEMkJhTWZtR2lGdmc4ODR6TnlFWkpOTzd0QjR2eTJFaFZIYWFKN0ROdzdnQzNzcHFIajZRT09wTS1xQnBUS3ZZdGY3bVhPWWVza1FfSVhWcnFmQ3dBeUQ4eWJSYnBPcGpQRDhCYjk4?oc=5",
         "timestamp": "2026-04-30T14:36:00",
         "timestamp_display": "30. 04. 2026 14:36",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Investice do nemovitostí může změnit život, nabízí nové příležitosti a růst.",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uY2F4blV2MW9zUVl5RkctNW5fc2NBOXFlbjlxSEhSaW1JU052TUZQLVl2RE5KNUFIYWNFb1pYajlBT3JUR09OaEVNRzVucWJvald5VGV0UVZlNVU?oc=5",
+        "timestamp": "2026-04-30T14:25:56",
+        "timestamp_display": "30. 04. 2026 14:25",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Největší česká baterie",
+        "summary": "Největší česká baterie zahájila provoz, využívá AI pro řízení a nabíjí se při záporné ceně elektřiny.",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYThGWFJxeGNVYVVSUHN6cHhiMUZEenAzUFZXVG9tejR1YUhEUU0zaV9XMFJRSmowNFVYVjBGQVpJR09XLXhGbHdudXozT2tSeHA4cWlrc3d5cU9tbDJpR3BPNWFackxqQ2lfd2VWWU5POVFGRndlU0d3cWlhVm5mUkY2NWRUdkpXUld5ek9FaW9fcXVHTUEzbjJVY1NwWHFwWGpOTnVrYUc4dFc4a2F2SFJURV94cUM1czhUZGVLdkJrMmcySzBFN0ZJVTNxXzl2dFRVbEJyVi1ZMmNVaEJZ?oc=5",
+        "timestamp": "2026-04-30T13:00:00",
+        "timestamp_display": "30. 04. 2026 13:00",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Forbes Česko nabízí rady pro investice, které mohou změnit život.",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YZ0lCdnRIZXpvaTZCbXpXUzU3U19PQzE1Q0tEaTZVMmVGS3pBcFZZNGhzeURwejhJSkI3dUhvOXdEYUZUOWttRC03SUFrZ0EyR2puSw?oc=5",
+        "timestamp": "2026-04-30T12:58:32",
+        "timestamp_display": "30. 04. 2026 12:58",
         "is_new": false
     },
     {
@@ -128,6 +137,15 @@
     {
         "category": "Byznys",
         "title": "Investice mění život",
+        "summary": "Forbes nabízí rady pro investice a akcie, které mohou změnit život.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzRFJUaVJMalFTVWdYUDd6ZWgxNTdURVpmV3RIdDVKSGxhRFF6eXo5UVpTdFFyekl3RTdwYnVjZ2V3TG9NdjB6REVnTEpENHkxUXZF?oc=5",
+        "timestamp": "2026-04-30T09:42:30",
+        "timestamp_display": "30. 04. 2026 09:42",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice mění život",
         "summary": "Investice do nemovitostí může změnit život, nabízí nové příležitosti a růst.",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91ckFJYVNheGY3NmhEVTRFX1Q1bDNwSW1HYlJ2eGlTQi0wZjcyS3UydUZHZE9INVhNYzBOa3NMTlNReUdHc2FZNmt4WURRdVZvSUcwbmxNSEcxdWc?oc=5",
         "timestamp": "2026-04-30T09:22:08",
@@ -177,6 +195,15 @@
         "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYVdjQ05TVWVDQWRyYmNxanVmWmM0VTVGaFphdW00NU5NaF80YldBeVluaDhMNlo3anYxZXNMdWpfQ2w5Nk9PN0VsMHB0UVJ3QUJxTllYc2dKNkl3S3JTUnpEa0dKZWZHTEVLWDRhbDNRMUlHalhzZUNGUnI5a1FvVXlLUVpibG43UFZvVnRXWkgwekZobzU5d3lvbW42YmcwclB3ZkF6cHBSbGpKQmFXZkpMUnoxZmdRQnNXbHlPVUs3dGF5RWlPcThLZzJqSzhzbndqTnFtdE1EUmhYNENSQ2p5UkJjdEw4Vkl0Z3h3NnVuUVMyeHFzeUpB?oc=5",
         "timestamp": "2026-04-30T06:24:00",
         "timestamp_display": "30. 04. 2026 06:24",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "PPF čekají miliardové zisky",
+        "summary": "PPF očekává další zisky z telekomunikací, O2 a CETIN plánují akvizice.",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNXVlOXpFb3hWbzczalB5RHZKeEVFblI2bEVDNkxHdTdTbjFNNmE0d2ZJZTZJajJ4OGNFR3loR0pEekh3TnpsUF94S0Nlbm9LWjQwTVFjaVlsWmJ6TGJRTGdtc0duVFZiVVEzRms1V1Jnc0xNb1RVa29MWUJjTjR5ZzNhd19MWi1ka2FMRkx3XzNUc0NyY0dsR1ZNU2pQMG0zX1NlNm9BVnNIQ2NiUzR4YVFfMjRWZlFrdFlSbktRN3FEOXZjeXNUSQ?oc=5",
+        "timestamp": "2026-04-30T03:00:00",
+        "timestamp_display": "30. 04. 2026 03:00",
         "is_new": false
     },
     {
@@ -528,6 +555,15 @@
         "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOR3ZIemlqVWZSUDZNWWZGV0tqcG5LcFM2enYwd2NuOU96VmRsdGkyN3ZYR0dSYWJrYVlJUVNZMWhUWTk1LWl2THNSY3psOW5CblVJbkRwY2tpSXNvaV9pa3RLQnJ1ZXJWYVo1LXFOaXVrSFZlOEMtZGotOC1jWmVINjU1WWZZR3dJdV9ReUlCazcwVWxvWE52R2NyZGRtQlQ0bEdFOHQtVU53M1pQOFQtVGYwOVRwNlg4MXg5LVQ3akwtQmlxa0QtVGtpLXotSWVpTGN0ZHJFZ0s1NVRBdnhMZUtqSF82UF9PeWdQVEZpcXp5S2ZMbEE?oc=5",
         "timestamp": "2026-04-27T10:04:58",
         "timestamp_display": "27. 04. 2026 10:04",
+        "is_new": false
+    },
+    {
+        "category": "Věda",
+        "title": "Fononový laser",
+        "summary": "Vědci vytvořili ultrachladné zařízení pro výrobu fononů, což může vést k vývoji fononových laserů.",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQXp6WUlXUldUXzVKVTJnQkNQRDJXYWl5Mm0xS0ZiNS1oUGdMWFNfVTdRZ01CVmtrNVRqY1FxRVVzUkp3dEJ4Tkk5WWVyODBld1hhZnhHRE5SYzRTSjduSnR3MUU4Z05LWkkyRUVxVjVxMnFSeWZIYlB6bFZFZ1FnMEJ1bWdwLWZxUllZQ0h2VlVjejJHTkVNTUZyMlhLVVFMSTBpUTRB?oc=5",
+        "timestamp": "2026-04-27T07:00:00",
+        "timestamp_display": "27. 04. 2026 07:00",
         "is_new": false
     },
     {
