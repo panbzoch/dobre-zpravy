@@ -1,11 +1,65 @@
 [
     {
         "category": "Byznys",
-        "title": "České dráhy v zisku",
-        "summary": "České dráhy dosáhly loni zisku 1,8 miliardy korun, což je pozitivní trend.",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVkRZYmxsZnE0eEFJLWVlWXJqeEpCNjlBdzBacU84azYzWHNIaHdDWXI4R0ptcER0OWxYY041R1g0aDctMXRRWVpzRVhKUy1nOEFVM1RzX25wcm1lc0owV3Y2dk1rTlpfdFM0clZ5R3FpbWhwejNpZlg4WVRYeFd1Z0hFTEdFaW1RR0E0?oc=5",
-        "timestamp": "2026-04-30T12:56:18",
-        "timestamp_display": "30. 04. 2026 12:56",
+        "title": "Miliardář Martin Wichterle",
+        "summary": "Miliardář Martin Wichterle mluví o svém podnikání a úspěších v rozhovoru pro Forbes Česko.",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE45dk55WWZOdkg1SkFRY3ZzSExySmNtblpKTjJpNEV4U0dHRjlfR2QzaEYzYlNYbFpMdXRyQlZXd3EtMzhvenRNV213RVV1SWdvQXJmWDUtOA?oc=5",
+        "timestamp": "2026-04-30T18:11:57",
+        "timestamp_display": "30. 04. 2026 18:11",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Investice do nemovitostí může změnit život, nabízí nové příležitosti a růst.",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uY2F4blV2MW9zUVl5RkctNW5fc2NBOXFlbjlxSEhSaW1JU052TUZQLVl2RE5KNUFIYWNFb1pYajlBT3JUR09OaEVNRzVucWJvald5VGV0UVZlNVU?oc=5",
+        "timestamp": "2026-04-30T14:25:56",
+        "timestamp_display": "30. 04. 2026 14:25",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Největší česká baterie",
+        "summary": "Největší česká baterie zahájila provoz, využívá AI pro řízení a nabíjí se při záporné ceně elektřiny.",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYThGWFJxeGNVYVVSUHN6cHhiMUZEenAzUFZXVG9tejR1YUhEUU0zaV9XMFJRSmowNFVYVjBGQVpJR09XLXhGbHdudXozT2tSeHA4cWlrc3d5cU9tbDJpR3BPNWFackxqQ2lfd2VWWU5POVFGRndlU0d3cWlhVm5mUkY2NWRUdkpXUld5ek9FaW9fcXVHTUEzbjJVY1NwWHFwWGpOTnVrYUc4dFc4a2F2SFJURV94cUM1czhUZGVLdkJrMmcySzBFN0ZJVTNxXzl2dFRVbEJyVi1ZMmNVaEJZ?oc=5",
+        "timestamp": "2026-04-30T13:00:00",
+        "timestamp_display": "30. 04. 2026 13:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Forbes Česko nabízí rady pro investice, které mohou změnit život.",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YZ0lCdnRIZXpvaTZCbXpXUzU3U19PQzE1Q0tEaTZVMmVGS3pBcFZZNGhzeURwejhJSkI3dUhvOXdEYUZUOWttRC03SUFrZ0EyR2puSw?oc=5",
+        "timestamp": "2026-04-30T12:58:32",
+        "timestamp_display": "30. 04. 2026 12:58",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Forbes nabízí rady pro investice a akcie, které mohou změnit život.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzRFJUaVJMalFTVWdYUDd6ZWgxNTdURVpmV3RIdDVKSGxhRFF6eXo5UVpTdFFyekl3RTdwYnVjZ2V3TG9NdjB6REVnTEpENHkxUXZF?oc=5",
+        "timestamp": "2026-04-30T09:42:30",
+        "timestamp_display": "30. 04. 2026 09:42",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "PPF čekají miliardové zisky",
+        "summary": "PPF očekává další zisky z telekomunikací, O2 a CETIN plánují akvizice.",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNXVlOXpFb3hWbzczalB5RHZKeEVFblI2bEVDNkxHdTdTbjFNNmE0d2ZJZTZJajJ4OGNFR3loR0pEekh3TnpsUF94S0Nlbm9LWjQwTVFjaVlsWmJ6TGJRTGdtc0duVFZiVVEzRms1V1Jnc0xNb1RVa29MWUJjTjR5ZzNhd19MWi1ka2FMRkx3XzNUc0NyY0dsR1ZNU2pQMG0zX1NlNm9BVnNIQ2NiUzR4YVFfMjRWZlFrdFlSbktRN3FEOXZjeXNUSQ?oc=5",
+        "timestamp": "2026-04-30T03:00:00",
+        "timestamp_display": "30. 04. 2026 03:00",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Fononový laser",
+        "summary": "Vědci vytvořili ultrachladné zařízení pro výrobu fononů, což může vést k vývoji fononových laserů.",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQXp6WUlXUldUXzVKVTJnQkNQRDJXYWl5Mm0xS0ZiNS1oUGdMWFNfVTdRZ01CVmtrNVRqY1FxRVVzUkp3dEJ4Tkk5WWVyODBld1hhZnhHRE5SYzRTSjduSnR3MUU4Z05LWkkyRUVxVjVxMnFSeWZIYlB6bFZFZ1FnMEJ1bWdwLWZxUllZQ0h2VlVjejJHTkVNTUZyMlhLVVFMSTBpUTRB?oc=5",
+        "timestamp": "2026-04-27T07:00:00",
+        "timestamp_display": "27. 04. 2026 07:00",
         "is_new": true
     },
     {
@@ -15,6 +69,15 @@
         "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQWVhZcVBHLWl3SVZzVHA4Z0FPSEJhSnozb2FjcEM1MnRzNTFaN3NsOW1sS00yWkx4UW43MWdQZUdwZkxBNU1BMGVNNGxDLXRRVjl0YVd5aE9YbG5ITkRXb3ZFTnZUdG9WWVFHbzhoanFRUC1NcWZWNU5MVW96YU84RHF0Nmx1ZUxPbEJyR3luMEdEMkJhTWZtR2lGdmc4ODR6TnlFWkpOTzd0QjR2eTJFaFZIYWFKN0ROdzdnQzNzcHFIajZRT09wTS1xQnBUS3ZZdGY3bVhPWWVza1FfSVhWcnFmQ3dBeUQ4eWJSYnBPcGpQRDhCYjk4?oc=5",
         "timestamp": "2026-04-30T14:36:00",
         "timestamp_display": "30. 04. 2026 14:36",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "České dráhy v zisku",
+        "summary": "České dráhy dosáhly loni zisku 1,8 miliardy korun, což je pozitivní trend.",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVkRZYmxsZnE0eEFJLWVlWXJqeEpCNjlBdzBacU84azYzWHNIaHdDWXI4R0ptcER0OWxYY041R1g0aDctMXRRWVpzRVhKUy1nOEFVM1RzX25wcm1lc0owV3Y2dk1rTlpfdFM0clZ5R3FpbWhwejNpZlg4WVRYeFd1Z0hFTEdFaW1RR0E0?oc=5",
+        "timestamp": "2026-04-30T12:56:18",
+        "timestamp_display": "30. 04. 2026 12:56",
         "is_new": false
     },
     {
