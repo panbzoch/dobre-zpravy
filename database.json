@@ -1,12 +1,39 @@
 [
     {
+        "category": "Byznys",
+        "title": "Berkshire Hathaway zdvojnásobila zisk",
+        "summary": "Berkshire Hathaway, firma Warrena Buffetta, zdvojnásobila zisk díky úspěšným investicím a hospodaření.",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON1R0SV85NnBiNm5BRGM3ZDdRcWpNYXFYOTZSbkI5c2Foay1pOHg1WDA5UG55MHpuSUtwR0ptWUh2UjZibS1YaTkzNjhIWk50a3l4MGxTWUdCWUtaSEVMUjQ2a00tYWtLT3NyMEw3MjlRVTdTY1ZfT2EtdjhrY05iTHdKUENrYUhNNlIyT3V1OFZpZTZ4Y3pxMHdKUUZrWFlNVVpfT0MteE9vdnhoX09MZEoyWGZRbWc?oc=5",
+        "timestamp": "2026-05-02T15:28:00",
+        "timestamp_display": "02. 05. 2026 15:28",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Forbes Česko nabízí rady pro investice a změnu života.",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ycWdzSElPeWdhUnJJd3R5UVdoem12WE1mc2R1QU5MdDZMbnJiX1Q4aHM2UVo5b09lR3hpNTFGWktvZ28wNndHM05STTdveUdMMzdEbQ?oc=5",
+        "timestamp": "2026-04-30T14:20:13",
+        "timestamp_display": "30. 04. 2026 14:20",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Elektromobilisté vydělali",
+        "summary": "Majitelé elektromobilů vydělali o víkendu penězi tím, že si nabili svá auta, díky vysoké poptávce po elektřině.",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdXV0QjR5aTFyZzZxWDI5eHlSeVRpMVpZN25pQ0RraS1PQmRaSFJlQWY5OWd2cjJsMlVQc1pBM2hPcXdVX29xc08yY25nMW85T0JXU0hXV0hSMzBheWZKWDJ0NXdGZXpYaWRFZl9FYldHZkpNY1B6QWlBdExBcjAxRXVTbjkwN2FsRXhvU0ZoYU5DVmJtSUpYcWdB?oc=5",
+        "timestamp": "2026-04-27T16:05:47",
+        "timestamp_display": "27. 04. 2026 16:05",
+        "is_new": true
+    },
+    {
         "category": "Technologie",
         "title": "Programování Arduino Uno",
         "summary": "Arduino Uno je mikrokontrolér s dvěma procesory, který lze programovat pro různé projekty, jako jsou robotika a IoT zařízení.",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTVg0dUVHVFpvYmxwMzFxNE5ESFFHRDJyVFMyTHQ5QTJKbVZOVlNhNVNITkptY3BFdm1VeVdvX0hKT2xjem92Q0dlMW50dmlNMlFhSFVnbXJSYXEyRWY2b2hLNFIyZjUwTjBCSUU1RE4wRjVROTdBVFJxdml3cnhFQmM3YzdDZE1JdEhvQklrbzhIWHVYaVRxNmx5MFVCTzhncUtPSEtQd1JlbFI4cUE3bGUyMVAybTdHS2llbGRzNzA4Rm5wd2JtT3J3?oc=5",
         "timestamp": "2026-05-02T13:45:35",
         "timestamp_display": "02. 05. 2026 13:45",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
