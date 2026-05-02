@@ -1,12 +1,48 @@
 [
     {
+        "category": "Věda",
+        "title": "Nový vesmírný dalekohled",
+        "summary": "NASA připravuje start nového vesmírného dalekohledu Nancy Grace Romanové, který má být vypuštěn v září.",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVlBkWnBBVHFxQXhXLW5zWWUzQ00wOTNYQ2Z0UXFWVVRZMjBpOEsxdWpyTFN0QmhXTmo0OUV6OFA1THprNG5ZT01tZ2l3MnRTWlROcFlkZnBybWJ4WV9tVE5USzZ5ZUNEQnBzbDNja0tXQ0NxejhtTlkxUk5KUGxuYW94LTdzRHdTaklDUUxydHU2N1BzdGlKMFNFRkt4SmZHbk13QV9TRnBjQUJhczlLYm5ibDcybzYwcmttOXRHNVQxU0pTenYxcnIwemxRUmtxZHFuSl9sQWRaYzRWZmwxRlRKb0dKQ29KNEhr?oc=5",
+        "timestamp": "2026-05-02T07:33:00",
+        "timestamp_display": "02. 05. 2026 07:33",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Úspěch vinaře Valihracha",
+        "summary": "Vinař Valihrach mluví o svém úspěchu a důležitosti dobrých lidí kolem sebe.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mVFk0Zk9xdFprMDQ5M09qbFVBblJ0UHp2WVljamFVQXhlSVRSaTI3Y29sZVJhYVpXZ3RlaWRBWE41OXVYVzlzU3piZlRmd2VSZG5j?oc=5",
+        "timestamp": "2026-05-02T03:45:00",
+        "timestamp_display": "02. 05. 2026 03:45",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Průmysl mění život",
+        "summary": "Forbes Česko přináší inspirativní články o úspěších v průmyslu a podnikání.",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZelZpaFZRMjRSVHhnOUxVaVpTdXRQQmZseUtkOW9lckhfc01raXNMbEpibUxuMWFtX2UtLTk2ZzBvM0NsUm5UNEZDZ2Z2ZFRpV0FyR3MyYw?oc=5",
+        "timestamp": "2026-05-01T07:48:05",
+        "timestamp_display": "01. 05. 2026 07:48",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Musk spustil XChat",
+        "summary": "Elon Musk spustil novou chatovací aplikaci XChat, která je zatím dostupná pouze pro zařízení iPhone a iPad.",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcWpCMS1GSGd4TDR1dk1FQS16U0Z0YUVyYnVLdHhOT05leG9qcllULVE3TnVLeFhtYk9RM0xxYWpfUkJTSHJPTFNfU1BHNUVaOU4xQUVHUWk4bFluYWJzcEpFNFo1alM4cUVyeVhMQXdTM3RhRmk3UVFmSnZkcUZ5Q29VdTZqeUtpLTl6UnotUlk0WjRMXzh3OHhFa3I1Q2d2dlE?oc=5",
+        "timestamp": "2026-04-29T08:56:50",
+        "timestamp_display": "29. 04. 2026 08:56",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "H&M sází na second hand",
         "summary": "H&M spouští second-hand prodej a partnerství s Vinted, zaměřuje se na udržitelnost.",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ2hiQmQ0T3pwM2xpdHJ4Uk1idk9udnVyRFdsUG40V0tNOWNlMVVRVEZCNU9DNGZyMEJiSHdCcm55amw0c2JCUDZYdWpma2JqOVViVHF1UTFfSkx6bzQ2NmMtUERqSkVLNEFFSlkxU213S0kxZm01blBsaTdsMWR1ZGQ1ckJlRVoxODZ2alhQVXlMdmV5bzkzNGhvTQ?oc=5",
         "timestamp": "2026-05-02T06:08:01",
         "timestamp_display": "02. 05. 2026 06:08",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,25 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hUzJCOXNXeWxoWFVuV0JGc01rbm8tRHJIWm1qMkdQYm82N3FEU1YzX2RzdkNSVEpMWXlQX0dBVG1CTUxqLXRyajhJSzlwSldEVzdIV01NeUsxZw?oc=5",
         "timestamp": "2026-05-01T17:54:39",
         "timestamp_display": "01. 05. 2026 17:54",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Plavební komora v provozu",
-        "summary": "Plavební komora Rohatec-Sudoměřice je v provozu, prodlužuje plavbu po Baťově kanále.",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6bGpoQXR3QUJSVEFPeHRZazBiekctSzl5OGthbzc2T1Bfbm81YzFHNldQSGNxOE83WjUySFRfamRPQmFJSE1MbTFtRTVnX0stQTZR?oc=5",
-        "timestamp": "2026-05-01T11:42:00",
-        "timestamp_display": "01. 05. 2026 11:42",
-        "is_new": true
-    },
-    {
-        "category": "Věda",
-        "title": "3D rekonstrukce středověkých vsí",
-        "summary": "Brněnští vědci vytvořili 3D rekonstrukci zaniklých středověkých vsí na Blanensku a otevřeli naučnou stezku.",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSUtRTVNvVkhYc0d1NGdPRHkwMFljVFpjVDlvZUZiSWJqaDhuQ25RYjBqMUhSTmZ1OFVJUDFfX0JYTlpZbmhyUTdhanAwa2t1ZGZzRGlFWV9rSGxCT1NKWG1XYkZ1cFI3b245WDB1NHRhNC0wdUZtTE5rRXo2VS1IMEFsNFEyU1R5MThmd0podXU5WndtQlpHNGk1T19XVndhdV9GbVViYkQ0NVlIdlZrS2p0Y29hYXNOOWJaUElqeUIxalBKUDYxWUcyODRGM1NYU01STg?oc=5",
-        "timestamp": "2026-04-30T17:28:00",
-        "timestamp_display": "30. 04. 2026 17:28",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -90,12 +108,30 @@
         "is_new": false
     },
     {
+        "category": "Technologie",
+        "title": "Plavební komora v provozu",
+        "summary": "Plavební komora Rohatec-Sudoměřice je v provozu, prodlužuje plavbu po Baťově kanále.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6bGpoQXR3QUJSVEFPeHRZazBiekctSzl5OGthbzc2T1Bfbm81YzFHNldQSGNxOE83WjUySFRfamRPQmFJSE1MbTFtRTVnX0stQTZR?oc=5",
+        "timestamp": "2026-05-01T11:42:00",
+        "timestamp_display": "01. 05. 2026 11:42",
+        "is_new": false
+    },
+    {
         "category": "Byznys",
         "title": "Miliardář Martin Wichterle",
         "summary": "Miliardář Martin Wichterle mluví o svém podnikání a úspěších v rozhovoru pro Forbes Česko.",
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE45dk55WWZOdkg1SkFRY3ZzSExySmNtblpKTjJpNEV4U0dHRjlfR2QzaEYzYlNYbFpMdXRyQlZXd3EtMzhvenRNV213RVV1SWdvQXJmWDUtOA?oc=5",
         "timestamp": "2026-04-30T18:11:57",
         "timestamp_display": "30. 04. 2026 18:11",
+        "is_new": false
+    },
+    {
+        "category": "Věda",
+        "title": "3D rekonstrukce středověkých vsí",
+        "summary": "Brněnští vědci vytvořili 3D rekonstrukci zaniklých středověkých vsí na Blanensku a otevřeli naučnou stezku.",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSUtRTVNvVkhYc0d1NGdPRHkwMFljVFpjVDlvZUZiSWJqaDhuQ25RYjBqMUhSTmZ1OFVJUDFfX0JYTlpZbmhyUTdhanAwa2t1ZGZzRGlFWV9rSGxCT1NKWG1XYkZ1cFI3b245WDB1NHRhNC0wdUZtTE5rRXo2VS1IMEFsNFEyU1R5MThmd0podXU5WndtQlpHNGk1T19XVndhdV9GbVViYkQ0NVlIdlZrS2p0Y29hYXNOOWJaUElqeUIxalBKUDYxWUcyODRGM1NYU01STg?oc=5",
+        "timestamp": "2026-04-30T17:28:00",
+        "timestamp_display": "30. 04. 2026 17:28",
         "is_new": false
     },
     {
