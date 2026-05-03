@@ -1,21 +1,30 @@
 [
     {
+        "category": "Medicína",
+        "title": "Roztroušená skleróza objasněna",
+        "summary": "Vědci objevili, že virus Epsteina-Barrové způsobuje roztroušenou sklerózu přeprogramováním imunity.",
+        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPeV9PbjktTjB4NkY2VWd6QzJmY3puZVl2SnNUZDRQNzVlbzhNOGNNa1NLanI3UDhXRlNmc0tIOGpHYTdoUGktWlVtZi04SXhVUWNmT0s0eWlXVGdsRjEyQ0xSMjdiZDNzZEI1Z1JjVFppQzNoUGFSc3N2Z1RXb2RTODVtci1wZTVOdzJwbEdEQjVWckhBQ0hOV1NRNTRMaWt5YXF3QWJSbzAzOU02bkFESU9OVzJqWk9udGJMempuRUlPMmgxUlpUcGZTakpYSDFwX0x2bzhZQWFVMTg1RFhIVjN2Qk9tbDBIa3AtNXNOYzl4THdIbTltQnJkWGdWMEpBV0l2RUxXWVZ0bXpaRlFJUg?oc=5",
+        "timestamp": "2026-05-03T13:55:00",
+        "timestamp_display": "03. 05. 2026 13:55",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Forbes nabízí rady pro investice a akcie, které mohou změnit život.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxbEpLS29hRTRZdDN3NEgxVlVwR2xaa3ZJSGRaSHdoLVpiNlg5Nkk5YlFCOHJIdGRmV2NuZTdYaWZ0OUZIenExR3lINHM3SDlpdVlV?oc=5",
+        "timestamp": "2026-05-01T14:20:29",
+        "timestamp_display": "01. 05. 2026 14:20",
+        "is_new": true
+    },
+    {
         "category": "Technologie",
         "title": "Malý čip zvládne velké věci",
         "summary": "Vývojář vytvořil veřejný web na ESP32 s 520 kB RAM, demonstruje potenciál malých čipů.",
         "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZm5yQTVuQWoyLWM5WE02RVhubkNBOXZKNVo4Yy05WXNZdUtOc0prSnJEdmg3aEpxMUlyd1Y3akVKRk9oN2N4VlBkc1hYQXlsQWtOdVg3dTFGR0gxTS1KaTVCXzdvdTVCRGdETWhZRVE4b2VkWm9XMFVRSjRKaV9ITkVObW9FMlBySGJjZVVScl9Tbkd3d21vTEVuZlhmYV92MGRtR1lxLVJabnFaTjVib1lPemplZDNJNnlOdF9RWF9YU0ZwQlFUUlpHNWZDUXBhZTFrYkdHUi05dWZRUUE0V0ptcVU2RlR6VEd3WVUwb0ZfRmhteXcxdHNiSQ?oc=5",
         "timestamp": "2026-05-03T10:15:00",
         "timestamp_display": "03. 05. 2026 10:15",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Merit v Česku",
-        "summary": "Luxusní značka Merit je nyní k dostání v Česku, milionový hit na trhu.",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdjNoT1lfNFJJYmRDaEM2Z0V4NmtNTWZyRTRYa0VHZU1ZdTJzWjZZd0J0TXZBdkJLSnR5MzZxNnpGNnJKTjdqOF94VkdOOVQ4XzR0ZmJrRVhBTGNBcnM4WjE0Y0l1aWhwZHJvNGNydWw2WGxDbGJYYmhUM096REFvZFlrZThzZ09rc0szZUkyZXlEdTFjNjhPUlM5QQ?oc=5",
-        "timestamp": "2026-05-01T10:01:05",
-        "timestamp_display": "01. 05. 2026 10:01",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -168,6 +177,15 @@
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6bGpoQXR3QUJSVEFPeHRZazBiekctSzl5OGthbzc2T1Bfbm81YzFHNldQSGNxOE83WjUySFRfamRPQmFJSE1MbTFtRTVnX0stQTZR?oc=5",
         "timestamp": "2026-05-01T11:42:00",
         "timestamp_display": "01. 05. 2026 11:42",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Merit v Česku",
+        "summary": "Luxusní značka Merit je nyní k dostání v Česku, milionový hit na trhu.",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdjNoT1lfNFJJYmRDaEM2Z0V4NmtNTWZyRTRYa0VHZU1ZdTJzWjZZd0J0TXZBdkJLSnR5MzZxNnpGNnJKTjdqOF94VkdOOVQ4XzR0ZmJrRVhBTGNBcnM4WjE0Y0l1aWhwZHJvNGNydWw2WGxDbGJYYmhUM096REFvZFlrZThzZ09rc0szZUkyZXlEdTFjNjhPUlM5QQ?oc=5",
+        "timestamp": "2026-05-01T10:01:05",
+        "timestamp_display": "01. 05. 2026 10:01",
         "is_new": false
     },
     {
