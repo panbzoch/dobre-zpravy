@@ -1,21 +1,21 @@
 [
     {
+        "category": "Byznys",
+        "title": "Rady jak zbohatnout",
+        "summary": "Exkluzivní hosté na Money Masterminds 2026 sdílejí rady, jak zbohatnout a dosáhnout finančního úspěchu.",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM1Zyb3BhT2lEUVI5MFR5WDFraFY1andIQzhiWm1Od25OWEMyOEN5aExvYThPZTFNcTlSdmdPU182cjJXNnRzTjhMMGlMS2FKbWhIdGdLOC1oNVh3NEx1Rmt0RWZvS3otWGVXVzZuaWRXQ0xEcW1BRHdIV01BekoyMXkwcV9PaXBqUEtJZWdWV0EzV1Z2Q0E?oc=5",
+        "timestamp": "2026-05-03T16:11:55",
+        "timestamp_display": "03. 05. 2026 16:11",
+        "is_new": true
+    },
+    {
         "category": "Medicína",
         "title": "Roztroušená skleróza objasněna",
         "summary": "Vědci objevili, že virus Epsteina-Barrové způsobuje roztroušenou sklerózu přeprogramováním imunity.",
         "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPeV9PbjktTjB4NkY2VWd6QzJmY3puZVl2SnNUZDRQNzVlbzhNOGNNa1NLanI3UDhXRlNmc0tIOGpHYTdoUGktWlVtZi04SXhVUWNmT0s0eWlXVGdsRjEyQ0xSMjdiZDNzZEI1Z1JjVFppQzNoUGFSc3N2Z1RXb2RTODVtci1wZTVOdzJwbEdEQjVWckhBQ0hOV1NRNTRMaWt5YXF3QWJSbzAzOU02bkFESU9OVzJqWk9udGJMempuRUlPMmgxUlpUcGZTakpYSDFwX0x2bzhZQWFVMTg1RFhIVjN2Qk9tbDBIa3AtNXNOYzl4THdIbTltQnJkWGdWMEpBV0l2RUxXWVZ0bXpaRlFJUg?oc=5",
         "timestamp": "2026-05-03T13:55:00",
         "timestamp_display": "03. 05. 2026 13:55",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Investice mění život",
-        "summary": "Forbes nabízí rady pro investice a akcie, které mohou změnit život.",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxbEpLS29hRTRZdDN3NEgxVlVwR2xaa3ZJSGRaSHdoLVpiNlg5Nkk5YlFCOHJIdGRmV2NuZTdYaWZ0OUZIenExR3lINHM3SDlpdVlV?oc=5",
-        "timestamp": "2026-05-01T14:20:29",
-        "timestamp_display": "01. 05. 2026 14:20",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -132,6 +132,15 @@
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbGptaUpqNjVJcnNBWTNYeHFDbUg3QVBUeF80aHplU1VXNi1TamlYRDU2aHU2dW9peGMzdjJHYUNOSkdBMVB6dEg1cmZzOHgwc29obmV0SXEyWVduUnFtdkhSSG9xRG02LUxORnZnSjA5QjRCZ1gySi1WNWdIVm13R3dhMkI1blQtTDlYczdkeHZBeTExcXZjTHJ5V3c?oc=5",
         "timestamp": "2026-05-01T16:02:40",
         "timestamp_display": "01. 05. 2026 16:02",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Forbes nabízí rady pro investice a akcie, které mohou změnit život.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxbEpLS29hRTRZdDN3NEgxVlVwR2xaa3ZJSGRaSHdoLVpiNlg5Nkk5YlFCOHJIdGRmV2NuZTdYaWZ0OUZIenExR3lINHM3SDlpdVlV?oc=5",
+        "timestamp": "2026-05-01T14:20:29",
+        "timestamp_display": "01. 05. 2026 14:20",
         "is_new": false
     },
     {
