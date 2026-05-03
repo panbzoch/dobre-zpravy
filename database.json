@@ -1,30 +1,57 @@
 [
     {
         "category": "Byznys",
-        "title": "Berkshire Hathaway zdvojnásobila zisk",
-        "summary": "Berkshire Hathaway, firma Warrena Buffetta, zdvojnásobila zisk díky úspěšným investicím a hospodaření.",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON1R0SV85NnBiNm5BRGM3ZDdRcWpNYXFYOTZSbkI5c2Foay1pOHg1WDA5UG55MHpuSUtwR0ptWUh2UjZibS1YaTkzNjhIWk50a3l4MGxTWUdCWUtaSEVMUjQ2a00tYWtLT3NyMEw3MjlRVTdTY1ZfT2EtdjhrY05iTHdKUENrYUhNNlIyT3V1OFZpZTZ4Y3pxMHdKUUZrWFlNVVpfT0MteE9vdnhoX09MZEoyWGZRbWc?oc=5",
-        "timestamp": "2026-05-02T15:28:00",
-        "timestamp_display": "02. 05. 2026 15:28",
+        "title": "Nový resort vzniká",
+        "summary": "Američan z New Yorku vytvořil celoroční resort v Novém Skotsku, který nabízí luxusní ubytování a služby.",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTnJUN0ZnY0RJZ21iRlpRV1R5aFJVR2M0RW5UdDROS3pvVXZIRUdqR2NLN2N6OHBBdjM3NlVqZ3FlTXhfNUJGOVVGUURuU2N3U3dpSjYteVdsclZvMnc1NmxhODRtTzRzRm44Q0ZlbFBhTkxJWmxpMlowWGpyTzdkVkZuY3o0LURIS3JaT0RLOU4tTGZMT1lZZQ?oc=5",
+        "timestamp": "2026-05-03T04:03:39",
+        "timestamp_display": "03. 05. 2026 04:03",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Berkshire rezervy přesáhly",
+        "summary": "Rezervy Berkshire přesáhly 380 miliard dolarů v prvním čtvrtletí.",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONVl2QjFyWDVoTE84UTljeW1HSzBfRnJmSlpGb2pWZ1RSZ25HaW4tWGN3cWEwRjBJS2IxaWIyTVdlNUJabHI1Vm04eXdDalFSNlljYmZMd3IyR2MzOWtzeWk0amRNMktJaWhoSzNzZFVWZ0h1V3F3ZkZkdkNTcDFRWDZkVnVIVjBhd0hTNXRwY29uYlFQU3VRaHQ4QzZrdlY1b3J6THlXTUd2M2Vm?oc=5",
+        "timestamp": "2026-05-02T13:25:01",
+        "timestamp_display": "02. 05. 2026 13:25",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Nový vesmírný dalekohled",
+        "summary": "NASA připravuje start nového vesmírného dalekohledu Nancy Grace Romanové, který má být vypuštěn v září.",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdG9ULTRDbGlTbUozZlU3YjRKcEg4OERIRkp2RENNNTFwM1YyRGxOYjBtSW0zaEJzbDY2NlNucV9waFFLck5yZUxWN2R4dVRiU29vZ0xzMm1JT05IZkF6SExOdUxRZWRZaTRXSnZ6OFRERC1GaXlCV2c2c2l3QnJhaG1VR01XWi1aM0JfRzF4SjMtd29qai1rWmxucTFHemdyeFJvX3dSRVdGVmdaX0Y1YVlLajFkRlZoWVRScnI2ZV9kNWNEd3ZmYmRtQlMwQWFveHJpRVZySGg?oc=5",
+        "timestamp": "2026-05-02T05:45:49",
+        "timestamp_display": "02. 05. 2026 05:45",
         "is_new": true
     },
     {
         "category": "Byznys",
         "title": "Investice mění život",
         "summary": "Forbes Česko nabízí rady pro investice a změnu života.",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ycWdzSElPeWdhUnJJd3R5UVdoem12WE1mc2R1QU5MdDZMbnJiX1Q4aHM2UVo5b09lR3hpNTFGWktvZ28wNndHM05STTdveUdMMzdEbQ?oc=5",
-        "timestamp": "2026-04-30T14:20:13",
-        "timestamp_display": "30. 04. 2026 14:20",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBMRk5mcVFPaEItVDRCbFdmSi1nZzh2RUFXTVhMZVU3NEM1bkpXbU41MW95WW9fdTlPdWZzZzktdGJyVVBaaUZxR2hDZUsyRkxzOXRsSw?oc=5",
+        "timestamp": "2026-05-01T12:58:42",
+        "timestamp_display": "01. 05. 2026 12:58",
         "is_new": true
     },
     {
         "category": "Byznys",
-        "title": "Elektromobilisté vydělali",
-        "summary": "Majitelé elektromobilů vydělali o víkendu penězi tím, že si nabili svá auta, díky vysoké poptávce po elektřině.",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdXV0QjR5aTFyZzZxWDI5eHlSeVRpMVpZN25pQ0RraS1PQmRaSFJlQWY5OWd2cjJsMlVQc1pBM2hPcXdVX29xc08yY25nMW85T0JXU0hXV0hSMzBheWZKWDJ0NXdGZXpYaWRFZl9FYldHZkpNY1B6QWlBdExBcjAxRXVTbjkwN2FsRXhvU0ZoYU5DVmJtSUpYcWdB?oc=5",
-        "timestamp": "2026-04-27T16:05:47",
-        "timestamp_display": "27. 04. 2026 16:05",
+        "title": "Investice mění život",
+        "summary": "Forbes Česko nabízí rady pro investice a akcie, které mohou změnit život.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJQVZfd3JBZ0VrckQwT0I3M1ktY2J4N0dqa2ZrLXYxRFQtMXZXZDhMbHFsdmV0UWg5TEp4UGsyUTkzVHlrODI5bnVJdlFDNUdUX3BV?oc=5",
+        "timestamp": "2026-04-30T14:16:48",
+        "timestamp_display": "30. 04. 2026 14:16",
         "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Berkshire Hathaway zdvojnásobila zisk",
+        "summary": "Berkshire Hathaway, firma Warrena Buffetta, zdvojnásobila zisk díky úspěšným investicím a hospodaření.",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON1R0SV85NnBiNm5BRGM3ZDdRcWpNYXFYOTZSbkI5c2Foay1pOHg1WDA5UG55MHpuSUtwR0ptWUh2UjZibS1YaTkzNjhIWk50a3l4MGxTWUdCWUtaSEVMUjQ2a00tYWtLT3NyMEw3MjlRVTdTY1ZfT2EtdjhrY05iTHdKUENrYUhNNlIyT3V1OFZpZTZ4Y3pxMHdKUUZrWFlNVVpfT0MteE9vdnhoX09MZEoyWGZRbWc?oc=5",
+        "timestamp": "2026-05-02T15:28:00",
+        "timestamp_display": "02. 05. 2026 15:28",
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -186,6 +213,15 @@
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uY2F4blV2MW9zUVl5RkctNW5fc2NBOXFlbjlxSEhSaW1JU052TUZQLVl2RE5KNUFIYWNFb1pYajlBT3JUR09OaEVNRzVucWJvald5VGV0UVZlNVU?oc=5",
         "timestamp": "2026-04-30T14:25:56",
         "timestamp_display": "30. 04. 2026 14:25",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Forbes Česko nabízí rady pro investice a změnu života.",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ycWdzSElPeWdhUnJJd3R5UVdoem12WE1mc2R1QU5MdDZMbnJiX1Q4aHM2UVo5b09lR3hpNTFGWktvZ28wNndHM05STTdveUdMMzdEbQ?oc=5",
+        "timestamp": "2026-04-30T14:20:13",
+        "timestamp_display": "30. 04. 2026 14:20",
         "is_new": false
     },
     {
@@ -672,6 +708,15 @@
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTkN6NTNIb0lNdFNFdVJSSVlScWQzcnVWdE1YbW1IYUlQeTJFZHV4bGQ4STh1YVNtZmwxczRoWG5JMDUzWEpSM0E2aEtNZDkzZmJlNjJVeGZKNXNSNV9ISm10WnE3dzBBaHltV2ZXNFRLOE5ManZMU0toU1JEQTUwSzhtbDZtbFFqdjJxRHo1eGgxeW9wMjRXR0V1U3ZqSjhkM01BV0F2RmJqTnBEOHN1RERzZ1pjbUxHMVZ1eGV1Y21WMEVQbUhB?oc=5",
         "timestamp": "2026-04-27T16:16:00",
         "timestamp_display": "27. 04. 2026 16:16",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Elektromobilisté vydělali",
+        "summary": "Majitelé elektromobilů vydělali o víkendu penězi tím, že si nabili svá auta, díky vysoké poptávce po elektřině.",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdXV0QjR5aTFyZzZxWDI5eHlSeVRpMVpZN25pQ0RraS1PQmRaSFJlQWY5OWd2cjJsMlVQc1pBM2hPcXdVX29xc08yY25nMW85T0JXU0hXV0hSMzBheWZKWDJ0NXdGZXpYaWRFZl9FYldHZkpNY1B6QWlBdExBcjAxRXVTbjkwN2FsRXhvU0ZoYU5DVmJtSUpYcWdB?oc=5",
+        "timestamp": "2026-04-27T16:05:47",
+        "timestamp_display": "27. 04. 2026 16:05",
         "is_new": false
     },
     {
