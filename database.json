@@ -1,12 +1,39 @@
 [
     {
         "category": "Technologie",
+        "title": "Robotaxíky nabíjí robot",
+        "summary": "Americký Rocsys vyvíjí robota, který automaticky dobíjí robotaxíky na kolejnici.",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWTJFdmRKQzloNExmclByYmZRNDJsSENMam5sWXRtQm51dk03MTl0NkRTNDFDOFBvd25DUzVIaWhFZmRvVTRQa3ppbG9JOERFMzVTSjJSZnZ4X1JNNGRWTl9VbkZVZnptdWdoQkFmMjZnb2ZDYVVvaG1NZXVtNTZlVVlGVE9KLWRrYWdYUmhnS1RJTHBIbGY5a202bnRRekV6bE1YZ2VFZnN4TEQyNTRPZzlSa1FmT0E0UVkxYWY1NHRoRWliZHN5ZURXcTBlaU8zaUNhVHZyMV9zQ2J0TE9OZVBB?oc=5",
+        "timestamp": "2026-05-04T14:45:59",
+        "timestamp_display": "04. 05. 2026 14:45",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Záhadná biologická forma",
+        "summary": "Vědci vyřešili záhadu podivné biologické formy z Aljašky, která nebyla mimozemšťanem.",
+        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNV1UwalViVUpsakVieXN2ZlZ1Ml95cEwtWmU1Wl9WWm5FQ0RscXFnMUhSVTRwZnI1WS1mZVJTdnVsVWZieEQ1Z0Z3RlB0R0hOd21MTV9zZUpTRXRqQm5HYUZwV3NOOUM5OXZqcTVaYXRBUll5UXFyYnhmQTNacU9kSkl5U000MmtkekdQTnRhc0p6Mm9JRFF1OFZSaUhTaTNnSDRNTU1sNTdmMnQyRUQ3cktVUFVEb0hhRzVNM1U1U3hOY0ZwWTVoeFk2SGJuTldnTjVxU2lsbERxLUVYLUhELU1xZlFNT3dDSGE0bEJudHFWTVRFSFZ6T3Ztd005Y3Y0SFBTSw?oc=5",
+        "timestamp": "2026-05-04T12:10:00",
+        "timestamp_display": "04. 05. 2026 12:10",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Startupový fond mění název",
+        "summary": "Startupový fond nejbohatšího Čecha mění název, ale jeho mise zůstává stejná, zaměřuje se na podporu inovativních projektů.",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV0dpcVU1M0VRc3JiZzR6aElMcUZidTBOd3ltNW8wT0hyVEFYSG9tMmhIdDR3aWNYNkNCX2NBdjhFWndQZ2RKQUdCdjVuVWtyZm1oYW9lTGdQSmMxcnRwbjRLTU9TQXd1MV82VjNjR0g0amdOalYzSjQ4SjZKR2owcWZ2VXVCMjd1SGpaOXEwVm5hSFJlZWNkeHBBQUlfQXBBYmZPNWRvYjdBQQ?oc=5",
+        "timestamp": "2026-05-04T04:22:09",
+        "timestamp_display": "04. 05. 2026 04:22",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
         "title": "AI poráží lékaře",
         "summary": "Studie Harvardské univerzity prokázala, že umělá inteligence je přesnější než lékaři v diagnózách.",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc196NHUtbkRWak53Q3N2Uk1jc2RtbndRQ1MxREp1cWk4Zi1rbEpxLV8xR1ZZM2FVWVcxdWRFTUI4QnZDRVN6N3BYY0hQemhXRVFDU2d5azFwcEFQZWJVVGpiWEdhZVFJLVkwQ3UyWm01Tm9oMVNIU3dSMmc5ejFHV2JnclY2anhBX2JIa0EwcFN6SjdM?oc=5",
         "timestamp": "2026-05-04T11:16:36",
         "timestamp_display": "04. 05. 2026 11:16",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +42,7 @@
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT09LTEh1MmFnb182Wm1VNHRfZXFSaHhUUHBmaVYzWFZDdVNFS3NQRWlwVm52cUlsUHBJUkg2UHFlaVpVWC1ReGJYUDY2UGVKalZOWWVYYXVqWElFa0NJVW50Z1QzbE0zeDA0aFVlU1hWaFNCVUJScXR5Q3BjWm45aXg4aUswVS1mZU1oYi1NenU1TVBYVmc1LThwM2JqMlJlWllCSnllOVdQbUhCN1pvMl9Mb2luME0?oc=5",
         "timestamp": "2026-05-04T10:47:02",
         "timestamp_display": "04. 05. 2026 10:47",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -24,7 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdGlrTUZxeHZfRWhzaGVxRVRoZE5FLTFFREhfQ1dSMGpDT0hBNEpDY1pFWGpRTlpIcXl6R3hlTGJCMmRwd2ExWEdIb2R6dTZha0k4SXVndnRmZlV1OHRlRUVxMnFhTzdsTXhPb1kzVU9TcHpybXhGOWNraURVSDJDVGRJZWd3X3ZOUUozbE13ZEZyMzYyd3JnNFpocWViLUdySUxzV0ZiR1o5Q1ZDZTBKdW1PWERwY3FId0tBUFd2YkR3WmJ4Qjl3SnFaVU0taXlGbmpZcExzcnFuOW9sOV9rVlpZQ2N4NTQ5SUFqTTNGSTItbTdY?oc=5",
         "timestamp": "2026-05-04T09:49:30",
         "timestamp_display": "04. 05. 2026 09:49",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,16 +60,7 @@
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRV93TTNpd29LdW5NR29jU1pYRTBMckpHLUNJSDVUeHdLQlhPOElBOUhRTy05a2E2Qzd4d1Y3RjBGZk84a0JkdzNzWE5wYzMyenNFMGFWQjRQVDE2Tm1fbzJKN0tERzZ4MVdPN09mLUk3cTlnbVJqU3pyNkMxaW5lbHUzS2k3RFN2UmZZ?oc=5",
         "timestamp": "2026-05-04T08:54:16",
         "timestamp_display": "04. 05. 2026 08:54",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Investice do nemovitostí",
-        "summary": "Forbes Česko nabízí rady pro investice do nemovitostí, které mohou změnit život.",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VaVpwMlkwaG5IMEpwZDdOWG5DdjRJUTc1VXA1U1FYQ0tnVE1fTU1ic1hURklsbGswYm5wUm1MZ0hBRkgtOG1DYUZxVzNlRWJDWGtwbG96bEVnNkU?oc=5",
-        "timestamp": "2026-04-30T16:13:46",
-        "timestamp_display": "30. 04. 2026 16:13",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -339,6 +357,15 @@
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSUtRTVNvVkhYc0d1NGdPRHkwMFljVFpjVDlvZUZiSWJqaDhuQ25RYjBqMUhSTmZ1OFVJUDFfX0JYTlpZbmhyUTdhanAwa2t1ZGZzRGlFWV9rSGxCT1NKWG1XYkZ1cFI3b245WDB1NHRhNC0wdUZtTE5rRXo2VS1IMEFsNFEyU1R5MThmd0podXU5WndtQlpHNGk1T19XVndhdV9GbVViYkQ0NVlIdlZrS2p0Y29hYXNOOWJaUElqeUIxalBKUDYxWUcyODRGM1NYU01STg?oc=5",
         "timestamp": "2026-04-30T17:28:00",
         "timestamp_display": "30. 04. 2026 17:28",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice do nemovitostí",
+        "summary": "Forbes Česko nabízí rady pro investice do nemovitostí, které mohou změnit život.",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VaVpwMlkwaG5IMEpwZDdOWG5DdjRJUTc1VXA1U1FYQ0tnVE1fTU1ic1hURklsbGswYm5wUm1MZ0hBRkgtOG1DYUZxVzNlRWJDWGtwbG96bEVnNkU?oc=5",
+        "timestamp": "2026-04-30T16:13:46",
+        "timestamp_display": "30. 04. 2026 16:13",
         "is_new": false
     },
     {
