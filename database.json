@@ -1,12 +1,84 @@
 [
     {
         "category": "Byznys",
+        "title": "GameStop nabízí eBay",
+        "summary": "GameStop nabízí 56 miliard dolarů za eBay, aby vytvořil konkurenta Amazonu.",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM2h4X0RNal8xQ2ZMcFZ3RHJBeGkzTkNNNXFOWEo5M3A2UkU5UlpjS1VvTnlHTXU5WFB1Vk41V3c3dWVBVzEzM216cUktTGJJVVNrc3dXc3V1QWxpVXBDQnpMWDEwMDRGbUFVampWS0FXcThMWkl2WDBBTkI2a085RGlKX00yQzR1bTBvMkxEZnVIX05SbzYwbUtn?oc=5",
+        "timestamp": "2026-05-04T07:53:35",
+        "timestamp_display": "04. 05. 2026 07:53",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Tykač ocelářem",
+        "summary": "Tykač chce být největším britským ocelářem, AI mění lidskou řeč.",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdjFHUDJReTZ2aFN3RGtOOGJWNzZYR2RROEVfLWFidEMzRURHdVNmc0RNS1hVeUpiS09YelpuOWJHb19sbnZtOGFVMkRjQU5nVktoOFRNQjFLMUR0RkZlNS1kM0hfVEF6TUZXcUJMa0F2ejR2anFyZWhaUXlxVHZrUGFFSDNzNjZxR0JfM0JzOXU5R2w0bGtlMVUxbw?oc=5",
+        "timestamp": "2026-05-04T04:05:42",
+        "timestamp_display": "04. 05. 2026 04:05",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Studenti VUT slaví",
+        "summary": "Studenti Vysokého učení technického v Brně vyhráli leteckou soutěž v Texasu.",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOWJPTkVBdGpaNUJSU0dIekFhYkhhMzZLZ1M4T1Q0VDkybnpadHA2S1BQa0V5SURCa3NPald6Q09neFNaMHBSQzdrZ0dsYkNjMmpKclpnMWVwVS1idGRubTRWeG00QTVDSExqMUd6eFZMMndlNWJGQm5RajBZXzlNNHNyM1k4QmF5STlOUGQ1a1RKZ0M0UmJmTGRnRElHSW1TXzczVkJEZlRtM29GZWVJUXVMQVk4N3Q2VjdSUWFQa3VwWDIxWFBIeTIxRjhXcXRzUEJKVm05MmVQcVU?oc=5",
+        "timestamp": "2026-05-03T20:47:00",
+        "timestamp_display": "03. 05. 2026 20:47",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Škoda Auto podporuje VW",
+        "summary": "Škoda Auto a Cupra jsou pro Volkswagen zásadní kvůli své ekonomické stabilitě a růstu.",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN3dCWEFmQ3N3LTZKNTFMNzJKcllqTmotcUEyelhQZEhvREZVcHVhZEo3MXdVWm0yTzRFZy1VVmlfRzJDVWRpN0d0OVNabVhGZ0tUaFQxUkRvZTFuUGtwRVQydEpGc1R5cWlFQTRaakd1UXBkLThqbzlGLVlWWWNHY0tadHRLRWtsOVB3QzZJVGpMcldnTkRzNU9XWmFfQVRv?oc=5",
+        "timestamp": "2026-05-03T18:11:47",
+        "timestamp_display": "03. 05. 2026 18:11",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Doktor Google",
+        "summary": "Vivek Natarajan vyvíjí systémy, které změní svět.",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ydzlfekR6elZkRmx0NlhsYjkzX2pWRmM1TE5HZ254S19HOThBZjkzVGZudlBWcm9uQTJBWW5Wd1ZsTDJpX0FTZFk5Zm1OSHhySC1iRVZYU3pjTk9qMHdZ?oc=5",
+        "timestamp": "2026-05-03T09:41:14",
+        "timestamp_display": "03. 05. 2026 09:41",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Forbes nabízí rady pro investice a akcie, které mohou změnit život.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrSXJNU1JvbU5fNHhBazg0RElxM0taWF9ic1NOTXRva1VqSmJjc1FBNEY1VHNyT2h6aHhCMXZ6M29zMHBJUGozZ2dVQ2hfdVpHRkl3?oc=5",
+        "timestamp": "2026-05-01T07:22:31",
+        "timestamp_display": "01. 05. 2026 07:22",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Investice do nemovitostí může změnit život díky správným rozhodnutím a strategiím.",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yc1h3TV9KRnIxUXU5aTRQWDNVbWl2SXBYVm5TWVdCVGJOR2JBNjBBdVY5Q0VWOXpKTWpCX1BnWWhLVmVFbHNVLVE2WDdwU1lBOV8zRXNDMWdsNzQ?oc=5",
+        "timestamp": "2026-05-01T02:04:10",
+        "timestamp_display": "01. 05. 2026 02:04",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice do dronů",
+        "summary": "United Founders investovali do startupu, který využívá drony pro výživu rostlin, poskytnuv finanční injekci.",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRHN1SGU0UDJYckhYSTAtQUIwZUJGUlFZcTNXNnFFQ0pGdnBIcVpDVFZDX1R1MzNjRUhXR3FSV0c4S1BCSXoxY25jYjdaZE5jUU56Wm5LUWE4Rm40OFpORG5HM1F6X0xTd3RxcHIzRUNMakxPV2prTFpyTjR0NzZFaVotWlBLOHFrX0dzbzJTVjRhb0M5d3FwV1piX250bXBkckF2RDBEd0tvTHBReDNiOU1feklSQQ?oc=5",
+        "timestamp": "2026-04-30T18:34:58",
+        "timestamp_display": "30. 04. 2026 18:34",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Rady jak zbohatnout",
         "summary": "Exkluzivní hosté na Money Masterminds 2026 sdílejí rady, jak zbohatnout a dosáhnout finančního úspěchu.",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM1Zyb3BhT2lEUVI5MFR5WDFraFY1andIQzhiWm1Od25OWEMyOEN5aExvYThPZTFNcTlSdmdPU182cjJXNnRzTjhMMGlMS2FKbWhIdGdLOC1oNVh3NEx1Rmt0RWZvS3otWGVXVzZuaWRXQ0xEcW1BRHdIV01BekoyMXkwcV9PaXBqUEtJZWdWV0EzV1Z2Q0E?oc=5",
         "timestamp": "2026-05-03T16:11:55",
         "timestamp_display": "03. 05. 2026 16:11",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Medicína",
