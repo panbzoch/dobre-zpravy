@@ -1,12 +1,48 @@
 [
     {
         "category": "Technologie",
+        "title": "Čínský minivrtulníček",
+        "summary": "Čína představila prototyp vyzbrojeného minivrtulníčku pro městské použití.",
+        "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPQTREanFaWVNnbXlNajZlTERjWU5CN3NPWTBJbzJqeDYtTWZ6SHgwV214Y0diNTBxbEpkaF9Pb1FzZGx6XzlzZDNtTUMtb1hXTUZ5TmNuSU1McnJIZEpvZFNMUG1oWDRRSVZoa2xmal9fdmZqZWxLVGpoNTk5SGZOY2dOMTZLTEwwM3EzZnJDd0FiRDktWTNBVGZVWG5OMG0wSXJwRGlsN0dFSHg0SzFoX0plWFZuZUdkUEl1VVlfaXQxVUZocXB1RmF1ZXU3TExnaUJ4YTlXY1FBX1h1UlFJZlBRNGtuejJPQlJPX2lzQklwWDZtYndKMjdZVkFpbTQ1NkRIclRxVExLOUlqOWotSGhKc0ZtSWJXMmU1VUFB?oc=5",
+        "timestamp": "2026-05-05T07:20:00",
+        "timestamp_display": "05. 05. 2026 07:20",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Čínský minivrtulníček",
+        "summary": "Čína představila prototyp vyzbrojeného minivrtulníčku pro městské použití.",
+        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxONWttYWdaSmY4NTEybTBnc1FjOFcyWFVtX2xHSng1c0JpUjdfUTkxMTAxYmx5LWhiYlZmR3dRVUhLX0cyYlpoUXdDRllqLXJJdXZfR2o1ZVR3eXBvNUYwcl9xU1kxdTFVRGtrSDNVdHBDM3dPOHlMRXR5LUVrN011eW9aUE9GbUVCSWM0OXNaeFJDX21CS2lhRlB6NUVzRnVRZUgxZU5fLVJRSVNsQUpvTjIwdWY2am5FTENDdUhKNlpLcHpXSWdkcFowR2M5dTNtZkh2enhYZmx0QjVjLWlMdTNfR1c4Y0NuUjJBTmtDeGVfdnNXUG02UWxHLUdIMk9aZ1VRRFNnNFdPZ2M?oc=5",
+        "timestamp": "2026-05-05T05:45:00",
+        "timestamp_display": "05. 05. 2026 05:45",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Česká hra vydělala miliardu",
+        "summary": "Česká hra přinesla tvůrcům poprvé miliardu korun, je nejprodávanější po 14 letech.",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSGEzSHE1OE9mY0w5VVI3Q2IzQkhTOEdLZXNkU3l3WGJ2TWN3Zk0tWWV5Q2MtcVlhMUhzSzFjMmZzZ2QzaHhOWUdxaVJ0OExfY05BSGdqTVg2OVYwc1UySjdGbDVLXzFUY2xTWjAxTXM0U09wNDUxNDJOVTVDZm1vZFBsbVhoWEd4YXdIVnFodnQ5RGpveXZhd2ZtR0JnU0ZkOGxTa3pmbHV6QzZZbTNoZDBSLUFrYXNFdlh6ZDJJNA?oc=5",
+        "timestamp": "2026-05-04T14:37:44",
+        "timestamp_display": "04. 05. 2026 14:37",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice do tuzemského trhu",
+        "summary": "Cígler a Sandberg investovali do tuzemského Raynetu, plánují další expanzi.",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQm9hX1RDei1Lbkgyc2c2b3ZDYjk2aW9jdTBvcktSQ3FsMDY1TGFsZkxnZWdxc01OT0h6OGRwTnZ6LVlBX1Z2OHBaTjVCREN4Tk12NGYwWjJpU2QwbUY5Z1A3a3lMdmhaZ1Y4YnE2UTMxeU1pUWpfSW1QaUV1aFp6V01mR0l5Ym9jNG83RmtiNUJ6N05maEpfLXEtUDJoYWZzbHh3aFVPbHFVSHBqTG01b0JpV3p1VEZPSzhRb2dvNkNrWWIyNXo1enBwMTNfQVZ5eFkta2cwZXhQdHdxMURIY3dreV8?oc=5",
+        "timestamp": "2026-05-04T08:00:00",
+        "timestamp_display": "04. 05. 2026 08:00",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
         "title": "Robotaxíky nabíjí robot",
         "summary": "Americký Rocsys vyvíjí robota, který automaticky dobíjí robotaxíky na kolejnici.",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWTJFdmRKQzloNExmclByYmZRNDJsSENMam5sWXRtQm51dk03MTl0NkRTNDFDOFBvd25DUzVIaWhFZmRvVTRQa3ppbG9JOERFMzVTSjJSZnZ4X1JNNGRWTl9VbkZVZnptdWdoQkFmMjZnb2ZDYVVvaG1NZXVtNTZlVVlGVE9KLWRrYWdYUmhnS1RJTHBIbGY5a202bnRRekV6bE1YZ2VFZnN4TEQyNTRPZzlSa1FmT0E0UVkxYWY1NHRoRWliZHN5ZURXcTBlaU8zaUNhVHZyMV9zQ2J0TE9OZVBB?oc=5",
         "timestamp": "2026-05-04T14:45:59",
         "timestamp_display": "04. 05. 2026 14:45",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -15,16 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNV1UwalViVUpsakVieXN2ZlZ1Ml95cEwtWmU1Wl9WWm5FQ0RscXFnMUhSVTRwZnI1WS1mZVJTdnVsVWZieEQ1Z0Z3RlB0R0hOd21MTV9zZUpTRXRqQm5HYUZwV3NOOUM5OXZqcTVaYXRBUll5UXFyYnhmQTNacU9kSkl5U000MmtkekdQTnRhc0p6Mm9JRFF1OFZSaUhTaTNnSDRNTU1sNTdmMnQyRUQ3cktVUFVEb0hhRzVNM1U1U3hOY0ZwWTVoeFk2SGJuTldnTjVxU2lsbERxLUVYLUhELU1xZlFNT3dDSGE0bEJudHFWTVRFSFZ6T3Ztd005Y3Y0SFBTSw?oc=5",
         "timestamp": "2026-05-04T12:10:00",
         "timestamp_display": "04. 05. 2026 12:10",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Startupový fond mění název",
-        "summary": "Startupový fond nejbohatšího Čecha mění název, ale jeho mise zůstává stejná, zaměřuje se na podporu inovativních projektů.",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV0dpcVU1M0VRc3JiZzR6aElMcUZidTBOd3ltNW8wT0hyVEFYSG9tMmhIdDR3aWNYNkNCX2NBdjhFWndQZ2RKQUdCdjVuVWtyZm1oYW9lTGdQSmMxcnRwbjRLTU9TQXd1MV82VjNjR0g0amdOalYzSjQ4SjZKR2owcWZ2VXVCMjd1SGpaOXEwVm5hSFJlZWNkeHBBQUlfQXBBYmZPNWRvYjdBQQ?oc=5",
-        "timestamp": "2026-05-04T04:22:09",
-        "timestamp_display": "04. 05. 2026 04:22",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -69,6 +96,15 @@
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM2h4X0RNal8xQ2ZMcFZ3RHJBeGkzTkNNNXFOWEo5M3A2UkU5UlpjS1VvTnlHTXU5WFB1Vk41V3c3dWVBVzEzM216cUktTGJJVVNrc3dXc3V1QWxpVXBDQnpMWDEwMDRGbUFVampWS0FXcThMWkl2WDBBTkI2a085RGlKX00yQzR1bTBvMkxEZnVIX05SbzYwbUtn?oc=5",
         "timestamp": "2026-05-04T07:53:35",
         "timestamp_display": "04. 05. 2026 07:53",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Startupový fond mění název",
+        "summary": "Startupový fond nejbohatšího Čecha mění název, ale jeho mise zůstává stejná, zaměřuje se na podporu inovativních projektů.",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV0dpcVU1M0VRc3JiZzR6aElMcUZidTBOd3ltNW8wT0hyVEFYSG9tMmhIdDR3aWNYNkNCX2NBdjhFWndQZ2RKQUdCdjVuVWtyZm1oYW9lTGdQSmMxcnRwbjRLTU9TQXd1MV82VjNjR0g0amdOalYzSjQ4SjZKR2owcWZ2VXVCMjd1SGpaOXEwVm5hSFJlZWNkeHBBQUlfQXBBYmZPNWRvYjdBQQ?oc=5",
+        "timestamp": "2026-05-04T04:22:09",
+        "timestamp_display": "04. 05. 2026 04:22",
         "is_new": false
     },
     {
