@@ -1,12 +1,39 @@
 [
     {
+        "category": "Byznys",
+        "title": "Investice do biotechnologií",
+        "summary": "Střední Evropa láká investory do biotechnologií, česká biotech přitahuje stovky milionů dolarů.",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOejBla21kbkY2bzhhbWxrTmlqbC14MmtZczNOSnRMX3J1dGhmcVI1ZjZmbGtrTDh2ZlVaN2JpOUtWTVl1WjFiZTdOVlJBTi12ODNxZkdoU3RTcF84d1labnNiVE90YTRVWmpqU093NFJFam9vR0t5WVVnUFF1bmVZbWtYMHE1VUxtTHIyXzNDdGtDbXVNeXg4aFgtbVRxQXlMNGlpeWNLbmNVOTR6RVE?oc=5",
+        "timestamp": "2026-05-05T17:00:00",
+        "timestamp_display": "05. 05. 2026 17:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Společnost mění život",
+        "summary": "Forbes Česko přináší inspirativní články o úspěších a změnách ve společnosti.",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56Sm5QdTVwSkR6Ym5iUlJpVDNjTmdRWkpNVVVFOTFJX0g4Q0pfdVpCRWpxVl9Wb2tsYlVNSEh5SXU3QkFDbWFIUll0Z2dVci1IZUJPZHlkbjBYbEU?oc=5",
+        "timestamp": "2026-05-05T06:12:38",
+        "timestamp_display": "05. 05. 2026 06:12",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice do kryptoměn",
+        "summary": "Forbes Česko nabízí rady pro investice do kryptoměn a jejich potenciál pro změnu života.",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02cHAxblA2Z183ZFNadnNtdDVaVWZoMEhHYl92QjV5WFB6OUJNSzdFWE43cGdYaGVqLVVlYzdiNWJHSGZYYlFnbEM4allRMjJObFpueWtyNVZzemoyTGZmT0J5ZXEzVlE?oc=5",
+        "timestamp": "2026-05-04T10:56:59",
+        "timestamp_display": "04. 05. 2026 10:56",
+        "is_new": true
+    },
+    {
         "category": "Technologie",
         "title": "AI píše kód v Googlu",
         "summary": "Google masivně investuje do AI, která už píše většinu kódu, čímž začíná nová éra v technologii.",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaGowdEcwNzJBeDI3T0xxSnk2YUh4WWRCUWJVc1FlZk9NSVJ1OWltMDVDTnVFNnVsZHVkRzgxZTFPQ2lGdkJPell3eE1aVFNBNmRfb3JORndvaHJVZll4dHd4cEp1ZFdvVldzN1FvV3IzNnprZFVmUGhLTUF5QWNmQ3E3OTJUc1lLSC1yTWdQNnRxU0JBaDhCaU5iLUZUb1YweXZ0UERtOG5tRXpQdGRHMWV6eVllVHJQZldobUFKVWNIVEJYLVBHNlp1QXM?oc=5",
         "timestamp": "2026-05-05T15:00:00",
         "timestamp_display": "05. 05. 2026 15:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Medicína",
@@ -15,7 +42,7 @@
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOWpSY3lTQVlsbzdMMV91dlFKR1VEdUhpaEwxWEZvWmxWM0U5UEVTQzEyMUxqX2N0bnJIRTFLN2t4T1EtZ2hudHRtVkVwMUtGVklJVDFGRTZqSHBlRGFjVUFtT1ZtY0dmUG95aVgzQmoyckFLaVFKS1oxYUVPV3R5Q3F3aHY4elI4djRkdGpacVVRSm5BbUlPeFQzNEtMU0M2VzRqX3ZIVTEyQQ?oc=5",
         "timestamp": "2026-05-05T14:26:15",
         "timestamp_display": "05. 05. 2026 14:26",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,7 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPakY0X2s0dXdfNXk4aThtOHNuRGFVMTE3VHpXbFMtNmpuTmxMdDV4MmxuaVVuRjh3YlI2UE5MNzFPRFdKZXdZcnBoellvaTVLV1hOOFN0LUo0ODdDTWwtcko4bWp3V0hpOWJGSWltOTlKdzlLYS1sYzFLbkJPMkM4R1lmc0YxWU9VdVpaZGYzSGdUWWdjQ3BYNTZIVUVJb2xFdEE?oc=5",
         "timestamp": "2026-05-05T14:16:34",
         "timestamp_display": "05. 05. 2026 14:16",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,7 +60,7 @@
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLcHpzY3lPcGdaSno5SUtEcnMxVkgwT0tfbEdnbnN1bks5dWtwdVc1eTFtY0tDR1B2TTV0eDdXQXVnWTdFcGl0blE4RjVOM1Rqd3htTw?oc=5",
         "timestamp": "2026-05-05T13:02:13",
         "timestamp_display": "05. 05. 2026 13:02",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -42,7 +69,7 @@
         "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdGZLMFczeEpPZkRxZ1QxSjRYME1OTV9UNTRkbnJqQjE3UGdFdk5TZFJrUkdyUExaX1ZPOWtqN3o5Z2Z4SkxQb29ISWRPb1kwUldDazVCWjlvVlo0WHZ5R0F0dVV3aUJKZWhBUnVfQXltRUhXRTZfLXFCck9EMVVFZXBBSk1NVDdLZkhXamRxUW5jNDNZZkg3azl0bkc0RExBdzBmeTE1SG01LUJlX3ZTcnBzVW9Sbl9SbVVFZ0djNUFQVDhqYzE3RGdUc2ppRFF2dU9pcjM2TGZNQkNGSGwxWURsYUdxREtFcngzVml5NzI4UG1FSmI0bmM5MUQ?oc=5",
         "timestamp": "2026-05-05T12:54:00",
         "timestamp_display": "05. 05. 2026 12:54",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -51,16 +78,7 @@
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSkc3ZVpfNXd1bXJQWklJNGs4QmdlN0poc2dnX19PaW5JTWZOYzBTWGRmZlVxYlRRZXZrdVVYMXRib1VrZnBvN3EtSGNhQzZmTXEwTnhpREdnRVd3VHBGX2w5eEJRWUNkQUFXakhFV1VJenZUX0ExMTVBdW9nZEJBMG9QTTFzTk1CU3lZZUcxVUc3c2JVUmIzWXlfaHEyZ3dKQ3B3eWZzUQ?oc=5",
         "timestamp": "2026-05-05T12:05:57",
         "timestamp_display": "05. 05. 2026 12:05",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Investice mění život",
-        "summary": "Forbes Česko nabízí rady pro investice a změnu života.",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAyV25wZnE4UUVWb1hvQTFGZDdLREs2cldHQzJuNEdXRnhtczFaSGp5RWgzZ3I0ckswMGR0U252WUhCd3RPelNIdU5tTmZlZjk5U2FkNA?oc=5",
-        "timestamp": "2026-05-03T05:32:30",
-        "timestamp_display": "03. 05. 2026 05:32",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -249,6 +267,15 @@
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ydzlfekR6elZkRmx0NlhsYjkzX2pWRmM1TE5HZ254S19HOThBZjkzVGZudlBWcm9uQTJBWW5Wd1ZsTDJpX0FTZFk5Zm1OSHhySC1iRVZYU3pjTk9qMHdZ?oc=5",
         "timestamp": "2026-05-03T09:41:14",
         "timestamp_display": "03. 05. 2026 09:41",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Forbes Česko nabízí rady pro investice a změnu života.",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAyV25wZnE4UUVWb1hvQTFGZDdLREs2cldHQzJuNEdXRnhtczFaSGp5RWgzZ3I0ckswMGR0U252WUhCd3RPelNIdU5tTmZlZjk5U2FkNA?oc=5",
+        "timestamp": "2026-05-03T05:32:30",
+        "timestamp_display": "03. 05. 2026 05:32",
         "is_new": false
     },
     {
