@@ -1,30 +1,39 @@
 [
     {
         "category": "Byznys",
+        "title": "Generali Fond realit",
+        "summary": "Generali Fond realit rozšiřuje portfolio o prémiovou budovu v centru Prahy.",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSG1Yc0xQNjBGcXk2VHJDeUdRVXFBNkQ5a2JESGZ0eEZsekNWdUw4QmlqQmo5RThJdW9tZm9SNldMakFXMnhKekJfM3VENy1LSkVkdndvenJfNFVpR0h4ODBsRlNCWXh3NFVLZVFaelZSME1JVzRrWmpad2tXajM3QlU0RXFHeTlZc2VMWHllTEtOSEJObU9sMFh3QnlaYVV2Ulpic3I2TXF0WXhrMzJFZnF5Zl9aaWV0SG1KV0dmUmw?oc=5",
+        "timestamp": "2026-05-06T07:30:00",
+        "timestamp_display": "06. 05. 2026 07:30",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice do longevity",
+        "summary": "Křetínský investuje do longevity, cílem je prodloužení lidského života a zisk.",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRUNjSHl1T1QybHZVZmZvblI0LXZmZGNxUFJrZXRobS0telNPOTBvODNwNHVaVmhmakR6ZWRRdkhsSzVtVkl1SnU5VEtieGZrdUgzZ3BHVXFBYnpMak94bkpmRjQ5TEQ2RVM4cVhxazRySEZoN2tFRG94OS1YcjRTdjFNVzVNWVE5bVM3YUc5a1N5TFFkUDNBcTBFUXVCM09obGFJOU9sREdVZ2dWeUtQNFd2cw?oc=5",
+        "timestamp": "2026-05-05T15:15:58",
+        "timestamp_display": "05. 05. 2026 15:15",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Forbes Česko nabízí rady pro investice, které mohou změnit život.",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9PdEFHeTJ0RlRFb1Fwc2dOSl9mbTg4cVI0LWlHYjJLd1RYdzJJcy1raGh3UVFvMjA2OFpIeVJRRnRXVXpfUzFNUjNNN1l3MUM4SE85bg?oc=5",
+        "timestamp": "2026-05-03T01:00:24",
+        "timestamp_display": "03. 05. 2026 01:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Investice do biotechnologií",
         "summary": "Střední Evropa láká investory do biotechnologií, česká biotech přitahuje stovky milionů dolarů.",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOejBla21kbkY2bzhhbWxrTmlqbC14MmtZczNOSnRMX3J1dGhmcVI1ZjZmbGtrTDh2ZlVaN2JpOUtWTVl1WjFiZTdOVlJBTi12ODNxZkdoU3RTcF84d1labnNiVE90YTRVWmpqU093NFJFam9vR0t5WVVnUFF1bmVZbWtYMHE1VUxtTHIyXzNDdGtDbXVNeXg4aFgtbVRxQXlMNGlpeWNLbmNVOTR6RVE?oc=5",
         "timestamp": "2026-05-05T17:00:00",
         "timestamp_display": "05. 05. 2026 17:00",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Společnost mění život",
-        "summary": "Forbes Česko přináší inspirativní články o úspěších a změnách ve společnosti.",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56Sm5QdTVwSkR6Ym5iUlJpVDNjTmdRWkpNVVVFOTFJX0g4Q0pfdVpCRWpxVl9Wb2tsYlVNSEh5SXU3QkFDbWFIUll0Z2dVci1IZUJPZHlkbjBYbEU?oc=5",
-        "timestamp": "2026-05-05T06:12:38",
-        "timestamp_display": "05. 05. 2026 06:12",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Investice do kryptoměn",
-        "summary": "Forbes Česko nabízí rady pro investice do kryptoměn a jejich potenciál pro změnu života.",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02cHAxblA2Z183ZFNadnNtdDVaVWZoMEhHYl92QjV5WFB6OUJNSzdFWE43cGdYaGVqLVVlYzdiNWJHSGZYYlFnbEM4allRMjJObFpueWtyNVZzemoyTGZmT0J5ZXEzVlE?oc=5",
-        "timestamp": "2026-05-04T10:56:59",
-        "timestamp_display": "04. 05. 2026 10:56",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -108,6 +117,15 @@
         "is_new": false
     },
     {
+        "category": "Byznys",
+        "title": "Společnost mění život",
+        "summary": "Forbes Česko přináší inspirativní články o úspěších a změnách ve společnosti.",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56Sm5QdTVwSkR6Ym5iUlJpVDNjTmdRWkpNVVVFOTFJX0g4Q0pfdVpCRWpxVl9Wb2tsYlVNSEh5SXU3QkFDbWFIUll0Z2dVci1IZUJPZHlkbjBYbEU?oc=5",
+        "timestamp": "2026-05-05T06:12:38",
+        "timestamp_display": "05. 05. 2026 06:12",
+        "is_new": false
+    },
+    {
         "category": "Technologie",
         "title": "Čínský minivrtulníček",
         "summary": "Čína představila prototyp vyzbrojeného minivrtulníčku pro městské použití.",
@@ -150,6 +168,15 @@
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc196NHUtbkRWak53Q3N2Uk1jc2RtbndRQ1MxREp1cWk4Zi1rbEpxLV8xR1ZZM2FVWVcxdWRFTUI4QnZDRVN6N3BYY0hQemhXRVFDU2d5azFwcEFQZWJVVGpiWEdhZVFJLVkwQ3UyWm01Tm9oMVNIU3dSMmc5ejFHV2JnclY2anhBX2JIa0EwcFN6SjdM?oc=5",
         "timestamp": "2026-05-04T11:16:36",
         "timestamp_display": "04. 05. 2026 11:16",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice do kryptoměn",
+        "summary": "Forbes Česko nabízí rady pro investice do kryptoměn a jejich potenciál pro změnu života.",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02cHAxblA2Z183ZFNadnNtdDVaVWZoMEhHYl92QjV5WFB6OUJNSzdFWE43cGdYaGVqLVVlYzdiNWJHSGZYYlFnbEM4allRMjJObFpueWtyNVZzemoyTGZmT0J5ZXEzVlE?oc=5",
+        "timestamp": "2026-05-04T10:56:59",
+        "timestamp_display": "04. 05. 2026 10:56",
         "is_new": false
     },
     {
