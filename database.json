@@ -1,12 +1,57 @@
 [
     {
+        "category": "Technologie",
+        "title": "SpaceX investuje do AI čipů",
+        "summary": "SpaceX investuje 55 miliard dolarů do výroby AI čipů pro nezávislost na dodavatelích.",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRElFemlNMDBqdXZ1eE5iZHlZWDIzTnd1R1VyM2RKcDNReVRkWmptMkhsbi1GdXo0eUtFbHlSNlN0bG1nZUt4MU5MN0F1bkI5Z3BQZHFZMm9IZ1Q2RlcyUWxKX283Z3RtNlpkYUNpd091QldOcUJVMTl6Q1oyLTFiOWtvcTVsVkc2VnNDOEtVZkEzVC10YWpqUjdhVXh0TW5qZ2REeXh6b2pxdXZscy1Cag?oc=5",
+        "timestamp": "2026-05-06T12:48:26",
+        "timestamp_display": "06. 05. 2026 12:48",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Zdeněk Bakala",
+        "summary": "Zdeněk Bakala je úspěšný český podnikatel a investor.",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41Z2ZPZmtheGVBeWszM1FRbWhhdUozdWowWFNsOWpUU0xwSWN4am1ybU45ejVIY18tRG1vVU84UV9MTTRIRnJxTzhqdDUxN2J6OGNaV1Z3?oc=5",
+        "timestamp": "2026-05-06T12:23:06",
+        "timestamp_display": "06. 05. 2026 12:23",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Jaroslav Rokos",
+        "summary": "Jaroslav Rokos uveden v Forbes Česko jako úspěšný podnikatel.",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15VGluanJydGNobDhLZmJWc3FhbUNtanZrWUhSc3JBWEhpZV9BdEpTRVNWTzBqWTVjV09VY0hpbm9hcE1jZENvd2gxWGNNME5pNGUxalh0aw?oc=5",
+        "timestamp": "2026-05-06T12:23:05",
+        "timestamp_display": "06. 05. 2026 12:23",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Slavomír Pavlíček",
+        "summary": "Slavomír Pavlíček je uveden v seznamu Forbes Česko, pravděpodobně jako jeden z nejúspěšnějších podnikatelů.",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xbUJzZE82NUNDbzJDNmpBMEpwb2ZjcG5fQUZiQWJmSWJqM3hONnlncXpqU0JqcldZRWd4WGJZNnVJc1FHVVB2MVVFeGhDaHZfRW5wVE1Dc2ZFMGs?oc=5",
+        "timestamp": "2026-05-06T12:23:05",
+        "timestamp_display": "06. 05. 2026 12:23",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Nová nabídka hatchbacku",
+        "summary": "Značka MG nabízí nový hatchback MG4 s atraktivní cenovkou, rozšiřuje svou nabídku na trhu.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HakhZUjZKWWZYM3h3MkJxLURnQTF4MUxTdEswd3lCeWwzbGNGTElFYkoxN0NCOHVVTlliX1ZBOFI5RVZWWUJScXd3MU12Qm1PUVV3?oc=5",
+        "timestamp": "2026-05-06T07:08:59",
+        "timestamp_display": "06. 05. 2026 07:08",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "Český biotech láká",
         "summary": "Český biotechový sektor ročně generuje téměř 100 miliard korun a láká investory, ukazuje analýza.",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNTgxMDJHeS0tNDJGcUcyMDdDa25KbnBBZXhkYU8tQTlieGdPeDQwVWJsSThFRmY4d1gxb1JneEJMYVlHZnUzRl9HZFU5V0xxTkp6c3ViSk5OcUNyNGp5ZklxbkR5M3A1bml2VEdOOE5Id0dTeTFWNERncVhkN1NoZmpqZ1diXzdRY2xscFU3V0ZpTDd0aUJtQzVYQnIzSHlhNlZBVTFB?oc=5",
         "timestamp": "2026-05-06T11:40:54",
         "timestamp_display": "06. 05. 2026 11:40",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +60,7 @@
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT3p6Z0VCNWJQQUNVSjItRVZGcmN3eFVXbGlPSjNTTXllbFVzZTBYODFtY0dCQjE5SVhmS1dFalExYlpGX1JYRWk4azlOUVZodWNfMzYtSVhSdlowTW9xWjRZeGNCeTJLZ2NFVUxhRUM5eGRwVmlBbzdiX0UyUGtCSmx6S2RuWmNCRkh2RzNtYkF5UQ?oc=5",
         "timestamp": "2026-05-06T10:05:27",
         "timestamp_display": "06. 05. 2026 10:05",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,34 +69,7 @@
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeVlDU1ZXb1d0bUhYc1VKaHB0VFR2QnkybGhZaE54MllRLVN5VmpnTFhXcjVOaEdoMWg2YnVZcWJQZzFKclg2YTFsNHZoU0ZZbFkzSHNDRTllVHJ5ZXo5NFNFbnBaelpRNkgtZHFiN3VFZUhWSUNfOENzUktJLWZibkxTamhLZVZOX2pqcUhjNDAtajZiOU9hSElLbldXRm5oT3pvUlpSRzJYaW0tTi1CbnMxLS1YOGtSS0ZsejJvNFk3QQ?oc=5",
         "timestamp": "2026-05-06T09:11:00",
         "timestamp_display": "06. 05. 2026 09:11",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "AI chyby autisté najdou",
-        "summary": "Češka využívá autisty k nalezení chyb v AI, jejich jinakost je předností ve svém startupu.",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU2owZUNnYzR5N3Jqa2JIS1BBaUdoNmU3NDhfS2VTYkFDTElPTWI0VFVlLV9HZ1FiTlo0b2w3Qkx0MUlKbk8yMjU1dVl5STNmU2pUSVBBcVN0Zk16ZXR0YUZXMWo3UWdBSVh5Vm5heTlhZWttLUJGWngyaW84aVVCTWZZb0dRRUtnZWhUbG1jVGYzX09aektOVkVjXzc2Sjh1cFh1bEtwS1I1akFkbjBadA?oc=5",
-        "timestamp": "2026-05-06T04:21:56",
-        "timestamp_display": "06. 05. 2026 04:21",
-        "is_new": true
-    },
-    {
-        "category": "Medicína",
-        "title": "Nový hospic otevřen",
-        "summary": "Otevřen nový lůžkový hospic ve Stěžerách za 200 milionů, zlepšuje dostupnost paliativní péče.",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOa1JKOTNfbm4tc2c4bVdqanByRVdyNGhDR21nLXFaTDg0MW8xaTRnZ0I2R1d1eXVwTXRSN0tZZllIajNRdUpidDlOZGE1Q21oMTF1LW5qSjQtRVpzV2hHblNjWFhsUWFEakQ3dXdsS05sLWM5c01lbXZHUVBremlGaUN2UmtPcjZqQUszelUyc0dLbmw5SW1qWHlJVFN1b2s5OUVkQ3RZSWVEMlpoQ1BZVHlqcVZqamt3WEdPckpBRzh2eWFMYjBmVkI4M051dUVoRVNpZ1d6SWVsSlE?oc=5",
-        "timestamp": "2026-05-06T03:52:00",
-        "timestamp_display": "06. 05. 2026 03:52",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Gen představil VPN pro AI",
-        "summary": "Gen představil první VPN pro AI asistenty, která odděluje jejich provoz od uživatelského.",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdGxJZVo5cy00aGpkVXdTSDAyeWIyM3I0ZUNranpsTTdiY2VoS2phUWlsRS1FampVQlFnVXg3VmtRSm9JSnNQd19ncTRYMGg0ZFBlN1ZKWUVLMzA4VVNZaXdnYklWSGlXZTgxano2NWF4c1ZJd2hzUlhXdjJuelB1dDJpc2JENG9zdzhlOUR3VkplUWNQNVJtSzI5bWVieTBiVVU3Rk5yTlJmQ1puOV9RN09n?oc=5",
-        "timestamp": "2026-05-04T07:00:00",
-        "timestamp_display": "04. 05. 2026 07:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -60,6 +78,24 @@
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSG1Yc0xQNjBGcXk2VHJDeUdRVXFBNkQ5a2JESGZ0eEZsekNWdUw4QmlqQmo5RThJdW9tZm9SNldMakFXMnhKekJfM3VENy1LSkVkdndvenJfNFVpR0h4ODBsRlNCWXh3NFVLZVFaelZSME1JVzRrWmpad2tXajM3QlU0RXFHeTlZc2VMWHllTEtOSEJObU9sMFh3QnlaYVV2Ulpic3I2TXF0WXhrMzJFZnF5Zl9aaWV0SG1KV0dmUmw?oc=5",
         "timestamp": "2026-05-06T07:30:00",
         "timestamp_display": "06. 05. 2026 07:30",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "AI chyby autisté najdou",
+        "summary": "Češka využívá autisty k nalezení chyb v AI, jejich jinakost je předností ve svém startupu.",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU2owZUNnYzR5N3Jqa2JIS1BBaUdoNmU3NDhfS2VTYkFDTElPTWI0VFVlLV9HZ1FiTlo0b2w3Qkx0MUlKbk8yMjU1dVl5STNmU2pUSVBBcVN0Zk16ZXR0YUZXMWo3UWdBSVh5Vm5heTlhZWttLUJGWngyaW84aVVCTWZZb0dRRUtnZWhUbG1jVGYzX09aektOVkVjXzc2Sjh1cFh1bEtwS1I1akFkbjBadA?oc=5",
+        "timestamp": "2026-05-06T04:21:56",
+        "timestamp_display": "06. 05. 2026 04:21",
+        "is_new": false
+    },
+    {
+        "category": "Medicína",
+        "title": "Nový hospic otevřen",
+        "summary": "Otevřen nový lůžkový hospic ve Stěžerách za 200 milionů, zlepšuje dostupnost paliativní péče.",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOa1JKOTNfbm4tc2c4bVdqanByRVdyNGhDR21nLXFaTDg0MW8xaTRnZ0I2R1d1eXVwTXRSN0tZZllIajNRdUpidDlOZGE1Q21oMTF1LW5qSjQtRVpzV2hHblNjWFhsUWFEakQ3dXdsS05sLWM5c01lbXZHUVBremlGaUN2UmtPcjZqQUszelUyc0dLbmw5SW1qWHlJVFN1b2s5OUVkQ3RZSWVEMlpoQ1BZVHlqcVZqamt3WEdPckpBRzh2eWFMYjBmVkI4M051dUVoRVNpZ1d6SWVsSlE?oc=5",
+        "timestamp": "2026-05-06T03:52:00",
+        "timestamp_display": "06. 05. 2026 03:52",
         "is_new": false
     },
     {
@@ -267,6 +303,15 @@
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM2h4X0RNal8xQ2ZMcFZ3RHJBeGkzTkNNNXFOWEo5M3A2UkU5UlpjS1VvTnlHTXU5WFB1Vk41V3c3dWVBVzEzM216cUktTGJJVVNrc3dXc3V1QWxpVXBDQnpMWDEwMDRGbUFVampWS0FXcThMWkl2WDBBTkI2a085RGlKX00yQzR1bTBvMkxEZnVIX05SbzYwbUtn?oc=5",
         "timestamp": "2026-05-04T07:53:35",
         "timestamp_display": "04. 05. 2026 07:53",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Gen představil VPN pro AI",
+        "summary": "Gen představil první VPN pro AI asistenty, která odděluje jejich provoz od uživatelského.",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdGxJZVo5cy00aGpkVXdTSDAyeWIyM3I0ZUNranpsTTdiY2VoS2phUWlsRS1FampVQlFnVXg3VmtRSm9JSnNQd19ncTRYMGg0ZFBlN1ZKWUVLMzA4VVNZaXdnYklWSGlXZTgxano2NWF4c1ZJd2hzUlhXdjJuelB1dDJpc2JENG9zdzhlOUR3VkplUWNQNVJtSzI5bWVieTBiVVU3Rk5yTlJmQ1puOV9RN09n?oc=5",
+        "timestamp": "2026-05-04T07:00:00",
+        "timestamp_display": "04. 05. 2026 07:00",
         "is_new": false
     },
     {
