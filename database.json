@@ -1,12 +1,48 @@
 [
     {
+        "category": "Byznys",
+        "title": "Penta investuje miliardy",
+        "summary": "Penta investuje až 20 miliard do projektu na Florenci, nádraží navrhne studio Upstructure.",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWFFVOVdhbUxIazJqU19ta21iYXFQWXNPbHJIZGo2OVplSzhMNFhtV1VMRGhhRnFxSDNiUVJYYVc5cEprOU9WWGN6bXBQZ21aZnBHUGM0a0tMbXpxU3Y0dEU1SFVGOWRIa0lUYlotRHphVlZ0bGZvQk5McGJQRVhqcEptQmdJR095UHM5Sm1mT3JrdXRfTXRxMER2dzdKS1pGdk1qWmwzYUJPZkV5aVVUQQ?oc=5",
+        "timestamp": "2026-05-06T16:05:13",
+        "timestamp_display": "06. 05. 2026 16:05",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Forbes Česko nabízí rady pro investice, které mohou změnit život.",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56bWpEOFY1Y0d3YU4wbm9lSWhDVTVmdldEOUxPb0I5d0d3dVN5Ql9HVVNZRENScUlmMUdMVkJMbG5KUHlrRFpwQWFucnM0ZjV5Z253Y0wzSjBNdw?oc=5",
+        "timestamp": "2026-05-06T16:03:06",
+        "timestamp_display": "06. 05. 2026 16:03",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Nová ředitelka galerie",
+        "summary": "Karlovarská Galerie umění má novou ředitelku, která chce zaměřit galerii i na mladé lidi.",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWUU5empEWjdENGxURk90dTc5czRzNE9BWVVINGpFY00xZHlBcTlkbGlaZENlNG9mZkNuRE5uemJFQ2Y0c0VhY200YmFkUnBjekFoS0lpLU40LUdkazZqbEJyWGtxMkJMSExhMFJzR1JiSGtIaUxzTS1xbEpsU1E5c2JweVNrUXBva1dlSGNJdmxDUjNUbGZXZ1E4MlFNWTUzYXNyNVo5ZnpZZ2J4Mms0S2JSLU12em8xZUFqQ0pkQ051ZUNZMGg5ODlFczk?oc=5",
+        "timestamp": "2026-05-04T20:20:00",
+        "timestamp_display": "04. 05. 2026 20:20",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Forbes Česko nabízí rady pro investice a změnu života.",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TaUlMZ2VldVNYUGtkUkZBbVMwZmJzRjN3dTZoWVBRNHZPVzZXRDZOb1hpb0pNbGQxVVRFYVh2aE5qZWJEbERfWkFfRDR6RWxMZHFybw?oc=5",
+        "timestamp": "2026-04-29T22:39:12",
+        "timestamp_display": "29. 04. 2026 22:39",
+        "is_new": true
+    },
+    {
         "category": "Technologie",
         "title": "SpaceX investuje do AI čipů",
         "summary": "SpaceX investuje 55 miliard dolarů do výroby AI čipů pro nezávislost na dodavatelích.",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRElFemlNMDBqdXZ1eE5iZHlZWDIzTnd1R1VyM2RKcDNReVRkWmptMkhsbi1GdXo0eUtFbHlSNlN0bG1nZUt4MU5MN0F1bkI5Z3BQZHFZMm9IZ1Q2RlcyUWxKX283Z3RtNlpkYUNpd091QldOcUJVMTl6Q1oyLTFiOWtvcTVsVkc2VnNDOEtVZkEzVC10YWpqUjdhVXh0TW5qZ2REeXh6b2pxdXZscy1Cag?oc=5",
         "timestamp": "2026-05-06T12:48:26",
         "timestamp_display": "06. 05. 2026 12:48",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41Z2ZPZmtheGVBeWszM1FRbWhhdUozdWowWFNsOWpUU0xwSWN4am1ybU45ejVIY18tRG1vVU84UV9MTTRIRnJxTzhqdDUxN2J6OGNaV1Z3?oc=5",
         "timestamp": "2026-05-06T12:23:06",
         "timestamp_display": "06. 05. 2026 12:23",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,7 +60,7 @@
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15VGluanJydGNobDhLZmJWc3FhbUNtanZrWUhSc3JBWEhpZV9BdEpTRVNWTzBqWTVjV09VY0hpbm9hcE1jZENvd2gxWGNNME5pNGUxalh0aw?oc=5",
         "timestamp": "2026-05-06T12:23:05",
         "timestamp_display": "06. 05. 2026 12:23",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,16 +69,7 @@
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xbUJzZE82NUNDbzJDNmpBMEpwb2ZjcG5fQUZiQWJmSWJqM3hONnlncXpqU0JqcldZRWd4WGJZNnVJc1FHVVB2MVVFeGhDaHZfRW5wVE1Dc2ZFMGs?oc=5",
         "timestamp": "2026-05-06T12:23:05",
         "timestamp_display": "06. 05. 2026 12:23",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Nová nabídka hatchbacku",
-        "summary": "Značka MG nabízí nový hatchback MG4 s atraktivní cenovkou, rozšiřuje svou nabídku na trhu.",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HakhZUjZKWWZYM3h3MkJxLURnQTF4MUxTdEswd3lCeWwzbGNGTElFYkoxN0NCOHVVTlliX1ZBOFI5RVZWWUJScXd3MU12Qm1PUVV3?oc=5",
-        "timestamp": "2026-05-06T07:08:59",
-        "timestamp_display": "06. 05. 2026 07:08",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -78,6 +105,15 @@
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSG1Yc0xQNjBGcXk2VHJDeUdRVXFBNkQ5a2JESGZ0eEZsekNWdUw4QmlqQmo5RThJdW9tZm9SNldMakFXMnhKekJfM3VENy1LSkVkdndvenJfNFVpR0h4ODBsRlNCWXh3NFVLZVFaelZSME1JVzRrWmpad2tXajM3QlU0RXFHeTlZc2VMWHllTEtOSEJObU9sMFh3QnlaYVV2Ulpic3I2TXF0WXhrMzJFZnF5Zl9aaWV0SG1KV0dmUmw?oc=5",
         "timestamp": "2026-05-06T07:30:00",
         "timestamp_display": "06. 05. 2026 07:30",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Nová nabídka hatchbacku",
+        "summary": "Značka MG nabízí nový hatchback MG4 s atraktivní cenovkou, rozšiřuje svou nabídku na trhu.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HakhZUjZKWWZYM3h3MkJxLURnQTF4MUxTdEswd3lCeWwzbGNGTElFYkoxN0NCOHVVTlliX1ZBOFI5RVZWWUJScXd3MU12Qm1PUVV3?oc=5",
+        "timestamp": "2026-05-06T07:08:59",
+        "timestamp_display": "06. 05. 2026 07:08",
         "is_new": false
     },
     {
