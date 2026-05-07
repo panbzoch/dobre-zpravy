@@ -1,12 +1,21 @@
 [
     {
+        "category": "Byznys",
+        "title": "Restart Aukra",
+        "summary": "České online tržiště Aukra chce být jedničkou ve sběratelství a re-commerce.",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUjhZZWxYNlpMLWtud0N1Qlpidzc5ZS1ONmdrWG9hRU5lNFZtSG9TSmVOaDF4UG1lOVprOHp6OUlQZVV1VGJ5N2JMaWptQ25HTkU1ZlpEVVM5NzRUZHF4Y2VzWG8xZklFZU0yZk03Ykt0TmRrS1ZDZFZRZkl0NktieTdpYWFYSHF3NGNSMmp4MXpUTHhOU3ZTYjZseFVNaEZPTjh4N2pzQQ?oc=5",
+        "timestamp": "2026-05-07T06:09:13",
+        "timestamp_display": "07. 05. 2026 06:09",
+        "is_new": true
+    },
+    {
         "category": "Technologie",
         "title": "Letadlo bez klapky",
         "summary": "Němci otestovali letadlo s křídly, která mění tvar během letu, eliminující potřebu klapky.",
         "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaGI5bkZRTE9HbkVMMFdIQ0xFRDBBMFRYSUlEVm9IcDNkak15ZGZFY045RWNhOU1GLVRlVFd2dEVJZko4VnUtV1paSXMxbXA5S01rQTh4M21PcHJadjc3U3JEakFhdDZ4ZUN1d2hnbGRxZjF4dVUzc1JFbE95enV0WEFMWjdMQ2FfZkVxN0syTUpGOEtucWhkcjI1WlBiZWxSOWc5T2dFVDVOM1dva213VkdVYWhqTC1xZWFGU2xzRG1ESlU1UW5IRlJmTWotNXNmN0xWVXJEYkhDUUJ1RjRZdEtGdUd0X0xaVFIyMjFySGlxZ002?oc=5",
         "timestamp": "2026-05-07T13:53:03",
         "timestamp_display": "07. 05. 2026 13:53",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +24,7 @@
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWGllRk5hU0QwOUd0Q2pOT1FhNjVnaXVRYVcybVF4cFphLXg4OUluek44c213aUxRaFN4aEZsdUZnenROOWdRSHlfZl9YQXlNeUlZU1NITFFXMXRlQVg5cGZ6MW9fMThVZ2ptbEt4dUtPTVd0SG1LSmVYeEhqMDQwaEZSUmFFOUdfM20xaw?oc=5",
         "timestamp": "2026-05-07T13:10:09",
         "timestamp_display": "07. 05. 2026 13:10",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -24,16 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNWZhNVZ1aHNCUE9wOEJBVGFYbXhkLTBCaGYxSjJvWm1DakpEV050TUFYQl9TX011aEJMOU92Mk1qeG1uWWd3am5EQjd0eTNhNUN5blI4U0hidzA1cERoRGNVeGdQNG9YMkd2R3VOVTJ4a0swZHF0NE5fODBwZ0RBMVc4VkhoMlVBQmFCZE5ybVVsb0VsRzJKWXlRVDZFcmdtYjA0U1Uyam5EeFRVOU5QVEI4RXZfOUVIT3YwaExyeEVrdw?oc=5",
         "timestamp": "2026-05-07T11:10:00",
         "timestamp_display": "07. 05. 2026 11:10",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Investice mění život",
-        "summary": "Forbes Česko nabízí rady pro investice a změny ve finančním životě.",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUQjgwekhzeVVEMGdmdFI2N1AybkdvSGNmMG5fb2lVRFFIaE45dkdpaUJzcEhOanVKQTlrbUY3Y3F3NlEwczBidnNNYlF6UGpWS3ZuUA?oc=5",
-        "timestamp": "2026-04-30T17:30:17",
-        "timestamp_display": "30. 04. 2026 17:30",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -735,6 +735,15 @@
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE45dk55WWZOdkg1SkFRY3ZzSExySmNtblpKTjJpNEV4U0dHRjlfR2QzaEYzYlNYbFpMdXRyQlZXd3EtMzhvenRNV213RVV1SWdvQXJmWDUtOA?oc=5",
         "timestamp": "2026-04-30T18:11:57",
         "timestamp_display": "30. 04. 2026 18:11",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Forbes Česko nabízí rady pro investice a změny ve finančním životě.",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUQjgwekhzeVVEMGdmdFI2N1AybkdvSGNmMG5fb2lVRFFIaE45dkdpaUJzcEhOanVKQTlrbUY3Y3F3NlEwczBidnNNYlF6UGpWS3ZuUA?oc=5",
+        "timestamp": "2026-04-30T17:30:17",
+        "timestamp_display": "30. 04. 2026 17:30",
         "is_new": false
     },
     {
