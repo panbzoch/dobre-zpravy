@@ -1,11 +1,29 @@
 [
     {
         "category": "Byznys",
-        "title": "Restart Aukra",
-        "summary": "České online tržiště Aukra chce být jedničkou ve sběratelství a re-commerce.",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUjhZZWxYNlpMLWtud0N1Qlpidzc5ZS1ONmdrWG9hRU5lNFZtSG9TSmVOaDF4UG1lOVprOHp6OUlQZVV1VGJ5N2JMaWptQ25HTkU1ZlpEVVM5NzRUZHF4Y2VzWG8xZklFZU0yZk03Ykt0TmRrS1ZDZFZRZkl0NktieTdpYWFYSHF3NGNSMmp4MXpUTHhOU3ZTYjZseFVNaEZPTjh4N2pzQQ?oc=5",
-        "timestamp": "2026-05-07T06:09:13",
-        "timestamp_display": "07. 05. 2026 06:09",
+        "title": "eToro Forbes",
+        "summary": "eToro je uvedena v Forbes Česko, jako úspěšná platforma pro investice a obchodování.",
+        "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBPWVhyYURtUVd2Ql9VTW1FdkVwQWUyUGtrZGtydEFhMEplbUVjZ0VJNFFZTEpYTXJFaGhUcml2MmM1Y2RT?oc=5",
+        "timestamp": "2026-05-08T05:14:41",
+        "timestamp_display": "08. 05. 2026 05:14",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Němec investuje v Řecku",
+        "summary": "Němec plánuje investici za desítky miliard v řecké zátoce Navarino, rozšiřuje své plány.",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTVpJRGl4SEJJUVJPNzhfSVRzTWxSYkQ3akcwMjUyYnlveXd6OGluRTE5bUUyUDFIX2l2c1g5OHdqTXo4ZjIxX29oWHBmLVBsQ2d3VnhTaUxtTnE1Zm11RVdsbVpTVnViYzFjUTZYNFd4S0tENi1pN0RGRC1xdjY0blZIWVAzcHBSekVHTTZhVGhLWENqaHE1TmdFaFdyQnVwcHM2MWhfZ2VWZ0JmMUZOV3lEa0l0eldHam9PNzNtcmZtZ01kVU9oVzkzYWpYaDZIclNV?oc=5",
+        "timestamp": "2026-05-08T03:00:00",
+        "timestamp_display": "08. 05. 2026 03:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Michal Zámec Forbes",
+        "summary": "Michal Zámec uveden v Forbes Česko jako úspěšný podnikatel.",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uQVhWY0hmZURqOC0xNTd0aFpoZ0lXU2lDVmxnQ21hbTNyVElKSl9RN2JZZlNyUHlOZW1rWnd0N2lIclhONHRReDY3eVNaQWctS04zcQ?oc=5",
+        "timestamp": "2026-05-06T12:22:52",
+        "timestamp_display": "06. 05. 2026 12:22",
         "is_new": true
     },
     {
@@ -51,6 +69,15 @@
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVnBFTnJYMUVTN21VZ2s0bXNBb3dHUWx2OU1TTVRHOGttai1qTkh3Ry0zNEsybUN1d0M1aWhqcWJWSkU1VWdOWmpVOXJLUnc1TUVaMlJCbkhzdjU4SXJvZ0xMaTBWSl81T1BOR1VzV2NFSjJONkFuYmpTLTlLWGZjaXUwTFo3Ujh3eEc2QmJ5ZTQzYWlpSnJlNUdRaGwxbVhoRDJCaVpGeUFFcGR5ZFM2NWpMSklBRndYY0tQUVFPQnhad1RIWGZkUzZ4MXdSdw?oc=5",
         "timestamp": "2026-05-07T07:12:00",
         "timestamp_display": "07. 05. 2026 07:12",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Restart Aukra",
+        "summary": "České online tržiště Aukra chce být jedničkou ve sběratelství a re-commerce.",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUjhZZWxYNlpMLWtud0N1Qlpidzc5ZS1ONmdrWG9hRU5lNFZtSG9TSmVOaDF4UG1lOVprOHp6OUlQZVV1VGJ5N2JMaWptQ25HTkU1ZlpEVVM5NzRUZHF4Y2VzWG8xZklFZU0yZk03Ykt0TmRrS1ZDZFZRZkl0NktieTdpYWFYSHF3NGNSMmp4MXpUTHhOU3ZTYjZseFVNaEZPTjh4N2pzQQ?oc=5",
+        "timestamp": "2026-05-07T06:09:13",
+        "timestamp_display": "07. 05. 2026 06:09",
         "is_new": false
     },
     {
