@@ -1,5 +1,23 @@
 [
     {
+        "category": "Technologie",
+        "title": "Chatbot za pár tisíc",
+        "summary": "Raspberry Pi AI HAT+ 2 umožňuje vytvořit levný a funkční chatbot s umělou inteligencí.",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWkF6d3UyaGRwblV1ZXB6NUJFYnFUUHJlWGJpTmZfSkYzOTdaOWptOWItaXlOdjAxYkZQaVpWdTN6aVFFMU9rVWZQZVJ6WTNrNlFzRmJoRWZTczBva2lBc2pKTTdqdDY5RWF5LVB6aTJ4dno4ZUhUZ190Z0J2SEdWck1IbHRIWUR1SThySDFWX3M4SndPSWtWY09FVkwzUWlzUVctQ0xrclBGcFhDTUtfQlZMc1pFMzZ4RENyaGwwWDk?oc=5",
+        "timestamp": "2026-05-09T13:45:16",
+        "timestamp_display": "09. 05. 2026 13:45",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Průmysl mění život",
+        "summary": "Forbes Česko přináší inspirativní články o úspěších a změnách v průmyslu, které mohou změnit život.",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XRFZ5cEtWcFpqNmhWRW1yODl4eHhfSW5SWWllMUIyNl94R2hoSzFoLVlwRk1jX1JrXzFxOTMtV2hYVzZPYXBFcmx5UFdzNkVhTUZ6ckhOQQ?oc=5",
+        "timestamp": "2026-05-08T19:20:36",
+        "timestamp_display": "08. 05. 2026 19:20",
+        "is_new": true
+    },
+    {
         "category": "Věda",
         "title": "Malý přístroj měří gravitaci",
         "summary": "Australský přístroj měří vliv gravitace na světlo, což může vést k novým možnostem měření Země.",
