@@ -1,21 +1,57 @@
 [
     {
+        "category": "Věda",
+        "title": "Fotograf vytvořil video",
+        "summary": "Fotograf vytvořil působivé časosběrné video západu Země z mise Artemis II.",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQWt3N1F3Tzlycjd3dW16cVBINTNFN3haNEo0MGRUTndMZU5tRDJxaDNTaWVLaGFtYzVRZ2Z2emxkWWZwUE5MZGFBRDJoNU4zNDU1aVdENVloaDd1NXlfMnIzRGFQelAzSlZ0dEg0aWpIajV5QlVEcnBiUXJXdVk5OTQ5VktCWjhpWHN2cEl2cVFhRkVfV0xyOWdxWURuVTZJSWFYaFlaVzB0UmxfZkg3andGbVFvWm13ME51SXh5Q2ExcXM2QWMyVHpSMTlmRzhkM2xzc1JoeEVzTS16RGJQOEg0MEV5bVFCMzdWaW5zQVZEdw?oc=5",
+        "timestamp": "2026-05-10T05:45:16",
+        "timestamp_display": "10. 05. 2026 05:45",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Firma roste",
+        "summary": "Australská firma přešla z těžby krypta na AI datacentra, roste raketově a získala vývoj v Praze.",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVll5RUpNazk2Zk9zQmRMT244TFdsbGpnUHA5N0hKUnRsdGtEOTRVZWlyaFMybXBNRW0wODlGODIyNlJLbVN1dEdLVU10WkhNV1JlamxCWTF5ay1WQlNDbjRFMWQ1RURqQnlXNjlnNVZ2MXJYQ2pZUUZMVDR1YUdwTGw3RjczR0tnNHRVekFsN0FSczRMWGZyZTEwcndxcWk0a2RSZmZPZjNENnNNbmRpakJJVUJ6N09CaGo2bVNUYW9pX2UtdG44?oc=5",
+        "timestamp": "2026-05-10T03:30:00",
+        "timestamp_display": "10. 05. 2026 03:30",
+        "is_new": true
+    },
+    {
+        "category": "Medicína",
+        "title": "Češi používají inhalátory",
+        "summary": "Vědci v Hradci Králové vyvíjejí aplikaci pro pacienty, aby používali inhalátory správně.",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQalVLLXdZclRDMnNwNmc3amVESUg4UzdNcWh2bjU3ZHRZNThseUZ3WldSMWNBeGlrVDBqemRTR0FrZ0NJR0hraF9fZm1FU2xPWkJQbFNWQzM2anR5UEJXQlNzWmluY1BDTDBFeEhUOGJaOXlISjJuS0luamI2VDZpQ29ZdWNQODB3VnlmU3lVMkFfLWpNMkVxSmo0MlNNYlRQRDZSYkJnSGVIck9POFRWTE1pdWtGazRyMnIzTDBvcWNUdXB0S0M0akdpQzJPMjZZRHNN?oc=5",
+        "timestamp": "2026-05-09T16:37:00",
+        "timestamp_display": "09. 05. 2026 16:37",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Nový mrakodrap v New Yorku",
+        "summary": "V New Yorku se staví nový mrakodrap za 140 miliard, který bude mít unikátní design podobný pavučině.",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcmFtYlp0YmdDRlZtdHhIWi1tWjFGM0RSZ3pqNG5ablhEdEc3QnpCTWVYUEtZNGFNeE9lUUxxbW5NVWRySF9md29oYWIwbHZEZVdiTkhTUVJOZm9HME1jRWpiSkJVRUpHdU5ka01iV193Rkl5cHpPRFZKUzBTQVFqVlppckhDZjEzUFAyVVl1Q05rc2hnQzBkTVExRlA3QkxoeEFfc1NRTFN5MjV6?oc=5",
+        "timestamp": "2026-05-09T10:57:14",
+        "timestamp_display": "09. 05. 2026 10:57",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "McGovern míří na burzu",
+        "summary": "Americký podnikatel McGovern přivedl do Česka známé řetězce a nyní plánuje vstup na burzu.",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQjZfV2dwbm53c0dpaUpOTHVkdTNwUkp0Q3NuY0pTemoyOTYwcVQ0QWplcERKNUlLSDZBSFlsOTBvRHVxcnhUSFJabDNEX0d6c09oYTNERlVKYngtQS1uMUswSndscC1Gd3ljdjlZeXN3LS16ZV84RDBTcTMwaDd6YkxIWjYtY0NJNTZRTnNlMEdWNFJv?oc=5",
+        "timestamp": "2026-05-07T14:15:09",
+        "timestamp_display": "07. 05. 2026 14:15",
+        "is_new": true
+    },
+    {
         "category": "Technologie",
         "title": "Chatbot za pár tisíc",
         "summary": "Raspberry Pi AI HAT+ 2 umožňuje vytvořit levný a funkční chatbot s umělou inteligencí.",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWkF6d3UyaGRwblV1ZXB6NUJFYnFUUHJlWGJpTmZfSkYzOTdaOWptOWItaXlOdjAxYkZQaVpWdTN6aVFFMU9rVWZQZVJ6WTNrNlFzRmJoRWZTczBva2lBc2pKTTdqdDY5RWF5LVB6aTJ4dno4ZUhUZ190Z0J2SEdWck1IbHRIWUR1SThySDFWX3M4SndPSWtWY09FVkwzUWlzUVctQ0xrclBGcFhDTUtfQlZMc1pFMzZ4RENyaGwwWDk?oc=5",
         "timestamp": "2026-05-09T13:45:16",
         "timestamp_display": "09. 05. 2026 13:45",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Průmysl mění život",
-        "summary": "Forbes Česko přináší inspirativní články o úspěších a změnách v průmyslu, které mohou změnit život.",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XRFZ5cEtWcFpqNmhWRW1yODl4eHhfSW5SWWllMUIyNl94R2hoSzFoLVlwRk1jX1JrXzFxOTMtV2hYVzZPYXBFcmx5UFdzNkVhTUZ6ckhOQQ?oc=5",
-        "timestamp": "2026-05-08T19:20:36",
-        "timestamp_display": "08. 05. 2026 19:20",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -42,6 +78,15 @@
         "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQV1BERDY5eFpYN21jOElJaDdkZVc4aXZqdFZBU3hncXRNM3NxM1loalBhWWJiUDVsU09iWFNGWVBwV3QycEpzdHdacjh0Um5zVXBWVkU1eE5FcmhjSmJWOGxCd1IzT2ttQVR5Y1pyWk1RN0ljbTNUVGg1cl9aR0pkNmVIRHRDTDUyanRUbTE2OVlENjFGaHY4N3BYaGpFTGlTZ1k1bDJLV05RSVdlb1BNVzU5ZmxCLVFkekdBSXVublkwZlhNekJuOHZ1VTlMd1NRbnBWMVB2VzhPb3RkOFZDMnNpcVByU3RVWFc3UVdvTlVzYXc?oc=5",
         "timestamp": "2026-05-09T05:45:21",
         "timestamp_display": "09. 05. 2026 05:45",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Průmysl mění život",
+        "summary": "Forbes Česko přináší inspirativní články o úspěších a změnách v průmyslu, které mohou změnit život.",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XRFZ5cEtWcFpqNmhWRW1yODl4eHhfSW5SWWllMUIyNl94R2hoSzFoLVlwRk1jX1JrXzFxOTMtV2hYVzZPYXBFcmx5UFdzNkVhTUZ6ckhOQQ?oc=5",
+        "timestamp": "2026-05-08T19:20:36",
+        "timestamp_display": "08. 05. 2026 19:20",
         "is_new": false
     },
     {
