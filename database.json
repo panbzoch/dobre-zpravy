@@ -1,12 +1,66 @@
 [
     {
         "category": "Byznys",
+        "title": "Investice do projektu",
+        "summary": "Kijonková investuje do projektu Moniky Štěpánové, která je součástí seznamu 30 pod 30 podle Forbes Česko.",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR3FJeGViRUJvWFc5QnZ2dU9RcHkwaUdQS05uWG1lZlJWREpUNUV2QlRaemdYbzN5T2JlanBMOW5MQ1NhX3F2Y0R6NjBlVVl6SW0zejFkc0F5Q3RrR3ZMVW1GTnlOa1c3LXM4dkJ6UFptRmtEajdHbGxJc1lEeUZBN3pCX3ZHSnlxbXB6NFdobVEyTmNBVTEzN1VFVFhqbkk?oc=5",
+        "timestamp": "2026-05-11T16:05:45",
+        "timestamp_display": "11. 05. 2026 16:05",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Firmy chtějí AI",
+        "summary": "Vodafone pomáhá firmám s implementací AI a nápravou technologického dluhu a edukace.",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYlRscXlCNkFrdExKbS1kanFfVjZzNnFGQmczY0VObkFSSm1zUmc2ckF3aGUweld5X2ZPRldMd19tanRGUlZ4Y2dvTnVkb19FMnJGMV8ydjNkc2VrZ25ybkJuVFB2aXJyeTBydVBoREhHRnBvY2o1aTYyWlJtY0U4Nkd2ODdvOWQ4Y0xNaEdyZVFieXlhX2tWRHktd1YwX0l0?oc=5",
+        "timestamp": "2026-05-11T14:31:14",
+        "timestamp_display": "11. 05. 2026 14:31",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Automobilka JAC na trhu",
+        "summary": "Čínská automobilka JAC zahájila prodej na českém a slovenském trhu.",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa3d5bm9rMnpoM2ZkUU9QNDlILUNGOHBUdk44cjEwdlk1Ym1pYnhzWWxBVl9uWEQtUUNZaWIzQzJUejU0RHlDNmZvYmZyTTJZTDJZc3luVmZzQ3hJT1FodnVQdzNHMEhVZ0FVM1hSRDAxLUt1bjhJQTZnOWZ3WkJmUjJ0UG1iZVFIVmpqQzNCSzBGTERQWVN1WWlnV1o1aXhUSDRRdDdkTFBWVTk0RVJ3c2IwUmQ5cm1mZU5wN3d3?oc=5",
+        "timestamp": "2026-05-11T13:13:00",
+        "timestamp_display": "11. 05. 2026 13:13",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Forbes Česko nabízí rady pro investice a změnu života.",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PRzVyaEZVakYtelJsalFHSUJKNG1lYl9iUmxFZE4ydjBqUmRhSlpSLUFFcWtweWZhcWhFZ1dYdTFHbWJqbkdDSmlyZnY5VldGajl0SjFjTW5zSUNOSU5FbmxB?oc=5",
+        "timestamp": "2026-05-11T12:24:01",
+        "timestamp_display": "11. 05. 2026 12:24",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Nová čtvrť v Jesenici",
+        "summary": "V Jesenici se staví 250 bytů s náměstím, obchody a službami.",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQXhFMVctVHhUR3dEekRCbHZIZ0dvVTQ2TG5HY283cEw2TmZLNGdBNDNtSjVVQWJ4U1RjM1ZfcGxzMWV6WXZpVzFkXzIzVzBnQTNZVklFSFpTdmhJdGNHUnV6ZTJMYjdiTUdCUnZxdnZpWGVMdUtubC1COF9PSm5mM0c3STNCeE5qNl9kUzNxNDFHQXJPRWZaalpwcDNjanZlaWE5TXZBSE1Hc2JVZTNlaW43QzBGZGc5?oc=5",
+        "timestamp": "2026-05-11T09:29:03",
+        "timestamp_display": "11. 05. 2026 09:29",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Startup přetáhl inženýry",
+        "summary": "Startup přetáhl inženýry z velkých firem, aby vyvinul AI na plovoucích kolosech v oceánu.",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSnNzdEhrdzBjQ1REbWFDc2xkMUYzSzhtSi1DRHNHdnhaRm9FdGZlX2J5TWFqOG9CdGlnbnB0V1lvaC1qTkpFaG9Ua1JwSm5aVTJPeHlQOTJUYVRiN1E2em5YbjFaUldBUWIyNnRwcFMxSXJUQi1KeU8zZlZ1bHlDa0JCYXA3d0Y1S2RXNkNONXhNZE5HcnB1S1FsdDFXMEdQMlJkWGMtTVB2MjNmZ0d1Z3hmVDRqRmxyTFhUU0N3?oc=5",
+        "timestamp": "2026-05-11T04:25:11",
+        "timestamp_display": "11. 05. 2026 04:25",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Spolupráce Rheinmetall",
         "summary": "Rheinmetall a Telekom spolupracují na vývoji systému proti dronům.",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRUozQjdVbGh6Q0FWR3FwdG9BeVZicXNNbjdES1A0a2NXTjYzT3lfMHRHUENFWXYxTWx5NTNEeUMwUWZ2dkRuMGt2MVF2bXZzbXlVUU9sWFJremsxVGxROHlLMmtnc1FNQU1YNE5ReXVsMHdYUVZkeEViUkxLOVA1elkwY0pieTk5bk4xbmRDVFlaZHFTSU4yZlhfc3dDQQ?oc=5",
         "timestamp": "2026-05-11T12:17:28",
         "timestamp_display": "11. 05. 2026 12:17",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,16 +69,7 @@
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUDk2ajhNLWJ5MVdmMHdINkY2QVVBWnFvVHV2QnlWMGozZ3ZUNVVkMWx2YlUwdVhnb3VRY3F4ZVVnY29kNUFWOW5ZZUw0VjJiZHV1TTNvbXhKcmttcHhoX3labUIxenNQMjFERFJ4TjJUYm5hTlNDOUVUNXJSTzlyUFhpRVcyVEZUTmN4bTVPSGhKWmZaRnVoTDlUUmtiZw?oc=5",
         "timestamp": "2026-05-11T10:35:17",
         "timestamp_display": "11. 05. 2026 10:35",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Český startup v USA",
-        "summary": "Český startup expanduje do USA, kde staví nový produkt a dosahuje úspěchů.",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUXJFTG1PY0NwbjUwM3pRcDl3SUl3OWoweXNUUVVwLWgzc1lHaEVvUk9WOC1NVks2VF9MaU1haTJFb3NnZjhlVUpkcUQtWWpvMEwzaFV0QzlYMGpmc1pWVkladzJiemNteXpyS3RkdHUwWFFrN2xsbWdudEZaakNHN2lDR1VnMW5MTVhNTGhoTVh1Vjh6ZzNRdTJmMnFrNmJ5VG84R2RVT0I5Y2tHMTU4dE9sbW44bWM5R1VoX1A0OA?oc=5",
-        "timestamp": "2026-05-11T04:15:34",
-        "timestamp_display": "11. 05. 2026 04:15",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -42,6 +87,15 @@
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd0x1S1hIdFJFbjBacWk3UmEzZzRlamNBTWhLbEVESWlGWEk4eGQyRWlXU0syeXNZX2VnZW41ajEwQm1reUtmVjROMlpWVU1JTS1UNjA5cWZFdGM1LUNSVkQ2UTEzRFNuRGJGR3Y1RmhwaEdDOE1JRm9ELTludHZZOUJwWlhGbm02STVtRmlIc0VfM2tkLW0w?oc=5",
         "timestamp": "2026-05-11T04:33:09",
         "timestamp_display": "11. 05. 2026 04:33",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Český startup v USA",
+        "summary": "Český startup expanduje do USA, kde staví nový produkt a dosahuje úspěchů.",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUXJFTG1PY0NwbjUwM3pRcDl3SUl3OWoweXNUUVVwLWgzc1lHaEVvUk9WOC1NVks2VF9MaU1haTJFb3NnZjhlVUpkcUQtWWpvMEwzaFV0QzlYMGpmc1pWVkladzJiemNteXpyS3RkdHUwWFFrN2xsbWdudEZaakNHN2lDR1VnMW5MTVhNTGhoTVh1Vjh6ZzNRdTJmMnFrNmJ5VG84R2RVT0I5Y2tHMTU4dE9sbW44bWM5R1VoX1A0OA?oc=5",
+        "timestamp": "2026-05-11T04:15:34",
+        "timestamp_display": "11. 05. 2026 04:15",
         "is_new": false
     },
     {
