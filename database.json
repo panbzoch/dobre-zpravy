@@ -1,12 +1,30 @@
 [
     {
         "category": "Byznys",
+        "title": "České obaly slaví úspěch",
+        "summary": "České a slovenské obaly získaly ocenění na WorldStar Packaging Awards v Düsseldorfu.",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNd0dSdTBfaUtqZVRZMjloRUIyWkhpLWJHaTRuZ1lDclRhcXE5S1FBd045R2lMZkVIU2dnS0FocjI5eENnQ3VYQ3BtQ3l0dmRrRm1rVDNYekg0ZDVDaHRXbnJHc3hGaTlQY3drZ1pyNElWVk9KeGZMQndJVkxxY2ZmbGdBdFRmNG5uSFR0Z01nZ09ONUxiOU83bzBaTWdNdng1RUg0MXB6RlNockVxdC13TVNRTF8xSWgxejgwMmExQmxlYkJvRkhROTNB?oc=5",
+        "timestamp": "2026-05-11T05:50:00",
+        "timestamp_display": "11. 05. 2026 05:50",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Rekordy CE Industries",
+        "summary": "Skupina CE Industries plánuje další rekordy, říká CFO.",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd0x1S1hIdFJFbjBacWk3UmEzZzRlamNBTWhLbEVESWlGWEk4eGQyRWlXU0syeXNZX2VnZW41ajEwQm1reUtmVjROMlpWVU1JTS1UNjA5cWZFdGM1LUNSVkQ2UTEzRFNuRGJGR3Y1RmhwaEdDOE1JRm9ELTludHZZOUJwWlhGbm02STVtRmlIc0VfM2tkLW0w?oc=5",
+        "timestamp": "2026-05-11T04:33:09",
+        "timestamp_display": "11. 05. 2026 04:33",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Divadlo Mír expanduje",
         "summary": "Divadlo Mír investuje stovky milionů do nových scén a rozšiřuje své aktivity v Ostravě.",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLTFKRUsyVjIyTE4xNGJjMmpQRlF6eXM4QlRsaXd1MU85VWVmSUFYSDR1Nnc4RTJMOFBBSlB2WS1MR3V5R1pWQlVRdEZYMzhnTEZxT2tqWlYxeHdRcG9QclNTRFVBYVI4Zk0xek4ycktZYzllRzY5UTBab3BjemtCR05ubjFad01xUmFrczBJMmFDRW5seVpFZFdaN1hJQQ?oc=5",
         "timestamp": "2026-05-10T16:39:19",
         "timestamp_display": "10. 05. 2026 16:39",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -15,25 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQS1gzenhtenBJanQtM0thbDJRNDhYMFVPMTVKclNqek5HeERyVVRaTFl5aFpRWXVuUVVVTHFQdDBDcEIxcXNySG1tQURzSjd1eDRuT3B4VTVPeDhsSU95WmxWZGhKZUVmenRYTVZEQS0ycHFwWlU0VzVyTFhGclMxdEFwOHpJNllVUGVYajFON192cDJPNW1FWFhtWUo3OExSaWw3Rk5oTkdxaEVpMG5pbWtEOVFOVHhoaW10ZUdERUdEOEZKbkd2endVRDhkVEVYZUw3bmFPb0RYMTVfRnBKaGVsU0J3Wjd0aWhhVkxsTXRUcjAyQzE1VTNDcGhzR0pkOVpFQg?oc=5",
         "timestamp": "2026-05-10T16:39:00",
         "timestamp_display": "10. 05. 2026 16:39",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Průmysl mění život",
-        "summary": "Forbes Česko přináší inspirativní články o průmyslu a jeho vlivu na životy lidí.",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1keVhmdWl4Z1RkYVZkM0RsRk9OMVVfMnY2Z1V6VXZpa0RnTmVIbnR1X096U1VEZGZRTy1xVk1xd29yQTIwU0FyWVdRc2pNSHQ1WDNFckVmcw?oc=5",
-        "timestamp": "2026-05-08T22:05:39",
-        "timestamp_display": "08. 05. 2026 22:05",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Rychlý vývoj kvantových počítačů",
-        "summary": "Vývoj kvantových počítačů pokročil rychleji než očekávání, nová architektura přináší další výhody.",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSmhEeXhwVFM0UVRUdlRGMVVCQU9Cc3lHamF2cU0yb3pVSk5UdlllSk95Y1pVeWpBaFBiazMyby1lSXZIaUgwT0FKdHR6b2dJQ3hXemRTclBDYVhHdE5fUVo2M3hxSmliNTVYOEg2MDFuTW9OREFfZ2ViNFRPSTdRc0RCQ3dJR0JxQVYybS1JSFotdzY5YlZKZFpYaDNLUmEyNHVueGFGbkcydlV1bGJXQ2hKbURxU1hRYVE?oc=5",
-        "timestamp": "2026-05-08T07:00:00",
-        "timestamp_display": "08. 05. 2026 07:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -146,6 +146,15 @@
     {
         "category": "Byznys",
         "title": "Průmysl mění život",
+        "summary": "Forbes Česko přináší inspirativní články o průmyslu a jeho vlivu na životy lidí.",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1keVhmdWl4Z1RkYVZkM0RsRk9OMVVfMnY2Z1V6VXZpa0RnTmVIbnR1X096U1VEZGZRTy1xVk1xd29yQTIwU0FyWVdRc2pNSHQ1WDNFckVmcw?oc=5",
+        "timestamp": "2026-05-08T22:05:39",
+        "timestamp_display": "08. 05. 2026 22:05",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Průmysl mění život",
         "summary": "Forbes Česko přináší inspirativní články o úspěších a změnách v průmyslu, které mohou změnit život.",
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XRFZ5cEtWcFpqNmhWRW1yODl4eHhfSW5SWWllMUIyNl94R2hoSzFoLVlwRk1jX1JrXzFxOTMtV2hYVzZPYXBFcmx5UFdzNkVhTUZ6ckhOQQ?oc=5",
         "timestamp": "2026-05-08T19:20:36",
@@ -204,6 +213,15 @@
         "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQTWVRNllqejJzRmtOWEw0MFFadENXSU9KaTluM2hLWTFwNVgybFNUUHFSTUc4UzgtOWc5RmUydE11SGZfRDlRcnl0c1J3X2VtUWdJaWdrakczNkdidE5UM1lGTmkxVGJxMHhQclBsVm5scWk4VC1oYlhZb0Q5OEdEZUJtTmdyVkVvaVcwRmhteTByZWk1ekc4VjZDakJCZHNEcUFXRVZyZnExX2FFSUxfc0tVbGJxOUgxMWhDelZoWk5sY2psT29XUlhHU0ZpOUJvS2J4NEpUa1pnWm5nVU0xaWNIY24xUnM3ZEVzaTdvTFF2UU9za3J2LWVXRFdQSndiNG9aWTJ4OA?oc=5",
         "timestamp": "2026-05-08T08:36:00",
         "timestamp_display": "08. 05. 2026 08:36",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Rychlý vývoj kvantových počítačů",
+        "summary": "Vývoj kvantových počítačů pokročil rychleji než očekávání, nová architektura přináší další výhody.",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSmhEeXhwVFM0UVRUdlRGMVVCQU9Cc3lHamF2cU0yb3pVSk5UdlllSk95Y1pVeWpBaFBiazMyby1lSXZIaUgwT0FKdHR6b2dJQ3hXemRTclBDYVhHdE5fUVo2M3hxSmliNTVYOEg2MDFuTW9OREFfZ2ViNFRPSTdRc0RCQ3dJR0JxQVYybS1JSFotdzY5YlZKZFpYaDNLUmEyNHVueGFGbkcydlV1bGJXQ2hKbURxU1hRYVE?oc=5",
+        "timestamp": "2026-05-08T07:00:00",
+        "timestamp_display": "08. 05. 2026 07:00",
         "is_new": false
     },
     {
