@@ -1,12 +1,39 @@
 [
     {
         "category": "Byznys",
+        "title": "Spolupráce Rheinmetall",
+        "summary": "Rheinmetall a Telekom spolupracují na vývoji systému proti dronům.",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRUozQjdVbGh6Q0FWR3FwdG9BeVZicXNNbjdES1A0a2NXTjYzT3lfMHRHUENFWXYxTWx5NTNEeUMwUWZ2dkRuMGt2MVF2bXZzbXlVUU9sWFJremsxVGxROHlLMmtnc1FNQU1YNE5ReXVsMHdYUVZkeEViUkxLOVA1elkwY0pieTk5bk4xbmRDVFlaZHFTSU4yZlhfc3dDQQ?oc=5",
+        "timestamp": "2026-05-11T12:17:28",
+        "timestamp_display": "11. 05. 2026 12:17",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Nová čtvrť za miliardy",
+        "summary": "UDI Group postaví novou čtvrť na Smíchově, investice dosáhne miliard korun, projekt čekal roky na schválení.",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUDk2ajhNLWJ5MVdmMHdINkY2QVVBWnFvVHV2QnlWMGozZ3ZUNVVkMWx2YlUwdVhnb3VRY3F4ZVVnY29kNUFWOW5ZZUw0VjJiZHV1TTNvbXhKcmttcHhoX3labUIxenNQMjFERFJ4TjJUYm5hTlNDOUVUNXJSTzlyUFhpRVcyVEZUTmN4bTVPSGhKWmZaRnVoTDlUUmtiZw?oc=5",
+        "timestamp": "2026-05-11T10:35:17",
+        "timestamp_display": "11. 05. 2026 10:35",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Český startup v USA",
+        "summary": "Český startup expanduje do USA, kde staví nový produkt a dosahuje úspěchů.",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUXJFTG1PY0NwbjUwM3pRcDl3SUl3OWoweXNUUVVwLWgzc1lHaEVvUk9WOC1NVks2VF9MaU1haTJFb3NnZjhlVUpkcUQtWWpvMEwzaFV0QzlYMGpmc1pWVkladzJiemNteXpyS3RkdHUwWFFrN2xsbWdudEZaakNHN2lDR1VnMW5MTVhNTGhoTVh1Vjh6ZzNRdTJmMnFrNmJ5VG84R2RVT0I5Y2tHMTU4dE9sbW44bWM5R1VoX1A0OA?oc=5",
+        "timestamp": "2026-05-11T04:15:34",
+        "timestamp_display": "11. 05. 2026 04:15",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "České obaly slaví úspěch",
         "summary": "České a slovenské obaly získaly ocenění na WorldStar Packaging Awards v Düsseldorfu.",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNd0dSdTBfaUtqZVRZMjloRUIyWkhpLWJHaTRuZ1lDclRhcXE5S1FBd045R2lMZkVIU2dnS0FocjI5eENnQ3VYQ3BtQ3l0dmRrRm1rVDNYekg0ZDVDaHRXbnJHc3hGaTlQY3drZ1pyNElWVk9KeGZMQndJVkxxY2ZmbGdBdFRmNG5uSFR0Z01nZ09ONUxiOU83bzBaTWdNdng1RUg0MXB6RlNockVxdC13TVNRTF8xSWgxejgwMmExQmxlYkJvRkhROTNB?oc=5",
         "timestamp": "2026-05-11T05:50:00",
         "timestamp_display": "11. 05. 2026 05:50",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +42,7 @@
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd0x1S1hIdFJFbjBacWk3UmEzZzRlamNBTWhLbEVESWlGWEk4eGQyRWlXU0syeXNZX2VnZW41ajEwQm1reUtmVjROMlpWVU1JTS1UNjA5cWZFdGM1LUNSVkQ2UTEzRFNuRGJGR3Y1RmhwaEdDOE1JRm9ELTludHZZOUJwWlhGbm02STVtRmlIc0VfM2tkLW0w?oc=5",
         "timestamp": "2026-05-11T04:33:09",
         "timestamp_display": "11. 05. 2026 04:33",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
