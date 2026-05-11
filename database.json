@@ -6,7 +6,7 @@
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR3FJeGViRUJvWFc5QnZ2dU9RcHkwaUdQS05uWG1lZlJWREpUNUV2QlRaemdYbzN5T2JlanBMOW5MQ1NhX3F2Y0R6NjBlVVl6SW0zejFkc0F5Q3RrR3ZMVW1GTnlOa1c3LXM4dkJ6UFptRmtEajdHbGxJc1lEeUZBN3pCX3ZHSnlxbXB6NFdobVEyTmNBVTEzN1VFVFhqbkk?oc=5",
         "timestamp": "2026-05-11T16:05:45",
         "timestamp_display": "11. 05. 2026 16:05",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +15,7 @@
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYlRscXlCNkFrdExKbS1kanFfVjZzNnFGQmczY0VObkFSSm1zUmc2ckF3aGUweld5X2ZPRldMd19tanRGUlZ4Y2dvTnVkb19FMnJGMV8ydjNkc2VrZ25ybkJuVFB2aXJyeTBydVBoREhHRnBvY2o1aTYyWlJtY0U4Nkd2ODdvOWQ4Y0xNaEdyZVFieXlhX2tWRHktd1YwX0l0?oc=5",
         "timestamp": "2026-05-11T14:31:14",
         "timestamp_display": "11. 05. 2026 14:31",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,7 +24,7 @@
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa3d5bm9rMnpoM2ZkUU9QNDlILUNGOHBUdk44cjEwdlk1Ym1pYnhzWWxBVl9uWEQtUUNZaWIzQzJUejU0RHlDNmZvYmZyTTJZTDJZc3luVmZzQ3hJT1FodnVQdzNHMEhVZ0FVM1hSRDAxLUt1bjhJQTZnOWZ3WkJmUjJ0UG1iZVFIVmpqQzNCSzBGTERQWVN1WWlnV1o1aXhUSDRRdDdkTFBWVTk0RVJ3c2IwUmQ5cm1mZU5wN3d3?oc=5",
         "timestamp": "2026-05-11T13:13:00",
         "timestamp_display": "11. 05. 2026 13:13",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,25 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PRzVyaEZVakYtelJsalFHSUJKNG1lYl9iUmxFZE4ydjBqUmRhSlpSLUFFcWtweWZhcWhFZ1dYdTFHbWJqbkdDSmlyZnY5VldGajl0SjFjTW5zSUNOSU5FbmxB?oc=5",
         "timestamp": "2026-05-11T12:24:01",
         "timestamp_display": "11. 05. 2026 12:24",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Nová čtvrť v Jesenici",
-        "summary": "V Jesenici se staví 250 bytů s náměstím, obchody a službami.",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQXhFMVctVHhUR3dEekRCbHZIZ0dvVTQ2TG5HY283cEw2TmZLNGdBNDNtSjVVQWJ4U1RjM1ZfcGxzMWV6WXZpVzFkXzIzVzBnQTNZVklFSFpTdmhJdGNHUnV6ZTJMYjdiTUdCUnZxdnZpWGVMdUtubC1COF9PSm5mM0c3STNCeE5qNl9kUzNxNDFHQXJPRWZaalpwcDNjanZlaWE5TXZBSE1Hc2JVZTNlaW43QzBGZGc5?oc=5",
-        "timestamp": "2026-05-11T09:29:03",
-        "timestamp_display": "11. 05. 2026 09:29",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Startup přetáhl inženýry",
-        "summary": "Startup přetáhl inženýry z velkých firem, aby vyvinul AI na plovoucích kolosech v oceánu.",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSnNzdEhrdzBjQ1REbWFDc2xkMUYzSzhtSi1DRHNHdnhaRm9FdGZlX2J5TWFqOG9CdGlnbnB0V1lvaC1qTkpFaG9Ua1JwSm5aVTJPeHlQOTJUYVRiN1E2em5YbjFaUldBUWIyNnRwcFMxSXJUQi1KeU8zZlZ1bHlDa0JCYXA3d0Y1S2RXNkNONXhNZE5HcnB1S1FsdDFXMEdQMlJkWGMtTVB2MjNmZ0d1Z3hmVDRqRmxyTFhUU0N3?oc=5",
-        "timestamp": "2026-05-11T04:25:11",
-        "timestamp_display": "11. 05. 2026 04:25",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -73,6 +55,15 @@
     },
     {
         "category": "Byznys",
+        "title": "Nová čtvrť v Jesenici",
+        "summary": "V Jesenici se staví 250 bytů s náměstím, obchody a službami.",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQXhFMVctVHhUR3dEekRCbHZIZ0dvVTQ2TG5HY283cEw2TmZLNGdBNDNtSjVVQWJ4U1RjM1ZfcGxzMWV6WXZpVzFkXzIzVzBnQTNZVklFSFpTdmhJdGNHUnV6ZTJMYjdiTUdCUnZxdnZpWGVMdUtubC1COF9PSm5mM0c3STNCeE5qNl9kUzNxNDFHQXJPRWZaalpwcDNjanZlaWE5TXZBSE1Hc2JVZTNlaW43QzBGZGc5?oc=5",
+        "timestamp": "2026-05-11T09:29:03",
+        "timestamp_display": "11. 05. 2026 09:29",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
         "title": "České obaly slaví úspěch",
         "summary": "České a slovenské obaly získaly ocenění na WorldStar Packaging Awards v Düsseldorfu.",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNd0dSdTBfaUtqZVRZMjloRUIyWkhpLWJHaTRuZ1lDclRhcXE5S1FBd045R2lMZkVIU2dnS0FocjI5eENnQ3VYQ3BtQ3l0dmRrRm1rVDNYekg0ZDVDaHRXbnJHc3hGaTlQY3drZ1pyNElWVk9KeGZMQndJVkxxY2ZmbGdBdFRmNG5uSFR0Z01nZ09ONUxiOU83bzBaTWdNdng1RUg0MXB6RlNockVxdC13TVNRTF8xSWgxejgwMmExQmxlYkJvRkhROTNB?oc=5",
@@ -87,6 +78,15 @@
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd0x1S1hIdFJFbjBacWk3UmEzZzRlamNBTWhLbEVESWlGWEk4eGQyRWlXU0syeXNZX2VnZW41ajEwQm1reUtmVjROMlpWVU1JTS1UNjA5cWZFdGM1LUNSVkQ2UTEzRFNuRGJGR3Y1RmhwaEdDOE1JRm9ELTludHZZOUJwWlhGbm02STVtRmlIc0VfM2tkLW0w?oc=5",
         "timestamp": "2026-05-11T04:33:09",
         "timestamp_display": "11. 05. 2026 04:33",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Startup přetáhl inženýry",
+        "summary": "Startup přetáhl inženýry z velkých firem, aby vyvinul AI na plovoucích kolosech v oceánu.",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSnNzdEhrdzBjQ1REbWFDc2xkMUYzSzhtSi1DRHNHdnhaRm9FdGZlX2J5TWFqOG9CdGlnbnB0V1lvaC1qTkpFaG9Ua1JwSm5aVTJPeHlQOTJUYVRiN1E2em5YbjFaUldBUWIyNnRwcFMxSXJUQi1KeU8zZlZ1bHlDa0JCYXA3d0Y1S2RXNkNONXhNZE5HcnB1S1FsdDFXMEdQMlJkWGMtTVB2MjNmZ0d1Z3hmVDRqRmxyTFhUU0N3?oc=5",
+        "timestamp": "2026-05-11T04:25:11",
+        "timestamp_display": "11. 05. 2026 04:25",
         "is_new": false
     },
     {
