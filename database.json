@@ -1,12 +1,39 @@
 [
     {
+        "category": "Technologie",
+        "title": "Android má novinky",
+        "summary": "Android představuje nové funkce a vylepšení, které mění jeho charakter.",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWxZVEoweUlFdG01b3pHaG55aFlpeXFjb0RxUFVEbUVHSlBjRG91TmpnbDdQcU9ManFEYmdxWXhiREt3NnlwaHJ3U0pIOGw1TFVWWWRsRlNmZWd0Q2dvbzljWE1oS2tTdzZjbHlxMmoxTFJtU2hEZFYtZGpJRnBVZmhrUmktS1g3YVJRd2Nkcnd0ejVRYWVEYUJiNWY?oc=5",
+        "timestamp": "2026-05-12T18:08:49",
+        "timestamp_display": "12. 05. 2026 18:08",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Bentley přivezla barre",
+        "summary": "Bentley přivezla do Česka barre, cvičí u ní elita, úspěšný byznys.",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWmRMWTNUWjByMGFON1h3NVk2MGhjWDJ3M3RULXh0V2dqOGgzR2JOMnh2bWhyTGIyRDN5cVFxR0MzdGZ2VktlRjZIdXRyNjhWN2pMMmFXQ3VRTDlFV013VTNjQUpXLTU5NmkxVGppaXdTZDY2d05VMHllWWdVNUVqSWJERFM2RkRSaU84SQ?oc=5",
+        "timestamp": "2026-05-12T16:34:49",
+        "timestamp_display": "12. 05. 2026 16:34",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Startup expanduje",
+        "summary": "Český startup expanduje na streamingové platformy, cílí na globální trh.",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeVA5cEJPVlRzOERtdDdwa2V2UHlTbHBCemYwUm5Tb0tXR1FudV9XRGJvTW9FdWIwbURoOTAyS21pRlF3U3ItbjJBcFB1OV9ZZ3JMWS1CM2FyZjhrUlA2T09BOVNNazRnRm9oekdzZTI2RWtGQV9DRE9BZE1RNU5SdTY5Q1kyU3hSaXNxSWd4anJBenpRS083d3B4Q2JSbDR3T0t6WXh3?oc=5",
+        "timestamp": "2026-04-19T07:00:00",
+        "timestamp_display": "19. 04. 2026 07:00",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "Accolade posiluje vedení",
         "summary": "Česká Accolade rozšiřuje vedení o Garyho Mazzottiho, který se připojí k Kratinovi a Šoustalovi.",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUzVWYlN5a2hLZGhuVUYxZG9UWWx6OFh2SUVRQ1ltRVlKWGxjZHMwb2F1d2xEa0pHRExPcUZpaDFBQjl2b3dCM0I4ZHI0S2VOUDNBaFFxbW42SmNjZ29aUUJMdzMta0RfRGZJNkc2a1VnVUQ4enhKN3ZNY3pNMDJZeUtSSnp3TlBRbkV0UnJwb1ZkYUE?oc=5",
         "timestamp": "2026-05-12T15:09:49",
         "timestamp_display": "12. 05. 2026 15:09",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +42,7 @@
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORVZFcDJ4aEhNZmhuSHllTGQ1QWlVUVpDV3V0S3pEWnZObTVzUmpZWHJrWnRtNmh3V1BTMVgxb0VxR3BwM0syT05KbGpIUVpfZTlYdWlhOTFQV2FMakhENHlJMFNKcmdkRGZ3SmRqWVNEWmM2Zm9WNjJrWlJXTmc3bUVrWWUxMEZNNVFEQWJKS19CN3ZiaEtHci1aM25iSWhWU2ZMM0dMSWgtLVBUNjhDYTE0Y2NrZWtrX2ZXTC1uMEUtTkhtdEdFWWZBTGRIYk1Z?oc=5",
         "timestamp": "2026-05-12T14:30:00",
         "timestamp_display": "12. 05. 2026 14:30",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,7 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa1ZyMnVDYUpyTEItQkVaNERxb2dCQUFjcFU4QnVyWnhVSDNyczB5c3gtaW5EdDROeWk5RGo0dUFmbXNkSFljbGdUX3pfNnk3S0xNeEIzZFBaOXBjQkE4SjJQOC1lbjFHdUIwWm8yQ0ZickpMQnlTYmZ6WlBrNWdzUGFlOVQtLVJuUUNXSTBmYzFIWndYVTg3bmJWUQ?oc=5",
         "timestamp": "2026-05-12T14:07:11",
         "timestamp_display": "12. 05. 2026 14:07",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,16 +60,7 @@
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR3BPSHkxcDQ2M0lfR2ZxVHNkaWE5TldIQUxmck5HWWJDeHZuT2x2enE3ZmlJWk9adi16RUx6OFVjZjN1aVl2NmNLbjBXNlVTT1ZDWWFOTFA3c3FsU3BvUDJQQjNoNk5uWXJyaThnQXRMcktSMldRRkRjbUJYNmRzdUphLWNQTE5sTFJWc3NqOTRQZ3FBSDVqenVlRnZydWhSbXI0bU9UVHNWMm8?oc=5",
         "timestamp": "2026-05-12T11:49:54",
         "timestamp_display": "12. 05. 2026 11:49",
-        "is_new": true
-    },
-    {
-        "category": "Medicína",
-        "title": "Nová služba pro matky",
-        "summary": "Nová služba První dotek v Karlovarském kraji pomáhá matkám po porodu a zaměřuje se na prevenci odkládání dětí.",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRnZrajhESmdPcUtpV0dBNEE3TDB0eDJaY2J3MzRDei1PdGpnemVqZTdJWlpJd3doN055RVRGaEs2c0FWc1NVcWV5RmtKc3JENjVVVFBzYWJlcmNPT3J1Q2NVeC1hUTB1WlRIcXRDdm5EeGkxVV9yQVUwRDBpajBTcHlNVGFJNGJqZ3BjV1RkZFNOQmpqY292UEw4aHpRSzljMS1WNjJUbmNHa002UlZteWlfd0ZIOHRGODBaV1c2eGFQOWNsODlr?oc=5",
-        "timestamp": "2026-05-12T06:13:00",
-        "timestamp_display": "12. 05. 2026 06:13",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -69,6 +87,15 @@
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObXNGMlBYNmxPcDQ0am9lNjVWaUkxZ25kaUYxTDVxSklFT3l6V1A3RWs0c25XQWZfbW80TnpVb2VSSXlFalhVYzNqbVJXbDJqZ0pVZFo3ZTFJaGRUdGtoZktaMWhkai1jQU5vcno4NFlrRXoyQkd1V0lWbkZlbjdSM1l1dzJhdUtjdFpoQk45enp2RlRsTmVSUFJYTVZCaFNyVnBtT19ia05sT1RpOXpxeGg2WQ?oc=5",
         "timestamp": "2026-05-12T06:30:00",
         "timestamp_display": "12. 05. 2026 06:30",
+        "is_new": false
+    },
+    {
+        "category": "Medicína",
+        "title": "Nová služba pro matky",
+        "summary": "Nová služba První dotek v Karlovarském kraji pomáhá matkám po porodu a zaměřuje se na prevenci odkládání dětí.",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRnZrajhESmdPcUtpV0dBNEE3TDB0eDJaY2J3MzRDei1PdGpnemVqZTdJWlpJd3doN055RVRGaEs2c0FWc1NVcWV5RmtKc3JENjVVVFBzYWJlcmNPT3J1Q2NVeC1hUTB1WlRIcXRDdm5EeGkxVV9yQVUwRDBpajBTcHlNVGFJNGJqZ3BjV1RkZFNOQmpqY292UEw4aHpRSzljMS1WNjJUbmNHa002UlZteWlfd0ZIOHRGODBaV1c2eGFQOWNsODlr?oc=5",
+        "timestamp": "2026-05-12T06:13:00",
+        "timestamp_display": "12. 05. 2026 06:13",
         "is_new": false
     },
     {
