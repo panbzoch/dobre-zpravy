@@ -1,11 +1,47 @@
 [
     {
         "category": "Byznys",
-        "title": "UDI Group zahajuje projekt",
-        "summary": "UDI Group zahajuje výstavbu a prodej projektu SIDE Smíchov Living, nového rezidenčního komplexu.",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObXNGMlBYNmxPcDQ0am9lNjVWaUkxZ25kaUYxTDVxSklFT3l6V1A3RWs0c25XQWZfbW80TnpVb2VSSXlFalhVYzNqbVJXbDJqZ0pVZFo3ZTFJaGRUdGtoZktaMWhkai1jQU5vcno4NFlrRXoyQkd1V0lWbkZlbjdSM1l1dzJhdUtjdFpoQk45enp2RlRsTmVSUFJYTVZCaFNyVnBtT19ia05sT1RpOXpxeGg2WQ?oc=5",
-        "timestamp": "2026-05-12T06:30:00",
-        "timestamp_display": "12. 05. 2026 06:30",
+        "title": "Accolade posiluje vedení",
+        "summary": "Česká Accolade rozšiřuje vedení o Garyho Mazzottiho, který se připojí k Kratinovi a Šoustalovi.",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUzVWYlN5a2hLZGhuVUYxZG9UWWx6OFh2SUVRQ1ltRVlKWGxjZHMwb2F1d2xEa0pHRExPcUZpaDFBQjl2b3dCM0I4ZHI0S2VOUDNBaFFxbW42SmNjZ29aUUJMdzMta0RfRGZJNkc2a1VnVUQ4enhKN3ZNY3pNMDJZeUtSSnp3TlBRbkV0UnJwb1ZkYUE?oc=5",
+        "timestamp": "2026-05-12T15:09:49",
+        "timestamp_display": "12. 05. 2026 15:09",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Český jednorožec",
+        "summary": "Firma ajťáka získala miliardy od investorů ze Silicon Valley.",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORVZFcDJ4aEhNZmhuSHllTGQ1QWlVUVpDV3V0S3pEWnZObTVzUmpZWHJrWnRtNmh3V1BTMVgxb0VxR3BwM0syT05KbGpIUVpfZTlYdWlhOTFQV2FMakhENHlJMFNKcmdkRGZ3SmRqWVNEWmM2Zm9WNjJrWlJXTmc3bUVrWWUxMEZNNVFEQWJKS19CN3ZiaEtHci1aM25iSWhWU2ZMM0dMSWgtLVBUNjhDYTE0Y2NrZWtrX2ZXTC1uMEUtTkhtdEdFWWZBTGRIYk1Z?oc=5",
+        "timestamp": "2026-05-12T14:30:00",
+        "timestamp_display": "12. 05. 2026 14:30",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Bratři Novotní modernizují",
+        "summary": "Bratři Novotní mění svou firmu v moderní designovou značku, kombinují tradiční sklářské dědictví s inovacemi.",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa1ZyMnVDYUpyTEItQkVaNERxb2dCQUFjcFU4QnVyWnhVSDNyczB5c3gtaW5EdDROeWk5RGo0dUFmbXNkSFljbGdUX3pfNnk3S0xNeEIzZFBaOXBjQkE4SjJQOC1lbjFHdUIwWm8yQ0ZickpMQnlTYmZ6WlBrNWdzUGFlOVQtLVJuUUNXSTBmYzFIWndYVTg3bmJWUQ?oc=5",
+        "timestamp": "2026-05-12T14:07:11",
+        "timestamp_display": "12. 05. 2026 14:07",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Česká APS vede fond",
+        "summary": "Česká APS povede evropský fond na nesplacené úvěry s objemem 250 milionů eur.",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR3BPSHkxcDQ2M0lfR2ZxVHNkaWE5TldIQUxmck5HWWJDeHZuT2x2enE3ZmlJWk9adi16RUx6OFVjZjN1aVl2NmNLbjBXNlVTT1ZDWWFOTFA3c3FsU3BvUDJQQjNoNk5uWXJyaThnQXRMcktSMldRRkRjbUJYNmRzdUphLWNQTE5sTFJWc3NqOTRQZ3FBSDVqenVlRnZydWhSbXI0bU9UVHNWMm8?oc=5",
+        "timestamp": "2026-05-12T11:49:54",
+        "timestamp_display": "12. 05. 2026 11:49",
+        "is_new": true
+    },
+    {
+        "category": "Medicína",
+        "title": "Nová služba pro matky",
+        "summary": "Nová služba První dotek v Karlovarském kraji pomáhá matkám po porodu a zaměřuje se na prevenci odkládání dětí.",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRnZrajhESmdPcUtpV0dBNEE3TDB0eDJaY2J3MzRDei1PdGpnemVqZTdJWlpJd3doN055RVRGaEs2c0FWc1NVcWV5RmtKc3JENjVVVFBzYWJlcmNPT3J1Q2NVeC1hUTB1WlRIcXRDdm5EeGkxVV9yQVUwRDBpajBTcHlNVGFJNGJqZ3BjV1RkZFNOQmpqY292UEw4aHpRSzljMS1WNjJUbmNHa002UlZteWlfd0ZIOHRGODBaV1c2eGFQOWNsODlr?oc=5",
+        "timestamp": "2026-05-12T06:13:00",
+        "timestamp_display": "12. 05. 2026 06:13",
         "is_new": true
     },
     {
@@ -24,6 +60,15 @@
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcUEyMGVQd0RucGtMY2NkZHBiVncxc0ktYUlwUTZIVmxJQ3EwZ3I4UURrMW1PVXlUOW1ibjNvaHZEUVlRd1ZRU1NhblVrNHVyR2g2TGNkN3djQlpld0E2aFNxSmhVNTg5cHBUWUxxRlRKdHB5Z1gxUjhQb1dBamUzNlk5bHk5WGpuRUZydEgtMDFFanFYaEJKVUtEZjFvMlhRenVpWUJlOEc?oc=5",
         "timestamp": "2026-05-12T08:00:05",
         "timestamp_display": "12. 05. 2026 08:00",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "UDI Group zahajuje projekt",
+        "summary": "UDI Group zahajuje výstavbu a prodej projektu SIDE Smíchov Living, nového rezidenčního komplexu.",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObXNGMlBYNmxPcDQ0am9lNjVWaUkxZ25kaUYxTDVxSklFT3l6V1A3RWs0c25XQWZfbW80TnpVb2VSSXlFalhVYzNqbVJXbDJqZ0pVZFo3ZTFJaGRUdGtoZktaMWhkai1jQU5vcno4NFlrRXoyQkd1V0lWbkZlbjdSM1l1dzJhdUtjdFpoQk45enp2RlRsTmVSUFJYTVZCaFNyVnBtT19ia05sT1RpOXpxeGg2WQ?oc=5",
+        "timestamp": "2026-05-12T06:30:00",
+        "timestamp_display": "12. 05. 2026 06:30",
         "is_new": false
     },
     {
