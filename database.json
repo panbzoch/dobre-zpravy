@@ -1,12 +1,57 @@
 [
     {
+        "category": "Byznys",
+        "title": "Nová runway Jaroslava",
+        "summary": "Jaroslav Strnad podruhé vybudoval multimiliardovou skupinu, uvádí Forbes Česko.",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLUhXNURoWFEwMXRKbUd1VjR1bEJicGxINFVHYi1aX2JoenBwSTI3SkVJYzJVYlRHSkRTT0NKVEU2cmQ1dHM3Z1hfcmNUMjdmR3pBaGVlMi1tRHA5Y2FJVTlUeldwMXZiMFR4djVLd3lCNnVWX19KOVFfU2pNOWNLZ3Y2NEV6S004V3BKUl9Na2FTdC1wRncxMzF3?oc=5",
+        "timestamp": "2026-05-13T10:39:24",
+        "timestamp_display": "13. 05. 2026 10:39",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Úspěšný exit ČVUT",
+        "summary": "Tři doktorandi ČVUT dosáhli úspěšného exitu se svou firmou, která se zaměřuje na umělou inteligenci.",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcS1FQ2lsT3RueDQwN2JfMGVwd1o3ZHZNSURJY3RJVk41WlFFdVNRdHBtZFhsWlp0S0hJNVQzSG1ZaVMySUM5ak9hSGtBcWVBTUc3X3BOWlFMSzVDY3JINDdNNldTZUtIM1JqQ3NremJIV3hScW5fTHQwbktwalVIN0JiUnFXX1cwOUpmTWZoeWUwVGhaYVl2YmozSHpnZ293aDFMNi03RGl5V1c3QjYyR0liUENneGc?oc=5",
+        "timestamp": "2026-05-13T08:28:44",
+        "timestamp_display": "13. 05. 2026 08:28",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Změň život jedinou větou",
+        "summary": "Forbes Česko nabízí inspiraci pro změnu života pomocí jedné věty.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YVi1iemxJeHN3VHJKQmpXLU9pdFVFZGJtSTFkazF4YW5kWEVXTk5KSUl5Nk5ySFZhZklmb2FCWUw3ZE5Cd3phbkZKYS0wWGtIYVBB?oc=5",
+        "timestamp": "2026-05-12T07:30:06",
+        "timestamp_display": "12. 05. 2026 07:30",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Změňte svůj život",
+        "summary": "Jedna inspirativní věta může změnit váš život, tvrdí odborníci.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42UXlhWWVNemtRVmlIXzFFUEE3aXRuOEdlRmFzY241VWt3cEdKNjE1cFQ1ZERIWHk2ZEVqWjBQMnlvTWkyM2Z6UmZudldtbUI4ZG9n?oc=5",
+        "timestamp": "2026-05-11T09:31:27",
+        "timestamp_display": "11. 05. 2026 09:31",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Změňte život",
+        "summary": "Jedna inspirativní věta může změnit život, tvrdí odborníci.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwMmdlQWZXUkxnSlg4eG11cG96d244aGhSbGdsalF6U0NuNnhfTjBUS1FlMFJwbXV0WVlkVTAxa1Bnc0t2XzBlQ1h3NnE1OVdRUHZJ?oc=5",
+        "timestamp": "2026-05-11T06:46:05",
+        "timestamp_display": "11. 05. 2026 06:46",
+        "is_new": true
+    },
+    {
         "category": "Společnost",
         "title": "Komunitní zahrada v Praze",
         "summary": "V pražské Krči vzniká komunitní zahrada, kde se 150 zájemců bude věnovat pěstování rostlin a péči o zvířata.",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQlB1czBubDNzcHhRdXhmNnFmWmxUNXBfTG1aRHZCQzBNaVVKZ2wwQ2RkYkVSN005czE1YnVCVGw5WUZaLS1Nc2xGYzNJbHFwTXpjTnJfMnotQ0xzZTFQVTJhdTg4LWQ5eDNOV3VGWFUwbGh5U0FRTFZwVUpxeWVzTjRrMnlEdjMzbmdqTmxOU1NwaEs0Ui1xZS0wdThpMmNpdlZEUFVsQ09QdHRraUZmcGlta0ZGSFJIRUhSNEJjeFQyUGM?oc=5",
         "timestamp": "2026-05-13T08:20:00",
         "timestamp_display": "13. 05. 2026 08:20",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,61 +60,7 @@
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ2lmc0tsNVVrenhXZ3pTRHNGa3lNTFo1VGliNlRwb2REX3ByNC03N3dxd1hGNy1QdnJtbXlxUDlWTW9KeHIwWURBU1B0Z2tzMDRMRm9pNXpOT2dsam5LUk04UDA3UVlNR1dyZ2Z2eG5XNHVVVDk5R1plaFY1c2x2LTJPSEQ3cFd6aktOXzU1Z3I?oc=5",
         "timestamp": "2026-05-13T08:03:16",
         "timestamp_display": "13. 05. 2026 08:03",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Růst realitního trhu",
-        "summary": "Comfort reality CZ, s.r.o. nabízí nemovitosti, realitní služby rostou.",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4ydTdpTVY4TzEzaUtoSldEMEx1clUxNFRnWHlYWThzd3pFdkloWTJVR0w2eDM5UEdiVVBVV0xBb3FXSnE0eWFkTWtQWjZ1XzM2U0tKUEptMzRrVnNaRkJFcGhoXy1YV1gzaVJJaFhiaXp6WXJSVUIw?oc=5",
-        "timestamp": "2026-05-12T11:57:18",
-        "timestamp_display": "12. 05. 2026 11:57",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Svět zpomalovat nebude",
-        "summary": "Svět nebude zpomalovat kvůli Evropě, říká expert, který psal pravidla pro Google i Metu.",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUjlpalZldFUwak1ZTEpGNHZ5UHlTUmcxdXp0QTdoWEtXUmZoQTlmWVktT0F5SXNTR0lRZHNodXl0V1dUbGlRdXBaanVGaVNWbmxxaVVwMlRBSURfOTVoX19PeDN1SkJGMTFCUVo3aExzX24yQVJnX2pvSVp1UVA3SVFqWlRITUxfYno4VWNldFJDc3JLYWV6UjRPZWtpMlpkd0pR?oc=5",
-        "timestamp": "2026-05-12T06:13:31",
-        "timestamp_display": "12. 05. 2026 06:13",
-        "is_new": true
-    },
-    {
-        "category": "Společnost",
-        "title": "Změňte život jedinou větou",
-        "summary": "Forbes Česko nabízí inspiraci pro změnu života pomocí jedné věty.",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKT19HT3ROb0lza28ydzZUbm5OVmU1a3E4NERiMUNxWlpTVkt2SFpWNEZBcTB0RzY4cldhcXRIQm9GQ0lPOGx5c0E5eVEyU3FKSmxv?oc=5",
-        "timestamp": "2026-05-11T19:58:22",
-        "timestamp_display": "11. 05. 2026 19:58",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "AI boti zpomalují weby",
-        "summary": "AI boti mohou zpomalovat webové stránky, existují způsoby, jak to poznat a řešit.",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVHc1N052OFc2MFgtMVhtVUN4bmQ1M0JqNDBzVUs2M2dheUlnU0ZTOEZ2YnlRMGotc2cxbFZxZHBJX2xYNEsycU1GRGFIT1A3MVFNa2tDU1lVcW92Rk5mZmdZVDlVdndyd1VzSFEwZmY0RzdyR3JMM3oyVkRNamU0aGFGVW9pOEl0RnJxV3ZTRzZRcGpkU1Q0?oc=5",
-        "timestamp": "2026-05-11T07:00:00",
-        "timestamp_display": "11. 05. 2026 07:00",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Česko-americká firma",
-        "summary": "Exaforce získala 2,6 miliardy na vývoj bezpečnostních agentů.",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYTYxV1FyanlLZ2UzNkxvYU51R1VZWGp1bDZiSnk3SFppNWFtV09tWHEzRE5NdnlESzRscXhXRmQ0eE1VZ3BSU0RHbThOX1ppSkJzd3BiYU55UWlDWGwxcEl0N1JyTUs2TWtqQTUwcU9VblM1dzFVOVFxVUdlc2VSd2N5NG5QeWJCRXhpMDloRnpRVUVzWEdlYnhLSVczaTZVNExXbFJSXzJhUGFJY1c4YzhfRHFoaWFiSGhwSQ?oc=5",
-        "timestamp": "2026-05-11T07:00:00",
-        "timestamp_display": "11. 05. 2026 07:00",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "České pivo slaví úspěch",
-        "summary": "České pivo Matuška získalo 2 medaile na World Beer Cup, což je velký úspěch pro český pivovar.",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSHB2RW5PTDBlUHV5R2MzZl9oaUcyd0ZuZnlYN2pYWlh5NDN1anBMYTA2ZFFRRzJfcjZzNzNqMGpfNGp5NzVLSU9tbjVtcVpTU0lKc0QwNXBhckdoRF94cUNlWHhnUy1USTk3TVBUS1lQY1VxSlptRUZBR1NnMmZKekcxNWwwa1RrZFV4a1owQ1BLb1M2MWRGZUFNeVpfenlTaXdZYzFWLU9raGRrZi1ETjhlRmVadlJJQnNn?oc=5",
-        "timestamp": "2026-05-06T09:11:00",
-        "timestamp_display": "06. 05. 2026 09:11",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -118,6 +109,15 @@
     },
     {
         "category": "Byznys",
+        "title": "Růst realitního trhu",
+        "summary": "Comfort reality CZ, s.r.o. nabízí nemovitosti, realitní služby rostou.",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4ydTdpTVY4TzEzaUtoSldEMEx1clUxNFRnWHlYWThzd3pFdkloWTJVR0w2eDM5UEdiVVBVV0xBb3FXSnE0eWFkTWtQWjZ1XzM2U0tKUEptMzRrVnNaRkJFcGhoXy1YV1gzaVJJaFhiaXp6WXJSVUIw?oc=5",
+        "timestamp": "2026-05-12T11:57:18",
+        "timestamp_display": "12. 05. 2026 11:57",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
         "title": "Česká APS vede fond",
         "summary": "Česká APS povede evropský fond na nesplacené úvěry s objemem 250 milionů eur.",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR3BPSHkxcDQ2M0lfR2ZxVHNkaWE5TldIQUxmck5HWWJDeHZuT2x2enE3ZmlJWk9adi16RUx6OFVjZjN1aVl2NmNLbjBXNlVTT1ZDWWFOTFA3c3FsU3BvUDJQQjNoNk5uWXJyaThnQXRMcktSMldRRkRjbUJYNmRzdUphLWNQTE5sTFJWc3NqOTRQZ3FBSDVqenVlRnZydWhSbXI0bU9UVHNWMm8?oc=5",
@@ -153,6 +153,15 @@
         "is_new": false
     },
     {
+        "category": "Technologie",
+        "title": "Svět zpomalovat nebude",
+        "summary": "Svět nebude zpomalovat kvůli Evropě, říká expert, který psal pravidla pro Google i Metu.",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUjlpalZldFUwak1ZTEpGNHZ5UHlTUmcxdXp0QTdoWEtXUmZoQTlmWVktT0F5SXNTR0lRZHNodXl0V1dUbGlRdXBaanVGaVNWbmxxaVVwMlRBSURfOTVoX19PeDN1SkJGMTFCUVo3aExzX24yQVJnX2pvSVp1UVA3SVFqWlRITUxfYno4VWNldFJDc3JLYWV6UjRPZWtpMlpkd0pR?oc=5",
+        "timestamp": "2026-05-12T06:13:31",
+        "timestamp_display": "12. 05. 2026 06:13",
+        "is_new": false
+    },
+    {
         "category": "Medicína",
         "title": "Nová služba pro matky",
         "summary": "Nová služba První dotek v Karlovarském kraji pomáhá matkám po porodu a zaměřuje se na prevenci odkládání dětí.",
@@ -168,6 +177,15 @@
         "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPVUpMUVVsclNmZ2VwRGwxbUdPQXdsUDZTVld5MUZ0TzlTS3ZpUkVBVXB6NHgxZGtOc09kLUo2T3hXQ3ptMGU2a2pNdmV5Z0V4UGdycUJhZFpHeGduQVUzWk8zS3VXclYtbFo3Q2VMRFVvdktOYVM1WEg4eHF2dElWejhZWmJaT0dDNnU2U0J4RkozWEhDb0RRRnVGOHRsZU9ldmZENE9HOHJhS25PdXJWQm9VZzkzeFRDRzRHMmsxSkUtb1JMbXpfaEhkbzBPRV9aY1FLZ3FDZVJ3ZWF2eklxSnZPWnZ6SzR0T21sYnMwbGtYanZY?oc=5",
         "timestamp": "2026-05-12T05:47:49",
         "timestamp_display": "12. 05. 2026 05:47",
+        "is_new": false
+    },
+    {
+        "category": "Společnost",
+        "title": "Změňte život jedinou větou",
+        "summary": "Forbes Česko nabízí inspiraci pro změnu života pomocí jedné věty.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKT19HT3ROb0lza28ydzZUbm5OVmU1a3E4NERiMUNxWlpTVkt2SFpWNEZBcTB0RzY4cldhcXRIQm9GQ0lPOGx5c0E5eVEyU3FKSmxv?oc=5",
+        "timestamp": "2026-05-11T19:58:22",
+        "timestamp_display": "11. 05. 2026 19:58",
         "is_new": false
     },
     {
@@ -240,6 +258,24 @@
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQXhFMVctVHhUR3dEekRCbHZIZ0dvVTQ2TG5HY283cEw2TmZLNGdBNDNtSjVVQWJ4U1RjM1ZfcGxzMWV6WXZpVzFkXzIzVzBnQTNZVklFSFpTdmhJdGNHUnV6ZTJMYjdiTUdCUnZxdnZpWGVMdUtubC1COF9PSm5mM0c3STNCeE5qNl9kUzNxNDFHQXJPRWZaalpwcDNjanZlaWE5TXZBSE1Hc2JVZTNlaW43QzBGZGc5?oc=5",
         "timestamp": "2026-05-11T09:29:03",
         "timestamp_display": "11. 05. 2026 09:29",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "AI boti zpomalují weby",
+        "summary": "AI boti mohou zpomalovat webové stránky, existují způsoby, jak to poznat a řešit.",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVHc1N052OFc2MFgtMVhtVUN4bmQ1M0JqNDBzVUs2M2dheUlnU0ZTOEZ2YnlRMGotc2cxbFZxZHBJX2xYNEsycU1GRGFIT1A3MVFNa2tDU1lVcW92Rk5mZmdZVDlVdndyd1VzSFEwZmY0RzdyR3JMM3oyVkRNamU0aGFGVW9pOEl0RnJxV3ZTRzZRcGpkU1Q0?oc=5",
+        "timestamp": "2026-05-11T07:00:00",
+        "timestamp_display": "11. 05. 2026 07:00",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Česko-americká firma",
+        "summary": "Exaforce získala 2,6 miliardy na vývoj bezpečnostních agentů.",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYTYxV1FyanlLZ2UzNkxvYU51R1VZWGp1bDZiSnk3SFppNWFtV09tWHEzRE5NdnlESzRscXhXRmQ0eE1VZ3BSU0RHbThOX1ppSkJzd3BiYU55UWlDWGwxcEl0N1JyTUs2TWtqQTUwcU9VblM1dzFVOVFxVUdlc2VSd2N5NG5QeWJCRXhpMDloRnpRVUVzWEdlYnhLSVczaTZVNExXbFJSXzJhUGFJY1c4YzhfRHFoaWFiSGhwSQ?oc=5",
+        "timestamp": "2026-05-11T07:00:00",
+        "timestamp_display": "11. 05. 2026 07:00",
         "is_new": false
     },
     {
@@ -663,6 +699,15 @@
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT3p6Z0VCNWJQQUNVSjItRVZGcmN3eFVXbGlPSjNTTXllbFVzZTBYODFtY0dCQjE5SVhmS1dFalExYlpGX1JYRWk4azlOUVZodWNfMzYtSVhSdlowTW9xWjRZeGNCeTJLZ2NFVUxhRUM5eGRwVmlBbzdiX0UyUGtCSmx6S2RuWmNCRkh2RzNtYkF5UQ?oc=5",
         "timestamp": "2026-05-06T10:05:27",
         "timestamp_display": "06. 05. 2026 10:05",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "České pivo slaví úspěch",
+        "summary": "České pivo Matuška získalo 2 medaile na World Beer Cup, což je velký úspěch pro český pivovar.",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSHB2RW5PTDBlUHV5R2MzZl9oaUcyd0ZuZnlYN2pYWlh5NDN1anBMYTA2ZFFRRzJfcjZzNzNqMGpfNGp5NzVLSU9tbjVtcVpTU0lKc0QwNXBhckdoRF94cUNlWHhnUy1USTk3TVBUS1lQY1VxSlptRUZBR1NnMmZKekcxNWwwa1RrZFV4a1owQ1BLb1M2MWRGZUFNeVpfenlTaXdZYzFWLU9raGRrZi1ETjhlRmVadlJJQnNn?oc=5",
+        "timestamp": "2026-05-06T09:11:00",
+        "timestamp_display": "06. 05. 2026 09:11",
         "is_new": false
     },
     {
