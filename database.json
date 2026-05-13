@@ -1,12 +1,39 @@
 [
     {
+        "category": "Společnost",
+        "title": "Změň život jedinou větou",
+        "summary": "Forbes Česko nabízí inspirativní články, které mohou změnit život.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1la2hqMTU1UVFpcjA2TzRrVHJJdzZCdTBod19sa1NxQW1GVzJwajNOaFZJMnVlT3ZDQzJWTGZVMVUzUnhRZkVMQUdBMlRYR0cxbm9z?oc=5",
+        "timestamp": "2026-05-12T05:59:48",
+        "timestamp_display": "12. 05. 2026 05:59",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Změň svůj život",
+        "summary": "Jedna inspirativní věta může změnit život, Forbes Česko nabízí rady a tipy pro osobnostní růst.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVZTMwdGRoS3ZCVWNTaEJHdVhReVZxVjlRbjYzOVlCOHVCVTJXRVdBeWdpeVJqTzF4Y1JvdGxhVE13TjVEMlRSZHByeG81SlUxODJZ?oc=5",
+        "timestamp": "2026-05-11T09:12:03",
+        "timestamp_display": "11. 05. 2026 09:12",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Průmysl mění život",
+        "summary": "Forbes Česko přináší inspirativní články o průmyslu a jeho vlivu na životy lidí.",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtMk93OU1TUGFTV0JocktSaUt6REpsSFEwRlQzR1JNWGVoQTZiLXNaUUYyTjJZVFhaMG1BbjRxLU4xMjRZeU45X05JejVLYUZPT0d6TjdhQQ?oc=5",
+        "timestamp": "2026-05-10T12:28:23",
+        "timestamp_display": "10. 05. 2026 12:28",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "Startup Rossum koupil obr",
         "summary": "Český startup Rossum úspěšně koupil amerického obchodního partnera, čímž rozšiřuje své podnikání.",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcWxYcVJwbXFXUm5IcXd1RlB0ZElMcEpka2hhMjRaMVFHSFVEaFhIT1dqYlk2Sy01WmNaQmJQYUNqRVFMQUhucnJVR04tUkVSNlVPelRySlVNUWVTcHhoY1V2ZjQ3aU4yUFJyeFZHWWdUNkNpdHpaa3VZd2NRbDJVTEhnck1aUE0yOVlndWp2M2YyLU5DejdORFdMejE?oc=5",
         "timestamp": "2026-05-13T16:11:17",
         "timestamp_display": "13. 05. 2026 16:11",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -15,25 +42,7 @@
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLWRhUzl5UWJEVDRZSkYzbG1KNDVpNVJQU2pPTmstTTZLUl9HZW9rdHQ1cGFYYV9jNzhXbEFfYURuSjlrWTJmQVBEZFZwc2tIVjdtZjh3alFSNVc4NVlDRWZYNmp4VzIyUkZucjJkLTdGb3UwLUllWE5wWERRRWY4dnk3eEJmRDNyd2RjVmV3?oc=5",
         "timestamp": "2026-05-13T14:46:00",
         "timestamp_display": "13. 05. 2026 14:46",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Rossum kupuje americkou Coupu",
-        "summary": "Český startup Rossum byl koupen americkou firmou Coupa, která se specializuje na autonomní řízení firemních výdajů.",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSzVkaGhTc1RLakt4UDB1QVdDTkhoUEVKVE11SVVqVWs2aE9Qa0R5M0daM1g0Njd5ZzRIbHhhQ21DVWVkZDZjZHJaM0gyZFFNUzZodUNHRG1BcThkMlZnQzdMOE5RTjRNazJXNlpsMERLdFFDQmJadnJzSWIzamxXM0k2a0x1TnRjZjZtc3pyQ2RVLWc0eThFa0ZiX2dFS0pka3dJejFXdFZ5c3RnbEs3N3hkekloNlREc250Zkc3SE1EcHg2R1hHOFRsTHZMNVBCbnloYXZHUVVsa3lSTnk0?oc=5",
-        "timestamp": "2026-05-13T10:32:15",
-        "timestamp_display": "13. 05. 2026 10:32",
-        "is_new": true
-    },
-    {
-        "category": "Společnost",
-        "title": "Změň život jedinou větou",
-        "summary": "Forbes Česko nabízí inspiraci pro změnu života pomocí jedné věty.",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tYnVLU3FBYmFRbFVxSkVBOXVrOVluWm5aRUhjTDdWczJLUXFVTEE5VTdBdFlKRmVxQTZaT0lzQlRnZEVxc2tfUXM1VldQUDJDbmlV?oc=5",
-        "timestamp": "2026-05-11T14:29:09",
-        "timestamp_display": "11. 05. 2026 14:29",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -42,6 +51,15 @@
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLUhXNURoWFEwMXRKbUd1VjR1bEJicGxINFVHYi1aX2JoenBwSTI3SkVJYzJVYlRHSkRTT0NKVEU2cmQ1dHM3Z1hfcmNUMjdmR3pBaGVlMi1tRHA5Y2FJVTlUeldwMXZiMFR4djVLd3lCNnVWX19KOVFfU2pNOWNLZ3Y2NEV6S004V3BKUl9Na2FTdC1wRncxMzF3?oc=5",
         "timestamp": "2026-05-13T10:39:24",
         "timestamp_display": "13. 05. 2026 10:39",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Rossum kupuje americkou Coupu",
+        "summary": "Český startup Rossum byl koupen americkou firmou Coupa, která se specializuje na autonomní řízení firemních výdajů.",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSzVkaGhTc1RLakt4UDB1QVdDTkhoUEVKVE11SVVqVWs2aE9Qa0R5M0daM1g0Njd5ZzRIbHhhQ21DVWVkZDZjZHJaM0gyZFFNUzZodUNHRG1BcThkMlZnQzdMOE5RTjRNazJXNlpsMERLdFFDQmJadnJzSWIzamxXM0k2a0x1TnRjZjZtc3pyQ2RVLWc0eThFa0ZiX2dFS0pka3dJejFXdFZ5c3RnbEs3N3hkekloNlREc250Zkc3SE1EcHg2R1hHOFRsTHZMNVBCbnloYXZHUVVsa3lSTnk0?oc=5",
+        "timestamp": "2026-05-13T10:32:15",
+        "timestamp_display": "13. 05. 2026 10:32",
         "is_new": false
     },
     {
@@ -231,6 +249,15 @@
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYlRscXlCNkFrdExKbS1kanFfVjZzNnFGQmczY0VObkFSSm1zUmc2ckF3aGUweld5X2ZPRldMd19tanRGUlZ4Y2dvTnVkb19FMnJGMV8ydjNkc2VrZ25ybkJuVFB2aXJyeTBydVBoREhHRnBvY2o1aTYyWlJtY0U4Nkd2ODdvOWQ4Y0xNaEdyZVFieXlhX2tWRHktd1YwX0l0?oc=5",
         "timestamp": "2026-05-11T14:31:14",
         "timestamp_display": "11. 05. 2026 14:31",
+        "is_new": false
+    },
+    {
+        "category": "Společnost",
+        "title": "Změň život jedinou větou",
+        "summary": "Forbes Česko nabízí inspiraci pro změnu života pomocí jedné věty.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tYnVLU3FBYmFRbFVxSkVBOXVrOVluWm5aRUhjTDdWczJLUXFVTEE5VTdBdFlKRmVxQTZaT0lzQlRnZEVxc2tfUXM1VldQUDJDbmlV?oc=5",
+        "timestamp": "2026-05-11T14:29:09",
+        "timestamp_display": "11. 05. 2026 14:29",
         "is_new": false
     },
     {
