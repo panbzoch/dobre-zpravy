@@ -1,29 +1,38 @@
 [
     {
-        "category": "Společnost",
-        "title": "Změň život jedinou větou",
-        "summary": "Forbes Česko nabízí inspirativní články, které mohou změnit život.",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1la2hqMTU1UVFpcjA2TzRrVHJJdzZCdTBod19sa1NxQW1GVzJwajNOaFZJMnVlT3ZDQzJWTGZVMVUzUnhRZkVMQUdBMlRYR0cxbm9z?oc=5",
-        "timestamp": "2026-05-12T05:59:48",
-        "timestamp_display": "12. 05. 2026 05:59",
-        "is_new": true
-    },
-    {
-        "category": "Společnost",
-        "title": "Změň svůj život",
-        "summary": "Jedna inspirativní věta může změnit život, Forbes Česko nabízí rady a tipy pro osobnostní růst.",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVZTMwdGRoS3ZCVWNTaEJHdVhReVZxVjlRbjYzOVlCOHVCVTJXRVdBeWdpeVJqTzF4Y1JvdGxhVE13TjVEMlRSZHByeG81SlUxODJZ?oc=5",
-        "timestamp": "2026-05-11T09:12:03",
-        "timestamp_display": "11. 05. 2026 09:12",
+        "category": "Byznys",
+        "title": "Růst firem v nejistotě",
+        "summary": "Forbes Česko nabízí rady pro řízení firem a překonání krizí, aby firmy mohly růst i v nejistotě.",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWEhhNHRkcnRYNGdoU0E4QVM0bzlDMEp2MkVSbjlNSWk3dzdQSnRHd0t6SjFkOFk3X0NsWWFuVk1vUzlNbmo3YmNXVWIyMVBQUlBva0xIa2dEMjQtRWJpN3NFRXg1Q0hRcTFWbWpWQnhwd0dlS2FmYXQwcDZ1WnZZcFZkQi1vNWRMcVJHT3ZtWHFSRW5FaEd5NmFUUmVpQQ?oc=5",
+        "timestamp": "2026-05-14T04:00:57",
+        "timestamp_display": "14. 05. 2026 04:00",
         "is_new": true
     },
     {
         "category": "Byznys",
-        "title": "Průmysl mění život",
-        "summary": "Forbes Česko přináší inspirativní články o průmyslu a jeho vlivu na životy lidí.",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtMk93OU1TUGFTV0JocktSaUt6REpsSFEwRlQzR1JNWGVoQTZiLXNaUUYyTjJZVFhaMG1BbjRxLU4xMjRZeU45X05JejVLYUZPT0d6TjdhQQ?oc=5",
-        "timestamp": "2026-05-10T12:28:23",
-        "timestamp_display": "10. 05. 2026 12:28",
+        "title": "AI boom v praxi",
+        "summary": "Akcie firmy s flashkami přidaly 4000 procent za rok a půl díky boomu umělé inteligence.",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY1NLdUhDV3VhbjhnVjd6MExsdTcySjc4elQ0Und1SEFCdngtWGZOb0tKM2FIbG1sUEpDZjJuOWlRVnRSZXFzcVBVaktqWm9BVUpITTJzRW1zcnZOMVJGVl92YkZJSlBLT3Q0Ml9RRmJIbDRTY2lTZWlmdzAyQm9yM0h5ODBFdHNPdFpqNDVyejF6dV9GNVExc2xYQ1F1c1FnR01VcXBLbEotbzgwYzdpWkZ3?oc=5",
+        "timestamp": "2026-05-13T10:32:09",
+        "timestamp_display": "13. 05. 2026 10:32",
+        "is_new": true
+    },
+    {
+        "category": "Medicína",
+        "title": "Kardi Ai vítězem",
+        "summary": "Kardi Ai vyhrálo Global Startup Awards za nejlepší zdravotnickou inovaci.",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN0NteW03YWZuRVhhR0I4VnY3X0Q2bV9wUXlGRmZ2b1Y3UF8yMW9FQl9hemxLZUdxVEw4eEYwQkdmZTAwek9ub1dvZjlTMXJKeHpiTHJvTGFnenVJWmtoZ0pVMU1kY0ZkMVdsMHRmbGExLTZEZi1pNjJBUzhfMktGSl84S0hzRG13T0drWFVHRWVvQV9iNExTQzRCYjhnWWxzSUpWNXJsZGZwWjRzVzBtY2lzM2Q?oc=5",
+        "timestamp": "2026-05-12T11:04:39",
+        "timestamp_display": "12. 05. 2026 11:04",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Změň život jedinou větou",
+        "summary": "Forbes Česko nabízí inspirativní články, které mohou změnit život.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3TkZYV2xYWmVzRDlsNEh6SVA2YVE4S1I0SUhubkxSNUlYQnZWbk1ycUItS29uczM3MTN1dUJnQnNDMGxiUFQxb3FYLUJpMzIyODln?oc=5",
+        "timestamp": "2026-05-12T00:41:06",
+        "timestamp_display": "12. 05. 2026 00:41",
         "is_new": true
     },
     {
@@ -207,6 +216,15 @@
         "is_new": false
     },
     {
+        "category": "Společnost",
+        "title": "Změň život jedinou větou",
+        "summary": "Forbes Česko nabízí inspirativní články, které mohou změnit život.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1la2hqMTU1UVFpcjA2TzRrVHJJdzZCdTBod19sa1NxQW1GVzJwajNOaFZJMnVlT3ZDQzJWTGZVMVUzUnhRZkVMQUdBMlRYR0cxbm9z?oc=5",
+        "timestamp": "2026-05-12T05:59:48",
+        "timestamp_display": "12. 05. 2026 05:59",
+        "is_new": false
+    },
+    {
         "category": "Technologie",
         "title": "Nanovlákna vyráběna velkém",
         "summary": "Česká technologie Nanospider umožňuje výrobu nanovláken ve velkém, aspiruje na ocenění.",
@@ -315,6 +333,15 @@
         "is_new": false
     },
     {
+        "category": "Společnost",
+        "title": "Změň svůj život",
+        "summary": "Jedna inspirativní věta může změnit život, Forbes Česko nabízí rady a tipy pro osobnostní růst.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVZTMwdGRoS3ZCVWNTaEJHdVhReVZxVjlRbjYzOVlCOHVCVTJXRVdBeWdpeVJqTzF4Y1JvdGxhVE13TjVEMlRSZHByeG81SlUxODJZ?oc=5",
+        "timestamp": "2026-05-11T09:12:03",
+        "timestamp_display": "11. 05. 2026 09:12",
+        "is_new": false
+    },
+    {
         "category": "Technologie",
         "title": "AI boti zpomalují weby",
         "summary": "AI boti mohou zpomalovat webové stránky, existují způsoby, jak to poznat a řešit.",
@@ -393,6 +420,15 @@
         "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQS1gzenhtenBJanQtM0thbDJRNDhYMFVPMTVKclNqek5HeERyVVRaTFl5aFpRWXVuUVVVTHFQdDBDcEIxcXNySG1tQURzSjd1eDRuT3B4VTVPeDhsSU95WmxWZGhKZUVmenRYTVZEQS0ycHFwWlU0VzVyTFhGclMxdEFwOHpJNllVUGVYajFON192cDJPNW1FWFhtWUo3OExSaWw3Rk5oTkdxaEVpMG5pbWtEOVFOVHhoaW10ZUdERUdEOEZKbkd2endVRDhkVEVYZUw3bmFPb0RYMTVfRnBKaGVsU0J3Wjd0aWhhVkxsTXRUcjAyQzE1VTNDcGhzR0pkOVpFQg?oc=5",
         "timestamp": "2026-05-10T16:39:00",
         "timestamp_display": "10. 05. 2026 16:39",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Průmysl mění život",
+        "summary": "Forbes Česko přináší inspirativní články o průmyslu a jeho vlivu na životy lidí.",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtMk93OU1TUGFTV0JocktSaUt6REpsSFEwRlQzR1JNWGVoQTZiLXNaUUYyTjJZVFhaMG1BbjRxLU4xMjRZeU45X05JejVLYUZPT0d6TjdhQQ?oc=5",
+        "timestamp": "2026-05-10T12:28:23",
+        "timestamp_display": "10. 05. 2026 12:28",
         "is_new": false
     },
     {
