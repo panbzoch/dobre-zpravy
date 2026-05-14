@@ -1,39 +1,30 @@
 [
     {
         "category": "Byznys",
+        "title": "Xpeng kupuje továrnu",
+        "summary": "Čínská automobilka Xpeng vyjednává o koupi evropské továrny od Volkswagenu.",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUWNYWVpkYkxSY1hBeG1BY1p3NzA3Y2x2U3FWRmpRc0N5S1gyenNrS0RGc01ibXNLdUNFS2o5LWpYUVJIdXhnMG4tWEFRTlVocWljbHlRU2g4Q0YyMjBFUGlQZHN4RndXTDEtaVB6NHNnVUszNUhtX0h6QTBlZEloWlZHa0oxUlJjZnFYN3JDRnFabnZJREVHdEdpY2ZtUQ?oc=5",
+        "timestamp": "2026-05-14T09:00:05",
+        "timestamp_display": "14. 05. 2026 09:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "UniCredit spustí Prime",
+        "summary": "UniCredit Bank spouští prémiové bankovnictví Prime s výhody pro klienty, kteří splní podmínky.",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNmpManc4VHpEWFQxc2ZzRkptRDBzQm5wLXVzQV9DMWNta1lsVFdfUFc0ODdzbTJZWHZwUGhHRDY5UExSQkhaVnFZVkdnQ0Vzd041aVNXMGp3UmVKR2JKazVrc08xNnVkQUY3X1lsQW5mOVdlZ01uQllNdk5Lc1ZLdFQ1TXdsYkxBd3l5cndCZGQ3TUwwWGRiWTZIQ3ZRTFVERkJHYmpUNHlwNmFSd1ozQWQ3M2YtT1k1emxibXhIY2g2dGRYOXNvbXZsVVJRTl84NkU2ag?oc=5",
+        "timestamp": "2026-05-14T08:50:00",
+        "timestamp_display": "14. 05. 2026 08:50",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Růst firem v nejistotě",
         "summary": "Forbes Česko nabízí rady pro řízení firem a překonání krizí, aby firmy mohly růst i v nejistotě.",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWEhhNHRkcnRYNGdoU0E4QVM0bzlDMEp2MkVSbjlNSWk3dzdQSnRHd0t6SjFkOFk3X0NsWWFuVk1vUzlNbmo3YmNXVWIyMVBQUlBva0xIa2dEMjQtRWJpN3NFRXg1Q0hRcTFWbWpWQnhwd0dlS2FmYXQwcDZ1WnZZcFZkQi1vNWRMcVJHT3ZtWHFSRW5FaEd5NmFUUmVpQQ?oc=5",
         "timestamp": "2026-05-14T04:00:57",
         "timestamp_display": "14. 05. 2026 04:00",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "AI boom v praxi",
-        "summary": "Akcie firmy s flashkami přidaly 4000 procent za rok a půl díky boomu umělé inteligence.",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY1NLdUhDV3VhbjhnVjd6MExsdTcySjc4elQ0Und1SEFCdngtWGZOb0tKM2FIbG1sUEpDZjJuOWlRVnRSZXFzcVBVaktqWm9BVUpITTJzRW1zcnZOMVJGVl92YkZJSlBLT3Q0Ml9RRmJIbDRTY2lTZWlmdzAyQm9yM0h5ODBFdHNPdFpqNDVyejF6dV9GNVExc2xYQ1F1c1FnR01VcXBLbEotbzgwYzdpWkZ3?oc=5",
-        "timestamp": "2026-05-13T10:32:09",
-        "timestamp_display": "13. 05. 2026 10:32",
-        "is_new": true
-    },
-    {
-        "category": "Medicína",
-        "title": "Kardi Ai vítězem",
-        "summary": "Kardi Ai vyhrálo Global Startup Awards za nejlepší zdravotnickou inovaci.",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN0NteW03YWZuRVhhR0I4VnY3X0Q2bV9wUXlGRmZ2b1Y3UF8yMW9FQl9hemxLZUdxVEw4eEYwQkdmZTAwek9ub1dvZjlTMXJKeHpiTHJvTGFnenVJWmtoZ0pVMU1kY0ZkMVdsMHRmbGExLTZEZi1pNjJBUzhfMktGSl84S0hzRG13T0drWFVHRWVvQV9iNExTQzRCYjhnWWxzSUpWNXJsZGZwWjRzVzBtY2lzM2Q?oc=5",
-        "timestamp": "2026-05-12T11:04:39",
-        "timestamp_display": "12. 05. 2026 11:04",
-        "is_new": true
-    },
-    {
-        "category": "Společnost",
-        "title": "Změň život jedinou větou",
-        "summary": "Forbes Česko nabízí inspirativní články, které mohou změnit život.",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3TkZYV2xYWmVzRDlsNEh6SVA2YVE4S1I0SUhubkxSNUlYQnZWbk1ycUItS29uczM3MTN1dUJnQnNDMGxiUFQxb3FYLUJpMzIyODln?oc=5",
-        "timestamp": "2026-05-12T00:41:06",
-        "timestamp_display": "12. 05. 2026 00:41",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -68,6 +59,15 @@
         "summary": "Český startup Rossum byl koupen americkou firmou Coupa, která se specializuje na autonomní řízení firemních výdajů.",
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSzVkaGhTc1RLakt4UDB1QVdDTkhoUEVKVE11SVVqVWs2aE9Qa0R5M0daM1g0Njd5ZzRIbHhhQ21DVWVkZDZjZHJaM0gyZFFNUzZodUNHRG1BcThkMlZnQzdMOE5RTjRNazJXNlpsMERLdFFDQmJadnJzSWIzamxXM0k2a0x1TnRjZjZtc3pyQ2RVLWc0eThFa0ZiX2dFS0pka3dJejFXdFZ5c3RnbEs3N3hkekloNlREc250Zkc3SE1EcHg2R1hHOFRsTHZMNVBCbnloYXZHUVVsa3lSTnk0?oc=5",
         "timestamp": "2026-05-13T10:32:15",
+        "timestamp_display": "13. 05. 2026 10:32",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "AI boom v praxi",
+        "summary": "Akcie firmy s flashkami přidaly 4000 procent za rok a půl díky boomu umělé inteligence.",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY1NLdUhDV3VhbjhnVjd6MExsdTcySjc4elQ0Und1SEFCdngtWGZOb0tKM2FIbG1sUEpDZjJuOWlRVnRSZXFzcVBVaktqWm9BVUpITTJzRW1zcnZOMVJGVl92YkZJSlBLT3Q0Ml9RRmJIbDRTY2lTZWlmdzAyQm9yM0h5ODBFdHNPdFpqNDVyejF6dV9GNVExc2xYQ1F1c1FnR01VcXBLbEotbzgwYzdpWkZ3?oc=5",
+        "timestamp": "2026-05-13T10:32:09",
         "timestamp_display": "13. 05. 2026 10:32",
         "is_new": false
     },
@@ -162,6 +162,15 @@
         "is_new": false
     },
     {
+        "category": "Medicína",
+        "title": "Kardi Ai vítězem",
+        "summary": "Kardi Ai vyhrálo Global Startup Awards za nejlepší zdravotnickou inovaci.",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN0NteW03YWZuRVhhR0I4VnY3X0Q2bV9wUXlGRmZ2b1Y3UF8yMW9FQl9hemxLZUdxVEw4eEYwQkdmZTAwek9ub1dvZjlTMXJKeHpiTHJvTGFnenVJWmtoZ0pVMU1kY0ZkMVdsMHRmbGExLTZEZi1pNjJBUzhfMktGSl84S0hzRG13T0drWFVHRWVvQV9iNExTQzRCYjhnWWxzSUpWNXJsZGZwWjRzVzBtY2lzM2Q?oc=5",
+        "timestamp": "2026-05-12T11:04:39",
+        "timestamp_display": "12. 05. 2026 11:04",
+        "is_new": false
+    },
+    {
         "category": "Byznys",
         "title": "Úspěšný byznys",
         "summary": "Manželé rozjeli byznys s rekreačními nemovitostmi, dosáhli úspěchu.",
@@ -231,6 +240,15 @@
         "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPVUpMUVVsclNmZ2VwRGwxbUdPQXdsUDZTVld5MUZ0TzlTS3ZpUkVBVXB6NHgxZGtOc09kLUo2T3hXQ3ptMGU2a2pNdmV5Z0V4UGdycUJhZFpHeGduQVUzWk8zS3VXclYtbFo3Q2VMRFVvdktOYVM1WEg4eHF2dElWejhZWmJaT0dDNnU2U0J4RkozWEhDb0RRRnVGOHRsZU9ldmZENE9HOHJhS25PdXJWQm9VZzkzeFRDRzRHMmsxSkUtb1JMbXpfaEhkbzBPRV9aY1FLZ3FDZVJ3ZWF2eklxSnZPWnZ6SzR0T21sYnMwbGtYanZY?oc=5",
         "timestamp": "2026-05-12T05:47:49",
         "timestamp_display": "12. 05. 2026 05:47",
+        "is_new": false
+    },
+    {
+        "category": "Společnost",
+        "title": "Změň život jedinou větou",
+        "summary": "Forbes Česko nabízí inspirativní články, které mohou změnit život.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3TkZYV2xYWmVzRDlsNEh6SVA2YVE4S1I0SUhubkxSNUlYQnZWbk1ycUItS29uczM3MTN1dUJnQnNDMGxiUFQxb3FYLUJpMzIyODln?oc=5",
+        "timestamp": "2026-05-12T00:41:06",
+        "timestamp_display": "12. 05. 2026 00:41",
         "is_new": false
     },
     {
