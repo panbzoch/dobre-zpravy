@@ -1,12 +1,66 @@
 [
     {
+        "category": "Technologie",
+        "title": "AI vývoj v Evropě",
+        "summary": "Česko se podílí na vývoji AI na světové úrovni, ukazuje úspěch evropského projektu.",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORkJONWRybThzRm1nX2JUWGZNOEZoaldaczZ1TzhlOWZmX3NFRDl0dDZiNTA2WGFNeG9OYW1ydmdRbEhYNjMtYXRMNWZqc0pYNTE5NWthbmQyTXRmUi1QNTVDbndNSWxuX1ppVzBGMXBiNEJQb1ZXQnRGNkZudUlkQ2NKWmN5MnYwdFVEai1Ed09fVlBSWTNsMTZxUEFoR00wUkdnem9NMVdDOEdtQlJ2ekQ0NEFhdXVE?oc=5",
+        "timestamp": "2026-05-15T15:00:00",
+        "timestamp_display": "15. 05. 2026 15:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Cerebras vyskočila",
+        "summary": "Cerebras po IPO vyskočila o desítky procent, zajímá Wall Street.",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc29WdzI5NkFVbGlqVE5UdjdLZmplMlFUTVpxLWlhamZYWGpudGYwQnJaYXVrRFJnSFlRZXdzUi11U2NuNzdsbkUta21wUUlYZU9OdnRnUFM3RndxTmRzQXJpVTBEZC1XZGJIOGJNVkpUcTVPakF5RlBPaEpuV3JlRXA3UVVWT2Fyb3VPbFI1QWU1WUI1NnFINTlITTNQdE45R3c?oc=5",
+        "timestamp": "2026-05-15T13:07:28",
+        "timestamp_display": "15. 05. 2026 13:07",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Strnad staví platformu",
+        "summary": "Strnad buduje novou investiční platformu a jedná o spolupráci s Renátou Kellnerovou.",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVktTZC1UQlBHZlJYLTF2b3VJZ21rcVZ5aGVzamhMYlZhMTUydU5XTVJyYVZENzZ5b1p0ZmJzZ1h4bUVHSXJLVzlQV2Q3bDk4RlJkdlFQb21MODVGazBkNjBpY2lacXZLZjR0ekh3TXVIRlk3bEdmbGpQMHJxTWQ4YXNQN2xqVndoVGVtTEMtaGlMNFZrLUxoODhHMVVWLUNFTUJUWlNlSUV6a3pZckZqVFhoZzJEbVd3UHh0RzR6SGMwdUh5NE05eExKZTBGbXBxR1lVLVdNQlk?oc=5",
+        "timestamp": "2026-05-15T12:20:00",
+        "timestamp_display": "15. 05. 2026 12:20",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Fond s výnosem 12 procent",
+        "summary": "Česká spořitelna nabízí fond s možným výnosem až 12 procent, přístupný i menším investorům.",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZEpNZnVMcE02bFBlaUxDVTFDQjRMdHNQeVgyeTg2YUxENVN0bEF4d2VqVE4wcDFwM2piLWh5aW04Z1dlYkpZZFpCdUlYcEpEMWJrLUQwZ1hTYWpkbmJJM19PRFhINkhvZk9Hdk9RcXhJNHlYOWUxaVZJTGEtUkZ1NmhKc2c2eEtfX0k4UTVfT2FLU293eVJINXBhUElXNlVUM2Y5TU11U0ctWkdYMklhU0ZvLTgxNXBLZnBCeVdveC1lSU16akVXNlFMU2NJMGdqODZuQ3dn?oc=5",
+        "timestamp": "2026-05-15T11:55:00",
+        "timestamp_display": "15. 05. 2026 11:55",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Veletrhy v PVA EXPO",
+        "summary": "Veletrhy v PVA EXPO PRAHA prezentovaly tisíce firem z 15 oborů dvěma stům tisícům návštěvníků.",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUnNadXZrZFRFV2lQOENENThNckVmRW1PSzFMM3hKdV94NkZZVkxfTUZWajViVGdCUmJzSnA4TWIzYS1hZENlOEVVWHpBdVpMVk9Wd1J0SWpUN3R0RkJzYWxPY1N4ZHRhSmdlMDFzWmNwckk5UUFsTHN1MGplRjA2S2RuUTM1UEpBcDk1NFlHMDJLTFdMQ2x5WG1MVE91QlN1bm1ScjhtSzQwakxJcktyY091TG5GZEZzWnVTcElYT2hUY3dSWTZxbDZLejc2MFR3TjMtaTVmYw?oc=5",
+        "timestamp": "2026-05-14T22:00:00",
+        "timestamp_display": "14. 05. 2026 22:00",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Češi investovali do AI filmů",
+        "summary": "Čeští investoři z N1 investovali do startupu, který vytváří filmy pomocí umělé inteligence.",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS3lvOWxqOEFfRGdmM2RzcjJQaS1PWDV4c3NGMl9DN0x4bVJzRWNVVGN1UkpEN3lKeW1QYVRId3NUM0M2WWpDVXNDQkc2eGcwdUhNcGxyai1wWWdzMm8yZE5HbUN5Nk14WHVLMlBXQ0UzZUhwUndrQ1BpTnVKNklZZEdzYzViWXpWMGFIQ0NVQk1Qc3JQVndYSDNGN3lNYm9QV3dhRmxvbndmY2E2LTctWEdWR01xMkE4U2pZQjJjTkhMZXB5WUNhc2xR?oc=5",
+        "timestamp": "2026-05-13T07:00:00",
+        "timestamp_display": "13. 05. 2026 07:00",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "Čeští investoři vstupují",
         "summary": "Čeští investoři vstupují do Xeroxu, míří mezi největší akcionáře firmy.",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOazZTakhOaFhaTmRNUDBGbUVuZ1NScl83b2N0T0lhM2M4cXRjQ1oyZl9WcVNiMnMyYV90TlYyTGtiMU5idWZlOXRSWXo5QjlpS0FfUzFkS2g1ZXRZUGZUYW11SG5rakx2MzAzb2t5ZlhvOEVqbE5ieEhLTW9nN0pIUTBqQVV6NEpBcTlCeTl0LTFGLWpFR3RNUDdFWng5VjFGVkliY3JB?oc=5",
         "timestamp": "2026-05-15T09:33:00",
         "timestamp_display": "15. 05. 2026 09:33",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Medicína",
@@ -15,7 +69,7 @@
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaEtZOWprYTdhekNHamtjSzU3TjlXWHh4U2RYNWc2bVdFRTdBWEVyQ3hlNVpVajE1T1duSEZ3b19TM0dQNnlVMm41emtRODQyaklYQU1tbWRHNDBnWGZsdXB5Vm0xR0tPR1k3T2NLZEYzbllUemtaenQ2WFNGb0NNRnh3S2dTdTNoVDhESXdQU0xpMW5XYzNqeGN2czZSOGdSb1loMDBwWUNUQk5NMllzSG80U2R3ZDFjbDlHNzNvQ2FwdjdWMmpocDFR?oc=5",
         "timestamp": "2026-05-15T09:02:00",
         "timestamp_display": "15. 05. 2026 09:02",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Medicína",
