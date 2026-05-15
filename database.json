@@ -1,12 +1,30 @@
 [
     {
+        "category": "Byznys",
+        "title": "Čeští investoři vstupují",
+        "summary": "Čeští investoři vstupují do Xeroxu, míří mezi největší akcionáře firmy.",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOazZTakhOaFhaTmRNUDBGbUVuZ1NScl83b2N0T0lhM2M4cXRjQ1oyZl9WcVNiMnMyYV90TlYyTGtiMU5idWZlOXRSWXo5QjlpS0FfUzFkS2g1ZXRZUGZUYW11SG5rakx2MzAzb2t5ZlhvOEVqbE5ieEhLTW9nN0pIUTBqQVV6NEpBcTlCeTl0LTFGLWpFR3RNUDdFWng5VjFGVkliY3JB?oc=5",
+        "timestamp": "2026-05-15T09:33:00",
+        "timestamp_display": "15. 05. 2026 09:33",
+        "is_new": true
+    },
+    {
+        "category": "Medicína",
+        "title": "Nová léčebna pro pacienty",
+        "summary": "Investice 265 milionů korun pro pacienty s poškozením mozku, nová léčebna na Chrudimsku.",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaEtZOWprYTdhekNHamtjSzU3TjlXWHh4U2RYNWc2bVdFRTdBWEVyQ3hlNVpVajE1T1duSEZ3b19TM0dQNnlVMm41emtRODQyaklYQU1tbWRHNDBnWGZsdXB5Vm0xR0tPR1k3T2NLZEYzbllUemtaenQ2WFNGb0NNRnh3S2dTdTNoVDhESXdQU0xpMW5XYzNqeGN2czZSOGdSb1loMDBwWUNUQk5NMllzSG80U2R3ZDFjbDlHNzNvQ2FwdjdWMmpocDFR?oc=5",
+        "timestamp": "2026-05-15T09:02:00",
+        "timestamp_display": "15. 05. 2026 09:02",
+        "is_new": true
+    },
+    {
         "category": "Medicína",
         "title": "Sanitka dostane nová vozidla",
         "summary": "Sanitka splněných snů dostane dvě nová vozidla za 9 milionů korun.",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSUgwalBnRTd5NTNqSjVCTWJRYUFwc0pTX0w1V0xZcnc3NWFZaG00czlUaXpCdHU5SWU1cUFyS1ktLWVXYU9LRHdVaFhKQUd4cFNSNEpwdVdlZEVqZzExQUpuYUdoOWV6TzhOUk1rZmRtWURieDVLLW1tVDJTenprbk1lbU10MEFfODhDZV83RQ?oc=5",
         "timestamp": "2026-05-15T08:09:18",
         "timestamp_display": "15. 05. 2026 08:09",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tVWcybTRPTGNiTjlkWWxuczRxbU9saG9XejVsQ0hEdU5ZVDIya0lZbHFTdkl5SHF2bFk1NGJBcmtiRThsVnNObzhtRk9jOUZBWktDWHhWZHY0Zw?oc=5",
         "timestamp": "2026-05-14T17:59:09",
         "timestamp_display": "14. 05. 2026 17:59",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -24,7 +42,7 @@
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQekgwNEVHdzl3Zk1TRVNBQW1aSzhEMDJKbjFzNzc4VWl4YUdndWh1eFNvM0tnMl9rLTN6aHFlRGdDT21MRmVpenY2TFRNOXo2dHVEckpaNFZmcmg3dlJPaEFiOEVBZHRDYjFhRm12TjlNRDNURy0tQlR3OEpCYmFuQnJWaHdEblVINm9hU0RfOC1rNkJlalNhSE1UQjVMWnhYeGdTQWI0dVVhaFZ4Q1JfQ2pheGZLd3ZJTC1TbA?oc=5",
         "timestamp": "2026-05-14T12:06:13",
         "timestamp_display": "14. 05. 2026 12:06",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -33,7 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS0Q0SzJsbmJtMDAwUElxcEtJcWNBRkN0YUFDTEFUTUc1bG81UFJxWUJSYkgwMy1lNkNMd19Vb2RzSUtzVk1lcFhtS1JXQlc3dDdUNWFQYnBmTjVpVmpLUHhWX3NsLW9UVUc3RXgwa1pIVXJUS1g4bDZCXzF3RzNJRkU1TTM2NmMtRFdlQy1jaVVtUXRiREhKaWxIOE5IbEdCazhhRVFFbVJ2OXJY?oc=5",
         "timestamp": "2026-05-14T09:50:46",
         "timestamp_display": "14. 05. 2026 09:50",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
