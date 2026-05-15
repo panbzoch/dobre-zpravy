@@ -1,11 +1,38 @@
 [
     {
-        "category": "Věda",
-        "title": "Sokolí mláďata v Dukovanech",
-        "summary": "V Dukovanech se narodila čtyři nová sokolí mláďata, celkem jich už bylo 18.",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUW84cC1UcXZRbVJJNWpoTERQVkFLczl4NFk1MDFaazlQdzRqby00d1A4UU9LdVZOWlFxZ2gzdmJEMEE1R01oQkZwb2haOHhES1h4VW4ycGpNOUxhWkdWaTdnNUEwbVg0aVhFdG9aaUw2MkJ2dk1jYkdtSmMxS3k2VEhzRmtHLTg3R3F6SWFUZjJfQ2RIN2Z2YzNJX3FYUE5FSVFPVjBRMm05ck1Sc0tSQ0s2Z1FJXzhCWUs2dWc5UXBIblB2dzhCSQ?oc=5",
-        "timestamp": "2026-05-12T19:34:00",
-        "timestamp_display": "12. 05. 2026 19:34",
+        "category": "Medicína",
+        "title": "Sanitka dostane nová vozidla",
+        "summary": "Sanitka splněných snů dostane dvě nová vozidla za 9 milionů korun.",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSUgwalBnRTd5NTNqSjVCTWJRYUFwc0pTX0w1V0xZcnc3NWFZaG00czlUaXpCdHU5SWU1cUFyS1ktLWVXYU9LRHdVaFhKQUd4cFNSNEpwdVdlZEVqZzExQUpuYUdoOWV6TzhOUk1rZmRtWURieDVLLW1tVDJTenprbk1lbU10MEFfODhDZV83RQ?oc=5",
+        "timestamp": "2026-05-15T08:09:18",
+        "timestamp_display": "15. 05. 2026 08:09",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice mění život",
+        "summary": "Forbes Česko nabízí rady pro investice, které mohou změnit život.",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tVWcybTRPTGNiTjlkWWxuczRxbU9saG9XejVsQ0hEdU5ZVDIya0lZbHFTdkl5SHF2bFk1NGJBcmtiRThsVnNObzhtRk9jOUZBWktDWHhWZHY0Zw?oc=5",
+        "timestamp": "2026-05-14T17:59:09",
+        "timestamp_display": "14. 05. 2026 17:59",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Češi vstupují do startupu",
+        "summary": "Čeští investoři vstupují do kanadského startupu, který vyvíjí technologii pro levné ničení útočných dronů.",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQekgwNEVHdzl3Zk1TRVNBQW1aSzhEMDJKbjFzNzc4VWl4YUdndWh1eFNvM0tnMl9rLTN6aHFlRGdDT21MRmVpenY2TFRNOXo2dHVEckpaNFZmcmg3dlJPaEFiOEVBZHRDYjFhRm12TjlNRDNURy0tQlR3OEpCYmFuQnJWaHdEblVINm9hU0RfOC1rNkJlalNhSE1UQjVMWnhYeGdTQWI0dVVhaFZ4Q1JfQ2pheGZLd3ZJTC1TbA?oc=5",
+        "timestamp": "2026-05-14T12:06:13",
+        "timestamp_display": "14. 05. 2026 12:06",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "AI nás nenahradí",
+        "summary": "Miliardář Španěl tvrdí, že umělá inteligence lidi nezastoupí, protože lidé mají jedinečné výhody.",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS0Q0SzJsbmJtMDAwUElxcEtJcWNBRkN0YUFDTEFUTUc1bG81UFJxWUJSYkgwMy1lNkNMd19Vb2RzSUtzVk1lcFhtS1JXQlc3dDdUNWFQYnBmTjVpVmpLUHhWX3NsLW9UVUc3RXgwa1pIVXJUS1g4bDZCXzF3RzNJRkU1TTM2NmMtRFdlQy1jaVVtUXRiREhKaWxIOE5IbEdCazhhRVFFbVJ2OXJY?oc=5",
+        "timestamp": "2026-05-14T09:50:46",
+        "timestamp_display": "14. 05. 2026 09:50",
         "is_new": true
     },
     {
@@ -105,6 +132,15 @@
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ2lmc0tsNVVrenhXZ3pTRHNGa3lNTFo1VGliNlRwb2REX3ByNC03N3dxd1hGNy1QdnJtbXlxUDlWTW9KeHIwWURBU1B0Z2tzMDRMRm9pNXpOT2dsam5LUk04UDA3UVlNR1dyZ2Z2eG5XNHVVVDk5R1plaFY1c2x2LTJPSEQ3cFd6aktOXzU1Z3I?oc=5",
         "timestamp": "2026-05-13T08:03:16",
         "timestamp_display": "13. 05. 2026 08:03",
+        "is_new": false
+    },
+    {
+        "category": "Věda",
+        "title": "Sokolí mláďata v Dukovanech",
+        "summary": "V Dukovanech se narodila čtyři nová sokolí mláďata, celkem jich už bylo 18.",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUW84cC1UcXZRbVJJNWpoTERQVkFLczl4NFk1MDFaazlQdzRqby00d1A4UU9LdVZOWlFxZ2gzdmJEMEE1R01oQkZwb2haOHhES1h4VW4ycGpNOUxhWkdWaTdnNUEwbVg0aVhFdG9aaUw2MkJ2dk1jYkdtSmMxS3k2VEhzRmtHLTg3R3F6SWFUZjJfQ2RIN2Z2YzNJX3FYUE5FSVFPVjBRMm05ck1Sc0tSQ0s2Z1FJXzhCWUs2dWc5UXBIblB2dzhCSQ?oc=5",
+        "timestamp": "2026-05-12T19:34:00",
+        "timestamp_display": "12. 05. 2026 19:34",
         "is_new": false
     },
     {
