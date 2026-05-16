@@ -23,11 +23,11 @@ jobs:
 
     - name: Instalace knihoven
       run: |
-        pip install groq feedparser jinja2
+        pip install openai feedparser jinja2
 
     - name: Spustit generování webu
       env:
-        GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }} # Tady se magicky vloží klíč ze Secrets
+        OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }} # Tady se magicky vloží klíč ze Secrets
       run: python main.py
 
     - name: Uložit změny (Commit & Push)
