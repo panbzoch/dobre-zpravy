@@ -1,12 +1,93 @@
 [
     {
         "category": "Společnost",
+        "title": "Nové centrum rané péče pro děti s handicapem",
+        "summary": "Ve Zlíně vzniká moderní zařízení zaměřené na ranou péči o děti s postižením. Projekt poskytne odbornou podporu i krátkodobou úlevu pro rodiče, čímž zlepší kvalitu života rodin a usnadní integraci dětí do společnosti.",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPM3NiT2hNQUxRUmpkVmJyc3FqT1YtT2o5NmJkRkk2Wi11ak5zWmVXeFExS3N2YWcwN21faHdpd2ZjSkJ5TkNfZEpFaXJaTkg1QXItSDhPY21LWVVVdWQxS2d4SlF4dHUtYnljYnp4c29VdmVFaEhMc0YtRkZicEFLUHVLVllyeWY0NGlfVVlMelNEQ2pCc1AzWHlmX29HNy14WV9IWlZqUTAzSEUwbWdRVGUtSnhPczA0cW5rQi1LSHEtZFJMd2xJ?oc=5",
+        "timestamp": "2026-05-16T08:10:00",
+        "timestamp_display": "16. 05. 2026 08:10",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "3D tisk dřevobetonových mostů v Brně",
+        "summary": "Brněnský výzkumný tým úspěšně testuje 3D tisk dřevobetonových mostů bez nutnosti lešení a uzavírek. Inovativní metoda slibuje rychlejší a ekologičtější výstavbu mostních konstrukcí, čímž otevírá nové možnosti v infrastrukturním inženýrství.",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeW9JOTVJN2lMVDNGUDdONWZRWHotNXVidkRzZWNyMFp0Y2FVODVlSU1UOTY3dWZrTkx1STBuTm5VQzl0R3dkWTFnWjN5bDJwTVZsZUF0TFdQVlpRRkY4ZXV5NEd4alBzVzM2UGV4S21nR1YwQU1mV1gxSmlBbUVNbUZwcVByYTJHaEllYlBTYVRYNVo0OVQwUVBnMnFmV1FEOWJ4eWxHaDY3NE90a3M5OHVPaTJuOEI4TjFUNE85VnhpSDdTTV90WnNXSmNHLWtK?oc=5",
+        "timestamp": "2026-05-15T11:39:00",
+        "timestamp_display": "15. 05. 2026 11:39",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Tramvajové koleje v Mostě získají travnaté pruhy",
+        "summary": "V Mostě budou podél tramvajových kolejí instalovány travnaté pruhy, které zlepší vzhled města, sníží hluk a omezí prašnost. Projekt kombinuje ekologické řešení s dopravní infrastrukturou a přináší obyvatelům pohodlnější a zdravější městské prostředí.",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWnpMYWZ4aWl2elNlTlRMaFUtUW9CZVFsclBaeFNPczlKVFFobllCdVZ1clFRLWFFakNNTDBJcF8ycEtSRW5yajZ4ZTZVWGpXSHNtZlZidmpQcm5JU0JScUtGajRVbVIybVRuU1RDQnR0bENOZ3ViVXhKaFBZUmNKbDVMVHhhUGo4aGdjOEhpQl9ZdmJPVnZZLWczMTJySTZDeTRsMXp3MVRYOU82THN3YnRpOHlyU3FyWDQzYTVlZi1IWU40amJnYzJkZmY?oc=5",
+        "timestamp": "2026-05-14T20:07:00",
+        "timestamp_display": "14. 05. 2026 20:07",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Češi recyklují tenisové boty do stavebnictví",
+        "summary": "Čeští výzkumníci vyvinuli proces, který z vyhozených tenisových bot získává recyklovaný materiál vhodný pro výrobu stavebních bloků. Tím řeší odpadový problém a nabízí udržitelnou alternativu v konstrukci budov.",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVUljdkRtUGhaRVpQejA1UEt6LXRmbFJjUjYza1g3YXhyeXRrb1MySzU0OWVSYjNYYUZkbDNSak5PR3oxb1BvMEd2ZUNsa1hMTFBnUUdFZXZkOXhmX2pkRDlJMlBsTjFGdUQ5RDd2dVhSLTBzR3pMd0pWQ193T0s4S2hobFFYZDFhRDM4dzNGbkdJdUhFWG95SEJYZkk4S3NRbVNjWA?oc=5",
+        "timestamp": "2026-05-14T12:53:08",
+        "timestamp_display": "14. 05. 2026 12:53",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Odolnější městské lavičky z českého dřeva",
+        "summary": "Vědci z Brna vyvinuli novou úpravu dřeva, která zvyšuje odolnost městských laviček vůči povětrnostním vlivům a opotřebení. Projekt podporuje udržitelnou výstavbu a prodlužuje životnost veřejného vybavení, čímž přináší ekologické i ekonomické výhody městům.",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc3IzTmNnSUxVQjBPVHExUEV0QUJSSEFoTHo5Ry1KNzdBWGVxYmR2U2F2T0VpVE9zZjlOOEVrcEdBdnJ1cUJZVG4zcWEyWFM5LUVXY002LXRWR1lheHJKNTIxZnBUQWhsdEZ2UmNpTE9wTHg0X09OVlpGdkNuc1JlMjFjNkFQYVB0SzVBQWcwUTFXa0ZoaTVUbnFrUVA2SERid2piczJVS3FGTUI0YjQ1NFYybTFrV0txZTRxbG40WmRpRE9L?oc=5",
+        "timestamp": "2026-05-14T11:43:00",
+        "timestamp_display": "14. 05. 2026 11:43",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Kde ležely česká města před miliony let",
+        "summary": "Vědci pomocí paleogeografických modelů ukázali, jak se během stovek milionů let posunuly kontinentální desky a kde se nacházely dnešní Ostrava, Praha a Brno. Vizualizace pomáhá lépe pochopit vývoj zemské kůry a historické změny prostředí.",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNc25XbUNVUTBIZkRBSFNvZFBLemlBVU1SVFlNZlZwRjJzTkRTemI4eXlmQUNIcmN5NVI3dzV2TkNFWnIzaU9aREd2aWtTbHBZZVpXWC1kSXNVRGw3WGZ0MWZ3dU1FXy12R1FoRjNaRHU1aVl6UlFmQTdrb19vS2VJb0l1aGVYdmJ5SVRac0sxdHJ4amRrWHpyT08xcmxPbXczTHI2VENJWklpang3d1BZNVdXeXA2di02d1c2VFZQS1d1cDhuOUd1TEo0SGRQdHd5NVRRT1JiT1Y?oc=5",
+        "timestamp": "2026-05-14T09:45:18",
+        "timestamp_display": "14. 05. 2026 09:45",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "ČEZ zaznamenal vyšší zisk a lepší výhled",
+        "summary": "Energetický gigant ČEZ oznámil růst zisku a pozitivní výhled, což přičítá zimní poptávce a zvýšeným cenám energií. Tento finanční úspěch posiluje jeho pozici na trhu a přináší stabilitu akcionářům.",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSUdfeUJZWVR1cDV0SEFLNklvU2piMjdqNVJMYzd3NnFmLTduLTRzUHUxTzBTT2lsdnBkelE2MThHbWt4LXA4RVdYNWtDdzRiU2xTZGlPNGxjNUlZNDJvSjFOMWJKc1lYNll5VjUyS3ZWRHpoSkJxajUzZ1pLdWFLTVVhX1ZoeHZzVDltNmZiNFpoSWhZVmhKYkFLSmI1STQ4WVhQSmdpVGFwQWlNb1Z4RA?oc=5",
+        "timestamp": "2026-05-14T06:33:00",
+        "timestamp_display": "14. 05. 2026 06:33",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Bezpečná křižovatka u Boru za 118 mil.",
+        "summary": "V obci Bor mezi Ostrovem a Karlovými Vary zahájili rekonstrukci nebezpečné křižovatky. Projekt, financovaný částkou 118 milionů korun, má za cíl zvýšit dopravní bezpečnost a zlepšit podmínky pro místní obyvatele.",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaEx2LTNLWjktN1RyRm00bEd1aXNNWWJhSHJNRVBlcDd2cG9OY2xGRDcxY2RLaTFkN2NLRm01VU5HUzB2SUdRODgweXJVdXJZdHVSbEs3cUtyS1JpekZkMHRadDNScTNyUmVHM0p5dERvUS1PajhSLXNfUGVJcnAyQVM1X1RRMWx0NkN4REd4NlZoY1hHdENIdDFqRDJacldqc3pxd2FjYnQ0ckdxSC1kRnRSeFR6amNGdE82VjRESmtubHAwdFQtQw?oc=5",
+        "timestamp": "2026-05-11T18:12:00",
+        "timestamp_display": "11. 05. 2026 18:12",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Další miliardový bytový projekt míří na Smíchov",
+        "summary": "Po jedenácti letech povolování zahájí developerská společnost UDI výstavbu 1 200 nových bytů v pražské čtvrti Smíchov. Projekt představuje investici v řádu miliardy korun, přinese nové obytné prostory a podpoří lokální ekonomiku.",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMXVqS1pWNW9PUFhoZU42b2tVY3RsWlBZMDdsLUFfZ3Q3cjZpXy1yMXZsV29SV1YydHRYdHVqYmJmOG5ndU1jZFFkcVpOSUdPT25jbU1uVlZUaXdMUjQ2UW01b3MwU0FHUHFka2dUcXhHd2ZwM0RzalJwWEJWeVU5VHk1UEd1a3Y0SlJuMU40SlBfRUxQVHFKem04cE1RdmUyTlN4YU91SWhONGU5RGdYY05PQTE1UVdMQlFyYlVfVE13ak5ZZTRvOFBmYjI2NXl3NzlTX2c2ZXJMdGdjcEh2Rw?oc=5",
+        "timestamp": "2026-05-11T13:45:00",
+        "timestamp_display": "11. 05. 2026 13:45",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
         "title": "Malý modulární reaktor",
         "summary": "První malý modulární reaktor by mohl vyrůst v Moravskoslezském kraji, nabízí se areál bývalé uhelné elektrárny.",
         "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQdVpON1JKNXBmSVFKVHBzZFM3OUk1X2xRdDlGOGFMSFo1WC1STVNJWHRZMEhvNHF3V1o3VkowTVQ3RnlhQU1GOVBnVlBIeTBQaGl0LXYwX3l2OHZtSmJGNnRVWjd5LWV4WjVQb3E2TV85REVUZmU0YURhS1ZXN2hlbC1fRDA3Q0RRckR0RjY4VVN6ZzJMOFIxYzJFVjdjRGtYNW1lanVDYmlyU1BRNkd6RE1NZlFOSG1wb056S3E4UmZDTGVmTFhVbnhSZG9BZEs5X09pYXh0NVNjdkp5ei04TGM1cm5MbEk2Qk52eGp1WG9GWV80cUZlbnRVaFFxV0JrU0FzRmdtcG5DVVU?oc=5",
         "timestamp": "2026-05-16T07:47:00",
         "timestamp_display": "16. 05. 2026 07:47",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +96,7 @@
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMFh5QTNIbWFZTldOX0VDdXpJZVF3eXk0UUo0R0xDOEw1RTNRWVR3R3Vka1JLaTZFZ1VLbVItbUJEaDdwbFpOVmJURnlWNWE4T1NpU1lvUVptRG9GbHJvSmRzdm9mWFV2LWRfNE5GSUZJMXpLVjcydmVzczIxRjRwdnFHNXZIdXlBMzg1Z3pYWDFha1U2Vjhaaw?oc=5",
         "timestamp": "2026-05-16T07:27:26",
         "timestamp_display": "16. 05. 2026 07:27",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,16 +105,7 @@
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR2VINXowQU9ycDNPTWV3T1Y0dUp1V0lvazhZWVh5M2YzNXJnU1JER19iaHQzSTUwTFJZOVJRY05SNHMzYVJEMndjaEx6WWxtRGU2Tk1JUnhKcG54M0FOYm9Yd0hhNW9Sa25oQWlqb1BKaVQ5OS1oUmxlWEtiWl9zRGVPQjMtbEFPaEsyd2ZMbnFlQkVtb3VvQmdhU2JadFZSdWFaU205b1lPaDVzd0JVcFJLS0hwZW9RSFV3Mg?oc=5",
         "timestamp": "2026-05-16T04:30:00",
         "timestamp_display": "16. 05. 2026 04:30",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Investice do dluhopisů",
-        "summary": "Investice do dluhopisů nabízí stabilní výnosy a diverzifikaci portfolia.",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSEJRTGU4NndNWkxMQTVYd1phLWlfZnVzakt6ZmM2YmtpNFlLT3l1SFRldzhEZ2k2X1NkcUhPemlJMEI2Q0toTXFGeGpfXzVTM2NMbE5xb1p2Q0dKLWdMckdRTHlRZUs0SFFmM2dQX21kRlVsNE13Ml9mZFY4TVdCT29nMklkU2V6YXA2b2h3?oc=5",
-        "timestamp": "2026-03-24T07:00:00",
-        "timestamp_display": "24. 03. 2026 07:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -5874,6 +5946,15 @@
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTGlQaWFpX0w1eVl5alFqUjdvOWt3X2JMMU9YSG9HWTRsS1MwbGZWNjVQMkR4dU0wRmRNZXFDdU9YZlpHbEhqeV9Idnk4eVVwUjhiTDdZSUZtSjhLMEV1V0NjX3JjbUFEZS1kVWQwcGlyMkdXQTJ1MHpEY1hoTXc2MnJqSHpGcFI0Y2lrZUN6RFdXeTg1SU55RFVjXzZOdHl1VEdqaTJrWFZfallIbzYzWnNfb3oxMWg0eDRYV3B1Z19RbW1vVk56SjhIX0xaR0xSX09LcDF3?oc=5",
         "timestamp": "2026-03-24T09:46:00",
         "timestamp_display": "24. 03. 2026 09:46",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice do dluhopisů",
+        "summary": "Investice do dluhopisů nabízí stabilní výnosy a diverzifikaci portfolia.",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSEJRTGU4NndNWkxMQTVYd1phLWlfZnVzakt6ZmM2YmtpNFlLT3l1SFRldzhEZ2k2X1NkcUhPemlJMEI2Q0toTXFGeGpfXzVTM2NMbE5xb1p2Q0dKLWdMckdRTHlRZUs0SFFmM2dQX21kRlVsNE13Ml9mZFY4TVdCT29nMklkU2V6YXA2b2h3?oc=5",
+        "timestamp": "2026-03-24T07:00:00",
+        "timestamp_display": "24. 03. 2026 07:00",
         "is_new": false
     },
     {
