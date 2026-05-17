@@ -1,84 +1,48 @@
 [
     {
+        "category": "Technologie",
+        "title": "AI překonala lékaře v urgentní diagnostice",
+        "summary": "Studie ukázala, že umělá inteligence dosáhla vyšší přesnosti než lidscí lékaři při rychlé diagnostice akutních stavů. Přesto zůstává cesta k širokému nasazení v klinické praxi složitá kvůli regulačním, etickým a technickým výzvám.",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTXRDeVlfZGRGa285bnhTdUhyenVRVVk2N2IxSEs3cWZqQ1VLN2RITUJBRk9HZFRqRjFWWHBfR29XY21ZSHNocjA5NVk1djVudEladEdVdXphY0cxVGtBcDBxdko3bUlFejdGWU1Oc1I5N3VvdmotQkM3M093SlpDRnFNZnlWS1Q0UzQyNnhVN09hMzl3b20zZEhoSnZDMGRxMm5WOXBObTY2TTYwM0pxVVhaZE5kbjNBZmpXZERqMXNmRU16cWhLMEVNbC1hcGQ4LU9jZC01N3lLNHh5RUxXRVZMVFhYOXdWX3BSejZwMjBXZldF?oc=5",
+        "timestamp": "2026-05-16T13:48:26",
+        "timestamp_display": "16. 05. 2026 13:48",
+        "is_new": true
+    },
+    {
+        "category": "Medicína",
+        "title": "Brněnský objev odhalil počátek rakoviny",
+        "summary": "Vědci z Brna identifikovali kritický bod, kdy se buňky mění v rakovinné. Tento průlom může umožnit včasnější diagnostiku a prevenci, což by mohlo výrazně snížit výskyt onemocnění, odhadovaného na jeden ze tří Čechů.",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOczZOMVJJVUx2M0xYbEJSRXFDRURsWXpoVHBDQ3JZSDZEcHNlSjl1VmxZTDVZbVllS1p4TFpqWTRqelBNUThaY05SUGF6WUZ4c1c2V1NqbHhkNXZTNmxNT1J0NmY5R1pNMGh6M1NrUndRcXUwWVkta3N1NEJZOWNOMGd6eHJPbTJHNXRDb1E5b0p1NzFtSHg3UGNPLU9pTW9qZTlHODY2Um9tdFRsREZIOEFjamU2QlE?oc=5",
+        "timestamp": "2026-05-16T10:00:00",
+        "timestamp_display": "16. 05. 2026 10:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Vítek získal 90 % podíl v italské realitě",
+        "summary": "Český investor Vítek úspěšně provedl veřejnou nabídku na italskou realitní skupinu a získal více než 90 % akcií, čímž výrazně posílil své postavení na evropském trhu s nemovitostmi.",
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQbTF2UHNIeVJMZnNkemVxdUt4MVFTZWoxTUN1Vi1GYm1FZ1hMUzV4S1BFSmpBVmQxSDFoUklLNE1ZMDBxMTBBMWpYTWJSU1kxTDU5Um9DTzVUYm1rekNwV080dktsbmxTcmlSSjdkSFNfTkp1RGFaLUlQbFJXbHRqNnJQenRQcHhYN2t1aE9iYXFLSVlzYVNxWldNWE5FOHEzTDdUZDJmNjFILW03QUprS0Z2ZDlZa0lKU195RWp5eW9URklfNS1kZnRJQTlJSEpoQmYwSTdTSWVTSUdOTUp1cFZzWHhTVlY3d1JMbUlobVRTUjkyX3c?oc=5",
+        "timestamp": "2026-05-14T13:55:00",
+        "timestamp_display": "14. 05. 2026 13:55",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Startup pomáhá policii odhalovat zakázané látky",
+        "summary": "Po ukončení sportovní kariéry založila bývalá plavkyně technologický startup, který vyvíjí pokročilé nástroje pro detekci nelegálních látek. Její řešení usnadňuje práci policie a zvyšuje bezpečnost, čímž přináší významný společenský přínos.",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbG9OZVhhQzJEWVBTMVNoZEplVVQwZVBuTFlfVHVhTmkyN2tfSmY1LVpBWGdDQzRQby1nbTV0cW5hWlZfaW9FdEFfbUJ2cEkya1NRbWliZG52QThSVVgtcjBwNGctZXdQN182NmVQV1BFMEJNS3VQQzd1RWZKV1ZEcDB6Z2ZnVldWeGNIVWUtQ21oczc1MWk0VG5LNjdTR0x3cG5UWDdjYVFFLXFiTURqQ0xYaVFxcDVxN2pra0IxX3NpNFdrRGxYVw?oc=5",
+        "timestamp": "2026-05-12T04:26:42",
+        "timestamp_display": "12. 05. 2026 04:26",
+        "is_new": true
+    },
+    {
         "category": "Společnost",
         "title": "Nové centrum rané péče pro děti s handicapem",
         "summary": "Ve Zlíně vzniká moderní zařízení zaměřené na ranou péči o děti s postižením. Projekt poskytne odbornou podporu i krátkodobou úlevu pro rodiče, čímž zlepší kvalitu života rodin a usnadní integraci dětí do společnosti.",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPM3NiT2hNQUxRUmpkVmJyc3FqT1YtT2o5NmJkRkk2Wi11ak5zWmVXeFExS3N2YWcwN21faHdpd2ZjSkJ5TkNfZEpFaXJaTkg1QXItSDhPY21LWVVVdWQxS2d4SlF4dHUtYnljYnp4c29VdmVFaEhMc0YtRkZicEFLUHVLVllyeWY0NGlfVVlMelNEQ2pCc1AzWHlmX29HNy14WV9IWlZqUTAzSEUwbWdRVGUtSnhPczA0cW5rQi1LSHEtZFJMd2xJ?oc=5",
         "timestamp": "2026-05-16T08:10:00",
         "timestamp_display": "16. 05. 2026 08:10",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "3D tisk dřevobetonových mostů v Brně",
-        "summary": "Brněnský výzkumný tým úspěšně testuje 3D tisk dřevobetonových mostů bez nutnosti lešení a uzavírek. Inovativní metoda slibuje rychlejší a ekologičtější výstavbu mostních konstrukcí, čímž otevírá nové možnosti v infrastrukturním inženýrství.",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeW9JOTVJN2lMVDNGUDdONWZRWHotNXVidkRzZWNyMFp0Y2FVODVlSU1UOTY3dWZrTkx1STBuTm5VQzl0R3dkWTFnWjN5bDJwTVZsZUF0TFdQVlpRRkY4ZXV5NEd4alBzVzM2UGV4S21nR1YwQU1mV1gxSmlBbUVNbUZwcVByYTJHaEllYlBTYVRYNVo0OVQwUVBnMnFmV1FEOWJ4eWxHaDY3NE90a3M5OHVPaTJuOEI4TjFUNE85VnhpSDdTTV90WnNXSmNHLWtK?oc=5",
-        "timestamp": "2026-05-15T11:39:00",
-        "timestamp_display": "15. 05. 2026 11:39",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Tramvajové koleje v Mostě získají travnaté pruhy",
-        "summary": "V Mostě budou podél tramvajových kolejí instalovány travnaté pruhy, které zlepší vzhled města, sníží hluk a omezí prašnost. Projekt kombinuje ekologické řešení s dopravní infrastrukturou a přináší obyvatelům pohodlnější a zdravější městské prostředí.",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWnpMYWZ4aWl2elNlTlRMaFUtUW9CZVFsclBaeFNPczlKVFFobllCdVZ1clFRLWFFakNNTDBJcF8ycEtSRW5yajZ4ZTZVWGpXSHNtZlZidmpQcm5JU0JScUtGajRVbVIybVRuU1RDQnR0bENOZ3ViVXhKaFBZUmNKbDVMVHhhUGo4aGdjOEhpQl9ZdmJPVnZZLWczMTJySTZDeTRsMXp3MVRYOU82THN3YnRpOHlyU3FyWDQzYTVlZi1IWU40amJnYzJkZmY?oc=5",
-        "timestamp": "2026-05-14T20:07:00",
-        "timestamp_display": "14. 05. 2026 20:07",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Češi recyklují tenisové boty do stavebnictví",
-        "summary": "Čeští výzkumníci vyvinuli proces, který z vyhozených tenisových bot získává recyklovaný materiál vhodný pro výrobu stavebních bloků. Tím řeší odpadový problém a nabízí udržitelnou alternativu v konstrukci budov.",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVUljdkRtUGhaRVpQejA1UEt6LXRmbFJjUjYza1g3YXhyeXRrb1MySzU0OWVSYjNYYUZkbDNSak5PR3oxb1BvMEd2ZUNsa1hMTFBnUUdFZXZkOXhmX2pkRDlJMlBsTjFGdUQ5RDd2dVhSLTBzR3pMd0pWQ193T0s4S2hobFFYZDFhRDM4dzNGbkdJdUhFWG95SEJYZkk4S3NRbVNjWA?oc=5",
-        "timestamp": "2026-05-14T12:53:08",
-        "timestamp_display": "14. 05. 2026 12:53",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Odolnější městské lavičky z českého dřeva",
-        "summary": "Vědci z Brna vyvinuli novou úpravu dřeva, která zvyšuje odolnost městských laviček vůči povětrnostním vlivům a opotřebení. Projekt podporuje udržitelnou výstavbu a prodlužuje životnost veřejného vybavení, čímž přináší ekologické i ekonomické výhody městům.",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc3IzTmNnSUxVQjBPVHExUEV0QUJSSEFoTHo5Ry1KNzdBWGVxYmR2U2F2T0VpVE9zZjlOOEVrcEdBdnJ1cUJZVG4zcWEyWFM5LUVXY002LXRWR1lheHJKNTIxZnBUQWhsdEZ2UmNpTE9wTHg0X09OVlpGdkNuc1JlMjFjNkFQYVB0SzVBQWcwUTFXa0ZoaTVUbnFrUVA2SERid2piczJVS3FGTUI0YjQ1NFYybTFrV0txZTRxbG40WmRpRE9L?oc=5",
-        "timestamp": "2026-05-14T11:43:00",
-        "timestamp_display": "14. 05. 2026 11:43",
-        "is_new": true
-    },
-    {
-        "category": "Věda",
-        "title": "Kde ležely česká města před miliony let",
-        "summary": "Vědci pomocí paleogeografických modelů ukázali, jak se během stovek milionů let posunuly kontinentální desky a kde se nacházely dnešní Ostrava, Praha a Brno. Vizualizace pomáhá lépe pochopit vývoj zemské kůry a historické změny prostředí.",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNc25XbUNVUTBIZkRBSFNvZFBLemlBVU1SVFlNZlZwRjJzTkRTemI4eXlmQUNIcmN5NVI3dzV2TkNFWnIzaU9aREd2aWtTbHBZZVpXWC1kSXNVRGw3WGZ0MWZ3dU1FXy12R1FoRjNaRHU1aVl6UlFmQTdrb19vS2VJb0l1aGVYdmJ5SVRac0sxdHJ4amRrWHpyT08xcmxPbXczTHI2VENJWklpang3d1BZNVdXeXA2di02d1c2VFZQS1d1cDhuOUd1TEo0SGRQdHd5NVRRT1JiT1Y?oc=5",
-        "timestamp": "2026-05-14T09:45:18",
-        "timestamp_display": "14. 05. 2026 09:45",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "ČEZ zaznamenal vyšší zisk a lepší výhled",
-        "summary": "Energetický gigant ČEZ oznámil růst zisku a pozitivní výhled, což přičítá zimní poptávce a zvýšeným cenám energií. Tento finanční úspěch posiluje jeho pozici na trhu a přináší stabilitu akcionářům.",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSUdfeUJZWVR1cDV0SEFLNklvU2piMjdqNVJMYzd3NnFmLTduLTRzUHUxTzBTT2lsdnBkelE2MThHbWt4LXA4RVdYNWtDdzRiU2xTZGlPNGxjNUlZNDJvSjFOMWJKc1lYNll5VjUyS3ZWRHpoSkJxajUzZ1pLdWFLTVVhX1ZoeHZzVDltNmZiNFpoSWhZVmhKYkFLSmI1STQ4WVhQSmdpVGFwQWlNb1Z4RA?oc=5",
-        "timestamp": "2026-05-14T06:33:00",
-        "timestamp_display": "14. 05. 2026 06:33",
-        "is_new": true
-    },
-    {
-        "category": "Společnost",
-        "title": "Bezpečná křižovatka u Boru za 118 mil.",
-        "summary": "V obci Bor mezi Ostrovem a Karlovými Vary zahájili rekonstrukci nebezpečné křižovatky. Projekt, financovaný částkou 118 milionů korun, má za cíl zvýšit dopravní bezpečnost a zlepšit podmínky pro místní obyvatele.",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaEx2LTNLWjktN1RyRm00bEd1aXNNWWJhSHJNRVBlcDd2cG9OY2xGRDcxY2RLaTFkN2NLRm01VU5HUzB2SUdRODgweXJVdXJZdHVSbEs3cUtyS1JpekZkMHRadDNScTNyUmVHM0p5dERvUS1PajhSLXNfUGVJcnAyQVM1X1RRMWx0NkN4REd4NlZoY1hHdENIdDFqRDJacldqc3pxd2FjYnQ0ckdxSC1kRnRSeFR6amNGdE82VjRESmtubHAwdFQtQw?oc=5",
-        "timestamp": "2026-05-11T18:12:00",
-        "timestamp_display": "11. 05. 2026 18:12",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Další miliardový bytový projekt míří na Smíchov",
-        "summary": "Po jedenácti letech povolování zahájí developerská společnost UDI výstavbu 1 200 nových bytů v pražské čtvrti Smíchov. Projekt představuje investici v řádu miliardy korun, přinese nové obytné prostory a podpoří lokální ekonomiku.",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMXVqS1pWNW9PUFhoZU42b2tVY3RsWlBZMDdsLUFfZ3Q3cjZpXy1yMXZsV29SV1YydHRYdHVqYmJmOG5ndU1jZFFkcVpOSUdPT25jbU1uVlZUaXdMUjQ2UW01b3MwU0FHUHFka2dUcXhHd2ZwM0RzalJwWEJWeVU5VHk1UEd1a3Y0SlJuMU40SlBfRUxQVHFKem04cE1RdmUyTlN4YU91SWhONGU5RGdYY05PQTE1UVdMQlFyYlVfVE13ak5ZZTRvOFBmYjI2NXl3NzlTX2c2ZXJMdGdjcEh2Rw?oc=5",
-        "timestamp": "2026-05-11T13:45:00",
-        "timestamp_display": "11. 05. 2026 13:45",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Společnost",
@@ -153,6 +117,15 @@
         "is_new": false
     },
     {
+        "category": "Technologie",
+        "title": "3D tisk dřevobetonových mostů v Brně",
+        "summary": "Brněnský výzkumný tým úspěšně testuje 3D tisk dřevobetonových mostů bez nutnosti lešení a uzavírek. Inovativní metoda slibuje rychlejší a ekologičtější výstavbu mostních konstrukcí, čímž otevírá nové možnosti v infrastrukturním inženýrství.",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeW9JOTVJN2lMVDNGUDdONWZRWHotNXVidkRzZWNyMFp0Y2FVODVlSU1UOTY3dWZrTkx1STBuTm5VQzl0R3dkWTFnWjN5bDJwTVZsZUF0TFdQVlpRRkY4ZXV5NEd4alBzVzM2UGV4S21nR1YwQU1mV1gxSmlBbUVNbUZwcVByYTJHaEllYlBTYVRYNVo0OVQwUVBnMnFmV1FEOWJ4eWxHaDY3NE90a3M5OHVPaTJuOEI4TjFUNE85VnhpSDdTTV90WnNXSmNHLWtK?oc=5",
+        "timestamp": "2026-05-15T11:39:00",
+        "timestamp_display": "15. 05. 2026 11:39",
+        "is_new": false
+    },
+    {
         "category": "Byznys",
         "title": "Čeští investoři vstupují",
         "summary": "Čeští investoři vstupují do Xeroxu, míří mezi největší akcionáře firmy.",
@@ -189,12 +162,30 @@
         "is_new": false
     },
     {
+        "category": "Technologie",
+        "title": "Tramvajové koleje v Mostě získají travnaté pruhy",
+        "summary": "V Mostě budou podél tramvajových kolejí instalovány travnaté pruhy, které zlepší vzhled města, sníží hluk a omezí prašnost. Projekt kombinuje ekologické řešení s dopravní infrastrukturou a přináší obyvatelům pohodlnější a zdravější městské prostředí.",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWnpMYWZ4aWl2elNlTlRMaFUtUW9CZVFsclBaeFNPczlKVFFobllCdVZ1clFRLWFFakNNTDBJcF8ycEtSRW5yajZ4ZTZVWGpXSHNtZlZidmpQcm5JU0JScUtGajRVbVIybVRuU1RDQnR0bENOZ3ViVXhKaFBZUmNKbDVMVHhhUGo4aGdjOEhpQl9ZdmJPVnZZLWczMTJySTZDeTRsMXp3MVRYOU82THN3YnRpOHlyU3FyWDQzYTVlZi1IWU40amJnYzJkZmY?oc=5",
+        "timestamp": "2026-05-14T20:07:00",
+        "timestamp_display": "14. 05. 2026 20:07",
+        "is_new": false
+    },
+    {
         "category": "Byznys",
         "title": "Investice mění život",
         "summary": "Forbes Česko nabízí rady pro investice, které mohou změnit život.",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tVWcybTRPTGNiTjlkWWxuczRxbU9saG9XejVsQ0hEdU5ZVDIya0lZbHFTdkl5SHF2bFk1NGJBcmtiRThsVnNObzhtRk9jOUZBWktDWHhWZHY0Zw?oc=5",
         "timestamp": "2026-05-14T17:59:09",
         "timestamp_display": "14. 05. 2026 17:59",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Češi recyklují tenisové boty do stavebnictví",
+        "summary": "Čeští výzkumníci vyvinuli proces, který z vyhozených tenisových bot získává recyklovaný materiál vhodný pro výrobu stavebních bloků. Tím řeší odpadový problém a nabízí udržitelnou alternativu v konstrukci budov.",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVUljdkRtUGhaRVpQejA1UEt6LXRmbFJjUjYza1g3YXhyeXRrb1MySzU0OWVSYjNYYUZkbDNSak5PR3oxb1BvMEd2ZUNsa1hMTFBnUUdFZXZkOXhmX2pkRDlJMlBsTjFGdUQ5RDd2dVhSLTBzR3pMd0pWQ193T0s4S2hobFFYZDFhRDM4dzNGbkdJdUhFWG95SEJYZkk4S3NRbVNjWA?oc=5",
+        "timestamp": "2026-05-14T12:53:08",
+        "timestamp_display": "14. 05. 2026 12:53",
         "is_new": false
     },
     {
@@ -208,11 +199,29 @@
     },
     {
         "category": "Technologie",
+        "title": "Odolnější městské lavičky z českého dřeva",
+        "summary": "Vědci z Brna vyvinuli novou úpravu dřeva, která zvyšuje odolnost městských laviček vůči povětrnostním vlivům a opotřebení. Projekt podporuje udržitelnou výstavbu a prodlužuje životnost veřejného vybavení, čímž přináší ekologické i ekonomické výhody městům.",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc3IzTmNnSUxVQjBPVHExUEV0QUJSSEFoTHo5Ry1KNzdBWGVxYmR2U2F2T0VpVE9zZjlOOEVrcEdBdnJ1cUJZVG4zcWEyWFM5LUVXY002LXRWR1lheHJKNTIxZnBUQWhsdEZ2UmNpTE9wTHg0X09OVlpGdkNuc1JlMjFjNkFQYVB0SzVBQWcwUTFXa0ZoaTVUbnFrUVA2SERid2piczJVS3FGTUI0YjQ1NFYybTFrV0txZTRxbG40WmRpRE9L?oc=5",
+        "timestamp": "2026-05-14T11:43:00",
+        "timestamp_display": "14. 05. 2026 11:43",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
         "title": "AI nás nenahradí",
         "summary": "Miliardář Španěl tvrdí, že umělá inteligence lidi nezastoupí, protože lidé mají jedinečné výhody.",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS0Q0SzJsbmJtMDAwUElxcEtJcWNBRkN0YUFDTEFUTUc1bG81UFJxWUJSYkgwMy1lNkNMd19Vb2RzSUtzVk1lcFhtS1JXQlc3dDdUNWFQYnBmTjVpVmpLUHhWX3NsLW9UVUc3RXgwa1pIVXJUS1g4bDZCXzF3RzNJRkU1TTM2NmMtRFdlQy1jaVVtUXRiREhKaWxIOE5IbEdCazhhRVFFbVJ2OXJY?oc=5",
         "timestamp": "2026-05-14T09:50:46",
         "timestamp_display": "14. 05. 2026 09:50",
+        "is_new": false
+    },
+    {
+        "category": "Věda",
+        "title": "Kde ležely česká města před miliony let",
+        "summary": "Vědci pomocí paleogeografických modelů ukázali, jak se během stovek milionů let posunuly kontinentální desky a kde se nacházely dnešní Ostrava, Praha a Brno. Vizualizace pomáhá lépe pochopit vývoj zemské kůry a historické změny prostředí.",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNc25XbUNVUTBIZkRBSFNvZFBLemlBVU1SVFlNZlZwRjJzTkRTemI4eXlmQUNIcmN5NVI3dzV2TkNFWnIzaU9aREd2aWtTbHBZZVpXWC1kSXNVRGw3WGZ0MWZ3dU1FXy12R1FoRjNaRHU1aVl6UlFmQTdrb19vS2VJb0l1aGVYdmJ5SVRac0sxdHJ4amRrWHpyT08xcmxPbXczTHI2VENJWklpang3d1BZNVdXeXA2di02d1c2VFZQS1d1cDhuOUd1TEo0SGRQdHd5NVRRT1JiT1Y?oc=5",
+        "timestamp": "2026-05-14T09:45:18",
+        "timestamp_display": "14. 05. 2026 09:45",
         "is_new": false
     },
     {
@@ -231,6 +240,15 @@
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNmpManc4VHpEWFQxc2ZzRkptRDBzQm5wLXVzQV9DMWNta1lsVFdfUFc0ODdzbTJZWHZwUGhHRDY5UExSQkhaVnFZVkdnQ0Vzd041aVNXMGp3UmVKR2JKazVrc08xNnVkQUY3X1lsQW5mOVdlZ01uQllNdk5Lc1ZLdFQ1TXdsYkxBd3l5cndCZGQ3TUwwWGRiWTZIQ3ZRTFVERkJHYmpUNHlwNmFSd1ozQWQ3M2YtT1k1emxibXhIY2g2dGRYOXNvbXZsVVJRTl84NkU2ag?oc=5",
         "timestamp": "2026-05-14T08:50:00",
         "timestamp_display": "14. 05. 2026 08:50",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "ČEZ zaznamenal vyšší zisk a lepší výhled",
+        "summary": "Energetický gigant ČEZ oznámil růst zisku a pozitivní výhled, což přičítá zimní poptávce a zvýšeným cenám energií. Tento finanční úspěch posiluje jeho pozici na trhu a přináší stabilitu akcionářům.",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSUdfeUJZWVR1cDV0SEFLNklvU2piMjdqNVJMYzd3NnFmLTduLTRzUHUxTzBTT2lsdnBkelE2MThHbWt4LXA4RVdYNWtDdzRiU2xTZGlPNGxjNUlZNDJvSjFOMWJKc1lYNll5VjUyS3ZWRHpoSkJxajUzZ1pLdWFLTVVhX1ZoeHZzVDltNmZiNFpoSWhZVmhKYkFLSmI1STQ4WVhQSmdpVGFwQWlNb1Z4RA?oc=5",
+        "timestamp": "2026-05-14T06:33:00",
+        "timestamp_display": "14. 05. 2026 06:33",
         "is_new": false
     },
     {
@@ -504,6 +522,15 @@
         "is_new": false
     },
     {
+        "category": "Společnost",
+        "title": "Bezpečná křižovatka u Boru za 118 mil.",
+        "summary": "V obci Bor mezi Ostrovem a Karlovými Vary zahájili rekonstrukci nebezpečné křižovatky. Projekt, financovaný částkou 118 milionů korun, má za cíl zvýšit dopravní bezpečnost a zlepšit podmínky pro místní obyvatele.",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaEx2LTNLWjktN1RyRm00bEd1aXNNWWJhSHJNRVBlcDd2cG9OY2xGRDcxY2RLaTFkN2NLRm01VU5HUzB2SUdRODgweXJVdXJZdHVSbEs3cUtyS1JpekZkMHRadDNScTNyUmVHM0p5dERvUS1PajhSLXNfUGVJcnAyQVM1X1RRMWx0NkN4REd4NlZoY1hHdENIdDFqRDJacldqc3pxd2FjYnQ0ckdxSC1kRnRSeFR6amNGdE82VjRESmtubHAwdFQtQw?oc=5",
+        "timestamp": "2026-05-11T18:12:00",
+        "timestamp_display": "11. 05. 2026 18:12",
+        "is_new": false
+    },
+    {
         "category": "Byznys",
         "title": "Investice do projektu",
         "summary": "Kijonková investuje do projektu Moniky Štěpánové, která je součástí seznamu 30 pod 30 podle Forbes Česko.",
@@ -537,6 +564,15 @@
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tYnVLU3FBYmFRbFVxSkVBOXVrOVluWm5aRUhjTDdWczJLUXFVTEE5VTdBdFlKRmVxQTZaT0lzQlRnZEVxc2tfUXM1VldQUDJDbmlV?oc=5",
         "timestamp": "2026-05-11T14:29:09",
         "timestamp_display": "11. 05. 2026 14:29",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Další miliardový bytový projekt míří na Smíchov",
+        "summary": "Po jedenácti letech povolování zahájí developerská společnost UDI výstavbu 1 200 nových bytů v pražské čtvrti Smíchov. Projekt představuje investici v řádu miliardy korun, přinese nové obytné prostory a podpoří lokální ekonomiku.",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMXVqS1pWNW9PUFhoZU42b2tVY3RsWlBZMDdsLUFfZ3Q3cjZpXy1yMXZsV29SV1YydHRYdHVqYmJmOG5ndU1jZFFkcVpOSUdPT25jbU1uVlZUaXdMUjQ2UW01b3MwU0FHUHFka2dUcXhHd2ZwM0RzalJwWEJWeVU5VHk1UEd1a3Y0SlJuMU40SlBfRUxQVHFKem04cE1RdmUyTlN4YU91SWhONGU5RGdYY05PQTE1UVdMQlFyYlVfVE13ak5ZZTRvOFBmYjI2NXl3NzlTX2c2ZXJMdGdjcEh2Rw?oc=5",
+        "timestamp": "2026-05-11T13:45:00",
+        "timestamp_display": "11. 05. 2026 13:45",
         "is_new": false
     },
     {
