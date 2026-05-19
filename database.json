@@ -1,12 +1,75 @@
 [
     {
+        "category": "Společnost",
+        "title": "V Grygově vznikne komunitní centrum",
+        "summary": "V bývalém areálu mateřské školy v Grygově se zbuduje multifunkční komunitní centrum s klubovnami, ordinacemi a prodejnou. Projekt podpoří místní obyvatele, poskytne prostor pro setkávání, služby a obchodní aktivity, čímž posílí sociální soudržnost regionu.",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVU1hV3JnZHVZWnp0U3dwMm11Z0h5TVlGYzNoWjFOQVdTMWJ3OWg3Z3JiNWFLMFl6bnJmX1lDY2dTeGQ2R2pCSDNUbExvcDl3MkhNbTlZUFBvc2VSeTNvY2tzeVlrZkhCbFgyNzQxSUsxVXMxaUM5N1ZYU1NGbkRYdUFpRl80S0w2TzFYVE1qc200QlI3bVljTy1OYnJpU1VDU3FEcTFERVlYS0tBTWZhREUwMEZSd2pUYXBkOW40S2pZWUYz?oc=5",
+        "timestamp": "2026-05-19T08:09:00",
+        "timestamp_display": "19. 05. 2026 08:09",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Studentský projekt oceněn půl miliardou",
+        "summary": "Český tým proměnil studentský nápad v firmu s hodnotou přes 500 milionů dolarů. Přesto odmítají nabídky na odkup a plánují další rozvoj, čímž ukazují sílu inovací a podnikatelského ducha v regionu.",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT3owajVpOHNTZUltdHg1SVpmaU00aUhOb2ZDQ3l2VUItdnpsMGRDZHFtOUdRS3RCM1kyaVI0QjNVbTVxNXRJZEJsNWs1UEFpY2RhRUJRMEtrS1V6TWVzYkg4X0NlV2wzVERZN1NHQ043V2VrS1p6YXNjNTBJT250TmFXQzZXcExqQmU5bnkxRFJzYmx3TGROMHJ0Q0l1d3dhLVFlTnhOZHZ0cndkbDVldnMwNA?oc=5",
+        "timestamp": "2026-05-19T04:32:15",
+        "timestamp_display": "19. 05. 2026 04:32",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Labové maso v první konzervě pro psy",
+        "summary": "Český startup BTL uvedl na trh první konzervu s masem vyrobeným v laboratoři speciálně pro domácí mazlíčky. Produkt představuje průlom v udržitelné výživě zvířat, snižuje ekologickou zátěž tradičního živočišného průmyslu a otevírá nové možnosti pro inovativní potravinářské technologie.",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWFlwUDRzcWJEaVh4N0J4Q1d0TVZXTlE4VnZ0M2JuN2plS1hSeG1oVkJCTUJUallBRTI3cGdSVjFqSDVJV0hlZGt0eDkxN3pnSlF1TUFWUGg3eWZ6Y3NWcC0wMFVHbHJ6bDZJVXduNFRkNlBqUnpYMTV1M0pYYjhOMFlCcjJsVUd0cWg4QWwxZGlRVGQtLUhia3VmMlJXODkyclFtbWhn?oc=5",
+        "timestamp": "2026-05-18T14:59:35",
+        "timestamp_display": "18. 05. 2026 14:59",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Senzory prodlužují životnost lithiových baterií",
+        "summary": "Výzkumníci z Pardubic vyvinuli nové senzory, které dokáží včas odhalit vznikající problémy v lithiových bateriích. Technologie umožní prodloužit jejich životnost a zvýšit spolehlivost, což je klíčové pro energetiku i elektromobilitu.",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTlRyaU55QmdrVWZ5eG5OTmphM1JBdUNyTWRacjhrcFNKRjBIZ1ZGSTFGc0hOcXliX2hKT09aaklwZ25oOXJqUW93NG9WYVZEWU5VU2ZHNUZRSW0xMEUxaGhYam1LdDltWjVwb1ZRWWF2Mll0YTdaa05RNWZObll4Qm5QUV9UZkVBTGluTi1MUVIyNFJLdXhTWjBoWXc3MWxYYjhuSXV0THNsb1BsVDZNLV96bUliZkp2UTFfaWtnT3Z6aUVPeURyMw?oc=5",
+        "timestamp": "2026-05-18T14:07:00",
+        "timestamp_display": "18. 05. 2026 14:07",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Česká spořitelna ruší poplatek za akcie",
+        "summary": "Česká spořitelna zrušila fixní poplatek za nákup akcií, čímž výrazně snížila náklady na investování pro své klienty. Tento krok podporuje dostupnost investic a může podpořit větší zapojení veřejnosti do kapitálových trhů.",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTDRfSzNKUVp6SHdIWVQ2aVhRNEhLckFMVHR2NkJKZ296YkYzLTZKNklUZy10QlJqYWliSW9oQ19nUzZNUEFWYjhwTzYwbUJ4ckVUb3RZWTdkTHQwdEpyRnhBR055UXBHZF9qaXZmY1VCMDREZ1lPVlU5ZjRTWm5EWi1GTkVNVGpocGx3dzlnRDdNbGxXZ1EwOXRpakN4ZTN5Zk5YOTNJSnN3SXZBVVQtdE9ISVVWdEpRRm9nWmEzbHJ2cC1lTmlNUg?oc=5",
+        "timestamp": "2026-05-18T08:10:00",
+        "timestamp_display": "18. 05. 2026 08:10",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Obří AI čip otřásá trhem",
+        "summary": "Společnost Cerebras představila gigantický AI čip, který díky své velikosti a výkonu přitahuje pozornost investorů a může představovat vážnou konkurenci tradičním výrobcům GPU, jako je Nvidia. Tento technologický průlom slibuje zrychlení výpočtů v oblasti umělé inteligence a otevírá nové možnosti pro výzkum i průmysl.",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYW5FLTdGUFlEMkxlS3JEamk1N3NIREEwbkNyQ3JhUEFySzRZUVR3TWhsS0t4NHRDN0F4SmYyNkJYc0JuTUt0UmN5cTZxSkliQklBUGs1RENCYWd3R2Zxa3hoTzhSRHAzYXg4azNhUDd3bFBqdU5DdE85MlI1UkJXaUs5V1dGdDk4NnBRUUNnUlZOMEdmdzhMMkdadEljTV9kT0ZtclBQYWFpQ1RteXRMb1ljMnZHd1U?oc=5",
+        "timestamp": "2026-05-16T11:24:31",
+        "timestamp_display": "16. 05. 2026 11:24",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Inovace a investice klíč k bezpečnosti EU",
+        "summary": "Článek zdůrazňuje, že bezpečnost státu už není jen otázkou zbraní, ale především rychlosti technologických inovací a investic. Podporou výzkumu a moderních řešení může Česká republika posílit své postavení v evropském bezpečnostním prostoru a podpořit ekonomický růst.",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa2ZlS3RnVV9IWTQwUjhPQTNnTlFDUVA1ZWVFWHA1WUdLb1BEVUxfdUhoZDNjZ3pwR2U4ZUp1U2xaT0tIV0xZc3pINXB1RXl1VW9rN18ycFZyZWloWWFsZy1DWjc5MHcyblVKTGp5bzJEaUtqaDNTRTBIYlRDUndKSS1yend0Qm5CZlJiczl5dUFxQ19VSWRWSWlod2l0ZVl6MWtTTVBpdnpFZGNZR0g5bGpRX3owUDhRRHJtSlhVYw?oc=5",
+        "timestamp": "2026-05-14T22:00:00",
+        "timestamp_display": "14. 05. 2026 22:00",
+        "is_new": true
+    },
+    {
         "category": "Medicína",
         "title": "Čeští lékaři dosahují světových úspěchů",
         "summary": "Čeští lékaři získali mezinárodní uznání díky inovativním léčebným metodám a výzkumu, který přináší nové možnosti v diagnostice i terapii. Jejich práce pomáhá pacientům po celém světě a posiluje reputaci české medicíny.",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQanFsZUxlYk1QWWlnTnJBcGFXUmFjeTJheV9TT0xJdEt4b1VpNklFMFRFdlR3UDh5NWdkMTRfTVBkS1BXZFBpcTlzRXVVS2ZaLUI5UHJieGVwV3ZDRGNhWElfUVFyNkRvMXQyLWd2eExJS3ZUdGpJd19Rd3lQMDl1WWt3?oc=5",
         "timestamp": "2026-05-18T08:30:00",
         "timestamp_display": "18. 05. 2026 08:30",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +78,7 @@
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWXRlbG5qS2RhUHcwZWVqQlFaZXd2UHNEUmRpdkhVdGxGSFA4NjhCZl8zRWtYZ3FGVkF1RnA5dXpPVWRFeklPaGlZQUREeGlSQWpET2hIM3pKZXhfNWxKellyTV82d2hPb3EtTFdLTW1wTWdDckppQVZBMXhVVnBubldEM0ZlNzlEYlBnelFIblZHV1FKU19ZTg?oc=5",
         "timestamp": "2026-05-18T08:15:27",
         "timestamp_display": "18. 05. 2026 08:15",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Medicína",
@@ -24,7 +87,7 @@
         "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTHZIa1EyVmRzdzJXRjZwUDJDN2hYeGhXMEFTRjlnSm5kd1Utd09xREJOZkJaeF9VMkJPUm5FNHZUMDdaZWlwbmtZNnNTVWdqNWVZUFFEcWM2N0tudzVMREhNOTZDU29wUTVZMlNkTU9RT0g1V0pycWx6NjFsaHA5T19VZ0xLVy1uRFdMS3VmU2ZVM1dVN0NHWFVnMDZFSjB3Nl9qQVlNLW5IbWZ6YjljNURZN1lLdE1MZEprR2x0QWhYNmcwRHNTbUwtTHl4NTJiR2IxTldsRjlvS0VzTXJSalFTRDNlYTZrRnc?oc=5",
         "timestamp": "2026-05-18T04:00:00",
         "timestamp_display": "18. 05. 2026 04:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,16 +96,7 @@
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPU3FiaVMzRHh0VDN5dTR2Q1huWE5tUndzemxFMmpvUHBSRG9rTnNHLXpybzI2c1dIdF9LNHRXbUdFZzhGQmstX0FyLUxkT1pCTGk3SXVRdjRtRUltdDR6VkFaQjRCSWc3V1JyUmNyNzVIQVlEOVZjNE9UV3lKYVRDNFlLNTFzLUhxUjlxRlk5dzlqOVNVeldtNWdTS0FScElJczJuaFZGdEE0ZjhiUE16RjVtVE1UNEJqSnJJdXE2S0pKTFhmV3BkVENNRHdYcDRXYTJ6SXBzaUUtVTlOY1U5WEFpdm9PbWs?oc=5",
         "timestamp": "2026-05-17T19:13:00",
         "timestamp_display": "17. 05. 2026 19:13",
-        "is_new": true
-    },
-    {
-        "category": "Věda",
-        "title": "Asteroid 2026 JH2 proletí mezi Zemí a Měsícem",
-        "summary": "V pondělí proletí blízký asteroid 2026 JH2 v úseku mezi Zemí a Měsícem. Přestože neohrožuje planetu, bude dobře viditelný i malým dalekohledem, což poskytne amatérským i profesionálním astronomům jedinečnou příležitost k pozorování a studiu malých těles sluneční soustavy.",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQT1dha2RQTHFzc0kxaS1JcmxmTFF5RkYwNmJIdlZ6WWJWb1AxT1Rob3lwOGNoNGVFbHZFLTd3cmRDOFhlTlJSLXZ5Z2stYWpudkFPY1lzMkNQWlY5eVJMX25nNHJQdE1GelZCQ0ptaGFkTmNuUTIxM0laWUNUUnlmamIzR0xjRjBlMVppUmV3cldqaWxmSGduaWJLbHJmLUZ2MmlYaFFrdzVYaVloVDUxZVB2cFZhME1WcEwtY1ZrYm0wMEJlalF2RmE1aWM3LVJDWmVqeVgweFMtb0JMRjdNcA?oc=5",
-        "timestamp": "2026-05-15T05:45:15",
-        "timestamp_display": "15. 05. 2026 05:45",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -177,6 +231,15 @@
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSUgwalBnRTd5NTNqSjVCTWJRYUFwc0pTX0w1V0xZcnc3NWFZaG00czlUaXpCdHU5SWU1cUFyS1ktLWVXYU9LRHdVaFhKQUd4cFNSNEpwdVdlZEVqZzExQUpuYUdoOWV6TzhOUk1rZmRtWURieDVLLW1tVDJTenprbk1lbU10MEFfODhDZV83RQ?oc=5",
         "timestamp": "2026-05-15T08:09:18",
         "timestamp_display": "15. 05. 2026 08:09",
+        "is_new": false
+    },
+    {
+        "category": "Věda",
+        "title": "Asteroid 2026 JH2 proletí mezi Zemí a Měsícem",
+        "summary": "V pondělí proletí blízký asteroid 2026 JH2 v úseku mezi Zemí a Měsícem. Přestože neohrožuje planetu, bude dobře viditelný i malým dalekohledem, což poskytne amatérským i profesionálním astronomům jedinečnou příležitost k pozorování a studiu malých těles sluneční soustavy.",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQT1dha2RQTHFzc0kxaS1JcmxmTFF5RkYwNmJIdlZ6WWJWb1AxT1Rob3lwOGNoNGVFbHZFLTd3cmRDOFhlTlJSLXZ5Z2stYWpudkFPY1lzMkNQWlY5eVJMX25nNHJQdE1GelZCQ0ptaGFkTmNuUTIxM0laWUNUUnlmamIzR0xjRjBlMVppUmV3cldqaWxmSGduaWJLbHJmLUZ2MmlYaFFrdzVYaVloVDUxZVB2cFZhME1WcEwtY1ZrYm0wMEJlalF2RmE1aWM3LVJDWmVqeVgweFMtb0JMRjdNcA?oc=5",
+        "timestamp": "2026-05-15T05:45:15",
+        "timestamp_display": "15. 05. 2026 05:45",
         "is_new": false
     },
     {
