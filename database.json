@@ -1,12 +1,57 @@
 [
     {
         "category": "Společnost",
+        "title": "Rekonstrukce cyklostezky v Karlových Varech",
+        "summary": "Na lávce v Karlových Varech bude součástí nově zrekonstruované krajské cyklostezky. Projekt bude z 85 % financován dotací, což umožní zlepšit podmínky pro cyklisty a podpořit udržitelnou dopravu v regionu.",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT2lKTTBFZjJpRmV3eDdEalNaZnlMSmxzVUZKT29fN0ZxVWRFb0ZFTXF1dFJhOURNWHVWbmRpN29oZExhTXNSZGN5QndwWWdoMFp6Rm80NHJYU0lIUGNUNjJiWndXT01Gbm54S2loX1cxdHV2LTVya2Z5cXlxclhYek5IT1B3bVFrREVNQVgtM0x1RkRrczY0SWhpTkM0WGl2ZkwwcDNuUDNacVNDSDZCeDlwVFIwQmo2cUlBcnlNVmZ3dTZZOGw1cVhMRQ?oc=5",
+        "timestamp": "2026-05-19T13:29:00",
+        "timestamp_display": "19. 05. 2026 13:29",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Česká spořitelna ruší poplatek za investice",
+        "summary": "Česká spořitelna se rozhodla trvale zrušit minimální poplatek za investiční produkty, čímž usnadní přístup k investování a podpoří zákazníky v dlouhodobém spoření. Tento krok je vnímán jako pozitivní krok k větší finanční inkluzi a zlepšení zákaznické spokojenosti.",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckVuN3BDN2pETTJ6RUx2NDVocldnYVg1RW9BM3ZNV3c1aVBJcVNXZmo2cG11TlhiNWRpOUVNWDVqQWdZQnNLTUxLV21uYWNxRXE1ckFHLWVoZnRfUWZGblNqbXlXdUQwU3hPeElRSGdsc3ZRbkI5VS14SVg3VTZNV2J6X1lNNkJKNktMVUc1ckJlbDRsTWpDTlM0Mnp6M3FYVkZ6M21NTElfSGF2bVlCM2NDVQ?oc=5",
+        "timestamp": "2026-05-19T10:20:58",
+        "timestamp_display": "19. 05. 2026 10:20",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Rekordně tenké solární články promění okna v elektrárny",
+        "summary": "Vědci vyvinuli solární články, které jsou až 10 000‑krát tenčí než lidský vlas. Díky své extrémní tenkosti lze je integrovat přímo do oken a fasád, čímž se běžné stavební prvky promění v efektivní zdroje obnovitelné energie.",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQY09pWEgwbjREQ3ZJQi1MMzItSXNLZHFYUXJod2tXdTE5dklHcUxLUjBpaURIUm51NlBkUWVIQ1hRZG84MGJGVUZCaHdITHJsS0QwY0JHUk5QTmhvNWRXSXRzRUctZTBvaUsyOGZMRGE2cks3eWdMdVNrcVZtZlpodWlSREYxLUZRSWx2WE03Z2Zta3ZtaTV4d0EtSnN2bmtlUGdwNWhZeDVfMVZQMWt3VDJVWmpncWY1Tnl2VHZPVFdiNW42eVRDV2hsd1p5Wm9jd2RqTy1uTjVfblhXVDRMa0wtMlVNQQ?oc=5",
+        "timestamp": "2026-05-19T09:53:25",
+        "timestamp_display": "19. 05. 2026 09:53",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "FaceUp získalo 110 mil. Kč na globální expanzi",
+        "summary": "Český startup FaceUp získal od investiční skupiny JIC Ventures více než 110 milionů korun. Financování je určeno k rozšíření služeb na zahraniční trhy a podpoře růstu firmy, což posiluje postavení českých technologických firem na globální scéně.",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRVg1LVNlc2tHRHBjdWYtelBvN0pLeXRFV3phcmlQdFh4VWg5VmhsNjRmTXk1YmtRQkUxZ3RxdlRWbElnOU8wb05UdjRFeDZadG5JU0xlNnE4Q1dKbTh3RjZSQWVMbGdPVlhyejdGcmdWeG5NamJVcXZyWHljbTZvZE5lajlvcmtyOTdDbjYtTW0tTW9BTEJOUjdzQjktbDVCNWVEQ1hNdkFJTmJxdjVwd04wWVJmUQ?oc=5",
+        "timestamp": "2026-05-19T09:34:56",
+        "timestamp_display": "19. 05. 2026 09:34",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Jak český startup dosáhne světové úrovně",
+        "summary": "Investoři s portfoliem miliardových firem sdílejí osvědčené postupy, jak proměnit český startup v globální hráč. V rozhovoru představují klíčové faktory úspěchu, strategie expanze a praktické tipy pro růst na mezinárodním trhu.",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb1RDVzdDVDh6MW1VQkJTMUpkQzU1OV9oRFpFOC1WTExHNWc3YjFWeUpHM0djWnlaSGtuVXNFVVM1ZS1vcjQxYXN5RXVpZ3h3a3hORlVQMzg0cjQ3Vnl5TkFqTDIzYWw1ZTdxZFRKUldCZjY1aHR2Tkp1bTBRbDJlM1k4WlFhYnZxX3NrdDFfUXRRWUxuX2g3TTlqTy1oZmZFWldfaWhhbVM1YUNISG5uYzJocVBtMUItVEE?oc=5",
+        "timestamp": "2026-05-18T08:00:05",
+        "timestamp_display": "18. 05. 2026 08:00",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
         "title": "V Grygově vznikne komunitní centrum",
         "summary": "V bývalém areálu mateřské školy v Grygově se zbuduje multifunkční komunitní centrum s klubovnami, ordinacemi a prodejnou. Projekt podpoří místní obyvatele, poskytne prostor pro setkávání, služby a obchodní aktivity, čímž posílí sociální soudržnost regionu.",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVU1hV3JnZHVZWnp0U3dwMm11Z0h5TVlGYzNoWjFOQVdTMWJ3OWg3Z3JiNWFLMFl6bnJmX1lDY2dTeGQ2R2pCSDNUbExvcDl3MkhNbTlZUFBvc2VSeTNvY2tzeVlrZkhCbFgyNzQxSUsxVXMxaUM5N1ZYU1NGbkRYdUFpRl80S0w2TzFYVE1qc200QlI3bVljTy1OYnJpU1VDU3FEcTFERVlYS0tBTWZhREUwMEZSd2pUYXBkOW40S2pZWUYz?oc=5",
         "timestamp": "2026-05-19T08:09:00",
         "timestamp_display": "19. 05. 2026 08:09",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +60,7 @@
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT3owajVpOHNTZUltdHg1SVpmaU00aUhOb2ZDQ3l2VUItdnpsMGRDZHFtOUdRS3RCM1kyaVI0QjNVbTVxNXRJZEJsNWs1UEFpY2RhRUJRMEtrS1V6TWVzYkg4X0NlV2wzVERZN1NHQ043V2VrS1p6YXNjNTBJT250TmFXQzZXcExqQmU5bnkxRFJzYmx3TGROMHJ0Q0l1d3dhLVFlTnhOZHZ0cndkbDVldnMwNA?oc=5",
         "timestamp": "2026-05-19T04:32:15",
         "timestamp_display": "19. 05. 2026 04:32",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -24,7 +69,7 @@
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWFlwUDRzcWJEaVh4N0J4Q1d0TVZXTlE4VnZ0M2JuN2plS1hSeG1oVkJCTUJUallBRTI3cGdSVjFqSDVJV0hlZGt0eDkxN3pnSlF1TUFWUGg3eWZ6Y3NWcC0wMFVHbHJ6bDZJVXduNFRkNlBqUnpYMTV1M0pYYjhOMFlCcjJsVUd0cWg4QWwxZGlRVGQtLUhia3VmMlJXODkyclFtbWhn?oc=5",
         "timestamp": "2026-05-18T14:59:35",
         "timestamp_display": "18. 05. 2026 14:59",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -33,34 +78,7 @@
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTlRyaU55QmdrVWZ5eG5OTmphM1JBdUNyTWRacjhrcFNKRjBIZ1ZGSTFGc0hOcXliX2hKT09aaklwZ25oOXJqUW93NG9WYVZEWU5VU2ZHNUZRSW0xMEUxaGhYam1LdDltWjVwb1ZRWWF2Mll0YTdaa05RNWZObll4Qm5QUV9UZkVBTGluTi1MUVIyNFJLdXhTWjBoWXc3MWxYYjhuSXV0THNsb1BsVDZNLV96bUliZkp2UTFfaWtnT3Z6aUVPeURyMw?oc=5",
         "timestamp": "2026-05-18T14:07:00",
         "timestamp_display": "18. 05. 2026 14:07",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Česká spořitelna ruší poplatek za akcie",
-        "summary": "Česká spořitelna zrušila fixní poplatek za nákup akcií, čímž výrazně snížila náklady na investování pro své klienty. Tento krok podporuje dostupnost investic a může podpořit větší zapojení veřejnosti do kapitálových trhů.",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTDRfSzNKUVp6SHdIWVQ2aVhRNEhLckFMVHR2NkJKZ296YkYzLTZKNklUZy10QlJqYWliSW9oQ19nUzZNUEFWYjhwTzYwbUJ4ckVUb3RZWTdkTHQwdEpyRnhBR055UXBHZF9qaXZmY1VCMDREZ1lPVlU5ZjRTWm5EWi1GTkVNVGpocGx3dzlnRDdNbGxXZ1EwOXRpakN4ZTN5Zk5YOTNJSnN3SXZBVVQtdE9ISVVWdEpRRm9nWmEzbHJ2cC1lTmlNUg?oc=5",
-        "timestamp": "2026-05-18T08:10:00",
-        "timestamp_display": "18. 05. 2026 08:10",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Obří AI čip otřásá trhem",
-        "summary": "Společnost Cerebras představila gigantický AI čip, který díky své velikosti a výkonu přitahuje pozornost investorů a může představovat vážnou konkurenci tradičním výrobcům GPU, jako je Nvidia. Tento technologický průlom slibuje zrychlení výpočtů v oblasti umělé inteligence a otevírá nové možnosti pro výzkum i průmysl.",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYW5FLTdGUFlEMkxlS3JEamk1N3NIREEwbkNyQ3JhUEFySzRZUVR3TWhsS0t4NHRDN0F4SmYyNkJYc0JuTUt0UmN5cTZxSkliQklBUGs1RENCYWd3R2Zxa3hoTzhSRHAzYXg4azNhUDd3bFBqdU5DdE85MlI1UkJXaUs5V1dGdDk4NnBRUUNnUlZOMEdmdzhMMkdadEljTV9kT0ZtclBQYWFpQ1RteXRMb1ljMnZHd1U?oc=5",
-        "timestamp": "2026-05-16T11:24:31",
-        "timestamp_display": "16. 05. 2026 11:24",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Inovace a investice klíč k bezpečnosti EU",
-        "summary": "Článek zdůrazňuje, že bezpečnost státu už není jen otázkou zbraní, ale především rychlosti technologických inovací a investic. Podporou výzkumu a moderních řešení může Česká republika posílit své postavení v evropském bezpečnostním prostoru a podpořit ekonomický růst.",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa2ZlS3RnVV9IWTQwUjhPQTNnTlFDUVA1ZWVFWHA1WUdLb1BEVUxfdUhoZDNjZ3pwR2U4ZUp1U2xaT0tIV0xZc3pINXB1RXl1VW9rN18ycFZyZWloWWFsZy1DWjc5MHcyblVKTGp5bzJEaUtqaDNTRTBIYlRDUndKSS1yend0Qm5CZlJiczl5dUFxQ19VSWRWSWlod2l0ZVl6MWtTTVBpdnpFZGNZR0g5bGpRX3owUDhRRHJtSlhVYw?oc=5",
-        "timestamp": "2026-05-14T22:00:00",
-        "timestamp_display": "14. 05. 2026 22:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Medicína",
@@ -78,6 +96,15 @@
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWXRlbG5qS2RhUHcwZWVqQlFaZXd2UHNEUmRpdkhVdGxGSFA4NjhCZl8zRWtYZ3FGVkF1RnA5dXpPVWRFeklPaGlZQUREeGlSQWpET2hIM3pKZXhfNWxKellyTV82d2hPb3EtTFdLTW1wTWdDckppQVZBMXhVVnBubldEM0ZlNzlEYlBnelFIblZHV1FKU19ZTg?oc=5",
         "timestamp": "2026-05-18T08:15:27",
         "timestamp_display": "18. 05. 2026 08:15",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Česká spořitelna ruší poplatek za akcie",
+        "summary": "Česká spořitelna zrušila fixní poplatek za nákup akcií, čímž výrazně snížila náklady na investování pro své klienty. Tento krok podporuje dostupnost investic a může podpořit větší zapojení veřejnosti do kapitálových trhů.",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTDRfSzNKUVp6SHdIWVQ2aVhRNEhLckFMVHR2NkJKZ296YkYzLTZKNklUZy10QlJqYWliSW9oQ19nUzZNUEFWYjhwTzYwbUJ4ckVUb3RZWTdkTHQwdEpyRnhBR055UXBHZF9qaXZmY1VCMDREZ1lPVlU5ZjRTWm5EWi1GTkVNVGpocGx3dzlnRDdNbGxXZ1EwOXRpakN4ZTN5Zk5YOTNJSnN3SXZBVVQtdE9ISVVWdEpRRm9nWmEzbHJ2cC1lTmlNUg?oc=5",
+        "timestamp": "2026-05-18T08:10:00",
+        "timestamp_display": "18. 05. 2026 08:10",
         "is_new": false
     },
     {
@@ -105,6 +132,15 @@
         "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTXRDeVlfZGRGa285bnhTdUhyenVRVVk2N2IxSEs3cWZqQ1VLN2RITUJBRk9HZFRqRjFWWHBfR29XY21ZSHNocjA5NVk1djVudEladEdVdXphY0cxVGtBcDBxdko3bUlFejdGWU1Oc1I5N3VvdmotQkM3M093SlpDRnFNZnlWS1Q0UzQyNnhVN09hMzl3b20zZEhoSnZDMGRxMm5WOXBObTY2TTYwM0pxVVhaZE5kbjNBZmpXZERqMXNmRU16cWhLMEVNbC1hcGQ4LU9jZC01N3lLNHh5RUxXRVZMVFhYOXdWX3BSejZwMjBXZldF?oc=5",
         "timestamp": "2026-05-16T13:48:26",
         "timestamp_display": "16. 05. 2026 13:48",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Obří AI čip otřásá trhem",
+        "summary": "Společnost Cerebras představila gigantický AI čip, který díky své velikosti a výkonu přitahuje pozornost investorů a může představovat vážnou konkurenci tradičním výrobcům GPU, jako je Nvidia. Tento technologický průlom slibuje zrychlení výpočtů v oblasti umělé inteligence a otevírá nové možnosti pro výzkum i průmysl.",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYW5FLTdGUFlEMkxlS3JEamk1N3NIREEwbkNyQ3JhUEFySzRZUVR3TWhsS0t4NHRDN0F4SmYyNkJYc0JuTUt0UmN5cTZxSkliQklBUGs1RENCYWd3R2Zxa3hoTzhSRHAzYXg4azNhUDd3bFBqdU5DdE85MlI1UkJXaUs5V1dGdDk4NnBRUUNnUlZOMEdmdzhMMkdadEljTV9kT0ZtclBQYWFpQ1RteXRMb1ljMnZHd1U?oc=5",
+        "timestamp": "2026-05-16T11:24:31",
+        "timestamp_display": "16. 05. 2026 11:24",
         "is_new": false
     },
     {
@@ -240,6 +276,15 @@
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQT1dha2RQTHFzc0kxaS1JcmxmTFF5RkYwNmJIdlZ6WWJWb1AxT1Rob3lwOGNoNGVFbHZFLTd3cmRDOFhlTlJSLXZ5Z2stYWpudkFPY1lzMkNQWlY5eVJMX25nNHJQdE1GelZCQ0ptaGFkTmNuUTIxM0laWUNUUnlmamIzR0xjRjBlMVppUmV3cldqaWxmSGduaWJLbHJmLUZ2MmlYaFFrdzVYaVloVDUxZVB2cFZhME1WcEwtY1ZrYm0wMEJlalF2RmE1aWM3LVJDWmVqeVgweFMtb0JMRjdNcA?oc=5",
         "timestamp": "2026-05-15T05:45:15",
         "timestamp_display": "15. 05. 2026 05:45",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Inovace a investice klíč k bezpečnosti EU",
+        "summary": "Článek zdůrazňuje, že bezpečnost státu už není jen otázkou zbraní, ale především rychlosti technologických inovací a investic. Podporou výzkumu a moderních řešení může Česká republika posílit své postavení v evropském bezpečnostním prostoru a podpořit ekonomický růst.",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa2ZlS3RnVV9IWTQwUjhPQTNnTlFDUVA1ZWVFWHA1WUdLb1BEVUxfdUhoZDNjZ3pwR2U4ZUp1U2xaT0tIV0xZc3pINXB1RXl1VW9rN18ycFZyZWloWWFsZy1DWjc5MHcyblVKTGp5bzJEaUtqaDNTRTBIYlRDUndKSS1yend0Qm5CZlJiczl5dUFxQ19VSWRWSWlod2l0ZVl6MWtTTVBpdnpFZGNZR0g5bGpRX3owUDhRRHJtSlhVYw?oc=5",
+        "timestamp": "2026-05-14T22:00:00",
+        "timestamp_display": "14. 05. 2026 22:00",
         "is_new": false
     },
     {
