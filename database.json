@@ -1,12 +1,75 @@
 [
     {
+        "category": "Technologie",
+        "title": "Tchajwanská firma vybuduje české centrum pro polovodiče",
+        "summary": "Tchajwanská společnost zahájila výstavbu moderního centra pro výrobu chemikálií určených k výrobě polovodičů v Ústeckém kraji. Projekt podpoří lokální průmysl, vytvoří nová pracovní místa a posílí pozici regionu v high‑tech sektoru.",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMWJ4UzJXRk14ZzNhMGxIeEFRWU1BSUhRQjFpbXFQYkl4QUwzQjR3b3BGbDAtNFoxd254QWRpMThXM1VXYVV1QWc2UzhFeFNIcW5LT0E5a01Lazh4YjV0WjJZcE1rN0ZpajN0Nmsxb21oQ3VfY0FFTlV6TERsR2gwSFNlOE5SOTBsZndUaVM5R1NqcVByT2M1MHhmUXMtOUF3Q29oekVzaTAwN3hmeUdkMHc3b0ctTWV6VExsQg?oc=5",
+        "timestamp": "2026-05-21T08:03:00",
+        "timestamp_display": "21. 05. 2026 08:03",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Ostravští vědci vytvořili kvantový šifrovací simulátor",
+        "summary": "Výzkumníci z Ostravy vyvinuli první simulátor pro kvantové šifrování, který má zajistit naprostou bezpečnost budoucí digitální komunikace. Projekt představuje významný krok vpřed v oblasti kybernetické ochrany a otevře nové možnosti pro bezpečné přenosy dat.",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTHExVGpYQ0FKRFNpbl8yb2Z0N2xKX2tnT3lVRXBtcWNQWjVaY0xlemE1OURPVmczTzhLTGNUUl9mQVRnOERWTFA1NzdBNEo3LV84RkpmcjctcEJBNVVjbkU0VVJNS2w5dGRzWUtWN3ZmT29XcHYxS1FORG96engtOHA1OFJnMVh1UEZkcExRXzVaRm9RLWU0aEItU2lpdnhGWk1lSXpBNUxkYmpGOXRydWNlMk9ZclpicmtoZmkyRWlza0FHQy1nQkdWWXJfS0RKZk9z?oc=5",
+        "timestamp": "2026-05-20T21:30:00",
+        "timestamp_display": "20. 05. 2026 21:30",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Zlín promění kino Květen v kulturní centrum",
+        "summary": "Město Zlín investuje 100 milionů korun do přestavby kina Květen na multifunkční prostor pro umění, výstavy a komunitní akce, čímž podpoří místní kulturu a společenský život.",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQREFLUDBsVXNFcnpWdmJyRXBRZU8yS1dfemIxNFVtSlptbzd2MGtSWHc0STlVNUIxRG1BWHpHR3VqOVlQWlByRjR4ZXNkbGQyVVl3MFlYLVBRLTZCcW1Nd1BSc0x1ZWNaWnJVYWRQbEI5OXluUW9wZFJJd2lmWFpwY2NVNHFpQV9QbFQwTFdNMTJZWWUxclhaaVZ4bWNnNGFnS1FvV184VFNoVFgzQ296dFhQZVJnOGlsVjFmTG1ENGZFYUJLaUItZWF3?oc=5",
+        "timestamp": "2026-05-20T10:50:00",
+        "timestamp_display": "20. 05. 2026 10:50",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Češi sázejí na státní dluhopisy",
+        "summary": "Forbes Česko přináší analýzu, proč jsou státní dluhopisy atraktivní investicí pro české spořitele. Experti vysvětlují výnosy, rizika a vhodné investory, čímž pomáhají lidem učinit informované finanční rozhodnutí.",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRDV0VFZfNTl6cF9fZFp0eTNjaWlTM3BkZWU1Sno1OUc1MTdnclZ0Q2FzbVJnS2lwOWZYdVhVSlV0b2pKZUJIZGtjVzN1d1JlVWlMNWJ2c0JBeXo3aF94YkJCQjZ6MUF1U0VJS1NPdzd0MDl5TzF6akItRDJMNHlIUWcycWFjVlhRbW1HdEpyNkZrVElj?oc=5",
+        "timestamp": "2026-05-20T10:15:36",
+        "timestamp_display": "20. 05. 2026 10:15",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Google a Blackstone spouští miliardový AI projekt",
+        "summary": "Google a investiční firma Blackstone zahájily společný projekt v oblasti umělé inteligence s rozpočtem v řádu miliard dolarů. Cílem je vyvinout špičkové AI technologie a posílit konkurenceschopnost vůči NVIDII, čímž podpoří inovace a růst v sektoru výpočetní techniky.",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMW5HSHo2QUpHV0szMF9CNGRjUHpYX09rMWNxX2dfSC1lNXpBZHNvSF9Rd1UzclJQVEwwcHdMMjV5d281dXJjZWFzYlROVlZ5RnJ0VzItb0NFa3QzQ1E5LU9OV29rNjZQZFJUREMwMDNxYTkzQnMtVWRydGpNTWxKWGNKYzZoT2NtYW42dEp1d2dYM3FCb2h2MmcyZGhuZ0g0S0J6cWJ1TTZzV0FuTFpDZEhB?oc=5",
+        "timestamp": "2026-05-19T09:19:56",
+        "timestamp_display": "19. 05. 2026 09:19",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Sv. Zdislava – lebka se vrátí do Podještědí",
+        "summary": "Archeologové očekávají, že lebka svaté Zdislavy z Lemberka bude vrácena do Jablonného v Podještědí koncem května, čímž se obnoví kulturní dědictví a podpoří místní historické povědomí.",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNclFteHdOdlFoMFhTeFdVd29QTzNYMXR0RDZGM2p0TzlNZndOdEtlcUQ0Z3VPejVlOVZPUUMtOTVIeVRSRmZXM1FPYy1tbnJrRkRTeGQ4MlIwV3l2a01WUnU5UTNWUTdVRmxEOEtNdmRsYjh5bHYxeTVaY3JjbENsRmlqVVpZSVVPVmMyeWoyU3FNbllhU1ZiemFfOWxKV004WEc1NTRxMDBnQnVrNXVrOHJFaVdKcV90Vy1DZUdJMkJpT3dINmtoNXVRaw?oc=5",
+        "timestamp": "2026-05-17T13:15:00",
+        "timestamp_display": "17. 05. 2026 13:15",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Nejbohatší Češi spojí síly v investicích",
+        "summary": "Nejbohatší muž a žena v České republice oznámili společnou investiční iniciativu. Plánují podpořit inovativní projekty a rozvíjet nové podnikatelské příležitosti, čímž posílí domácí startupový ekosystém a přinesou ekonomický růst.",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdmlvYkNyakF5VHdyWnRnYkdvaU93eDB0ZWlvU3pDOXlzbVU0RE96Z084NVZoWlV6QWNDcndQcm9tWVFsWngzUS1RR1J1T2dMb2pnT1cyUkJfaVlDOUtXUkRzZlYwRzRxbEtUTi1kdHljSFRBc29IcDJmSkdfTldIMzF6VEVNSXZkQUM0SlFnRnNmRmJfMkdkbkdESWNzQ1NjVl9XNWs1aDZfOUU?oc=5",
+        "timestamp": "2026-05-16T07:34:24",
+        "timestamp_display": "16. 05. 2026 07:34",
+        "is_new": true
+    },
+    {
         "category": "Společnost",
         "title": "Rekonstrukce cyklostezky v Karlových Varech",
         "summary": "Na lávce v Karlových Varech bude součástí nově zrekonstruované krajské cyklostezky. Projekt bude z 85 % financován dotací, což umožní zlepšit podmínky pro cyklisty a podpořit udržitelnou dopravu v regionu.",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT2lKTTBFZjJpRmV3eDdEalNaZnlMSmxzVUZKT29fN0ZxVWRFb0ZFTXF1dFJhOURNWHVWbmRpN29oZExhTXNSZGN5QndwWWdoMFp6Rm80NHJYU0lIUGNUNjJiWndXT01Gbm54S2loX1cxdHV2LTVya2Z5cXlxclhYek5IT1B3bVFrREVNQVgtM0x1RkRrczY0SWhpTkM0WGl2ZkwwcDNuUDNacVNDSDZCeDlwVFIwQmo2cUlBcnlNVmZ3dTZZOGw1cVhMRQ?oc=5",
         "timestamp": "2026-05-19T13:29:00",
         "timestamp_display": "19. 05. 2026 13:29",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +78,7 @@
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckVuN3BDN2pETTJ6RUx2NDVocldnYVg1RW9BM3ZNV3c1aVBJcVNXZmo2cG11TlhiNWRpOUVNWDVqQWdZQnNLTUxLV21uYWNxRXE1ckFHLWVoZnRfUWZGblNqbXlXdUQwU3hPeElRSGdsc3ZRbkI5VS14SVg3VTZNV2J6X1lNNkJKNktMVUc1ckJlbDRsTWpDTlM0Mnp6M3FYVkZ6M21NTElfSGF2bVlCM2NDVQ?oc=5",
         "timestamp": "2026-05-19T10:20:58",
         "timestamp_display": "19. 05. 2026 10:20",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -24,7 +87,7 @@
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQY09pWEgwbjREQ3ZJQi1MMzItSXNLZHFYUXJod2tXdTE5dklHcUxLUjBpaURIUm51NlBkUWVIQ1hRZG84MGJGVUZCaHdITHJsS0QwY0JHUk5QTmhvNWRXSXRzRUctZTBvaUsyOGZMRGE2cks3eWdMdVNrcVZtZlpodWlSREYxLUZRSWx2WE03Z2Zta3ZtaTV4d0EtSnN2bmtlUGdwNWhZeDVfMVZQMWt3VDJVWmpncWY1Tnl2VHZPVFdiNW42eVRDV2hsd1p5Wm9jd2RqTy1uTjVfblhXVDRMa0wtMlVNQQ?oc=5",
         "timestamp": "2026-05-19T09:53:25",
         "timestamp_display": "19. 05. 2026 09:53",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,16 +96,7 @@
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRVg1LVNlc2tHRHBjdWYtelBvN0pLeXRFV3phcmlQdFh4VWg5VmhsNjRmTXk1YmtRQkUxZ3RxdlRWbElnOU8wb05UdjRFeDZadG5JU0xlNnE4Q1dKbTh3RjZSQWVMbGdPVlhyejdGcmdWeG5NamJVcXZyWHljbTZvZE5lajlvcmtyOTdDbjYtTW0tTW9BTEJOUjdzQjktbDVCNWVEQ1hNdkFJTmJxdjVwd04wWVJmUQ?oc=5",
         "timestamp": "2026-05-19T09:34:56",
         "timestamp_display": "19. 05. 2026 09:34",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Jak český startup dosáhne světové úrovně",
-        "summary": "Investoři s portfoliem miliardových firem sdílejí osvědčené postupy, jak proměnit český startup v globální hráč. V rozhovoru představují klíčové faktory úspěchu, strategie expanze a praktické tipy pro růst na mezinárodním trhu.",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb1RDVzdDVDh6MW1VQkJTMUpkQzU1OV9oRFpFOC1WTExHNWc3YjFWeUpHM0djWnlaSGtuVXNFVVM1ZS1vcjQxYXN5RXVpZ3h3a3hORlVQMzg0cjQ3Vnl5TkFqTDIzYWw1ZTdxZFRKUldCZjY1aHR2Tkp1bTBRbDJlM1k4WlFhYnZxX3NrdDFfUXRRWUxuX2g3TTlqTy1oZmZFWldfaWhhbVM1YUNISG5uYzJocVBtMUItVEE?oc=5",
-        "timestamp": "2026-05-18T08:00:05",
-        "timestamp_display": "18. 05. 2026 08:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Společnost",
@@ -105,6 +159,15 @@
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTDRfSzNKUVp6SHdIWVQ2aVhRNEhLckFMVHR2NkJKZ296YkYzLTZKNklUZy10QlJqYWliSW9oQ19nUzZNUEFWYjhwTzYwbUJ4ckVUb3RZWTdkTHQwdEpyRnhBR055UXBHZF9qaXZmY1VCMDREZ1lPVlU5ZjRTWm5EWi1GTkVNVGpocGx3dzlnRDdNbGxXZ1EwOXRpakN4ZTN5Zk5YOTNJSnN3SXZBVVQtdE9ISVVWdEpRRm9nWmEzbHJ2cC1lTmlNUg?oc=5",
         "timestamp": "2026-05-18T08:10:00",
         "timestamp_display": "18. 05. 2026 08:10",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Jak český startup dosáhne světové úrovně",
+        "summary": "Investoři s portfoliem miliardových firem sdílejí osvědčené postupy, jak proměnit český startup v globální hráč. V rozhovoru představují klíčové faktory úspěchu, strategie expanze a praktické tipy pro růst na mezinárodním trhu.",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb1RDVzdDVDh6MW1VQkJTMUpkQzU1OV9oRFpFOC1WTExHNWc3YjFWeUpHM0djWnlaSGtuVXNFVVM1ZS1vcjQxYXN5RXVpZ3h3a3hORlVQMzg0cjQ3Vnl5TkFqTDIzYWw1ZTdxZFRKUldCZjY1aHR2Tkp1bTBRbDJlM1k4WlFhYnZxX3NrdDFfUXRRWUxuX2g3TTlqTy1oZmZFWldfaWhhbVM1YUNISG5uYzJocVBtMUItVEE?oc=5",
+        "timestamp": "2026-05-18T08:00:05",
+        "timestamp_display": "18. 05. 2026 08:00",
         "is_new": false
     },
     {
