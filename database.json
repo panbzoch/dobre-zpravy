@@ -1,12 +1,66 @@
 [
     {
+        "category": "Věda",
+        "title": "Krevní test předpovídá závažnost onemocnění",
+        "summary": "Britští vědci vyvinuli krevní test, který z analýzy RNA dokáže několik dní dopředu předpovědět, jak vážný bude průběh nemoci. Tento objev umožní lékařům lépe plánovat léčbu a zlepšit péči o pacienty.",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNamUzVk1FWC1TenVreXVjZi1yaDBiMkp2cFJoVVNtaGk4X0FPTnhiLUxKQWkyRHJZM2dNcTV0S1haN00tRVdsdUZObkJJN3Ftd01MU19SS0dJaXlvMzNxUzFVOU1oVkRqRFhRUTFmdU5HaE5WM2ZCdk1xUkpxVVN0S1g2NjFGZER2M0hSN1QzWUdjWXdtNjFBWGhaVEFKc3o4OGZ4TFBBd21HT1c4TmtNdkxmbVJkWEIxeXpaTVRGVUE2V2c1dUlwZi16ZmdwUmM4d1V6WEc4bUdHVTNGVDh4TWlYVUliZw?oc=5",
+        "timestamp": "2026-05-23T05:45:15",
+        "timestamp_display": "23. 05. 2026 05:45",
+        "is_new": true
+    },
+    {
+        "category": "Medicína",
+        "title": "Nový lék překonává Ozempic",
+        "summary": "Vědci představili revoluční lék nové generace, který působí odlišně a dosahuje vyšší účinnosti než Ozempic. Studie ukazují výrazné zlepšení kontrolu hladiny cukru u pacientů s diabetem, což slibuje významný posun v léčbě této onemocnění.",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYmFlb29wX1ZjdmV0OGxXT0dJVFBRcEt6TTNxeFEzWTFxTF8zbXRfUlBzZXM5UVhwVzlCODRUTU5BYy13NTl6MkdWZUYxS3d4RTFkQ0FWSnJVeTIyOVJyME9IcmI0X2tucHpQQzRxRi1UcWZOUThPdll6aXFWbXc0NExQWENVZHdjUzFSZk1KRVFtdVI1Tk53WmZTME5aeUViSDNWQTZWdlUzaV94WWZyZzhJSzhNdUNOaXFwYkw0S1p3T2FlcWRYMV9R?oc=5",
+        "timestamp": "2026-05-22T15:10:41",
+        "timestamp_display": "22. 05. 2026 15:10",
+        "is_new": true
+    },
+    {
+        "category": "Medicína",
+        "title": "Nový lék překonává Ozempic",
+        "summary": "Vědci představili inovativní lék nové generace, který prokazuje vyšší účinnost než Ozempic při léčbě cukrovky a obezity. Lék funguje odlišným mechanismem, slibuje lepší kontrolu hladiny cukru a snížení hmotnosti, což představuje významný krok vpřed v medicíně.",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc3d6RF83ZWtkdWYzQnFJbUpFTXlkS1llRHhHSmdFSVFOTGZEbF96LVdwUVRXSlh6dzdlM2swMGNyOFdabTVOS2lOUnYxY3Q1NUQ0MW1aNjhZSFNQZzQ5WWxNdWNlNmxjaWdaSlJsa19EWEFzNGZzYUVCZDhILXNxSHp6NGRXbGF6ZFpvZmc5M2RRaXVld1VzangzckdjcXBqTkFURGlOLTJ1YUV1ODM3X0FPVG9Sams?oc=5",
+        "timestamp": "2026-05-22T14:00:00",
+        "timestamp_display": "22. 05. 2026 14:00",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Nejmladší český zmrzlinář studuje a točí zmrzlinu",
+        "summary": "Šestnáctiletý Jindřich z Vizovic kombinuje školu s vášní pro výrobu zmrzliny a stal se nejmladším profesionálním zmrzlinářem v Česku. Jeho příklad ukazuje, že i v mladém věku lze úspěšně rozvíjet podnikatelské dovednosti a přinášet radost zákazníkům.",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdW1wNjJ5WkxNVnBhZkJOWXZHN0Rud0Z0SU84RWxIWHZIMEVxZTNaSm5ueGFIZUZ5WWl5cy1jUkhjbW5YR3NTUVZ0aTQyRGszTmVwR3VqNEtYNDBLdjllRzZmN1ZrVnJNc3ozbUN5eTFhZ3B5aW8taGd3NEpYVWdwT2VvY3RodmJPOWhxdDhFb3FEbUdVVngzVkhHUUk3ZDBlSFlZTDNvUzR4eGw0dWtoUTd0LTR0THpZWU1BT1lZMlY2NFRyN3c?oc=5",
+        "timestamp": "2026-05-22T06:58:00",
+        "timestamp_display": "22. 05. 2026 06:58",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Český investor masivně rozšiřuje portfolio v Albánii",
+        "summary": "Jeden z předních českých investorů zakoupil desítky apartmánů v Albánii, čímž podpořil rozvoj místního turistického trhu a vytvořil nové příležitosti pro české i zahraniční návštěvníky. Investice představuje významný krok v diverzifikaci realitního portfolia a posiluje ekonomické vazby mezi Českou republikou a Albánií.",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPa2NpMzE1ZS1IeEJjQXNqSnNQMlNjakpMTnpQamR5RDhZTHp5ckxtNjgzR0p2dHY5TXQyWVhvVURaNzdraWJBRlJWNGFXMEQwbzdPb3N4WWN1MlJva2lRT1FkeldianpNWjE3YVFtSTduVENBTTdNVzliTGUzM0Z6bGxoUXh5S3JhcV9PcHkxdFdMaVpXMlJVeUxRc2VCc1NMTGV4dGJTay12WklDWUVlZXdNNzJhdWcyRTNIM1Npbk1QTnlHQWJ3dzFjLURxTWhnQXdV?oc=5",
+        "timestamp": "2026-05-22T04:00:00",
+        "timestamp_display": "22. 05. 2026 04:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Češi investují, banky sbírají poplatky",
+        "summary": "Češi výrazně zvýšili své investice, což podpořilo růst zisků a přineslo bankám rekordní příliv poplatků. Tento finanční rozmach ukazuje na silnou poptávku po investičních příležitostech a zlepšuje celkovou ekonomickou dynamiku v zemi.",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVEVzWTAyZTAteVNiUTloMTIxUHlZTjZfU1YwZUhjODJ6ZFZNRDFHWGxGbS1fMkRuTlppaFpVajAwbGttYk52ems3NFM2SkZON1RUb2xlREVjeEkzdWUzX3o4TmVYeGZseEhzaV9ySXNYamVfVGJ3LURNU084Y0czRE9HMFBoWFFKdzRSTmxzR1BUT0FMWmJCRHNuY2tXem1FSXhfdTZBLXBWUTREOW5oSDQ0amxfbEFTQ3hydzA1ZEJ3SkE1R05ZWDRhV052b25wU1lWbjliQmE1MTRoN1FLWA?oc=5",
+        "timestamp": "2026-05-22T03:30:00",
+        "timestamp_display": "22. 05. 2026 03:30",
+        "is_new": true
+    },
+    {
         "category": "Společnost",
         "title": "Miliardáři děkují samoživitelkám za úspěch",
         "summary": "Forbes Česko představuje příběhy úspěšných miliardářů, kteří připisují svůj růst podpoře a inspiraci od matek samoživitelek. Článek ukazuje, jak osobní zkušenosti a sociální prostředí mohou formovat podnikatelské ambice a motivovat k filantropii.",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM2NtcmRkMm5YQ2FkSk1McjhENnhCaVdyV2hoOTlQTUFrSy0wemNjeHlXQTRybVd5dks1cGs1c0xUMVA2NVY4ZlY0Rk9QRzFJU2t6Q1ZvWWdwc2lDNGRCcklWUGx1Yk1DSVYwbXV4RTRwM0hybFhnd0k5S3lCSUFkNm9ZeTNQQW1MQkZ6MFA1V1lPdnNPbEI0VnJwT1hKTjQ?oc=5",
         "timestamp": "2026-05-22T08:03:41",
         "timestamp_display": "22. 05. 2026 08:03",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Společnost",
@@ -15,7 +69,7 @@
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSXhDMHFfN3hIZnV3OFlOZ2xCeE1iQXFMQjZwcDdrWUdNQWstdEtJLXVRQlU5WU92Z09FZE1uTExfTUpaLXJBOTh2LXFKRmdoX1NpZ1M0QlByRDdjcFpIOWVtZWhfZVcyZm1TOXV1R3h4RHpGYV9Tbjd5T2M0REMtS2xmVktfdjNYSEpGdnJVZUtGUWZFR1hIYzhXcWYwZGhPendnd0duM2VWVWVBZVgtR3d6VzBqZGcyNDZ6SGcydElhRTN1N0E?oc=5",
         "timestamp": "2026-05-22T04:44:00",
         "timestamp_display": "22. 05. 2026 04:44",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Společnost",
@@ -24,7 +78,7 @@
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeEhNeHRHQjlfSnh5SUNUN1ZzOFdxN2RfZk5lS3J5a3JtY2xBTGFTbGFxdXFIVklHd2VlTjdhWi1XWkktUmFHNGRfZWVmREtqSE1LRmJHR181QVNSQUtiMlZqSHotSTZxVVI0ZlBnMzhqdDRmd2VTRnBnaWhQMkxQMWY2aEdhR24wWmJhYk1pSm1TYUZNdUZxX2V3bGtmSnlncEFPZ2xCczhHVTRmaFFOWVNVZU5LTWVjREx3REpMcGQtdGRvejk4VHpmaE4?oc=5",
         "timestamp": "2026-05-21T14:06:00",
         "timestamp_display": "21. 05. 2026 14:06",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,7 +87,7 @@
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONloyeVdScldNS0lYV0RMVVo3eFpuZk56N2szWTM3YmtabElaV2FpOXRoel9iVG5PUVdPSGoxM3BiV0NmbjNJclk0Yy1TWVJ4dDJyMmQ5REtmOVpoaTlRUzVUcDBIVlVXb1JhWTRHaG84aFltamJkbjBnazJHOUg4cERJRWJsZkRyZS1iXzJiZVlqLWJ3R3NSWXBLbmR1bHpvWEJncVNfVXUxNTRCQkhzODEwTk95c3NDcWhDWWtWY2EzRDJpYmVycg?oc=5",
         "timestamp": "2026-05-21T13:47:00",
         "timestamp_display": "21. 05. 2026 13:47",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -42,7 +96,7 @@
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRzI3MF84UkMyTnZXYkVEdE1DeVRfWFBWbW9yOHpCanZVR0RUN0J1dXAzUVkxemVaU0VHRU5CSjNzYXA2QU9penFxMUV5eHFYbXpFNDMyVlJsNXhfQTQ0MnVBRjFqWm1NWXJPUG1ucVlqVkg2N0h6MVlqeTNrQWo5WUhlLXh6UFpKbFByNTZ5VW5tZUhqYUN5SVo2TTlBbmZMZW9Wa0ZuM1NLdEEwTWRTRUM1TQ?oc=5",
         "timestamp": "2026-05-21T13:42:40",
         "timestamp_display": "21. 05. 2026 13:42",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -51,7 +105,7 @@
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSGVOWmlzWjNJelByUkNweTE5dTRPVHdjTWw4QzNSZHpHdFZRTU1JTW0xNXlEY1JnUlpfM0x3dG5qZlVRdGxRNXBDbEgtd0cxUnR2NGZwLWl3RExfMEQ5QWNYZTBGM25KRkVNQ1lmLUNiSHROUlpIOHBXTmFJTERuV2tPQVdkNlJ4SnVKOVFHZ0dQdzRSdDNveXRuUmExY1J3RGV4ZVpyQUVEdGRZX0Zr?oc=5",
         "timestamp": "2026-05-21T11:26:03",
         "timestamp_display": "21. 05. 2026 11:26",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -60,7 +114,7 @@
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01TXRyY0VRXzJ6U3E4M0RkWlFZNXFIZHZvT2tLSm5pV1RRR29PVFJrS1BYa3VteUd3dGhSUEdLRlhDNmQ2NlVQSUlwRnhOV0NnSkJz?oc=5",
         "timestamp": "2026-05-21T08:03:00",
         "timestamp_display": "21. 05. 2026 08:03",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
