@@ -1,12 +1,66 @@
 [
     {
         "category": "Věda",
+        "title": "Záhadná Halucigenia a zombie buňky",
+        "summary": "Článek představuje neobvyklé a fascinující objevy ze světa biologie – od tajemné fosilie Halucigenia po výzkum myší apokalypsy a výskyt „zombie“ buněk. Přináší čtenářům inspirativní pohled na aktuální vědecké výzvy a průlomové poznatky.",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUUZhcXZFQ3Q0RE91bTZJWjlrTzhZR1l5SzE2T2lsaU9tZUdfbURfUlVCbnVHT0pCSDJXb0wyOHlNQmptYnZndUw3Ym52OE1oSFVKQ21nUHZMajVTMHpqTTFUcWFsNEdkQW1zQ2hkZEVTTzVXXzdieFdoMkxSRGQ1RGhaUTFLYXFOWUM4SUVDUm1SalZlVFFMaHBjVzZlNm1QTEhPZ0tsUFNJa1FDZzg1TTlpbGdVaWRXZmtEeVVwbzFERXdEWG9TSXc0S0pBbkNyYzFONA?oc=5",
+        "timestamp": "2026-05-23T20:32:00",
+        "timestamp_display": "23. 05. 2026 20:32",
+        "is_new": true
+    },
+    {
+        "category": "Medicína",
+        "title": "Oxfordská vakcína proti ebole",
+        "summary": "Vědci z Oxfordu pracují na nové vakcíně proti ebole, přičemž využívají osvědčenou mRNA technologii z vývoje covidových vakcín. Projekt slibuje rychlejší a efektivnější ochranu před smrtelnou virovou nemocí.",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYldKWi1SVU5hY0dGbVZRczQxUFUwdVV0dU8tTGFka0ZiX3hsa294SXA5MGFLbmp6enBsazNCSDEtcVh2TVRuX0JiSFViaHdOd0c1NDBHUWZ2ak1uSXNYbG1mOTR5TTBLcmxYSmFBd3Fmck9kbW9lWHg0RGR0T1VaMEJ5alFyNVUyZ19Kcm42bGpDNllrcGpxMkNYTG1GSGxDZlhXY3RSWExnUlBaOU9aVVQtV0p5TW9iWXVyRGpsT0FZOVhJYjNJbA?oc=5",
+        "timestamp": "2026-05-23T18:28:00",
+        "timestamp_display": "23. 05. 2026 18:28",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Miniaturní zub odhalil dávného savce",
+        "summary": "Vědci objevili zub o velikosti špendlíku, který patří k malému savci z druhohor. Tento nález rozšiřuje znalosti o evoluci savců a ukazuje, že již v té době existovaly drobné savčí druhy.",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbGxqTUI3UW5Db0o4NUVKaTI4bW9mbDdUQXJaOTc2bllaVTVyNWlnWnhtV1c4LWtDc0EzZDhjZkZvdWVySXNJbVQ0SkNWbW90SXpaRmNqZFQ5TWtHRDd2OHI0dDlfeklSOE9vNFZwQUdfTUNJOG15eDcyMnRXRUd2T1d5ZXJBRmJ4dHY2T3VEb0JHUDJqV1ZWQU9qa2daMDJDelN0TldQaFZqQ29rMlViQWpTTk1JWGJWcnNlS3RVaUdVRWM1ZHdILW53elAxY3h1Nm00?oc=5",
+        "timestamp": "2026-05-23T11:43:00",
+        "timestamp_display": "23. 05. 2026 11:43",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Mladí vědci přednášeli o vesmíru a dopaminu",
+        "summary": "V Českých Budějovicích se sešli mladí výzkumníci, kteří představili svým vrstevníkům nejnovější poznatky o vesmíru, buněčných procesech a výzkumu dopaminu. Akce podpořila zájem o vědu a inspiraci pro další generaci výzkumníků.",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaGNrN1dMZjJpSlRmZTg5NVYtSkdmaWJhR0VFWDVQX3NPT3dwSnAwNWRPeHJEdzlwT0tKWlN5YUdGWDRrZTdmMkpNMlR3Rll2SkZUVUZYSnpPd3FpWjdMeEVIU1dRQkFhR0RhMWtrYXl5YXFSVmtGdkUzSFBGc3NIVjFqWkpqcGV0SW9nLUdDU2pMc1hWelJpMHlUTkFTdldDTHR1cFZsVUJDWlYxT2ZHVVN4WVBNT0pVNlV3Q0xuWXdUUUZia0xENjlkMA?oc=5",
+        "timestamp": "2026-05-23T05:46:00",
+        "timestamp_display": "23. 05. 2026 05:46",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Šestnáctiletý vývojář vede úspěšný startup",
+        "summary": "Už na střední škole pracoval jako programátor na plný úvazek. Dnes řídí vlastní technologický startup, pomáhá investorům na burze a rozšiřuje své podnikatelské aktivity, čímž ukazuje, že i mladí lidé mohou dosáhnout významných byznysových úspěchů.",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX0ZLY055MmhzTjV1aUIxLVRvRGxGVWgtTm5aRTdHc21pcUxiVTNQdEJfdmJPVHBEUE1PZk9Rcm1HdzRIbVpuYUNZeUtzcmNlLTVjcWpFX2NiSmgxZldQd245MVlKR2dRcEpxcEJWaWVJTXVTZTBXeDJ5dERQYUFyVmNDcTFvOEJENV8tcEdKRGY0bTNjbE03TzhfMlR6NngwUXN6UnZZUW1qUVFLRVp4MkJVeV9SUUl3ejJZUTNNNA?oc=5",
+        "timestamp": "2026-05-23T04:00:46",
+        "timestamp_display": "23. 05. 2026 04:00",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Kami Rita překonal rekord na Everestu",
+        "summary": "Šerpa Kami Rita poprvé v historii dosáhl 32. výstupu na Mount Everest, čímž si upevnil své místo mezi největšími horolezci. Úspěch oslavila i „Královna hor“, čímž podtrhl význam týmové spolupráce a lidské vytrvalosti.",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ1BLdlV0Ul9fai0zU2RVZVhmRjRObzRjQ3FjdTVTZU5NcEh2LXVUTGlkdHB4anM1b2ttLVdIQ0t4UWRHeWphWEZMSU1IODN1cnRMeHNldzhsaU9ucWxWRWVULWpkbTdHcVhiQnBnWVVWRVplR1pDMFJsWmRkNEdIaVF2MXpfVjdnRTRnQmFCX1U1TnNZUEt3V2Ryb1FYa0hTOHQtQ09ZeUp1VDdGUFBNYzlGN1lDOGxMdTRxOUtPMER1VEZmWTNJNg?oc=5",
+        "timestamp": "2026-05-19T07:38:00",
+        "timestamp_display": "19. 05. 2026 07:38",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
         "title": "Krevní test předpovídá závažnost onemocnění",
         "summary": "Britští vědci vyvinuli krevní test, který z analýzy RNA dokáže několik dní dopředu předpovědět, jak vážný bude průběh nemoci. Tento objev umožní lékařům lépe plánovat léčbu a zlepšit péči o pacienty.",
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNamUzVk1FWC1TenVreXVjZi1yaDBiMkp2cFJoVVNtaGk4X0FPTnhiLUxKQWkyRHJZM2dNcTV0S1haN00tRVdsdUZObkJJN3Ftd01MU19SS0dJaXlvMzNxUzFVOU1oVkRqRFhRUTFmdU5HaE5WM2ZCdk1xUkpxVVN0S1g2NjFGZER2M0hSN1QzWUdjWXdtNjFBWGhaVEFKc3o4OGZ4TFBBd21HT1c4TmtNdkxmbVJkWEIxeXpaTVRGVUE2V2c1dUlwZi16ZmdwUmM4d1V6WEc4bUdHVTNGVDh4TWlYVUliZw?oc=5",
         "timestamp": "2026-05-23T05:45:15",
         "timestamp_display": "23. 05. 2026 05:45",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Medicína",
@@ -15,7 +69,7 @@
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYmFlb29wX1ZjdmV0OGxXT0dJVFBRcEt6TTNxeFEzWTFxTF8zbXRfUlBzZXM5UVhwVzlCODRUTU5BYy13NTl6MkdWZUYxS3d4RTFkQ0FWSnJVeTIyOVJyME9IcmI0X2tucHpQQzRxRi1UcWZOUThPdll6aXFWbXc0NExQWENVZHdjUzFSZk1KRVFtdVI1Tk53WmZTME5aeUViSDNWQTZWdlUzaV94WWZyZzhJSzhNdUNOaXFwYkw0S1p3T2FlcWRYMV9R?oc=5",
         "timestamp": "2026-05-22T15:10:41",
         "timestamp_display": "22. 05. 2026 15:10",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Medicína",
@@ -24,34 +78,7 @@
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc3d6RF83ZWtkdWYzQnFJbUpFTXlkS1llRHhHSmdFSVFOTGZEbF96LVdwUVRXSlh6dzdlM2swMGNyOFdabTVOS2lOUnYxY3Q1NUQ0MW1aNjhZSFNQZzQ5WWxNdWNlNmxjaWdaSlJsa19EWEFzNGZzYUVCZDhILXNxSHp6NGRXbGF6ZFpvZmc5M2RRaXVld1VzangzckdjcXBqTkFURGlOLTJ1YUV1ODM3X0FPVG9Sams?oc=5",
         "timestamp": "2026-05-22T14:00:00",
         "timestamp_display": "22. 05. 2026 14:00",
-        "is_new": true
-    },
-    {
-        "category": "Společnost",
-        "title": "Nejmladší český zmrzlinář studuje a točí zmrzlinu",
-        "summary": "Šestnáctiletý Jindřich z Vizovic kombinuje školu s vášní pro výrobu zmrzliny a stal se nejmladším profesionálním zmrzlinářem v Česku. Jeho příklad ukazuje, že i v mladém věku lze úspěšně rozvíjet podnikatelské dovednosti a přinášet radost zákazníkům.",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdW1wNjJ5WkxNVnBhZkJOWXZHN0Rud0Z0SU84RWxIWHZIMEVxZTNaSm5ueGFIZUZ5WWl5cy1jUkhjbW5YR3NTUVZ0aTQyRGszTmVwR3VqNEtYNDBLdjllRzZmN1ZrVnJNc3ozbUN5eTFhZ3B5aW8taGd3NEpYVWdwT2VvY3RodmJPOWhxdDhFb3FEbUdVVngzVkhHUUk3ZDBlSFlZTDNvUzR4eGw0dWtoUTd0LTR0THpZWU1BT1lZMlY2NFRyN3c?oc=5",
-        "timestamp": "2026-05-22T06:58:00",
-        "timestamp_display": "22. 05. 2026 06:58",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Český investor masivně rozšiřuje portfolio v Albánii",
-        "summary": "Jeden z předních českých investorů zakoupil desítky apartmánů v Albánii, čímž podpořil rozvoj místního turistického trhu a vytvořil nové příležitosti pro české i zahraniční návštěvníky. Investice představuje významný krok v diverzifikaci realitního portfolia a posiluje ekonomické vazby mezi Českou republikou a Albánií.",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPa2NpMzE1ZS1IeEJjQXNqSnNQMlNjakpMTnpQamR5RDhZTHp5ckxtNjgzR0p2dHY5TXQyWVhvVURaNzdraWJBRlJWNGFXMEQwbzdPb3N4WWN1MlJva2lRT1FkeldianpNWjE3YVFtSTduVENBTTdNVzliTGUzM0Z6bGxoUXh5S3JhcV9PcHkxdFdMaVpXMlJVeUxRc2VCc1NMTGV4dGJTay12WklDWUVlZXdNNzJhdWcyRTNIM1Npbk1QTnlHQWJ3dzFjLURxTWhnQXdV?oc=5",
-        "timestamp": "2026-05-22T04:00:00",
-        "timestamp_display": "22. 05. 2026 04:00",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Češi investují, banky sbírají poplatky",
-        "summary": "Češi výrazně zvýšili své investice, což podpořilo růst zisků a přineslo bankám rekordní příliv poplatků. Tento finanční rozmach ukazuje na silnou poptávku po investičních příležitostech a zlepšuje celkovou ekonomickou dynamiku v zemi.",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVEVzWTAyZTAteVNiUTloMTIxUHlZTjZfU1YwZUhjODJ6ZFZNRDFHWGxGbS1fMkRuTlppaFpVajAwbGttYk52ems3NFM2SkZON1RUb2xlREVjeEkzdWUzX3o4TmVYeGZseEhzaV9ySXNYamVfVGJ3LURNU084Y0czRE9HMFBoWFFKdzRSTmxzR1BUT0FMWmJCRHNuY2tXem1FSXhfdTZBLXBWUTREOW5oSDQ0amxfbEFTQ3hydzA1ZEJ3SkE1R05ZWDRhV052b25wU1lWbjliQmE1MTRoN1FLWA?oc=5",
-        "timestamp": "2026-05-22T03:30:00",
-        "timestamp_display": "22. 05. 2026 03:30",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Společnost",
@@ -64,11 +91,38 @@
     },
     {
         "category": "Společnost",
+        "title": "Nejmladší český zmrzlinář studuje a točí zmrzlinu",
+        "summary": "Šestnáctiletý Jindřich z Vizovic kombinuje školu s vášní pro výrobu zmrzliny a stal se nejmladším profesionálním zmrzlinářem v Česku. Jeho příklad ukazuje, že i v mladém věku lze úspěšně rozvíjet podnikatelské dovednosti a přinášet radost zákazníkům.",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdW1wNjJ5WkxNVnBhZkJOWXZHN0Rud0Z0SU84RWxIWHZIMEVxZTNaSm5ueGFIZUZ5WWl5cy1jUkhjbW5YR3NTUVZ0aTQyRGszTmVwR3VqNEtYNDBLdjllRzZmN1ZrVnJNc3ozbUN5eTFhZ3B5aW8taGd3NEpYVWdwT2VvY3RodmJPOWhxdDhFb3FEbUdVVngzVkhHUUk3ZDBlSFlZTDNvUzR4eGw0dWtoUTd0LTR0THpZWU1BT1lZMlY2NFRyN3c?oc=5",
+        "timestamp": "2026-05-22T06:58:00",
+        "timestamp_display": "22. 05. 2026 06:58",
+        "is_new": false
+    },
+    {
+        "category": "Společnost",
         "title": "Nový domov pro seniory s byty pro personál",
         "summary": "V Hradci Králové se do čtyř let postaví moderní domov pro seniory, který zahrne i bytové jednotky pro zaměstnance. Projekt zlepší životní podmínky starších i personálu, podpoří komunitní soužití a vytvoří nová pracovní místa.",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSXhDMHFfN3hIZnV3OFlOZ2xCeE1iQXFMQjZwcDdrWUdNQWstdEtJLXVRQlU5WU92Z09FZE1uTExfTUpaLXJBOTh2LXFKRmdoX1NpZ1M0QlByRDdjcFpIOWVtZWhfZVcyZm1TOXV1R3h4RHpGYV9Tbjd5T2M0REMtS2xmVktfdjNYSEpGdnJVZUtGUWZFR1hIYzhXcWYwZGhPendnd0duM2VWVWVBZVgtR3d6VzBqZGcyNDZ6SGcydElhRTN1N0E?oc=5",
         "timestamp": "2026-05-22T04:44:00",
         "timestamp_display": "22. 05. 2026 04:44",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Český investor masivně rozšiřuje portfolio v Albánii",
+        "summary": "Jeden z předních českých investorů zakoupil desítky apartmánů v Albánii, čímž podpořil rozvoj místního turistického trhu a vytvořil nové příležitosti pro české i zahraniční návštěvníky. Investice představuje významný krok v diverzifikaci realitního portfolia a posiluje ekonomické vazby mezi Českou republikou a Albánií.",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPa2NpMzE1ZS1IeEJjQXNqSnNQMlNjakpMTnpQamR5RDhZTHp5ckxtNjgzR0p2dHY5TXQyWVhvVURaNzdraWJBRlJWNGFXMEQwbzdPb3N4WWN1MlJva2lRT1FkeldianpNWjE3YVFtSTduVENBTTdNVzliTGUzM0Z6bGxoUXh5S3JhcV9PcHkxdFdMaVpXMlJVeUxRc2VCc1NMTGV4dGJTay12WklDWUVlZXdNNzJhdWcyRTNIM1Npbk1QTnlHQWJ3dzFjLURxTWhnQXdV?oc=5",
+        "timestamp": "2026-05-22T04:00:00",
+        "timestamp_display": "22. 05. 2026 04:00",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Češi investují, banky sbírají poplatky",
+        "summary": "Češi výrazně zvýšili své investice, což podpořilo růst zisků a přineslo bankám rekordní příliv poplatků. Tento finanční rozmach ukazuje na silnou poptávku po investičních příležitostech a zlepšuje celkovou ekonomickou dynamiku v zemi.",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVEVzWTAyZTAteVNiUTloMTIxUHlZTjZfU1YwZUhjODJ6ZFZNRDFHWGxGbS1fMkRuTlppaFpVajAwbGttYk52ems3NFM2SkZON1RUb2xlREVjeEkzdWUzX3o4TmVYeGZseEhzaV9ySXNYamVfVGJ3LURNU084Y0czRE9HMFBoWFFKdzRSTmxzR1BUT0FMWmJCRHNuY2tXem1FSXhfdTZBLXBWUTREOW5oSDQ0amxfbEFTQ3hydzA1ZEJ3SkE1R05ZWDRhV052b25wU1lWbjliQmE1MTRoN1FLWA?oc=5",
+        "timestamp": "2026-05-22T03:30:00",
+        "timestamp_display": "22. 05. 2026 03:30",
         "is_new": false
     },
     {
