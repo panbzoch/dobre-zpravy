@@ -1,12 +1,48 @@
 [
     {
         "category": "Byznys",
+        "title": "Praha dosáhla rekordního rozpočtového přebytku",
+        "summary": "V loňském roce město Praha vykázalo rozpočtový přebytek 24,17 miliardy Kč, což představuje meziroční nárůst o 1,21 miliardy. Tento výsledek potvrzuje stabilní finanční řízení a posiluje možnosti investic do rozvoje městské infrastruktury a služeb.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wTFBQN0RVeUNudFhrNHA5Tjl6ZXd0UzBHb1lLR0NVYjhEYTFqYnI1Z1lVb3lJTXlQRnFOX3hTMmRiYXU0T3hHRVlGeVNSTkd5LXEw?oc=5",
+        "timestamp": "2026-05-25T10:09:00",
+        "timestamp_display": "25. 05. 2026 10:09",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Rekordní 19‑denní sluneční rádiový signál odhalen",
+        "summary": "Vědci pomocí nové analytické metody identifikovali příčinu neobvyklého rádiového signálu ze Slunce, který trval rekordních 19 dní. Objev rozšiřuje naše pochopení sluneční aktivity a pomůže lépe předpovídat vesmírné počasí.",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYkNtRGVjakQ4aGNkQWJrOS1XNjlnVWlxb1VJSFBHRmR6c25pUU4ySnJ3Nk9aV3pXeWdOYThuV3JCLWtTQmRpRG50VXNmRE5NcE5rSGtuV3U5dTkzRGZrazN2RG5TNFo1cEtxMUFvWF81RGR3QUFNZnpEbUJXbzJlUVpmVXJKSzNuaHRlSlltZkhXRzdtVm1WeFRwN0ktU2oySHV6RWNTOVBwUzM4VDBOUFotX3JkdkdtNkY5OGIyS01iREc2cE4zRlJ5RjRpN1dhRUhLNG84WlZ0WWtybnVoUmR0NWI?oc=5",
+        "timestamp": "2026-05-23T13:45:12",
+        "timestamp_display": "23. 05. 2026 13:45",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "SpaceX opět testuje rekordní Starship",
+        "summary": "SpaceX zahájila další test největší a nejvýkonnější vesmírné lodě Starship, což představuje významný krok ve vývoji komerčních vesmírných letů a potenciálu pro budoucí meziplanetární mise.",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMm40dmN0UG9XWEJ5R2YwTW1aSVplUHl1b29vUDlPNmk3ZVNQSzVkS2VxNkhMek9taVlwaHFfbFhpd1NyanBPVUIzWU5ya09KT0s5VWV0SFIxN05rTXZCbkx0RndzNzh3aklYdVoxM3N4eG5Wck5Rc1ZJckhMbDk1TU8tNXRLWWNycWwyaldBTTlVSndKZDBYTzFTY3p1SnJNOFNBeg?oc=5",
+        "timestamp": "2026-05-23T06:14:36",
+        "timestamp_display": "23. 05. 2026 06:14",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Budovy budoucnosti: funkce za 30 let",
+        "summary": "Zástupci Sekyra Group a Wago diskutují o tom, jak navrhovat a vybavovat budovy tak, aby byly efektivní, udržitelné a připravené na technologické výzvy během následujících třiceti let, čímž podporují inovativní přístup k dlouhodobému provozu staveb.",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPV3Q3Qjg5TkwtN1IxaEJuMWcxSGZPMHR5NFVEYmdtYk9uc1hxZkFZeVlFbHVTTWt1RHpUM1BVMktHamR0cXpBb01yeVJvYU9WcHM2ZDhya0VRbkoya3Z2clpsekViQTVwMXhRZjZCdGdsZ1BUZFhXSGxlaTBaRU5FTlI4MnRoTWc5NVVocnAyWDZNZFQtRFNXMG13S2NiS2RnUkFtZkNMQjhudkltRWtsM3dJeTJVNGctUm9XQXZtTHVETGhSbGVmbXNiQ1VWZW0wTHFIT0RnOS1RUVp1WjZ4VFJyVQ?oc=5",
+        "timestamp": "2026-05-21T07:30:00",
+        "timestamp_display": "21. 05. 2026 07:30",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "EU pošle Grónsku značné finanční prostředky",
         "summary": "Evropská komise schválila rozsáhlý finanční balíček pro Grónsko, který má podpořit rozvoj infrastruktury, obnovitelné zdroje a diverzifikaci hospodářství. Očekává se, že investice výrazně posílí místní ekonomiku a zlepší životní podmínky obyvatel.",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQemFHZU5ZRndmVTB5Zk1zQ21BUEpjNEZJOWpKdlJKUTByY2VsYjYzWXJ2bTRZVWswS1pILXJ6Z1Bmb1hvd054cHRmdllOWTVLZ3ZzenZYTEhNUTc5alRtQ3d1aGRySTJ4bmdwdzlHTFZhdDN3T0Z2a3ZHUGhYQ1dqZmdVX3VPUGtYWUZyOFphNkRUYVNEdXFyNl9kWERvalhUc2E0ZlFsU0JsYl9pRjBwQnlGUVFQOERNQVNjMnNVbmdxTUk4RnlMbk5SRQ?oc=5",
         "timestamp": "2026-05-25T05:20:00",
         "timestamp_display": "25. 05. 2026 05:20",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Medicína",
@@ -15,7 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQQUMyYVdqaXNkcWhJUW5kTmFrbjU1ZWZlRWdrQW8yeEtCYzRZMTdld1JFZUZzcUlDa1hxYUF2Q0tkOTNrRmYzQmZ1cTlfZ3h5TWI1N2J3VzNQZ1VlOFhaNHVfNjFCVy1JUzc2NERnemlCV0RCT3pBbUZxbEZzRWs0dkYtU24xYlh5VWNDSEh1Tmd5S3NZSTRvOGozYWhzRjFadzRPMEVjZ3ZiU3ZHS244TXlMRVdVOURYUFdfRklrREpGTUw0LW9pYkRXR091QmZkTjFYbkk2b2NZZzRURW1kWmtUMWNFSGhyVUxPRjFsaEEzaTI5akNJWlZZQ296TzFlNU84?oc=5",
         "timestamp": "2026-05-24T15:00:00",
         "timestamp_display": "24. 05. 2026 15:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,7 +60,7 @@
         "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPSG1wbllMTEtOSW5Fb29NUGh2OEV2WHdxLUZhNi16MUh4eVBrTXVvelVlZ0Fpam9YeU9OcTR4SlYzWDNVU1REa190N0JvMjhRY2hBOGR5alh3T1NCMzRSX0pvQWJMQThqQll2WkNhY3o3Wk44RUt5V2VIMEhtcWFhUkg2a0E4TmMxZkJZUjFyZEhicWlFRnpGNGlMSDRVbERHLXlFaDRKSEZUVmZjVDg0WXZoNjE1dkJVTm15dC0wblRJeTc4QW1NLW5GRm9pak5oYjZHU0o0dFFPNDVXaEh2Mk1fcWFTUmN6bGU5X0VCem14WWc1cUhncE02UTMyYWRIZlhpVlE0UHRjS1VZYXBIZ3RzQkdBWHd2bkt6M0Z3?oc=5",
         "timestamp": "2026-05-24T12:32:00",
         "timestamp_display": "24. 05. 2026 12:32",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Společnost",
@@ -33,7 +69,7 @@
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcEZjdjc1SDYtYS1VZmRnU3ByWmd5REwzdEkzcGIyVi1vNWZpSWwzbGNhNjdsenlvb1MtMzVWQTJUdTF5cmJnaG5MekFIc0tpVUx5bTNkUEhWSTZObUlsUzczdFltMkRFSXdCR011VVd3QTZTOHJ3MkpMOXBUSXVxWWpGRlh4NGNCV2ZsSjJFSFlZa3NGRDlWUVlEUTdSbFVPYWhZQ0xDc1NiTGY0M0NwSFIwNktXMkF1cmZLYk1YWk1DT2ZKYWc?oc=5",
         "timestamp": "2026-05-24T11:23:00",
         "timestamp_display": "24. 05. 2026 11:23",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Společnost",
@@ -42,16 +78,7 @@
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRFE4UDhrZl81VmJod2RoeUl0eTVfNld0azZid3hlQmZzOVRjZUVVUnljaTNGMC14cUkxcVM3VTQzOEYwRW9sVjF0SURWNTJ2YUpNaW5hRktfWFptSUdDV0JCUlpRRE1UMlpMUkpTX3RpWEdYbmFGSTJvTkZIN3BpXzBWSktMYlBZa3pEWWhmQ0wxb3A2U2VyTkRvdVVUYlYwaXNybl8ySUx2Ul9XYXI5Wm5KcFNpZmVRaDUyTXVVMER3QkRGSkpvVnNB?oc=5",
         "timestamp": "2026-05-24T09:22:00",
         "timestamp_display": "24. 05. 2026 09:22",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Oaktree v Draslovci vyměnil akcie za půjčku",
-        "summary": "Globální investor Oaktree přeměnil své cenné papíry v Draslovce na úvěr, čímž posílil svou věřitelskou pozici a zlepšil finanční stabilitu podniku. Tento krok představuje strategický byznysový úspěch, který podpoří další rozvoj a investice v regionu.",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMVAtdEJVbHlDYVY5aVo4cFF5blZlTUJ0YXZFekVvOGRUNW82UWJzX3NPaUd6elZqcTdjWlkwNmFQWWZpcWRhaWpZS3J0OXBxZ2t6UzVnZUNQS0ZVRnFpb0VNSmZ4SzhGcFV6QWVWWEh0VmQ0M3BXejhldnQ4TXNwcU5LT1BSdHV2X3JBRC1fZ3pZeTR1ZmZuS1A5TDhVMHY1cGw4azVYM2l3V0I3MzZ6ZG9ENXhjNzVlWXZCMl9mbkY1V2E2N1F4SGIzdjJXUEFXQWtOLW5xQkE5VEVYRjk3YktGSzNMVVhKVmRB?oc=5",
-        "timestamp": "2026-05-20T03:00:00",
-        "timestamp_display": "20. 05. 2026 03:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -249,6 +276,15 @@
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRDV0VFZfNTl6cF9fZFp0eTNjaWlTM3BkZWU1Sno1OUc1MTdnclZ0Q2FzbVJnS2lwOWZYdVhVSlV0b2pKZUJIZGtjVzN1d1JlVWlMNWJ2c0JBeXo3aF94YkJCQjZ6MUF1U0VJS1NPdzd0MDl5TzF6akItRDJMNHlIUWcycWFjVlhRbW1HdEpyNkZrVElj?oc=5",
         "timestamp": "2026-05-20T10:15:36",
         "timestamp_display": "20. 05. 2026 10:15",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Oaktree v Draslovci vyměnil akcie za půjčku",
+        "summary": "Globální investor Oaktree přeměnil své cenné papíry v Draslovce na úvěr, čímž posílil svou věřitelskou pozici a zlepšil finanční stabilitu podniku. Tento krok představuje strategický byznysový úspěch, který podpoří další rozvoj a investice v regionu.",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMVAtdEJVbHlDYVY5aVo4cFF5blZlTUJ0YXZFekVvOGRUNW82UWJzX3NPaUd6elZqcTdjWlkwNmFQWWZpcWRhaWpZS3J0OXBxZ2t6UzVnZUNQS0ZVRnFpb0VNSmZ4SzhGcFV6QWVWWEh0VmQ0M3BXejhldnQ4TXNwcU5LT1BSdHV2X3JBRC1fZ3pZeTR1ZmZuS1A5TDhVMHY1cGw4azVYM2l3V0I3MzZ6ZG9ENXhjNzVlWXZCMl9mbkY1V2E2N1F4SGIzdjJXUEFXQWtOLW5xQkE5VEVYRjk3YktGSzNMVVhKVmRB?oc=5",
+        "timestamp": "2026-05-20T03:00:00",
+        "timestamp_display": "20. 05. 2026 03:00",
         "is_new": false
     },
     {
