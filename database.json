@@ -1,39 +1,102 @@
 [
     {
+        "category": "Technologie",
+        "title": "Češi investovali do dotykové sci‑fi technologie",
+        "summary": "Český startup získal milionové investice na vývoj britské sci‑fi technologie, která umožňuje ovládání zařízení bez fyzického dotyku. Projekt představuje průlom v uživatelském rozhraní a slibuje široké uplatnění v průmyslu i spotřebitelských produktech.",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPN0pwVlJpUENWNzBncjhDakh2OHZkZThpOGVQb0RvTm9kVEYzRzBGdi1zb08yNFZUaW9zaDNDLW9OWnExMWRyZnNqRGFtcmo1OFc3SnVZdFRYNjR6V2E5YVZBSkZ6bjQxZkRMcC15bmRkUUVoQmlPQUw2WFkwcUlGSS05LUZSblRmbHctVEkydmZ4NDlmRFNVdjJWNDg3ODFNMWtLeUhwQXVWWm1ocnZFSzUxSi1tZzcxdXBkTHNvaHhfRTNfT3pMdGx1WkYtUlVrbmhCcHZIS1Y?oc=5",
+        "timestamp": "2026-05-27T07:10:00",
+        "timestamp_display": "27. 05. 2026 07:10",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Nový výrobce panelů vytvoří 30 míst",
+        "summary": "V Hradci Králové vzniká nový výrobce stavebních izolačních panelů, který po zahájení výroby nabídne 30 nových pracovních míst. Projekt podpoří místní ekonomiku a rozšíří nabídku udržitelného stavebního materiálu.",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWHhmV3BjUjE4NnNsaDF3NXd5YlJxY2pNRGFoLVZUcUd2LUJ3bjZpOGZJYV9zeGd3cnJhUmpGdzJyTlRHQllYc1hKaklFUHJvSjBHOUVnZWFzYWFqQXlMSkR2WklqZFZTRUMyQjl0NEYzWmxZZTQ3SHgtYW5XbExiUmNFUjd6MTFyV0JHb3haQVJEY3JacjJWQUZxRGl0b0hOb1FoTnN5VGdFYUxkYmhoY0czV25STlN6NWcyV0l3dlk1bzZFd0ZXeGZB?oc=5",
+        "timestamp": "2026-05-27T04:05:00",
+        "timestamp_display": "27. 05. 2026 04:05",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Nová lékárna v Kynšperku otevřena",
+        "summary": "V Kynšperku nad Ohří byla po tříletém výstavbě a investici šesti milionů korun z městského rozpočtu slavnostně otevřena nová lékárna, čímž se zvyšuje dostupnost lékařské péče a usnadňuje obyvatelům přístup k lékům.",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdElOLUFJY3BtcDhxV3BpT2xNVFhsRC15UEtNZ0F4SDZPbThjZXZtN1pLd2pVaWlScERqeG5zWlhILTBNaGhVWlRVSjVqNWpvRTdycjNDdWFzSEhIZmtZYldLaWJxbERxV0RlRExlRjNYdjJaRm8xeUxWUVlHallhWVNIcW9oc3VvS3Rsem9tb0hVTld4TW44OGFwMldQalJwcnNTNDNQUmhlR1pFQUZzWnRKeVVHb3dmM3g4RTNsQTJEZG8?oc=5",
+        "timestamp": "2026-05-27T03:52:00",
+        "timestamp_display": "27. 05. 2026 03:52",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Mobilní skenovací stanice zachraňuje ukrajinské památky",
+        "summary": "Česká iniciativa vyvinula pojízdnou skenovací stanici, která pomocí 3D laserového skenování dokumentuje a chrání ohrožené ukrajinské kulturní památky. Projekt je považován za významnou technickou pomoc při záchraně národního dědictví.",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNkVmY2tabjU3U2pIS29aZjRzd3lGUURIeDdwRUtIQVZQVjZjRUpuaGstYmZfX1ZRd1BXbTZhRUhvY0p3SEVFb0I1SEw0UDFDcnY0Qk1UVXhDelp4TzFDR2tJMlhDdTVWcm9GaEtUdkZ3WGpHdkJabGx1ZVBnUkJSM01qaDJVLWpwWXRibEE0ak5ZTEZQOVdON0haM2NVcmIweGpTLXRfeTZGTHZLQVA5VTFfMFpLM3M1a0ViWXFVZFd3dnJL?oc=5",
+        "timestamp": "2026-05-26T18:13:00",
+        "timestamp_display": "26. 05. 2026 18:13",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Seznam zaznamenal téměř 4 % růst tržeb",
+        "summary": "Seznam, český internetový gigant, v loňském roce zvýšil své tržby o téměř čtyři procenta. Výrazný růst přinesly zejména služby Mapy.com, které přilákaly více uživatelů a inzerentů, čímž podpořily celkový finanční úspěch společnosti.",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc1ZXdG5qM0I2U28wT25xRDE1S1BjREI1Q01DbzQwTUppNGJGZ18yNUlGRGlJWUhfRnFtc2tPbkpLTk1VajhGeV8xNTF2aDBZVk5UTHY4cEF6cVV5UW1YWHRKTThqR2ZmMUJMM1ZuVVkxVklGNXg1S003b2huZ29ReFFlWEhoeFFPVXdQR2dYNm1SNDNQeTdORFdSMjlMOW9fdXc?oc=5",
+        "timestamp": "2026-05-26T09:56:29",
+        "timestamp_display": "26. 05. 2026 09:56",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "AI vyřešila 80‑letý geometrický problém",
+        "summary": "OpenAI oznámila, že jejich umělá inteligence úspěšně vyřešila dlouho nevyřešitelný geometrický problém, který trápil vědce osm desetiletí. Tento průlom ukazuje sílu moderních AI metod v matematice a otevírá nové možnosti pro řešení složitých vědeckých výzev.",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaU5WRUwyeHl5WExmMTNIN012Vzk1d09qeVlLcjBQYS1TTGx5WHA0d2xhdU5GTTR6bXNTbERaVTBYODlRZGkzSXZHWlNZc3RET3ZtRWVzc2Vpb2NzVkMzU2xHY0ROV2JETXZCNHNhNU1MSDF0QllHZ2JLcTlhcGpjUE1DNHpUblhXSURxNWlNbHFxdVpoYUhnOHhUTQ?oc=5",
+        "timestamp": "2026-05-26T08:57:19",
+        "timestamp_display": "26. 05. 2026 08:57",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Češi s personalizovanými videi míří do USA",
+        "summary": "Český startup, který si vybudoval úspěšný byznys na virálních videích, rozšiřuje působnost do Spojených států. Využívá personalizované videoobsahy pro marketing a zákaznickou komunikaci, čímž získává nové klienty a posiluje mezinárodní růst.",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ2FpRW1ySF9ka1BPVFdPZVB6LTFzcmR5cUhYS2hYbXllTTNXMFgyejVuTkpMSzgzT1NpZU5vUzEzRFZFMUpRNFFoenZiN29valBqdFNzbWw5TkZsckxIakFvTVVkZDVkWjBXTTZ0RXgtTGZqWlNBdTFNM0hkUXlnRWdjeHB5dUQza21vYmVKNXhiNm5keVJERUZKQWJSWG1tUVlfRVZScmphWXAx?oc=5",
+        "timestamp": "2026-05-26T04:13:38",
+        "timestamp_display": "26. 05. 2026 04:13",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Kino v Nejdku po 40 letech s novým vybavením",
+        "summary": "Po téměř čtyřech desetiletích prošlo kino v Nejdku na Karlovarsku kompletní rekonstrukcí. Bylo instalováno moderní projekční a zvukové technické vybavení, což výrazně zlepší kvalitu promítání a návštěvnický zážitek. Projekt přináší místní komunitě nový kulturní prostor a podporuje rozvoj regionálního filmového dění.",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVU0weHZQTTV3di1FY3ZRRnVtdmJWNTB0d21SUHBzX0pEeDY3WlRfZ0Y4RlQ2TG42X0xKb3AyVHUwVDlvMF8xbFNxM3JfSjhDdHAxT09qRmpKU1laN1N1V3cxdVdXVk84aU9YZ2hkakhCWkloSHVLdHB3WWVuVlNqTTZaeVk4TGdEeTNkbzRvYmgtRU5KQ3EycWM4M3pCcG9JNWV5d0ZOZVVicWZFN1BOal9feFBISlQxUHZMa3lFZHdzS05R?oc=5",
+        "timestamp": "2026-05-24T18:18:00",
+        "timestamp_display": "24. 05. 2026 18:18",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Praha 9 nabídne levné byty učitelům a zdravotníkům",
+        "summary": "Městská část Praha 9 zakoupí nedokončený dům na Proseku a přetvoří jej na bytové jednotky s nižším nájmem, určené výhradně učitelům a zdravotnickému personálu, čímž podpoří dostupnost bydlení pro klíčové profese.",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORnJBOUk1b2RQbndEU1RsdGpKT0l1dVU4WVRmS3R1WVpNbUY2dUVVWFFrUkU0WnJuLXZueWhnX3dIU3VzNm42aC1CZUpONTUzLW9HZ3VHZ0prdm0ycnRTLUhaQnhmVVdITUhOMTNMZDhYX1ZqNmk0S1M5WHBFdVdLZms4by1ncFRmMW9GVVFENEJ5TjdjaVd6UURHMEJNMzJ6RDRJakYzMmlWdWpKcXJ4TzJhem1kOWZ4RldnWlp6Q0ptRkU1bkNVZ1hROA?oc=5",
+        "timestamp": "2026-05-24T15:29:00",
+        "timestamp_display": "24. 05. 2026 15:29",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Češi upřednostňují nemovitosti, zvyšuje se zájem o zlato a krypta",
+        "summary": "Český trh investic zůstává silný v nemovitostech, zatímco roste popularita alternativních aktiv jako zlato a kryptoměny. Tento posun ukazuje diverzifikaci portfolií a zvýšenou důvěru v dlouhodobé a inovativní investiční možnosti.",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOU2hvS3dKWFZjQndvVDJyRWo1aGJLNHVHX3VHSEUxOFZoWTlnOVlqcUYwVHlFdGc1ZHRrNUlCaVNtWmJDbjRYZmNzUDVROUJ2MjdPR1dyT0lRMUtOWGxES3h3QlItUmNIVG1nVUsxajJzcWZLSVgtb29HQ1ZuUGVjUVV5bGR6QzAwZFBKZ1lHM25uYWRTSTFBT1BzTUdNd0tBRzU0TURiS2FtZ3ZQbXFRejRRVER6SU0yekZWVG5ZWXhzeUFxQ1l0R2FVNEJuTHhmM0l4bEFn?oc=5",
+        "timestamp": "2026-05-23T07:34:00",
+        "timestamp_display": "23. 05. 2026 07:34",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "Praha dosáhla rekordního rozpočtového přebytku",
         "summary": "V loňském roce město Praha vykázalo rozpočtový přebytek 24,17 miliardy Kč, což představuje meziroční nárůst o 1,21 miliardy. Tento výsledek potvrzuje stabilní finanční řízení a posiluje možnosti investic do rozvoje městské infrastruktury a služeb.",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wTFBQN0RVeUNudFhrNHA5Tjl6ZXd0UzBHb1lLR0NVYjhEYTFqYnI1Z1lVb3lJTXlQRnFOX3hTMmRiYXU0T3hHRVlGeVNSTkd5LXEw?oc=5",
         "timestamp": "2026-05-25T10:09:00",
         "timestamp_display": "25. 05. 2026 10:09",
-        "is_new": true
-    },
-    {
-        "category": "Věda",
-        "title": "Rekordní 19‑denní sluneční rádiový signál odhalen",
-        "summary": "Vědci pomocí nové analytické metody identifikovali příčinu neobvyklého rádiového signálu ze Slunce, který trval rekordních 19 dní. Objev rozšiřuje naše pochopení sluneční aktivity a pomůže lépe předpovídat vesmírné počasí.",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYkNtRGVjakQ4aGNkQWJrOS1XNjlnVWlxb1VJSFBHRmR6c25pUU4ySnJ3Nk9aV3pXeWdOYThuV3JCLWtTQmRpRG50VXNmRE5NcE5rSGtuV3U5dTkzRGZrazN2RG5TNFo1cEtxMUFvWF81RGR3QUFNZnpEbUJXbzJlUVpmVXJKSzNuaHRlSlltZkhXRzdtVm1WeFRwN0ktU2oySHV6RWNTOVBwUzM4VDBOUFotX3JkdkdtNkY5OGIyS01iREc2cE4zRlJ5RjRpN1dhRUhLNG84WlZ0WWtybnVoUmR0NWI?oc=5",
-        "timestamp": "2026-05-23T13:45:12",
-        "timestamp_display": "23. 05. 2026 13:45",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "SpaceX opět testuje rekordní Starship",
-        "summary": "SpaceX zahájila další test největší a nejvýkonnější vesmírné lodě Starship, což představuje významný krok ve vývoji komerčních vesmírných letů a potenciálu pro budoucí meziplanetární mise.",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMm40dmN0UG9XWEJ5R2YwTW1aSVplUHl1b29vUDlPNmk3ZVNQSzVkS2VxNkhMek9taVlwaHFfbFhpd1NyanBPVUIzWU5ya09KT0s5VWV0SFIxN05rTXZCbkx0RndzNzh3aklYdVoxM3N4eG5Wck5Rc1ZJckhMbDk1TU8tNXRLWWNycWwyaldBTTlVSndKZDBYTzFTY3p1SnJNOFNBeg?oc=5",
-        "timestamp": "2026-05-23T06:14:36",
-        "timestamp_display": "23. 05. 2026 06:14",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Budovy budoucnosti: funkce za 30 let",
-        "summary": "Zástupci Sekyra Group a Wago diskutují o tom, jak navrhovat a vybavovat budovy tak, aby byly efektivní, udržitelné a připravené na technologické výzvy během následujících třiceti let, čímž podporují inovativní přístup k dlouhodobému provozu staveb.",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPV3Q3Qjg5TkwtN1IxaEJuMWcxSGZPMHR5NFVEYmdtYk9uc1hxZkFZeVlFbHVTTWt1RHpUM1BVMktHamR0cXpBb01yeVJvYU9WcHM2ZDhya0VRbkoya3Z2clpsekViQTVwMXhRZjZCdGdsZ1BUZFhXSGxlaTBaRU5FTlI4MnRoTWc5NVVocnAyWDZNZFQtRFNXMG13S2NiS2RnUkFtZkNMQjhudkltRWtsM3dJeTJVNGctUm9XQXZtTHVETGhSbGVmbXNiQ1VWZW0wTHFIT0RnOS1RUVp1WjZ4VFJyVQ?oc=5",
-        "timestamp": "2026-05-21T07:30:00",
-        "timestamp_display": "21. 05. 2026 07:30",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -100,11 +163,29 @@
     },
     {
         "category": "Věda",
+        "title": "Rekordní 19‑denní sluneční rádiový signál odhalen",
+        "summary": "Vědci pomocí nové analytické metody identifikovali příčinu neobvyklého rádiového signálu ze Slunce, který trval rekordních 19 dní. Objev rozšiřuje naše pochopení sluneční aktivity a pomůže lépe předpovídat vesmírné počasí.",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYkNtRGVjakQ4aGNkQWJrOS1XNjlnVWlxb1VJSFBHRmR6c25pUU4ySnJ3Nk9aV3pXeWdOYThuV3JCLWtTQmRpRG50VXNmRE5NcE5rSGtuV3U5dTkzRGZrazN2RG5TNFo1cEtxMUFvWF81RGR3QUFNZnpEbUJXbzJlUVpmVXJKSzNuaHRlSlltZkhXRzdtVm1WeFRwN0ktU2oySHV6RWNTOVBwUzM4VDBOUFotX3JkdkdtNkY5OGIyS01iREc2cE4zRlJ5RjRpN1dhRUhLNG84WlZ0WWtybnVoUmR0NWI?oc=5",
+        "timestamp": "2026-05-23T13:45:12",
+        "timestamp_display": "23. 05. 2026 13:45",
+        "is_new": false
+    },
+    {
+        "category": "Věda",
         "title": "Miniaturní zub odhalil dávného savce",
         "summary": "Vědci objevili zub o velikosti špendlíku, který patří k malému savci z druhohor. Tento nález rozšiřuje znalosti o evoluci savců a ukazuje, že již v té době existovaly drobné savčí druhy.",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbGxqTUI3UW5Db0o4NUVKaTI4bW9mbDdUQXJaOTc2bllaVTVyNWlnWnhtV1c4LWtDc0EzZDhjZkZvdWVySXNJbVQ0SkNWbW90SXpaRmNqZFQ5TWtHRDd2OHI0dDlfeklSOE9vNFZwQUdfTUNJOG15eDcyMnRXRUd2T1d5ZXJBRmJ4dHY2T3VEb0JHUDJqV1ZWQU9qa2daMDJDelN0TldQaFZqQ29rMlViQWpTTk1JWGJWcnNlS3RVaUdVRWM1ZHdILW53elAxY3h1Nm00?oc=5",
         "timestamp": "2026-05-23T11:43:00",
         "timestamp_display": "23. 05. 2026 11:43",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "SpaceX opět testuje rekordní Starship",
+        "summary": "SpaceX zahájila další test největší a nejvýkonnější vesmírné lodě Starship, což představuje významný krok ve vývoji komerčních vesmírných letů a potenciálu pro budoucí meziplanetární mise.",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMm40dmN0UG9XWEJ5R2YwTW1aSVplUHl1b29vUDlPNmk3ZVNQSzVkS2VxNkhMek9taVlwaHFfbFhpd1NyanBPVUIzWU5ya09KT0s5VWV0SFIxN05rTXZCbkx0RndzNzh3aklYdVoxM3N4eG5Wck5Rc1ZJckhMbDk1TU8tNXRLWWNycWwyaldBTTlVSndKZDBYTzFTY3p1SnJNOFNBeg?oc=5",
+        "timestamp": "2026-05-23T06:14:36",
+        "timestamp_display": "23. 05. 2026 06:14",
         "is_new": false
     },
     {
@@ -249,6 +330,15 @@
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMWJ4UzJXRk14ZzNhMGxIeEFRWU1BSUhRQjFpbXFQYkl4QUwzQjR3b3BGbDAtNFoxd254QWRpMThXM1VXYVV1QWc2UzhFeFNIcW5LT0E5a01Lazh4YjV0WjJZcE1rN0ZpajN0Nmsxb21oQ3VfY0FFTlV6TERsR2gwSFNlOE5SOTBsZndUaVM5R1NqcVByT2M1MHhmUXMtOUF3Q29oekVzaTAwN3hmeUdkMHc3b0ctTWV6VExsQg?oc=5",
         "timestamp": "2026-05-21T08:03:00",
         "timestamp_display": "21. 05. 2026 08:03",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Budovy budoucnosti: funkce za 30 let",
+        "summary": "Zástupci Sekyra Group a Wago diskutují o tom, jak navrhovat a vybavovat budovy tak, aby byly efektivní, udržitelné a připravené na technologické výzvy během následujících třiceti let, čímž podporují inovativní přístup k dlouhodobému provozu staveb.",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPV3Q3Qjg5TkwtN1IxaEJuMWcxSGZPMHR5NFVEYmdtYk9uc1hxZkFZeVlFbHVTTWt1RHpUM1BVMktHamR0cXpBb01yeVJvYU9WcHM2ZDhya0VRbkoya3Z2clpsekViQTVwMXhRZjZCdGdsZ1BUZFhXSGxlaTBaRU5FTlI4MnRoTWc5NVVocnAyWDZNZFQtRFNXMG13S2NiS2RnUkFtZkNMQjhudkltRWtsM3dJeTJVNGctUm9XQXZtTHVETGhSbGVmbXNiQ1VWZW0wTHFIT0RnOS1RUVp1WjZ4VFJyVQ?oc=5",
+        "timestamp": "2026-05-21T07:30:00",
+        "timestamp_display": "21. 05. 2026 07:30",
         "is_new": false
     },
     {
