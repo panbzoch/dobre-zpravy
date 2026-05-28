@@ -1,12 +1,102 @@
 [
     {
+        "category": "Byznys",
+        "title": "Český ChatGPT oslovil půl milionu uživatelů",
+        "summary": "Seznam úspěšně spustil českou verzi ChatGPT, kterou již používá kolem 500 000 lidí. Nyní testuje různé způsoby monetizace služby, aby z tohoto technologického nástroje vytvořil udržitelný obchodní model.",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcldLQ2VoLWZWU0YyOGtNeExwRzRWV0lPX2VhdFQ5TFh0c1RzZW0tbU12R0VvRVBSR2M5WktweXd5T1JPTkFKbTR1X1NNbVJZUmJmMmUydG1EOXNfSE5KVUZhVlJxZ1UxSGxEem11NnlicGJaOWJlOXdMQ3NpaGZjSlBwMExIc1JDSWpUc3Y0b2Rja0xSVmM3ZXBiZXdsSTFLOFl1d0ZubnBwX2s1NjhFU3pmZHZRWF9BWWFMUXlUN0NzVmU3WEI4ZVhBZzJuUQ?oc=5",
+        "timestamp": "2026-05-28T08:00:00",
+        "timestamp_display": "28. 05. 2026 08:00",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Vědci postavili repliku 7300‑leté studny",
+        "summary": "Vědci ve Všestarech úspěšně zrekonstruovali repliku 7300 let staré studny, přičemž použili autentické nástroje a materiály z doby pravěku. Projekt ukazuje možnosti experimentální archeologie a přináší nové poznatky o starověkých technikách vodního hospodářství.",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOektfbTdDdnRuLWRMVTVHZ3Vjcm1oMUZxd0FvaWVCem1xa29Hdm5oSW1GVzNwZUxDQXczZ3pWcmdaeXdLd0VHOEw2RlpmenlQMHd0dFVIOHVDaFlxNU11MXItVFp2eHF4WmxRem12OVltSGJ0QWh1aUhzRlh4WUJmWFBmeTVDZEFITi1CdHFhU1FHNXhJdkhYVjRROE9zNFZiUUp3US0tTGNIMmtBckJOMVhRaXBnX1drc204REtZQmNkazhnbkFESkd4d25sVEpQcmFGRzF3?oc=5",
+        "timestamp": "2026-05-28T06:33:00",
+        "timestamp_display": "28. 05. 2026 06:33",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Česká vlajka na Měsíci do 2030",
+        "summary": "Česká společnost TRL Space plánuje do roku 2030 umístit českou vlajku na Měsíc, čímž podpoří národní přítomnost ve stále rostoucím vesmírném průmyslu. Projekt slibuje technologické inovace, nové obchodní příležitosti a inspiraci pro český výzkum a průmysl.",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdW1YSzNwbkhjcnQyUkhsZ3YtMHYyeFpVZU0wamNfU29ZZVJDZlp1QW14c2FTTVdCUGNLenlzbENnYWhWVVBKc2NPaUNDamdQbXhpVW9Vamd3NWNGOHNEQjFwQzhCb2hnWGVTZXlOU0Y1dGU2R0FHM1AyZ2VlRGtwTk5DSmxmNkVEdXNzVlpnNklQRV9qSHl0bjFXQzdVZ2dKWThsVDM0My0xUHZqdEVfYUc3SUNYVEs3V0FDWFdudlZFUEpyeUdKMg?oc=5",
+        "timestamp": "2026-05-28T04:30:00",
+        "timestamp_display": "28. 05. 2026 04:30",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Rekordní poptávka po státních dluhopisech",
+        "summary": "Prodej státních dluhopisů překonal očekávání – objednávky dosáhly více než 50 miliard korun, přičemž původní odhad byl 20 miliard. Tento výsledek ukazuje silnou důvěru investorů a úspěšnost českého finančního trhu.",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPel9ZM25vNklCSVVYMHpjSTdQQTB5ck8tZGU4eUpkZ01NSWtXb0poZkhFUUpkRVVjbmNmNGJnNy1tbEEtbU81a0ZhNjBLY3RIamx4bU5IaXFrOGphM2FZTTZNN3BtaGpxaHZKM2pjUDhjM2J2dnNzYkNwbTZBWnhjdm5vZUhXV1Q3SkVWNFgyelhfa3pld241VFBRb1Rsd1R3dml1M1oyTzhOM1BUWEVjckRCN2hmNlY2ajRHVDlIbkRibTVTenJsUA?oc=5",
+        "timestamp": "2026-05-27T15:21:00",
+        "timestamp_display": "27. 05. 2026 15:21",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Eli Lilly slaví 150 let inovací",
+        "summary": "Farmaceutický gigant Eli Lilly oslavuje 150 let existence, během nichž přinesl první inzulin a nyní vyvíjí nové terapie pro chronická onemocnění. Společnost zdůrazňuje svůj dlouhodobý růst, investice do výzkumu a globální dopad na zdraví pacientů.",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa0F2Nm0zR3VWYzMwQXV4QW10YnlWVkVHZHNMSFUzMEpGUTZMakJxTjBBaGU0TE9XaS1CYjFvTU0wMDNmek9yWTRwWFBpRGZscXpCa3lydDd2Z0VpeGt3NGJwb0hQZ19zRHZ1T0d6Q0JSa1NYY24tVmRGUC1mbEFiN0dMUHE0UUV5cERjV0tIbWVqN3NwM2MzdGZVSWd6TExNWXNvbHdMODBsWGNLSU9rMjhoX1JWVXlOWGpRVk9DYUNqQVZXZ1E?oc=5",
+        "timestamp": "2026-05-27T15:13:00",
+        "timestamp_display": "27. 05. 2026 15:13",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Archeologové odhalili 800letou kněžístě v Opavsku",
+        "summary": "Vědci z Opavska pod podlahou kostela ve Stěbořicích objevili zachovalé 800 let staré kněžístě. Nález poskytuje cenné informace o středověkém náboženském životě a architektuře regionu, což obohacuje historické poznání a podporuje další výzkum.",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSDhmMFZ5SWFsWHZ0bDItYTJoY015djBpODA2eHJuWVdoOF9McjhTOVBHcXZTUEY3a1duc0M4eGlLV09pRGFmR3M3eVpMemIzd2x6QTltZEw4cmxLTlRuRFI1dVJ6MlE5M0VkWVpRTUtRNEVnSVhzX0pTQTdYVUJiaEdLNWEtdmRTZXlSVjFJSG40b3IwVVBKR25aRGFONUlUVUxJX0NLU3lmbHdrYko2SmVRUjloMXp0N3phSFBzbHVOYy1rS1NJMQ?oc=5",
+        "timestamp": "2026-05-27T14:42:00",
+        "timestamp_display": "27. 05. 2026 14:42",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Nvidia zvyšuje investice na Tchaj-wanu na 150 mld USD",
+        "summary": "Společnost Nvidia oznámila, že plánuje rozšířit své investice na Tchaj-wanu až na 150 miliard dolarů ročně. Tento krok podpoří výrobu špičkových čipů, posílí místní technologický ekosystém a vytvoří tisíce nových pracovních míst, čímž přispěje k růstu globálního trhu s umělou inteligencí.",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZjU3NURzUEFFTTNMTzhnUnpMZW5meWRMcXVnQ3h5UjZ3cFRSVHoyekUxcTE0dEpCczVsLUlITS00ODEwNTlvc0NSd2c2WjF2clpwcExCSXkzbkJvdjFwRTJDSUNuTF9pdC1BQW05Y1BSS3FDZ1BzZ3E1VDZYaXIwcDBpZDg5SVZpcXpyNDBYNDRaSWNhek9tcTBtT0k1M3VEaHk2X3VmVGwzQlQ5emduLXgxMUpySWlqT2hz?oc=5",
+        "timestamp": "2026-05-27T08:54:00",
+        "timestamp_display": "27. 05. 2026 08:54",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Studentský tým tvoří novou vesmírnou hru",
+        "summary": "Skupina studentů vývojářů představila inovativní videohru, která navazuje na bohatou českou herní tradici. Projekt kombinuje kreativní design, moderní programování a týmovou spolupráci, čímž ukazuje potenciál mladých talentů v herním průmyslu.",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTW00N29WakJ5OVhDRG9DN3JueFpjcXVHUDBMaXlTS21qYXlORk1qTU05S2NsTGhZc1VYM0xnX2Z0eW5OVEdCWE5hbGVucVYxVGFjQjY0ZFlmRVdSaHhTdlRrVHY4RVM5MWFGNGdOVlZuakQtcTBHY2ZGajVKalVUQ2ZyeV9FYzlPZVlZRnJVNnhjbW1rR2loaFhDRHE1Zi0yX1NESEwxdE92NXpjc3Fj?oc=5",
+        "timestamp": "2026-05-27T03:30:00",
+        "timestamp_display": "27. 05. 2026 03:30",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Seznam zaznamenal rekordní růst tržeb",
+        "summary": "Seznam v loňském roce dosáhl historického nárůstu tržeb a připravuje se rozšířit svůj vlastní AI model na zahraniční trhy, čímž posiluje svou pozici v digitálním ekosystému a otevírá nové obchodní příležitosti.",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcVRQRkEyZWhLdnl0emtNZ1RvaTRvdlpNb0p3NVNWaXh6eW94YktET0loeHNGTXczZGN5YmgyOVFIT1B3NFd2MDdNUUtKa05xUUhNdjUyYi1uWDh1YXd5V3M3VzhId0FoYVI3VXZOMl9XTV81Z1hnTlFELXlIZ1NxSm1Pd29fRFRXYmRuXzZZZ19fVGhia0Jpa3VtdE1ENDhHRlJRZTRzMEVmeHpaU3hqRQ?oc=5",
+        "timestamp": "2026-05-26T07:54:00",
+        "timestamp_display": "26. 05. 2026 07:54",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Dluhopisy republiky překonaly plán dvakrát",
+        "summary": "Lidé v rekordním objemu objednali státní dluhopisy v hodnotě 44 miliard korun, čímž překročili očekávaný prodej o 100 %. Tento úspěch ukazuje silnou důvěru investorů v českou ekonomiku a podpoří financování státních projektů.",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVU5vc3B5Y0YxTm1nbmszc3ZXN0M4TjFidU1lTkpMVzlsMEt1RFdiODF2aXJ5QUJCWjB3SWdUby1wZThkS25kWU1tZ2hqYng4dDJYRDVGREFwQUZpZWxvc1gxeUZYWERtNFNDb19VejI0cnJBd3BTV3VaMTBmLVk0UkJrNDZGRS13Qmx1djliQmRBZVlxR2tjckJUcEhrdVBudHprc0JmZXlPM1E1dFFLcnQ4ZERYX0NpMWR4WkhQMV9mMzQ3Y0gxbXhMMmpTM21pZ1RiZFlYV2hPMVVxbnc?oc=5",
+        "timestamp": "2026-05-25T10:49:00",
+        "timestamp_display": "25. 05. 2026 10:49",
+        "is_new": true
+    },
+    {
         "category": "Technologie",
         "title": "Češi investovali do dotykové sci‑fi technologie",
         "summary": "Český startup získal milionové investice na vývoj britské sci‑fi technologie, která umožňuje ovládání zařízení bez fyzického dotyku. Projekt představuje průlom v uživatelském rozhraní a slibuje široké uplatnění v průmyslu i spotřebitelských produktech.",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPN0pwVlJpUENWNzBncjhDakh2OHZkZThpOGVQb0RvTm9kVEYzRzBGdi1zb08yNFZUaW9zaDNDLW9OWnExMWRyZnNqRGFtcmo1OFc3SnVZdFRYNjR6V2E5YVZBSkZ6bjQxZkRMcC15bmRkUUVoQmlPQUw2WFkwcUlGSS05LUZSblRmbHctVEkydmZ4NDlmRFNVdjJWNDg3ODFNMWtLeUhwQXVWWm1ocnZFSzUxSi1tZzcxdXBkTHNvaHhfRTNfT3pMdGx1WkYtUlVrbmhCcHZIS1Y?oc=5",
         "timestamp": "2026-05-27T07:10:00",
         "timestamp_display": "27. 05. 2026 07:10",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +105,7 @@
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWHhmV3BjUjE4NnNsaDF3NXd5YlJxY2pNRGFoLVZUcUd2LUJ3bjZpOGZJYV9zeGd3cnJhUmpGdzJyTlRHQllYc1hKaklFUHJvSjBHOUVnZWFzYWFqQXlMSkR2WklqZFZTRUMyQjl0NEYzWmxZZTQ3SHgtYW5XbExiUmNFUjd6MTFyV0JHb3haQVJEY3JacjJWQUZxRGl0b0hOb1FoTnN5VGdFYUxkYmhoY0czV25STlN6NWcyV0l3dlk1bzZFd0ZXeGZB?oc=5",
         "timestamp": "2026-05-27T04:05:00",
         "timestamp_display": "27. 05. 2026 04:05",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Společnost",
@@ -24,7 +114,7 @@
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdElOLUFJY3BtcDhxV3BpT2xNVFhsRC15UEtNZ0F4SDZPbThjZXZtN1pLd2pVaWlScERqeG5zWlhILTBNaGhVWlRVSjVqNWpvRTdycjNDdWFzSEhIZmtZYldLaWJxbERxV0RlRExlRjNYdjJaRm8xeUxWUVlHallhWVNIcW9oc3VvS3Rsem9tb0hVTld4TW44OGFwMldQalJwcnNTNDNQUmhlR1pFQUZzWnRKeVVHb3dmM3g4RTNsQTJEZG8?oc=5",
         "timestamp": "2026-05-27T03:52:00",
         "timestamp_display": "27. 05. 2026 03:52",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -33,7 +123,7 @@
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNkVmY2tabjU3U2pIS29aZjRzd3lGUURIeDdwRUtIQVZQVjZjRUpuaGstYmZfX1ZRd1BXbTZhRUhvY0p3SEVFb0I1SEw0UDFDcnY0Qk1UVXhDelp4TzFDR2tJMlhDdTVWcm9GaEtUdkZ3WGpHdkJabGx1ZVBnUkJSM01qaDJVLWpwWXRibEE0ak5ZTEZQOVdON0haM2NVcmIweGpTLXRfeTZGTHZLQVA5VTFfMFpLM3M1a0ViWXFVZFd3dnJL?oc=5",
         "timestamp": "2026-05-26T18:13:00",
         "timestamp_display": "26. 05. 2026 18:13",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -42,7 +132,7 @@
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc1ZXdG5qM0I2U28wT25xRDE1S1BjREI1Q01DbzQwTUppNGJGZ18yNUlGRGlJWUhfRnFtc2tPbkpLTk1VajhGeV8xNTF2aDBZVk5UTHY4cEF6cVV5UW1YWHRKTThqR2ZmMUJMM1ZuVVkxVklGNXg1S003b2huZ29ReFFlWEhoeFFPVXdQR2dYNm1SNDNQeTdORFdSMjlMOW9fdXc?oc=5",
         "timestamp": "2026-05-26T09:56:29",
         "timestamp_display": "26. 05. 2026 09:56",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -51,7 +141,7 @@
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaU5WRUwyeHl5WExmMTNIN012Vzk1d09qeVlLcjBQYS1TTGx5WHA0d2xhdU5GTTR6bXNTbERaVTBYODlRZGkzSXZHWlNZc3RET3ZtRWVzc2Vpb2NzVkMzU2xHY0ROV2JETXZCNHNhNU1MSDF0QllHZ2JLcTlhcGpjUE1DNHpUblhXSURxNWlNbHFxdVpoYUhnOHhUTQ?oc=5",
         "timestamp": "2026-05-26T08:57:19",
         "timestamp_display": "26. 05. 2026 08:57",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -60,34 +150,7 @@
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ2FpRW1ySF9ka1BPVFdPZVB6LTFzcmR5cUhYS2hYbXllTTNXMFgyejVuTkpMSzgzT1NpZU5vUzEzRFZFMUpRNFFoenZiN29valBqdFNzbWw5TkZsckxIakFvTVVkZDVkWjBXTTZ0RXgtTGZqWlNBdTFNM0hkUXlnRWdjeHB5dUQza21vYmVKNXhiNm5keVJERUZKQWJSWG1tUVlfRVZScmphWXAx?oc=5",
         "timestamp": "2026-05-26T04:13:38",
         "timestamp_display": "26. 05. 2026 04:13",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Kino v Nejdku po 40 letech s novým vybavením",
-        "summary": "Po téměř čtyřech desetiletích prošlo kino v Nejdku na Karlovarsku kompletní rekonstrukcí. Bylo instalováno moderní projekční a zvukové technické vybavení, což výrazně zlepší kvalitu promítání a návštěvnický zážitek. Projekt přináší místní komunitě nový kulturní prostor a podporuje rozvoj regionálního filmového dění.",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVU0weHZQTTV3di1FY3ZRRnVtdmJWNTB0d21SUHBzX0pEeDY3WlRfZ0Y4RlQ2TG42X0xKb3AyVHUwVDlvMF8xbFNxM3JfSjhDdHAxT09qRmpKU1laN1N1V3cxdVdXVk84aU9YZ2hkakhCWkloSHVLdHB3WWVuVlNqTTZaeVk4TGdEeTNkbzRvYmgtRU5KQ3EycWM4M3pCcG9JNWV5d0ZOZVVicWZFN1BOal9feFBISlQxUHZMa3lFZHdzS05R?oc=5",
-        "timestamp": "2026-05-24T18:18:00",
-        "timestamp_display": "24. 05. 2026 18:18",
-        "is_new": true
-    },
-    {
-        "category": "Společnost",
-        "title": "Praha 9 nabídne levné byty učitelům a zdravotníkům",
-        "summary": "Městská část Praha 9 zakoupí nedokončený dům na Proseku a přetvoří jej na bytové jednotky s nižším nájmem, určené výhradně učitelům a zdravotnickému personálu, čímž podpoří dostupnost bydlení pro klíčové profese.",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORnJBOUk1b2RQbndEU1RsdGpKT0l1dVU4WVRmS3R1WVpNbUY2dUVVWFFrUkU0WnJuLXZueWhnX3dIU3VzNm42aC1CZUpONTUzLW9HZ3VHZ0prdm0ycnRTLUhaQnhmVVdITUhOMTNMZDhYX1ZqNmk0S1M5WHBFdVdLZms4by1ncFRmMW9GVVFENEJ5TjdjaVd6UURHMEJNMzJ6RDRJakYzMmlWdWpKcXJ4TzJhem1kOWZ4RldnWlp6Q0ptRkU1bkNVZ1hROA?oc=5",
-        "timestamp": "2026-05-24T15:29:00",
-        "timestamp_display": "24. 05. 2026 15:29",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Češi upřednostňují nemovitosti, zvyšuje se zájem o zlato a krypta",
-        "summary": "Český trh investic zůstává silný v nemovitostech, zatímco roste popularita alternativních aktiv jako zlato a kryptoměny. Tento posun ukazuje diverzifikaci portfolií a zvýšenou důvěru v dlouhodobé a inovativní investiční možnosti.",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOU2hvS3dKWFZjQndvVDJyRWo1aGJLNHVHX3VHSEUxOFZoWTlnOVlqcUYwVHlFdGc1ZHRrNUlCaVNtWmJDbjRYZmNzUDVROUJ2MjdPR1dyT0lRMUtOWGxES3h3QlItUmNIVG1nVUsxajJzcWZLSVgtb29HQ1ZuUGVjUVV5bGR6QzAwZFBKZ1lHM25uYWRTSTFBT1BzTUdNd0tBRzU0TURiS2FtZ3ZQbXFRejRRVER6SU0yekZWVG5ZWXhzeUFxQ1l0R2FVNEJuTHhmM0l4bEFn?oc=5",
-        "timestamp": "2026-05-23T07:34:00",
-        "timestamp_display": "23. 05. 2026 07:34",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -105,6 +168,24 @@
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQemFHZU5ZRndmVTB5Zk1zQ21BUEpjNEZJOWpKdlJKUTByY2VsYjYzWXJ2bTRZVWswS1pILXJ6Z1Bmb1hvd054cHRmdllOWTVLZ3ZzenZYTEhNUTc5alRtQ3d1aGRySTJ4bmdwdzlHTFZhdDN3T0Z2a3ZHUGhYQ1dqZmdVX3VPUGtYWUZyOFphNkRUYVNEdXFyNl9kWERvalhUc2E0ZlFsU0JsYl9pRjBwQnlGUVFQOERNQVNjMnNVbmdxTUk4RnlMbk5SRQ?oc=5",
         "timestamp": "2026-05-25T05:20:00",
         "timestamp_display": "25. 05. 2026 05:20",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Kino v Nejdku po 40 letech s novým vybavením",
+        "summary": "Po téměř čtyřech desetiletích prošlo kino v Nejdku na Karlovarsku kompletní rekonstrukcí. Bylo instalováno moderní projekční a zvukové technické vybavení, což výrazně zlepší kvalitu promítání a návštěvnický zážitek. Projekt přináší místní komunitě nový kulturní prostor a podporuje rozvoj regionálního filmového dění.",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVU0weHZQTTV3di1FY3ZRRnVtdmJWNTB0d21SUHBzX0pEeDY3WlRfZ0Y4RlQ2TG42X0xKb3AyVHUwVDlvMF8xbFNxM3JfSjhDdHAxT09qRmpKU1laN1N1V3cxdVdXVk84aU9YZ2hkakhCWkloSHVLdHB3WWVuVlNqTTZaeVk4TGdEeTNkbzRvYmgtRU5KQ3EycWM4M3pCcG9JNWV5d0ZOZVVicWZFN1BOal9feFBISlQxUHZMa3lFZHdzS05R?oc=5",
+        "timestamp": "2026-05-24T18:18:00",
+        "timestamp_display": "24. 05. 2026 18:18",
+        "is_new": false
+    },
+    {
+        "category": "Společnost",
+        "title": "Praha 9 nabídne levné byty učitelům a zdravotníkům",
+        "summary": "Městská část Praha 9 zakoupí nedokončený dům na Proseku a přetvoří jej na bytové jednotky s nižším nájmem, určené výhradně učitelům a zdravotnickému personálu, čímž podpoří dostupnost bydlení pro klíčové profese.",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORnJBOUk1b2RQbndEU1RsdGpKT0l1dVU4WVRmS3R1WVpNbUY2dUVVWFFrUkU0WnJuLXZueWhnX3dIU3VzNm42aC1CZUpONTUzLW9HZ3VHZ0prdm0ycnRTLUhaQnhmVVdITUhOMTNMZDhYX1ZqNmk0S1M5WHBFdVdLZms4by1ncFRmMW9GVVFENEJ5TjdjaVd6UURHMEJNMzJ6RDRJakYzMmlWdWpKcXJ4TzJhem1kOWZ4RldnWlp6Q0ptRkU1bkNVZ1hROA?oc=5",
+        "timestamp": "2026-05-24T15:29:00",
+        "timestamp_display": "24. 05. 2026 15:29",
         "is_new": false
     },
     {
@@ -177,6 +258,15 @@
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbGxqTUI3UW5Db0o4NUVKaTI4bW9mbDdUQXJaOTc2bllaVTVyNWlnWnhtV1c4LWtDc0EzZDhjZkZvdWVySXNJbVQ0SkNWbW90SXpaRmNqZFQ5TWtHRDd2OHI0dDlfeklSOE9vNFZwQUdfTUNJOG15eDcyMnRXRUd2T1d5ZXJBRmJ4dHY2T3VEb0JHUDJqV1ZWQU9qa2daMDJDelN0TldQaFZqQ29rMlViQWpTTk1JWGJWcnNlS3RVaUdVRWM1ZHdILW53elAxY3h1Nm00?oc=5",
         "timestamp": "2026-05-23T11:43:00",
         "timestamp_display": "23. 05. 2026 11:43",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Češi upřednostňují nemovitosti, zvyšuje se zájem o zlato a krypta",
+        "summary": "Český trh investic zůstává silný v nemovitostech, zatímco roste popularita alternativních aktiv jako zlato a kryptoměny. Tento posun ukazuje diverzifikaci portfolií a zvýšenou důvěru v dlouhodobé a inovativní investiční možnosti.",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOU2hvS3dKWFZjQndvVDJyRWo1aGJLNHVHX3VHSEUxOFZoWTlnOVlqcUYwVHlFdGc1ZHRrNUlCaVNtWmJDbjRYZmNzUDVROUJ2MjdPR1dyT0lRMUtOWGxES3h3QlItUmNIVG1nVUsxajJzcWZLSVgtb29HQ1ZuUGVjUVV5bGR6QzAwZFBKZ1lHM25uYWRTSTFBT1BzTUdNd0tBRzU0TURiS2FtZ3ZQbXFRejRRVER6SU0yekZWVG5ZWXhzeUFxQ1l0R2FVNEJuTHhmM0l4bEFn?oc=5",
+        "timestamp": "2026-05-23T07:34:00",
+        "timestamp_display": "23. 05. 2026 07:34",
         "is_new": false
     },
     {
