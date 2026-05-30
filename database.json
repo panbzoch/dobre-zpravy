@@ -1,12 +1,66 @@
 [
     {
+        "category": "Věda",
+        "title": "Nový pohled na biologické hodiny a stárnutí",
+        "summary": "Vědci odhalili, že mechanismus biologických hodin funguje odlišně, než se dosud předpokládalo. Tento průlomový objev může zásadně změnit pochopení procesu stárnutí a otevřít cestu k novým anti‑aging terapiím.",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSFhtVFRKMGtYRkg5aFlhRUh4YVFibHkwcGYxV3RNS0YxNll2TFk1cXh5Y2NfMVphLTAwbHQxMHM2WGxuZ0FXb2JXMTJyemlSSFpPdVFIZ1pQQ0JVNjRqTXdGUVRFMWZhV0h1ZzMwUzRGWmFOa2FDMmdDSDdxbzFsY2pHOElpRVFLN2R6OWt2bWd4MEVOajVzM1pmNzN2VUVsLUJ5dnFxS0xBVUV2QzlGQ2FVT2RnOE95RmpTUmYzQ1oyRk9DNkdmODdqamI0dDNIN3Vj?oc=5",
+        "timestamp": "2026-05-30T04:30:00",
+        "timestamp_display": "30. 05. 2026 04:30",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Přihlášky do liberického rozpočtu končí",
+        "summary": "Do konce měsíce lze podávat návrhy na projekty financované z participativního rozpočtu v Liberci, s možností získat až dva miliony korun. Občané tak mají šanci realizovat lokální iniciativy a zlepšit své okolí.",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUGtab3pLbnFMN1Fud2JxRXJsSG1NM1BONHdqaDNmY1dLOExiNU5FMnZxS003QXdrUkloV09LM1kxZzloMXJZUUV1QTdGcDRxQ0E0WVN4LWw5YU82WlJNUmhNdlVkWlgtcEIyQkVUTnFpZHRhMDBVdFF2OTFvRTJSMGdwaWR0RnF3Zkg0OXhXbEVzb1hlU0ZUOXd6SVIyUmlrU0dsN2hEMzh3dU14M0N3WGFPdjBXSnJDOXZxQTdHY1pzNG9OcGFj?oc=5",
+        "timestamp": "2026-05-29T15:40:00",
+        "timestamp_display": "29. 05. 2026 15:40",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Stavba retenční nádrže v Perninku zahájena",
+        "summary": "V Perninku odstartovala výstavba retenční nádrže, která podpoří zimní provoz skiareálu a zlepší vodní hospodářství regionu. Projekt přinese dlouhodobou infrastrukturu pro efektivní zásobování vodou a podpoří místní turistiku.",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYXlIeXpGa0VNM0N0bWVvN1hpd292VFFUamdZbjhwYkhnWWtNUVlLenpPV1UwQ2wzNmVQS0ZvZ0FMNmhlQ01oMkg3d0dhM2l5SUJGSUpRVXpvdzBVUXVQZEFPVzRQOUtESUtCS1hxNlJsNUlNU0d1RzFiSFVvYWpER3gwZWY5SEwwUF9BTGZnRk5BWl9XUmtrZFJDSHhNc0hvY0lVQjVOVVcwRWlvWEpqMGdLaTl6UC0xY2t3NjRGM2pUNkhJY0k1eDFR?oc=5",
+        "timestamp": "2026-05-29T05:18:00",
+        "timestamp_display": "29. 05. 2026 05:18",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Rychle rostoucí travina nahrazuje uhlí v Mostě",
+        "summary": "Vědci na Mostecku vysadili novou travinu, která během růstu uvolňuje energii s výhřevností srovnatelnou s hnědým uhlím. Tento projekt slibuje ekologičtější zdroj energie a podporu obnovitelných technologií v regionu.",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUU1ydDdKVi1Qa29xOHp1YjhkbE5hTW05bkk3Zl9nRTYySzdhSVoxMVdwbzZTQnFJc3E5bmtFRnRNTzRmcFZHRUdVTHA5bEh6amxIVFVaWHhqTy16VDdJMHpZV01YeFM4blRUck1UUEwwUXVCZVpHd2ZjbXhuTWNfeW9QOUlhQThhVjlNcENfOVFUUjVlVE4yMGd4WFJNMHZuQjJsTE0wa3lrcVBveHBnZjQ3aFRXX0tYc2hoU09Rbw?oc=5",
+        "timestamp": "2026-05-28T13:32:00",
+        "timestamp_display": "28. 05. 2026 13:32",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Čeští architekti navrhli londýnskou arénu pro 25 000 lidí",
+        "summary": "Český architektonický tým vytvořil návrh obrovské arény v Londýně s kapacitou až 25 000 návštěvníků. Projekt představuje významný mezinárodní úspěch českého designu a může podpořit rozvoj sportovních a kulturních akcí ve velkém měřítku.",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOVAzV0p2d1ZCTWZGYVpWV0hnLW9BYnB6cUNqZ0pXb1BqalN2dm9KZURDYVN0V0NOMnZsdGRmNnRhNWZUQ0pEYmNCNDM4aHNreVJ1YWVFaHNiZHJZQ3l5ck1VYjZoY3hJNDlYd19XM09RQmFZc3c3ZS1VSUJrbE1wcEp4V1o1bXY4bWtDR2l3OGx6VFVJSTZRQjB0eW1TaThGZUVqRGFHYkpCOFZqdWJ4QmZPU0gxWjVGS2dkZm9zcVdmLVduclRjWE53?oc=5",
+        "timestamp": "2026-05-26T14:03:00",
+        "timestamp_display": "26. 05. 2026 14:03",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "REsummit odhalí budoucnost českých měst",
+        "summary": "Na konferenci REsummit e15 představí inovativní projekty a investiční příležitosti, které mají transformovat české městské prostředí a realitní trh během následující dekády. Odborníci slibují udržitelný rozvoj, moderní technologie a nové obchodní modely, které podpoří růst a kvalitu života.",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOU1c5V0V5d0xSSlZEbmZNNzVUMVU4cGxUUWdRUm5EQ1lXMjlaemhnaWxMRkJ6Y2l6WS1JdzBxcmpTNm9lc2hBVDd3Ung0a1ZtdUIweE9QbmQwWjlKdXRoaHlXS2RSaHdxUUI4TlNYby1WM3UzQmExdk5hZnN4WnplandRS1JDWVNicF9HbnJ0OEhPZGJ5SnU0TDZsYWpjTXRZZnJQdHNkYlN0U1VIOTJtNXJ2dkN0UlNpRVEzVzBYSHV0YmQ2a1NvazZDSTRfYmg2ekhXSVJGaHQyZnpZbUhEYjA3U3Y0MDZVMVNnOA?oc=5",
+        "timestamp": "2026-05-26T06:30:00",
+        "timestamp_display": "26. 05. 2026 06:30",
+        "is_new": true
+    },
+    {
         "category": "Technologie",
         "title": "Kapalinový detektor rakoviny vejde do kapsy",
         "summary": "Čínští vědci vyvinuli miniaturizovaný diagnostický přístroj, který dokáže z jediné kapky krve detekovat rakovinu s 95 % úspěšností. Přístroj je téměř velikosti kapsy, což umožní rychlé a levné screeningové testy přímo v ordinacích i mimo ně.",
         "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOR0Y4cEpraDY3Mjk0SVRWR0tsLUh1cjdCM3hQc1A3WnZyVzkyZDVqbXk4V3cxMV9vUUtmQk1HNWlaTWR3a1VMa1YyV2pnY2FKWUlrUWVLcG44RWEzRy1LdlR5SzZUNm1hV1RXdER5akRKV3VQemg4NkZaUllja3F6cklaemJWYmhKRWlHV1JHMWY1RGhqdkdCemo0WTJQb25fbjBtTjR5NlJfVTM3WEFxaTZicFQ5bjJsT0dBcnRYbUxXLXB2MmhaWHh4ck9BbGx0RlhYTFJOUmdEb29ucDVqYjNZQjVXajdBM0pGdDlaUm1DdXM?oc=5",
         "timestamp": "2026-05-29T05:56:40",
         "timestamp_display": "29. 05. 2026 05:56",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +69,7 @@
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaEJNdkc0M1Flak5aYlV6eV9DMXJ3Q2VOejJCdUFuX3dqYmRPZlVwLUFNZjdGc1FXNnZPMEhHbWdmRmtLOGotNEc5WkJYZjFpMjVWTS1MRmp5aUcybW1tQmJ6TDZCaGFjZ3J3SUlubnM4TWJwaF9PUnZxVjg2RzJVWmNrdmJGTVhLVV9KbU12dVo0LU5UcnZsTDMxMV96UQ?oc=5",
         "timestamp": "2026-05-28T14:02:32",
         "timestamp_display": "28. 05. 2026 14:02",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -24,7 +78,7 @@
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XWUg4NjlKTkdyb1JfQWdZVVFlSGFydFJqci1FRGppUUxaUFVqdzlvb19ESkp4T2lrdkt1NWkzc2paUDVoMGhlcTVQaEFCMGpJeGlv?oc=5",
         "timestamp": "2026-05-28T13:32:00",
         "timestamp_display": "28. 05. 2026 13:32",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,7 +87,7 @@
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQWIxaXZ1OEhQVXEwY2pHMWlSWHRRZUgteW1BOGhEUzR2eGpTRWNqM1FhTkZtNnlvVlFKTGZLNkk4S21nYVViX2NRcThHRl9jcGdwVDBjOTBubURVSEEtcnNoclVFd0tBQWNxS0NxQW5EdkZKR2Fld1ZEUEZoXzMzaXV5V3hoakdmUXNWU196VU9lYWlxNllwNWJoQ0tTRVNuT0cwbG5wMTZoS1BHRHc5a0EwcHQ?oc=5",
         "timestamp": "2026-05-28T11:31:16",
         "timestamp_display": "28. 05. 2026 11:31",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -42,7 +96,7 @@
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeXh5cjdyVnpaLWNFOXhnSFNLa19SS1FrSnJobjRyMUZOUzY0bGdyWDRBZkt0YjNqWGRfZjMtYXlaWjh5MHJJbnFCMVdvLWVCVzVmdmFhMFoxTUh5bWp2ZGZoNVQwLXl2bldESHFUc1ViaVJpWXcxUG92YWtPMlk1OVRPZUg1WTluLXJfQWI5cVBjWkZtRDRXeXczZ3JEM0UydWxad0N0eUV2bUwwX3Q0dFZxWWc4TWx2MXpQanNRNzhseWpZOWxR?oc=5",
         "timestamp": "2026-05-28T11:08:00",
         "timestamp_display": "28. 05. 2026 11:08",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -51,43 +105,7 @@
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMGNkSkF1ekYzN2R5elUzWFZsV1R4YWtmbTBRaEVDbXpNRjRDRkFzWm42MWgwYnlDZlNtLTRmdm5LT3RGUXJ4MTVZTDZGY01HT0FzTzlFX05KbEZ2bC1fTWxMRW1BeE96Q3JLd2NHX3FHVEgtbXNnd19sMUpIMzQzQ09sbnViaGp2bEE1NVNTSE9odkNuWWJBWlJYQWVPTEVRQUs2dk54dTZ5dURIcENYMkNuY1ZEMDMtM0J6bUlJWV92dw?oc=5",
         "timestamp": "2026-05-28T09:44:00",
         "timestamp_display": "28. 05. 2026 09:44",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "AIWAY: Jak firmám vydělat na AI",
-        "summary": "Konference AIWAY představí firmám praktické strategie a nástroje, jak využít umělou inteligenci k růstu zisku. Účastníci získají know‑how pro implementaci AI řešení, což podpoří inovace a obchodní úspěch v digitální éře.",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMGtwcjluTlh0T2JoUWlBZXhxcmM1aXVFc3VnaUpKYVNBeWpmWGxCUGdocFFQVVlOdVRVdXd2RG0ya0FnV052cExoMmZqYVVid0U0dkh6dEM4UVFvNi0xSkptWEI2M2xlc3dNUFN5d1FKZkVSVW5fYklIblBhU01tYjVHbEhyUTk2TWwwVnVlTE5pdVBMQl9wMDFyU2tvRXc4?oc=5",
-        "timestamp": "2026-05-27T15:08:33",
-        "timestamp_display": "27. 05. 2026 15:08",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Investice stovek milionů eur do Casina",
-        "summary": "Podle Petra Křetínského je evropský trh náchylný k sebedestrukci, ale jeho firma je připravena investovat do projektu Casino stovky milionů eur, což představuje významný byznysový krok a podporu ekonomického růstu v regionu.",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdFppSG54Vkc3WWRyS0kxODFQVFg4ZGF1UlpLZDJscnNZLW9kTWFKTkFjVDFPRm9pWEkyNzBSLWF1c3BSOHZWLTlFdFZzY3IzQ1dJSDFtTHo4cnRKZzVscF9oNVMtNDZZTnFUWE1ETlNlVjlEaFV0NklUSUd1dkRGb3VUTHE2akstVjZyR2tOUkh1QlRFcTdETGRyQXFmRDNoRVRDQTFBXzU3VTlLWjFScjBCdGF5eXI3MmtYSUc2NFViei1LMGoyZll1SjlLLTFsRVBBclpyblc0QWktSUE?oc=5",
-        "timestamp": "2026-05-27T14:00:00",
-        "timestamp_display": "27. 05. 2026 14:00",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Nvidia zvyšuje investice na Tchaj-wanu na 150 mld USD",
-        "summary": "Nvidia oznámila plán rozšířit své investice na Tchaj-wanu až na 150 miliard dolarů ročně, což podpoří výrobu špičkových čipů a posílí místní technologický ekosystém. Tento krok má stimulovat inovace, vytvořit tisíce nových pracovních míst a posílit globální konkurenceschopnost.",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82ZGVsSUZGU0lJX0E0aWVyTTZGRU91RThvNjZCMFRjNTYxUXZMR2dKRjNXbVI2dWk0Q0dLbjNNUDEtN2hua0xoV01OTnNBOWdxb3dF?oc=5",
-        "timestamp": "2026-05-27T08:54:00",
-        "timestamp_display": "27. 05. 2026 08:54",
-        "is_new": true
-    },
-    {
-        "category": "Společnost",
-        "title": "VZP podpoří zdravý život 8 000 Kč",
-        "summary": "Všeobecná zdravotní pojišťovna spustila program „Prevenci na předpis“, který poskytne až 8 000 korun na podporu zdravějšího životního stylu. Program je určen pro pojištěnce, kteří splní podmínky, a má za cíl podpořit preventivní péči a zlepšit celkové zdraví populace.",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdEdXcFBObUdxRXEtRDh6QVNWdVF4VEFRekZSaFFHU3h5Rk5scDNZM1E2amIzOEJVSjY3NzdiU3NoZVM0SkdyWjhGbzNldkl1bGFZamc4UTc3bTdXbFVRWmc2eEFWSXphelQ1OFBkS3Q3aXdKTlU5NkwxdHg3QTRNZVVmNU05N3A4M2hqM05oeHJmaFNTd2dBZ0dQc1BCRGloYXFJVmlBeWxONDNmWkM5TURCa3dQU3B3YVNVOTJScko2dnZkbDBJcXR4TzRzV1RqQlE?oc=5",
-        "timestamp": "2026-05-26T15:28:00",
-        "timestamp_display": "26. 05. 2026 15:28",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -135,12 +153,39 @@
         "is_new": false
     },
     {
+        "category": "Byznys",
+        "title": "AIWAY: Jak firmám vydělat na AI",
+        "summary": "Konference AIWAY představí firmám praktické strategie a nástroje, jak využít umělou inteligenci k růstu zisku. Účastníci získají know‑how pro implementaci AI řešení, což podpoří inovace a obchodní úspěch v digitální éře.",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMGtwcjluTlh0T2JoUWlBZXhxcmM1aXVFc3VnaUpKYVNBeWpmWGxCUGdocFFQVVlOdVRVdXd2RG0ya0FnV052cExoMmZqYVVid0U0dkh6dEM4UVFvNi0xSkptWEI2M2xlc3dNUFN5d1FKZkVSVW5fYklIblBhU01tYjVHbEhyUTk2TWwwVnVlTE5pdVBMQl9wMDFyU2tvRXc4?oc=5",
+        "timestamp": "2026-05-27T15:08:33",
+        "timestamp_display": "27. 05. 2026 15:08",
+        "is_new": false
+    },
+    {
         "category": "Věda",
         "title": "Archeologové odhalili 800letou kněžístě v Opavsku",
         "summary": "Vědci z Opavska pod podlahou kostela ve Stěbořicích objevili zachovalé 800 let staré kněžístě. Nález poskytuje cenné informace o středověkém náboženském životě a architektuře regionu, což obohacuje historické poznání a podporuje další výzkum.",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSDhmMFZ5SWFsWHZ0bDItYTJoY015djBpODA2eHJuWVdoOF9McjhTOVBHcXZTUEY3a1duc0M4eGlLV09pRGFmR3M3eVpMemIzd2x6QTltZEw4cmxLTlRuRFI1dVJ6MlE5M0VkWVpRTUtRNEVnSVhzX0pTQTdYVUJiaEdLNWEtdmRTZXlSVjFJSG40b3IwVVBKR25aRGFONUlUVUxJX0NLU3lmbHdrYko2SmVRUjloMXp0N3phSFBzbHVOYy1rS1NJMQ?oc=5",
         "timestamp": "2026-05-27T14:42:00",
         "timestamp_display": "27. 05. 2026 14:42",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice stovek milionů eur do Casina",
+        "summary": "Podle Petra Křetínského je evropský trh náchylný k sebedestrukci, ale jeho firma je připravena investovat do projektu Casino stovky milionů eur, což představuje významný byznysový krok a podporu ekonomického růstu v regionu.",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdFppSG54Vkc3WWRyS0kxODFQVFg4ZGF1UlpLZDJscnNZLW9kTWFKTkFjVDFPRm9pWEkyNzBSLWF1c3BSOHZWLTlFdFZzY3IzQ1dJSDFtTHo4cnRKZzVscF9oNVMtNDZZTnFUWE1ETlNlVjlEaFV0NklUSUd1dkRGb3VUTHE2akstVjZyR2tOUkh1QlRFcTdETGRyQXFmRDNoRVRDQTFBXzU3VTlLWjFScjBCdGF5eXI3MmtYSUc2NFViei1LMGoyZll1SjlLLTFsRVBBclpyblc0QWktSUE?oc=5",
+        "timestamp": "2026-05-27T14:00:00",
+        "timestamp_display": "27. 05. 2026 14:00",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Nvidia zvyšuje investice na Tchaj-wanu na 150 mld USD",
+        "summary": "Nvidia oznámila plán rozšířit své investice na Tchaj-wanu až na 150 miliard dolarů ročně, což podpoří výrobu špičkových čipů a posílí místní technologický ekosystém. Tento krok má stimulovat inovace, vytvořit tisíce nových pracovních míst a posílit globální konkurenceschopnost.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82ZGVsSUZGU0lJX0E0aWVyTTZGRU91RThvNjZCMFRjNTYxUXZMR2dKRjNXbVI2dWk0Q0dLbjNNUDEtN2hua0xoV01OTnNBOWdxb3dF?oc=5",
+        "timestamp": "2026-05-27T08:54:00",
+        "timestamp_display": "27. 05. 2026 08:54",
         "is_new": false
     },
     {
@@ -195,6 +240,15 @@
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNkVmY2tabjU3U2pIS29aZjRzd3lGUURIeDdwRUtIQVZQVjZjRUpuaGstYmZfX1ZRd1BXbTZhRUhvY0p3SEVFb0I1SEw0UDFDcnY0Qk1UVXhDelp4TzFDR2tJMlhDdTVWcm9GaEtUdkZ3WGpHdkJabGx1ZVBnUkJSM01qaDJVLWpwWXRibEE0ak5ZTEZQOVdON0haM2NVcmIweGpTLXRfeTZGTHZLQVA5VTFfMFpLM3M1a0ViWXFVZFd3dnJL?oc=5",
         "timestamp": "2026-05-26T18:13:00",
         "timestamp_display": "26. 05. 2026 18:13",
+        "is_new": false
+    },
+    {
+        "category": "Společnost",
+        "title": "VZP podpoří zdravý život 8 000 Kč",
+        "summary": "Všeobecná zdravotní pojišťovna spustila program „Prevenci na předpis“, který poskytne až 8 000 korun na podporu zdravějšího životního stylu. Program je určen pro pojištěnce, kteří splní podmínky, a má za cíl podpořit preventivní péči a zlepšit celkové zdraví populace.",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdEdXcFBObUdxRXEtRDh6QVNWdVF4VEFRekZSaFFHU3h5Rk5scDNZM1E2amIzOEJVSjY3NzdiU3NoZVM0SkdyWjhGbzNldkl1bGFZamc4UTc3bTdXbFVRWmc2eEFWSXphelQ1OFBkS3Q3aXdKTlU5NkwxdHg3QTRNZVVmNU05N3A4M2hqM05oeHJmaFNTd2dBZ0dQc1BCRGloYXFJVmlBeWxONDNmWkM5TURCa3dQU3B3YVNVOTJScko2dnZkbDBJcXR4TzRzV1RqQlE?oc=5",
+        "timestamp": "2026-05-26T15:28:00",
+        "timestamp_display": "26. 05. 2026 15:28",
         "is_new": false
     },
     {
