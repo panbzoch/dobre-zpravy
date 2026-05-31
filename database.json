@@ -1,12 +1,84 @@
 [
     {
+        "category": "Medicína",
+        "title": "Nová aplikace bojuje s roztroušenou sklerózou",
+        "summary": "Vědci z ČVUT vytvořili mobilní aplikaci, která analyzuje řeč pacientů a pomáhá včasně rozpoznat příznaky roztroušené sklerózy. Technologie umožňuje lepší sledování onemocnění a podporuje efektivnější léčbu, čímž zvyšuje kvalitu života pacientů.",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcldiVmY0eTZaNmRIZVYzMkdxb0dXNGJDVFh6LWl2aElWVHdOd0pEUlBrRk41cE93eDhCR1R4d09xbjJGMjBSR3M3U3UtdVJ2Y0NOSGhvem5haVAwbkpHcXdfc2M0ZGJQbEkxS0xKdGlXa2ktTXBWdXBWQzY2UmpnWmtqOUxqM3drUUhDZEJrbmwwT0xQOEgzOU9jOGQ4VVZVaDUyUHB6V01feDlHVVVQd2Q1RjZKWEVTdS1JZGs1ckszMHc1RjJQMUNoUzh6LS1m?oc=5",
+        "timestamp": "2026-05-31T07:19:00",
+        "timestamp_display": "31. 05. 2026 07:19",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "AI rozluštila 4000‑leté babylonské věštby",
+        "summary": "Vědci využili umělou inteligenci k analýze a překladu starověkých babylonských textů o měsíčních zatměních. AI pomohla odhalit skryté významy a historické souvislosti, čímž rozšířila naše poznání o starověké astronomii a kultuře.",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNLXZFSkFJcTJyTy1MZDBBNDAybktBWVhSbFdHbUctenR0MzZ0bnZ3aC05Sk14MktvWVJkN1ZfM2NMcnR3ckg1TVNzV3M5NE91T3RoTnNHZjlZazRvSlRZVGFNNkgxQzBJNHM0ZlozR0M5MjVHNUhyelNweDhjcVJ1N3lKbWtfaXVvVXdWNXFkbWpwdnRMVmVFaXpreTljaUlOY053azE5a3A1ejZLaW1MbUlXak1Lc3VyUmhhZ0dGdHlzSU1MSlQtTzFOcTFnMU05OXROYVhPckdDSFpzc1QzblBvelNka1A5ZElMSy0xLU5XM1Zz?oc=5",
+        "timestamp": "2026-05-31T05:45:25",
+        "timestamp_display": "31. 05. 2026 05:45",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Anthropic překonává OpenAI, hodnota dosáhla bilionu",
+        "summary": "Investice do startupu Anthropic výrazně zvýšily jeho tržní kapitalizaci na úroveň bilionu dolarů, čímž firma předběhla OpenAI. Tento finanční úspěch podtrhuje rostoucí důvěru investorů v pokročilé AI technologie a otevírá nové možnosti pro další rozvoj a inovace v odvětví.",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZF82ZWZQSTVvazVFYVh4Q0JDcjBubDRCRnEwdzE4VG0tSHJMMGZkclUxeUZpRk1PLV9nR0oycExVWHpnR29YZzE1bWFEWDNDTzI4eG9qOXVWRHl2Yk1hbE5DTG9FSmJsTjhOZzBJVTBDejBFaXF3RkRoZGRyTTVFSHVwakpVYlpvVTRQUVNSbGZzZ3lYUDh6QURoWlVuamt2NkdnOVp0amREYWNtWnF1WWhn?oc=5",
+        "timestamp": "2026-05-31T05:05:00",
+        "timestamp_display": "31. 05. 2026 05:05",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Pale Fire: Zisková investice do zdraví a zlata",
+        "summary": "Investiční skupina Pale Fire rozšiřuje své úspěšné portfolio v USA o projekty zaměřené na zdravotnické technologie a těžbu zlata. Podle analýz jde o nejziskovější investice, které slibují vysoký výnos a podporují inovace ve zdravotnictví i těžebním sektoru.",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbHpkRnpnQXBuR1V6NHJ3blF2a2FHLXBsYnI2R2NSSGw3cmw5T1M2cV9iYVZhVGVHNF9ZWGxCanlXNTRvbzBsYW9CcUU3bEtTb09lNVk5b1N0ejgxZVZkQWVWR0xkVFZXbHRVSmgzamRxeDRNM3V2TGU4OVEyWTM0MmxlVFZaN2t0b1RzSzZudlZoUDZYUzVTZUJId0UyQ2dURGR1eXhoZlg5VXZ0R1FPV0xac0lvTFZfREtJcktyQ0pmUFNfOWNoV2hlNUFDWnVEcmo2V0dHSmRHNnls?oc=5",
+        "timestamp": "2026-05-30T15:00:00",
+        "timestamp_display": "30. 05. 2026 15:00",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Změna proudění v tekutém jádru Země",
+        "summary": "Vědci zjistili, že tekuté vnější jádro pod Tichým oceánem v roce 2010 změnilo směr proudění. Výzkum se zaměřuje na identifikaci příčin tohoto jevu, což může přinést nové poznatky o dynamice planety a jejím magnetickém poli.",
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPdk5iMC1mSGkwalNaRGtNd091dlRzejR4enhGOTZieFpYR2thU2xCUkEydi02emNZZUQwc0lDVElVeW5WMVM1TEU0RjVtTmdMamhkX1dVNXJXejhhMUVMeHBqMGxzUWpFLU43NXl2ZzEtdi14UDdLelFOTTk1QlNTLVdNZnM4TDNGalphQUxxYlI2d2FVeG1BTG13ZHZ1bEYzNmczRk80TVJjd1BNRjRNbE1jdFQ3WWxjUEEtZE9rbmtCcWhHWnJHUUYtZzM2N3UtMjhpRTBMQVdXcTZaY1hPVmVoMllSOTdwUm96bDBmMmdQYzA0VmtQMWVzYzFOUGtnSGc?oc=5",
+        "timestamp": "2026-05-30T13:45:17",
+        "timestamp_display": "30. 05. 2026 13:45",
+        "is_new": true
+    },
+    {
+        "category": "Medicína",
+        "title": "40 kliků snižuje srdeční riziko o 96 %",
+        "summary": "Studie ukazuje, že muži, kteří zvládnou 40 kliků, mají o 96 % nižší pravděpodobnost výskytu srdečních potíží. Výsledky podporují pravidelný posilovací trénink jako efektivní prevenci kardiovaskulárních onemocnění.",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQS20xYUVhUDV1dmdCZDBBTGF5U1lwXzQ1dEs2anY4ZXVqYUZJXzNUZDFhNHdNYlNOcnFKVktueUJoSFlfM3JtcW5ZM0xtQzc2SW5LTUlFaFA4UVZxX19SdzJBV2lMREdXWXU3U3BLOGNlbmk2aVlaZS13cmxPRENHaERWTFhiRktkZTRTOUVxY3h0OGFNTE83ZW13akhQZVplOEhmNm1BOGUxTHVsX3l6SDVqNFBHYm0xQjVpdHZ0WFZIZWNMNk9BSG5TcGhhSVFwMlVxcWI5dEFLQmlMLWc?oc=5",
+        "timestamp": "2026-05-30T13:45:17",
+        "timestamp_display": "30. 05. 2026 13:45",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Změna proudění v tekutém jádru Země",
+        "summary": "Vědci zjistili, že v roce 2010 došlo pod Tichým oceánem ke změně směru proudění v tekutém vnějším jádru Země. Tento geofyzikální objev otevírá nové otázky o dynamice planety a podněcuje další výzkum příčin takové změny.",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQc0N3M1Z3Vkx6WW1TN2poV2pwUFRSZUt0NW9rVVFhZGh4a29pMkxfdlhRSUFBM09ZMnFoOXhocVpsWGVmLXBrbGNSRmRKVEJNVVJVXzVlNUhtUkh3NGFpS0lxZkU3U2xJejU4U2dPVE1kMEpTYWtpSEpZMUdHTXJINXlWLXpyeWUzcXp6eG9NUGFzQXQ1TFRZcHBFejJCNERIUnE0T0RzYi1QajFscVhwc005WTF0UXQyZE1HN0pwOGtCNG5oRWVFYWhtd3hjVGFhODZjNFZ6NnNmSE82S1R0bktGSDNYVG5iQlNIRWZUbw?oc=5",
+        "timestamp": "2026-05-30T09:45:20",
+        "timestamp_display": "30. 05. 2026 09:45",
+        "is_new": true
+    },
+    {
+        "category": "Medicína",
+        "title": "Nový lék překonává Ozempic",
+        "summary": "Vědci představili inovativní lék nové generace, který prokazuje vyšší účinnost než Ozempic při léčbě cukrovky a obezity. Lék funguje odlišným mechanismem, slibuje rychlejší a trvalejší výsledky a představuje významný krok vpřed v moderní medicíně.",
+        "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPN00ycVdGVHppWVNtQnZqc0JQUmFnRzdlSzNfem1uS1U1RExDYVM4U1g5SE1xXzVjOV9obVB2Y0pnYVVuS1NlR0YwX3h3YlBESDlQMmV6Zm9MQXQ5NDZ2MUl4cHczOFhraHl5LWR1T2E0dC1uYmVwcEVFTTh5bXpEdFR3UEpESnQwcUM3N1FJZTR0VkpXMTdNVHV0Q1VlaTdwVFhLOWttaW8tTjFtWl9MQVRFd0VWLWwzTmZQSUNjdkI5aHVrc080RXNnTEUtTW1xckNqbmlfTlpXNzNWNE9JRjd6RUFISFY4UHZKR3NqQjI2SEZ0eUF1TjdYZ0F0NjI0bzVBeVlzYnVpN2hiOXBvZThUVW9LN21INTgwU3JqRE9VU0daampzVklSckNVNGJIOEpKSzhZRHFJOG4xa3hLSk4zNzhUcmtnVVdfRE1BaFhoRDZ5ZEE?oc=5",
+        "timestamp": "2026-05-22T07:00:00",
+        "timestamp_display": "22. 05. 2026 07:00",
+        "is_new": true
+    },
+    {
         "category": "Věda",
         "title": "Nový pohled na biologické hodiny a stárnutí",
         "summary": "Vědci odhalili, že mechanismus biologických hodin funguje odlišně, než se dosud předpokládalo. Tento průlomový objev může zásadně změnit pochopení procesu stárnutí a otevřít cestu k novým anti‑aging terapiím.",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSFhtVFRKMGtYRkg5aFlhRUh4YVFibHkwcGYxV3RNS0YxNll2TFk1cXh5Y2NfMVphLTAwbHQxMHM2WGxuZ0FXb2JXMTJyemlSSFpPdVFIZ1pQQ0JVNjRqTXdGUVRFMWZhV0h1ZzMwUzRGWmFOa2FDMmdDSDdxbzFsY2pHOElpRVFLN2R6OWt2bWd4MEVOajVzM1pmNzN2VUVsLUJ5dnFxS0xBVUV2QzlGQ2FVT2RnOE95RmpTUmYzQ1oyRk9DNkdmODdqamI0dDNIN3Vj?oc=5",
         "timestamp": "2026-05-30T04:30:00",
         "timestamp_display": "30. 05. 2026 04:30",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Společnost",
@@ -15,43 +87,7 @@
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUGtab3pLbnFMN1Fud2JxRXJsSG1NM1BONHdqaDNmY1dLOExiNU5FMnZxS003QXdrUkloV09LM1kxZzloMXJZUUV1QTdGcDRxQ0E0WVN4LWw5YU82WlJNUmhNdlVkWlgtcEIyQkVUTnFpZHRhMDBVdFF2OTFvRTJSMGdwaWR0RnF3Zkg0OXhXbEVzb1hlU0ZUOXd6SVIyUmlrU0dsN2hEMzh3dU14M0N3WGFPdjBXSnJDOXZxQTdHY1pzNG9OcGFj?oc=5",
         "timestamp": "2026-05-29T15:40:00",
         "timestamp_display": "29. 05. 2026 15:40",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Stavba retenční nádrže v Perninku zahájena",
-        "summary": "V Perninku odstartovala výstavba retenční nádrže, která podpoří zimní provoz skiareálu a zlepší vodní hospodářství regionu. Projekt přinese dlouhodobou infrastrukturu pro efektivní zásobování vodou a podpoří místní turistiku.",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYXlIeXpGa0VNM0N0bWVvN1hpd292VFFUamdZbjhwYkhnWWtNUVlLenpPV1UwQ2wzNmVQS0ZvZ0FMNmhlQ01oMkg3d0dhM2l5SUJGSUpRVXpvdzBVUXVQZEFPVzRQOUtESUtCS1hxNlJsNUlNU0d1RzFiSFVvYWpER3gwZWY5SEwwUF9BTGZnRk5BWl9XUmtrZFJDSHhNc0hvY0lVQjVOVVcwRWlvWEpqMGdLaTl6UC0xY2t3NjRGM2pUNkhJY0k1eDFR?oc=5",
-        "timestamp": "2026-05-29T05:18:00",
-        "timestamp_display": "29. 05. 2026 05:18",
-        "is_new": true
-    },
-    {
-        "category": "Věda",
-        "title": "Rychle rostoucí travina nahrazuje uhlí v Mostě",
-        "summary": "Vědci na Mostecku vysadili novou travinu, která během růstu uvolňuje energii s výhřevností srovnatelnou s hnědým uhlím. Tento projekt slibuje ekologičtější zdroj energie a podporu obnovitelných technologií v regionu.",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUU1ydDdKVi1Qa29xOHp1YjhkbE5hTW05bkk3Zl9nRTYySzdhSVoxMVdwbzZTQnFJc3E5bmtFRnRNTzRmcFZHRUdVTHA5bEh6amxIVFVaWHhqTy16VDdJMHpZV01YeFM4blRUck1UUEwwUXVCZVpHd2ZjbXhuTWNfeW9QOUlhQThhVjlNcENfOVFUUjVlVE4yMGd4WFJNMHZuQjJsTE0wa3lrcVBveHBnZjQ3aFRXX0tYc2hoU09Rbw?oc=5",
-        "timestamp": "2026-05-28T13:32:00",
-        "timestamp_display": "28. 05. 2026 13:32",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Čeští architekti navrhli londýnskou arénu pro 25 000 lidí",
-        "summary": "Český architektonický tým vytvořil návrh obrovské arény v Londýně s kapacitou až 25 000 návštěvníků. Projekt představuje významný mezinárodní úspěch českého designu a může podpořit rozvoj sportovních a kulturních akcí ve velkém měřítku.",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOVAzV0p2d1ZCTWZGYVpWV0hnLW9BYnB6cUNqZ0pXb1BqalN2dm9KZURDYVN0V0NOMnZsdGRmNnRhNWZUQ0pEYmNCNDM4aHNreVJ1YWVFaHNiZHJZQ3l5ck1VYjZoY3hJNDlYd19XM09RQmFZc3c3ZS1VSUJrbE1wcEp4V1o1bXY4bWtDR2l3OGx6VFVJSTZRQjB0eW1TaThGZUVqRGFHYkpCOFZqdWJ4QmZPU0gxWjVGS2dkZm9zcVdmLVduclRjWE53?oc=5",
-        "timestamp": "2026-05-26T14:03:00",
-        "timestamp_display": "26. 05. 2026 14:03",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "REsummit odhalí budoucnost českých měst",
-        "summary": "Na konferenci REsummit e15 představí inovativní projekty a investiční příležitosti, které mají transformovat české městské prostředí a realitní trh během následující dekády. Odborníci slibují udržitelný rozvoj, moderní technologie a nové obchodní modely, které podpoří růst a kvalitu života.",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOU1c5V0V5d0xSSlZEbmZNNzVUMVU4cGxUUWdRUm5EQ1lXMjlaemhnaWxMRkJ6Y2l6WS1JdzBxcmpTNm9lc2hBVDd3Ung0a1ZtdUIweE9QbmQwWjlKdXRoaHlXS2RSaHdxUUI4TlNYby1WM3UzQmExdk5hZnN4WnplandRS1JDWVNicF9HbnJ0OEhPZGJ5SnU0TDZsYWpjTXRZZnJQdHNkYlN0U1VIOTJtNXJ2dkN0UlNpRVEzVzBYSHV0YmQ2a1NvazZDSTRfYmg2ekhXSVJGaHQyZnpZbUhEYjA3U3Y0MDZVMVNnOA?oc=5",
-        "timestamp": "2026-05-26T06:30:00",
-        "timestamp_display": "26. 05. 2026 06:30",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -64,11 +100,29 @@
     },
     {
         "category": "Byznys",
+        "title": "Stavba retenční nádrže v Perninku zahájena",
+        "summary": "V Perninku odstartovala výstavba retenční nádrže, která podpoří zimní provoz skiareálu a zlepší vodní hospodářství regionu. Projekt přinese dlouhodobou infrastrukturu pro efektivní zásobování vodou a podpoří místní turistiku.",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYXlIeXpGa0VNM0N0bWVvN1hpd292VFFUamdZbjhwYkhnWWtNUVlLenpPV1UwQ2wzNmVQS0ZvZ0FMNmhlQ01oMkg3d0dhM2l5SUJGSUpRVXpvdzBVUXVQZEFPVzRQOUtESUtCS1hxNlJsNUlNU0d1RzFiSFVvYWpER3gwZWY5SEwwUF9BTGZnRk5BWl9XUmtrZFJDSHhNc0hvY0lVQjVOVVcwRWlvWEpqMGdLaTl6UC0xY2t3NjRGM2pUNkhJY0k1eDFR?oc=5",
+        "timestamp": "2026-05-29T05:18:00",
+        "timestamp_display": "29. 05. 2026 05:18",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
         "title": "Historický zisk firmy pod vedením Čupra",
         "summary": "Generální ředitel Čupr oznámil, že společnost překonala finanční ztráty a dosáhla historického zisku. Tento úspěch potvrzuje efektivní strategii a silnou pozici firmy na trhu, což přináší významné výnosy akcionářům a podporuje další růst.",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaEJNdkc0M1Flak5aYlV6eV9DMXJ3Q2VOejJCdUFuX3dqYmRPZlVwLUFNZjdGc1FXNnZPMEhHbWdmRmtLOGotNEc5WkJYZjFpMjVWTS1MRmp5aUcybW1tQmJ6TDZCaGFjZ3J3SUlubnM4TWJwaF9PUnZxVjg2RzJVWmNrdmJGTVhLVV9KbU12dVo0LU5UcnZsTDMxMV96UQ?oc=5",
         "timestamp": "2026-05-28T14:02:32",
         "timestamp_display": "28. 05. 2026 14:02",
+        "is_new": false
+    },
+    {
+        "category": "Věda",
+        "title": "Rychle rostoucí travina nahrazuje uhlí v Mostě",
+        "summary": "Vědci na Mostecku vysadili novou travinu, která během růstu uvolňuje energii s výhřevností srovnatelnou s hnědým uhlím. Tento projekt slibuje ekologičtější zdroj energie a podporu obnovitelných technologií v regionu.",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUU1ydDdKVi1Qa29xOHp1YjhkbE5hTW05bkk3Zl9nRTYySzdhSVoxMVdwbzZTQnFJc3E5bmtFRnRNTzRmcFZHRUdVTHA5bEh6amxIVFVaWHhqTy16VDdJMHpZV01YeFM4blRUck1UUEwwUXVCZVpHd2ZjbXhuTWNfeW9QOUlhQThhVjlNcENfOVFUUjVlVE4yMGd4WFJNMHZuQjJsTE0wa3lrcVBveHBnZjQ3aFRXX0tYc2hoU09Rbw?oc=5",
+        "timestamp": "2026-05-28T13:32:00",
+        "timestamp_display": "28. 05. 2026 13:32",
         "is_new": false
     },
     {
@@ -253,6 +307,15 @@
     },
     {
         "category": "Byznys",
+        "title": "Čeští architekti navrhli londýnskou arénu pro 25 000 lidí",
+        "summary": "Český architektonický tým vytvořil návrh obrovské arény v Londýně s kapacitou až 25 000 návštěvníků. Projekt představuje významný mezinárodní úspěch českého designu a může podpořit rozvoj sportovních a kulturních akcí ve velkém měřítku.",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOVAzV0p2d1ZCTWZGYVpWV0hnLW9BYnB6cUNqZ0pXb1BqalN2dm9KZURDYVN0V0NOMnZsdGRmNnRhNWZUQ0pEYmNCNDM4aHNreVJ1YWVFaHNiZHJZQ3l5ck1VYjZoY3hJNDlYd19XM09RQmFZc3c3ZS1VSUJrbE1wcEp4V1o1bXY4bWtDR2l3OGx6VFVJSTZRQjB0eW1TaThGZUVqRGFHYkpCOFZqdWJ4QmZPU0gxWjVGS2dkZm9zcVdmLVduclRjWE53?oc=5",
+        "timestamp": "2026-05-26T14:03:00",
+        "timestamp_display": "26. 05. 2026 14:03",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
         "title": "Seznam zaznamenal téměř 4 % růst tržeb",
         "summary": "Seznam, český internetový gigant, v loňském roce zvýšil své tržby o téměř čtyři procenta. Výrazný růst přinesly zejména služby Mapy.com, které přilákaly více uživatelů a inzerentů, čímž podpořily celkový finanční úspěch společnosti.",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc1ZXdG5qM0I2U28wT25xRDE1S1BjREI1Q01DbzQwTUppNGJGZ18yNUlGRGlJWUhfRnFtc2tPbkpLTk1VajhGeV8xNTF2aDBZVk5UTHY4cEF6cVV5UW1YWHRKTThqR2ZmMUJMM1ZuVVkxVklGNXg1S003b2huZ29ReFFlWEhoeFFPVXdQR2dYNm1SNDNQeTdORFdSMjlMOW9fdXc?oc=5",
@@ -276,6 +339,15 @@
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcVRQRkEyZWhLdnl0emtNZ1RvaTRvdlpNb0p3NVNWaXh6eW94YktET0loeHNGTXczZGN5YmgyOVFIT1B3NFd2MDdNUUtKa05xUUhNdjUyYi1uWDh1YXd5V3M3VzhId0FoYVI3VXZOMl9XTV81Z1hnTlFELXlIZ1NxSm1Pd29fRFRXYmRuXzZZZ19fVGhia0Jpa3VtdE1ENDhHRlJRZTRzMEVmeHpaU3hqRQ?oc=5",
         "timestamp": "2026-05-26T07:54:00",
         "timestamp_display": "26. 05. 2026 07:54",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "REsummit odhalí budoucnost českých měst",
+        "summary": "Na konferenci REsummit e15 představí inovativní projekty a investiční příležitosti, které mají transformovat české městské prostředí a realitní trh během následující dekády. Odborníci slibují udržitelný rozvoj, moderní technologie a nové obchodní modely, které podpoří růst a kvalitu života.",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOU1c5V0V5d0xSSlZEbmZNNzVUMVU4cGxUUWdRUm5EQ1lXMjlaemhnaWxMRkJ6Y2l6WS1JdzBxcmpTNm9lc2hBVDd3Ung0a1ZtdUIweE9QbmQwWjlKdXRoaHlXS2RSaHdxUUI4TlNYby1WM3UzQmExdk5hZnN4WnplandRS1JDWVNicF9HbnJ0OEhPZGJ5SnU0TDZsYWpjTXRZZnJQdHNkYlN0U1VIOTJtNXJ2dkN0UlNpRVEzVzBYSHV0YmQ2a1NvazZDSTRfYmg2ekhXSVJGaHQyZnpZbUhEYjA3U3Y0MDZVMVNnOA?oc=5",
+        "timestamp": "2026-05-26T06:30:00",
+        "timestamp_display": "26. 05. 2026 06:30",
         "is_new": false
     },
     {
