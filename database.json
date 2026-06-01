@@ -1,12 +1,57 @@
 [
     {
+        "category": "Byznys",
+        "title": "SoftBank se stala nejcennější japonskou firmou",
+        "summary": "SoftBank překonala Toyotu a stala se nejhodnotnější společností v Japonsku podle Forbes Česko. Tento úspěch podtrhuje silný růst a inovativní investiční strategii firmy, která se etablovala jako klíčový hráč na globálním trhu.",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMFhXNHVhSTdwMVFFWGVtc0J2RDNidUE2cFhBelFXTE5GdVp1OG1JTzc5dUhNYi01TDFPMGl1NG9pck1jbXZXcjVLV2dqUUNXU0ZkNkNOcXc2Q3lvRGs4aXNfSVREakg1N0ItM0FHUkt2TGVNTFBoUmdhR0hjNE9uY3AtdGNtWG1sdllXSnh3?oc=5",
+        "timestamp": "2026-06-01T08:16:18",
+        "timestamp_display": "01. 06. 2026 08:16",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Lázeňství – investice s pevným výnosem",
+        "summary": "Článek představuje lázeňství jako atraktivní investiční oblast nové generace, spojující reálná aktiva, zdravotní péči a stabilní výnosy. Autor zdůrazňuje výhody tohoto sektoru pro investory, kteří hledají dlouhodobě udržitelné a bezpečné investice v oblasti wellness a zdravotních služeb.",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTzJNa3dTZkNPOWFKLXBOZFdoM1JhRTA2WkwzN1B1Tm1zNEJJREtZQXhRdEEySDRBTjFPelJTTWdaNHFTeVJrMlUyamxsazl5bHgxdk13dExxd1FKVnFBdnY4OFJRV2U1UmdDODdncTRRYmF6ZGZBSE1Dbm9pXzY5dVlVb2VzZ21rOWlhQ2h6OWVheFRSMHJqS0NhVjFzQmxXSXBxQWpCUGFHVFBFSmdWZEZlWmQ4aE9l?oc=5",
+        "timestamp": "2026-05-31T22:00:00",
+        "timestamp_display": "31. 05. 2026 22:00",
+        "is_new": true
+    },
+    {
+        "category": "Medicína",
+        "title": "Nová aplikace včas zachytí onemocnění",
+        "summary": "Vědci představili mobilní aplikaci, která pomocí umělé inteligence a analýzy symptomů dokáže včas rozpoznat příznaky závažných onemocnění. Uživatelé tak získají rychlé varování a mohou včas vyhledat lékařskou péči, což zvyšuje šance na úspěšnou léčbu.",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfQUs1NnZib3FUUHEyS05mRUk3aGFISmx6RXRfZFVjY1EtT1FicmVHQXBFMGlJXzV3LW1ScE5PWkdlS2Z6Y0Vqb3Jkd2ltMW5Jcmt4LTJHTTRjVk4yd016N0YxZVM0SDQ?oc=5",
+        "timestamp": "2026-05-31T20:27:18",
+        "timestamp_display": "31. 05. 2026 20:27",
+        "is_new": true
+    },
+    {
+        "category": "Medicína",
+        "title": "Česká aplikace odhalí první příznaky demence",
+        "summary": "Čeští výzkumníci vytvořili mobilní aplikaci, která pomocí testů a analýzy chování dokáže včas rozpoznat problémy s pamětí související s demencí či Alzheimerovou chorobou. Technologie umožní rychlejší diagnostiku a včasný zásah, čímž zlepší kvalitu života potenciálně postižených pacientů.",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQmRfQzItR0xKeURMRE9ZVTUwTmdrTVNnLUoxeUdrb19OMmtyNnZibHJzNTM0VHg5ZWFVYnFTUVpSblQwd3d0XzNYSDJyajl1VjVKeFFJZWNla3d4dnpJSHhBNllmVzY4MTg3MXI2b3JwZ0JtUXhiWkNtNlY1MDBFNWI1d1UxTmdCM3BycHpMX0NRR1kxWWYyZWZncmVjNmZvb3ZjRmRtRUtNS3RJUXRLSnU5UGJYeEtUYUtwM2xZbWtHczBrNENaNTRtU1drdw?oc=5",
+        "timestamp": "2026-05-31T16:33:00",
+        "timestamp_display": "31. 05. 2026 16:33",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "DRFG koupila maďarské obchodní centrum",
+        "summary": "Investiční skupina DRFG rozšířila své portfolio zakoupením velkého obchodního centra v Maďarsku za stovky milionů korun. Tento krok posiluje její přítomnost ve středoevropském regionu a představuje významný byznysový úspěch v oblasti nemovitostí.",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdEgxYXFlamFnYkhtd3ZvTTZqTjJHNk1jdUxNakRWemlZbkpXYVFJZXZTVkh1RUJoY3Q1X0Y3VDB3b2U5cmZERTRCdFV4d25iVXN2aDR3QTFWSENjVndfYXpzMDcxaS0yZXlmX0xpY2ZvZ2dNOUIzYmJoRzBnTHE3N1ZzTHNVdGpGdmFTc1VQanZ4eVZ0OWNiMHZnN3pQaXJsUWhQSTd0V1VuSDVwb21YS3Y0NUxrdkZERWdTLTZ4aWFmWEQ3empyWXFpV3V3eGJIZDhFMnlYcw?oc=5",
+        "timestamp": "2026-05-28T15:33:00",
+        "timestamp_display": "28. 05. 2026 15:33",
+        "is_new": true
+    },
+    {
         "category": "Medicína",
         "title": "Nová aplikace bojuje s roztroušenou sklerózou",
         "summary": "Vědci z ČVUT vytvořili mobilní aplikaci, která analyzuje řeč pacientů a pomáhá včasně rozpoznat příznaky roztroušené sklerózy. Technologie umožňuje lepší sledování onemocnění a podporuje efektivnější léčbu, čímž zvyšuje kvalitu života pacientů.",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcldiVmY0eTZaNmRIZVYzMkdxb0dXNGJDVFh6LWl2aElWVHdOd0pEUlBrRk41cE93eDhCR1R4d09xbjJGMjBSR3M3U3UtdVJ2Y0NOSGhvem5haVAwbkpHcXdfc2M0ZGJQbEkxS0xKdGlXa2ktTXBWdXBWQzY2UmpnWmtqOUxqM3drUUhDZEJrbmwwT0xQOEgzOU9jOGQ4VVZVaDUyUHB6V01feDlHVVVQd2Q1RjZKWEVTdS1JZGs1ckszMHc1RjJQMUNoUzh6LS1m?oc=5",
         "timestamp": "2026-05-31T07:19:00",
         "timestamp_display": "31. 05. 2026 07:19",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -15,7 +60,7 @@
         "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNLXZFSkFJcTJyTy1MZDBBNDAybktBWVhSbFdHbUctenR0MzZ0bnZ3aC05Sk14MktvWVJkN1ZfM2NMcnR3ckg1TVNzV3M5NE91T3RoTnNHZjlZazRvSlRZVGFNNkgxQzBJNHM0ZlozR0M5MjVHNUhyelNweDhjcVJ1N3lKbWtfaXVvVXdWNXFkbWpwdnRMVmVFaXpreTljaUlOY053azE5a3A1ejZLaW1MbUlXak1Lc3VyUmhhZ0dGdHlzSU1MSlQtTzFOcTFnMU05OXROYVhPckdDSFpzc1QzblBvelNka1A5ZElMSy0xLU5XM1Zz?oc=5",
         "timestamp": "2026-05-31T05:45:25",
         "timestamp_display": "31. 05. 2026 05:45",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,7 +69,7 @@
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZF82ZWZQSTVvazVFYVh4Q0JDcjBubDRCRnEwdzE4VG0tSHJMMGZkclUxeUZpRk1PLV9nR0oycExVWHpnR29YZzE1bWFEWDNDTzI4eG9qOXVWRHl2Yk1hbE5DTG9FSmJsTjhOZzBJVTBDejBFaXF3RkRoZGRyTTVFSHVwakpVYlpvVTRQUVNSbGZzZ3lYUDh6QURoWlVuamt2NkdnOVp0amREYWNtWnF1WWhn?oc=5",
         "timestamp": "2026-05-31T05:05:00",
         "timestamp_display": "31. 05. 2026 05:05",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,7 +78,7 @@
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbHpkRnpnQXBuR1V6NHJ3blF2a2FHLXBsYnI2R2NSSGw3cmw5T1M2cV9iYVZhVGVHNF9ZWGxCanlXNTRvbzBsYW9CcUU3bEtTb09lNVk5b1N0ejgxZVZkQWVWR0xkVFZXbHRVSmgzamRxeDRNM3V2TGU4OVEyWTM0MmxlVFZaN2t0b1RzSzZudlZoUDZYUzVTZUJId0UyQ2dURGR1eXhoZlg5VXZ0R1FPV0xac0lvTFZfREtJcktyQ0pmUFNfOWNoV2hlNUFDWnVEcmo2V0dHSmRHNnls?oc=5",
         "timestamp": "2026-05-30T15:00:00",
         "timestamp_display": "30. 05. 2026 15:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -42,7 +87,7 @@
         "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPdk5iMC1mSGkwalNaRGtNd091dlRzejR4enhGOTZieFpYR2thU2xCUkEydi02emNZZUQwc0lDVElVeW5WMVM1TEU0RjVtTmdMamhkX1dVNXJXejhhMUVMeHBqMGxzUWpFLU43NXl2ZzEtdi14UDdLelFOTTk1QlNTLVdNZnM4TDNGalphQUxxYlI2d2FVeG1BTG13ZHZ1bEYzNmczRk80TVJjd1BNRjRNbE1jdFQ3WWxjUEEtZE9rbmtCcWhHWnJHUUYtZzM2N3UtMjhpRTBMQVdXcTZaY1hPVmVoMllSOTdwUm96bDBmMmdQYzA0VmtQMWVzYzFOUGtnSGc?oc=5",
         "timestamp": "2026-05-30T13:45:17",
         "timestamp_display": "30. 05. 2026 13:45",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Medicína",
@@ -51,7 +96,7 @@
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQS20xYUVhUDV1dmdCZDBBTGF5U1lwXzQ1dEs2anY4ZXVqYUZJXzNUZDFhNHdNYlNOcnFKVktueUJoSFlfM3JtcW5ZM0xtQzc2SW5LTUlFaFA4UVZxX19SdzJBV2lMREdXWXU3U3BLOGNlbmk2aVlaZS13cmxPRENHaERWTFhiRktkZTRTOUVxY3h0OGFNTE83ZW13akhQZVplOEhmNm1BOGUxTHVsX3l6SDVqNFBHYm0xQjVpdHZ0WFZIZWNMNk9BSG5TcGhhSVFwMlVxcWI5dEFLQmlMLWc?oc=5",
         "timestamp": "2026-05-30T13:45:17",
         "timestamp_display": "30. 05. 2026 13:45",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -60,16 +105,7 @@
         "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQc0N3M1Z3Vkx6WW1TN2poV2pwUFRSZUt0NW9rVVFhZGh4a29pMkxfdlhRSUFBM09ZMnFoOXhocVpsWGVmLXBrbGNSRmRKVEJNVVJVXzVlNUhtUkh3NGFpS0lxZkU3U2xJejU4U2dPVE1kMEpTYWtpSEpZMUdHTXJINXlWLXpyeWUzcXp6eG9NUGFzQXQ1TFRZcHBFejJCNERIUnE0T0RzYi1QajFscVhwc005WTF0UXQyZE1HN0pwOGtCNG5oRWVFYWhtd3hjVGFhODZjNFZ6NnNmSE82S1R0bktGSDNYVG5iQlNIRWZUbw?oc=5",
         "timestamp": "2026-05-30T09:45:20",
         "timestamp_display": "30. 05. 2026 09:45",
-        "is_new": true
-    },
-    {
-        "category": "Medicína",
-        "title": "Nový lék překonává Ozempic",
-        "summary": "Vědci představili inovativní lék nové generace, který prokazuje vyšší účinnost než Ozempic při léčbě cukrovky a obezity. Lék funguje odlišným mechanismem, slibuje rychlejší a trvalejší výsledky a představuje významný krok vpřed v moderní medicíně.",
-        "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPN00ycVdGVHppWVNtQnZqc0JQUmFnRzdlSzNfem1uS1U1RExDYVM4U1g5SE1xXzVjOV9obVB2Y0pnYVVuS1NlR0YwX3h3YlBESDlQMmV6Zm9MQXQ5NDZ2MUl4cHczOFhraHl5LWR1T2E0dC1uYmVwcEVFTTh5bXpEdFR3UEpESnQwcUM3N1FJZTR0VkpXMTdNVHV0Q1VlaTdwVFhLOWttaW8tTjFtWl9MQVRFd0VWLWwzTmZQSUNjdkI5aHVrc080RXNnTEUtTW1xckNqbmlfTlpXNzNWNE9JRjd6RUFISFY4UHZKR3NqQjI2SEZ0eUF1TjdYZ0F0NjI0bzVBeVlzYnVpN2hiOXBvZThUVW9LN21INTgwU3JqRE9VU0daampzVklSckNVNGJIOEpKSzhZRHFJOG4xa3hLSk4zNzhUcmtnVVdfRE1BaFhoRDZ5ZEE?oc=5",
-        "timestamp": "2026-05-22T07:00:00",
-        "timestamp_display": "22. 05. 2026 07:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -546,6 +582,15 @@
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM2NtcmRkMm5YQ2FkSk1McjhENnhCaVdyV2hoOTlQTUFrSy0wemNjeHlXQTRybVd5dks1cGs1c0xUMVA2NVY4ZlY0Rk9QRzFJU2t6Q1ZvWWdwc2lDNGRCcklWUGx1Yk1DSVYwbXV4RTRwM0hybFhnd0k5S3lCSUFkNm9ZeTNQQW1MQkZ6MFA1V1lPdnNPbEI0VnJwT1hKTjQ?oc=5",
         "timestamp": "2026-05-22T08:03:41",
         "timestamp_display": "22. 05. 2026 08:03",
+        "is_new": false
+    },
+    {
+        "category": "Medicína",
+        "title": "Nový lék překonává Ozempic",
+        "summary": "Vědci představili inovativní lék nové generace, který prokazuje vyšší účinnost než Ozempic při léčbě cukrovky a obezity. Lék funguje odlišným mechanismem, slibuje rychlejší a trvalejší výsledky a představuje významný krok vpřed v moderní medicíně.",
+        "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPN00ycVdGVHppWVNtQnZqc0JQUmFnRzdlSzNfem1uS1U1RExDYVM4U1g5SE1xXzVjOV9obVB2Y0pnYVVuS1NlR0YwX3h3YlBESDlQMmV6Zm9MQXQ5NDZ2MUl4cHczOFhraHl5LWR1T2E0dC1uYmVwcEVFTTh5bXpEdFR3UEpESnQwcUM3N1FJZTR0VkpXMTdNVHV0Q1VlaTdwVFhLOWttaW8tTjFtWl9MQVRFd0VWLWwzTmZQSUNjdkI5aHVrc080RXNnTEUtTW1xckNqbmlfTlpXNzNWNE9JRjd6RUFISFY4UHZKR3NqQjI2SEZ0eUF1TjdYZ0F0NjI0bzVBeVlzYnVpN2hiOXBvZThUVW9LN21INTgwU3JqRE9VU0daampzVklSckNVNGJIOEpKSzhZRHFJOG4xa3hLSk4zNzhUcmtnVVdfRE1BaFhoRDZ5ZEE?oc=5",
+        "timestamp": "2026-05-22T07:00:00",
+        "timestamp_display": "22. 05. 2026 07:00",
         "is_new": false
     },
     {
