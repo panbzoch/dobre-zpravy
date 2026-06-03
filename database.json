@@ -6,43 +6,7 @@
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxON2pDVEE1cTNhbU5mckdEMzRlb00yZldrbDBsa3dKQmtUdDdIRjhhWWlTdU9qbkhuQXJXcnZkeG9BblZSVEhueThQYzZlVEx6UzJVSU1BQ1h4N2NVSGI0TWpQLTRSRWdsYzlxOHh5U2hVRHo5OC1uY0t6YnMwT2FOZmV4UUJWNjQ1YlU1djBFYVBMTGwxY0tqdW4wZ2JMNWNQYTk4VF8zMmFQT25wcFpob0lpSjRuVWtkM2NWY0t2cFhXaklWejN3?oc=5",
         "timestamp": "2026-06-02T06:00:00",
         "timestamp_display": "02. 06. 2026 06:00",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Krakovská pobočka vstupuje na polský trh",
-        "summary": "Česká společnost rozšiřuje své působení otevřením nové pobočky v Krakově, čímž získává přístup na dynamický polský trh. Tento krok představuje strategický růst a posílení mezinárodní přítomnosti firmy.",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM1dvVUlTX01XMU1IYS1yWDNrSHNpa1dSdlVMME5FajZKZDA5TVFRdlptdEpSajBQMFdiM1phMDg1VldscW5NVTJEQVJZVTRFdjY0c1dpbXl5RmVVUXB2QjAyVWZPV0lhVU1KbDU4b3ltbk9wd0tXcm1xQ0dZRTlBMWxHSy1NYlBQczBqSHltOFlxZy1YVlV3ZWJtVQ?oc=5",
-        "timestamp": "2026-06-01T07:01:00",
-        "timestamp_display": "01. 06. 2026 07:01",
-        "is_new": true
-    },
-    {
-        "category": "Společnost",
-        "title": "Náchodské muzeum získá 254 milióny",
-        "summary": "Královéhradecký kraj plánuje přidělit 254 miliónů korun na podporu muzea a galerií v Náchodě. Prostředky mají modernizovat expozice, rozšířit vzdělávací programy a zlepšit návštěvnické služby, čímž podpoří kulturní život regionu.",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdGU1S3pYc2JBbVpLaGJRaldpR3hiRzNLVmpvUHVrQzBVdDBhTXhvekxySm1WMlJZV2NuV2l4UU5relctaTBrdGdMaE9zYzZRVTJPUndmNzdIUUxyMUFMZWgxQVNFaHVqcDAzQ0hqRm5GMFQ0MXpfZkZOS0I4VVFrWEwyZzltWXdUX0dvYldsYXJmN1BkNFJ0T0gyN2IwYnNhZEJPdFlYbjJWQXlvWUhieVJCZmxLZngyQ2ZsLVAtQi1GbUVubXN1Qw?oc=5",
-        "timestamp": "2026-05-31T21:01:00",
-        "timestamp_display": "31. 05. 2026 21:01",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Startup vyrobil supersonický dron za rok",
-        "summary": "Český startup během jediného roku vyvinul bezpilotní dron, který překonal rychlost zvuku a míří i k rekordům Concorde. Projekt představuje významný technologický průlom v oblasti leteckých dopravních prostředků a ukazuje potenciál rychlého vývoje inovací v letectví.",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaHdoLUJtQlREZDFGd2JwOUdfYllVQm1Bb3dkM19Bb05FYTFiN3FnazlyeHlQalVReDM3ZlBPNTV0c3BLRUpReWM0Q2NYOFhySTl3cGphc3d0WkdXWGtCSEFlNUFBaVI1eGpDblNQOWI1R21fMTRBZFg1UnZSR2txSHpLWmhLYlhiX1BFRXlBa2pIaGstaHY3bUZKdlJMQ2VyQmtNRzc3LTJ1R3pSa0hWT3dxVno5dw?oc=5",
-        "timestamp": "2026-05-30T13:24:06",
-        "timestamp_display": "30. 05. 2026 13:24",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "90 inovativních firem vyrazilo do zahraničí s CzechInvest",
-        "summary": "CzechInvest podpořil devadesát inovativních českých firem při jejich expanzi na zahraniční trhy. Na základě úspěchu připravuje novou výzvu CzechCrunch, která má podpořit další růst a mezinárodní rozvoj podniků.",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaTVEZVMtM3R6eUFXTjVPUUdzNGJIa1ZZZl9XeWUxS3BEaFJRN0VhRmhjODFDeXBXdjlROUk4c0RXLWhVWTd6ZEotUWhGWkxBc2t4S0hrbHIwRHFaY09OWnRIRFNQTFNDSTZUQmlycnFTdnRZcm9DeVNUb1o0TDRpQ0JrTUwyQ0VQM2diYVBvRW00NDI4aXdiZ3Y2QlpPVThxYkFUX25FdXgycjQ2X3NUTzRQaWJvQQ?oc=5",
-        "timestamp": "2026-05-30T11:31:22",
-        "timestamp_display": "30. 05. 2026 11:31",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -55,11 +19,29 @@
     },
     {
         "category": "Byznys",
+        "title": "Krakovská pobočka vstupuje na polský trh",
+        "summary": "Česká společnost rozšiřuje své působení otevřením nové pobočky v Krakově, čímž získává přístup na dynamický polský trh. Tento krok představuje strategický růst a posílení mezinárodní přítomnosti firmy.",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM1dvVUlTX01XMU1IYS1yWDNrSHNpa1dSdlVMME5FajZKZDA5TVFRdlptdEpSajBQMFdiM1phMDg1VldscW5NVTJEQVJZVTRFdjY0c1dpbXl5RmVVUXB2QjAyVWZPV0lhVU1KbDU4b3ltbk9wd0tXcm1xQ0dZRTlBMWxHSy1NYlBQczBqSHltOFlxZy1YVlV3ZWJtVQ?oc=5",
+        "timestamp": "2026-06-01T07:01:00",
+        "timestamp_display": "01. 06. 2026 07:01",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
         "title": "Lázeňství – investice s pevným výnosem",
         "summary": "Článek představuje lázeňství jako atraktivní investiční oblast nové generace, spojující reálná aktiva, zdravotní péči a stabilní výnosy. Autor zdůrazňuje výhody tohoto sektoru pro investory, kteří hledají dlouhodobě udržitelné a bezpečné investice v oblasti wellness a zdravotních služeb.",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTzJNa3dTZkNPOWFKLXBOZFdoM1JhRTA2WkwzN1B1Tm1zNEJJREtZQXhRdEEySDRBTjFPelJTTWdaNHFTeVJrMlUyamxsazl5bHgxdk13dExxd1FKVnFBdnY4OFJRV2U1UmdDODdncTRRYmF6ZGZBSE1Dbm9pXzY5dVlVb2VzZ21rOWlhQ2h6OWVheFRSMHJqS0NhVjFzQmxXSXBxQWpCUGFHVFBFSmdWZEZlWmQ4aE9l?oc=5",
         "timestamp": "2026-05-31T22:00:00",
         "timestamp_display": "31. 05. 2026 22:00",
+        "is_new": false
+    },
+    {
+        "category": "Společnost",
+        "title": "Náchodské muzeum získá 254 milióny",
+        "summary": "Královéhradecký kraj plánuje přidělit 254 miliónů korun na podporu muzea a galerií v Náchodě. Prostředky mají modernizovat expozice, rozšířit vzdělávací programy a zlepšit návštěvnické služby, čímž podpoří kulturní život regionu.",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdGU1S3pYc2JBbVpLaGJRaldpR3hiRzNLVmpvUHVrQzBVdDBhTXhvekxySm1WMlJZV2NuV2l4UU5relctaTBrdGdMaE9zYzZRVTJPUndmNzdIUUxyMUFMZWgxQVNFaHVqcDAzQ0hqRm5GMFQ0MXpfZkZOS0I4VVFrWEwyZzltWXdUX0dvYldsYXJmN1BkNFJ0T0gyN2IwYnNhZEJPdFlYbjJWQXlvWUhieVJCZmxLZngyQ2ZsLVAtQi1GbUVubXN1Qw?oc=5",
+        "timestamp": "2026-05-31T21:01:00",
+        "timestamp_display": "31. 05. 2026 21:01",
         "is_new": false
     },
     {
@@ -132,6 +114,24 @@
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQS20xYUVhUDV1dmdCZDBBTGF5U1lwXzQ1dEs2anY4ZXVqYUZJXzNUZDFhNHdNYlNOcnFKVktueUJoSFlfM3JtcW5ZM0xtQzc2SW5LTUlFaFA4UVZxX19SdzJBV2lMREdXWXU3U3BLOGNlbmk2aVlaZS13cmxPRENHaERWTFhiRktkZTRTOUVxY3h0OGFNTE83ZW13akhQZVplOEhmNm1BOGUxTHVsX3l6SDVqNFBHYm0xQjVpdHZ0WFZIZWNMNk9BSG5TcGhhSVFwMlVxcWI5dEFLQmlMLWc?oc=5",
         "timestamp": "2026-05-30T13:45:17",
         "timestamp_display": "30. 05. 2026 13:45",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Startup vyrobil supersonický dron za rok",
+        "summary": "Český startup během jediného roku vyvinul bezpilotní dron, který překonal rychlost zvuku a míří i k rekordům Concorde. Projekt představuje významný technologický průlom v oblasti leteckých dopravních prostředků a ukazuje potenciál rychlého vývoje inovací v letectví.",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaHdoLUJtQlREZDFGd2JwOUdfYllVQm1Bb3dkM19Bb05FYTFiN3FnazlyeHlQalVReDM3ZlBPNTV0c3BLRUpReWM0Q2NYOFhySTl3cGphc3d0WkdXWGtCSEFlNUFBaVI1eGpDblNQOWI1R21fMTRBZFg1UnZSR2txSHpLWmhLYlhiX1BFRXlBa2pIaGstaHY3bUZKdlJMQ2VyQmtNRzc3LTJ1R3pSa0hWT3dxVno5dw?oc=5",
+        "timestamp": "2026-05-30T13:24:06",
+        "timestamp_display": "30. 05. 2026 13:24",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "90 inovativních firem vyrazilo do zahraničí s CzechInvest",
+        "summary": "CzechInvest podpořil devadesát inovativních českých firem při jejich expanzi na zahraniční trhy. Na základě úspěchu připravuje novou výzvu CzechCrunch, která má podpořit další růst a mezinárodní rozvoj podniků.",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaTVEZVMtM3R6eUFXTjVPUUdzNGJIa1ZZZl9XeWUxS3BEaFJRN0VhRmhjODFDeXBXdjlROUk4c0RXLWhVWTd6ZEotUWhGWkxBc2t4S0hrbHIwRHFaY09OWnRIRFNQTFNDSTZUQmlycnFTdnRZcm9DeVNUb1o0TDRpQ0JrTUwyQ0VQM2diYVBvRW00NDI4aXdiZ3Y2QlpPVThxYkFUX25FdXgycjQ2X3NUTzRQaWJvQQ?oc=5",
+        "timestamp": "2026-05-30T11:31:22",
+        "timestamp_display": "30. 05. 2026 11:31",
         "is_new": false
     },
     {
