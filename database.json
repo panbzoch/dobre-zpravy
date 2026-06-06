@@ -1,12 +1,48 @@
 [
     {
+        "category": "Technologie",
+        "title": "Startup mění doménu a vstupuje do AI",
+        "summary": "Oblíbený český startup se rozhodl kompletně přejmenovat a zaměřit se na umělou inteligenci. V rámci transformace získal novou doménu, navázal spolupráci s hudebními influencery a připravuje inovativní AI produkty, které mají posílit jeho postavení na trhu.",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbldxamRId3ZOSlZhaFdaZ3lwOE96a3dYVlhjbXhzeWs2M1FOUmlBUVpGblV2c2hOaElWaHN2SGVEbHJvX0VBbnJ3MWZFSUF6VEdRQVpiTUltb1Y4czZGNVVuVlpxMzRlRDhnX2RVYlBtMlBqZkJlSDMyNndtdGxjVzVYMTFCemZHYUZLWTFQLUJ3N1dwcFEwQjRBOXVfa2tLb0U0UHVXNGlnNGYtQ1RiamtR?oc=5",
+        "timestamp": "2026-06-05T14:22:30",
+        "timestamp_display": "05. 06. 2026 14:22",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "SpaceX vstupuje na burzu ve stylu čísla 5",
+        "summary": "SpaceX plánuje vstup na burzu s důrazem na číslo 5, které má Elon Musk rád. IPO má proběhnout třikrát během roku, což slibuje významný kapitálový tah a další rozvoj vesmírných technologií.",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWXdPN0swM1FQdl92UEh3QWlEVUVnS3JGc1g4T2FWYkZSdVNacVh1aHdvckNxRnlsc1ZuVWk2cy1PSmZDS2l1di1MVS16VDhYVGNoTjJBT0hldUNMbjlEUzlFT21xdjVUSlBXb2pnZFFlU2VPTWc0d1hReE9HMnRIbjd5THlKSE8wTGhKU3BVNG1FQTRISU1KTTdJM3o1Z0NlaS14MEZlaEx4dDgtVWhncQ?oc=5",
+        "timestamp": "2026-06-05T10:05:58",
+        "timestamp_display": "05. 06. 2026 10:05",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Klíčová čísla ropy a investic v červnu",
+        "summary": "Forbes Česko představuje přehled nejdůležitějších finančních ukazatelů spojených s ropným podnikem Tykače a investicemi Strnadových firem. Čtenáři získají aktuální data o výnosech, růstu a tržních trendech, které jsou klíčové pro rozhodování v červnu.",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ3VaV0FLSUYzU3ZSYmlsVU0zRXJXUkllamZvaVFfYmFLRWFXc2I0VlA5eHNodXQxWjJaeXVrTG01Q1l6TmR5T05FbHFrZnFLYVFBaTA1SG94X3hqMzlZSU9wTU1lYmhCcUx6Zlk3a3VTQThXdk9wV2VoaHpvNW5kS3pzSm1LM2FCMld3RGxZSFJKbHIybkFXTWptX2RiVXNvR0V5SA?oc=5",
+        "timestamp": "2026-06-03T07:00:00",
+        "timestamp_display": "03. 06. 2026 07:00",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Patent na černý česnek z Jižní Moravy",
+        "summary": "Vědci z Jihočeského výzkumného ústavu získali patent na novou technologii sušení česneku, která produkuje černý česnek s vyšší nutriční hodnotou a delší trvanlivostí. Inovace slibuje rozšíření využití česneku v potravinářství a přináší ekonomické příležitosti pro regionální producenty.",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRG12cEp5NFB1aHJpX1NJNVViRmU2SjhrRWMtTVZqWVIyb1RPdnhrVjhuOEpzMVZ1aXY5cXYtSFAtTFQza2tyN1FybTBhVHc3LU5ibUlSR0lsQ2pBa1JLVndCR0dEOVhiSlJoTWNNVjBZSzBJby15ZzE5WWJjbFFqQUNiOUZpWTlrdTFZb2hJak8?oc=5",
+        "timestamp": "2021-04-18T07:00:00",
+        "timestamp_display": "18. 04. 2021 07:00",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "Obnova Hodonína po tornádu za 0,75 mld. Kč",
         "summary": "Pět let po ničivém tornádu byl ve veřejném prostoru Hodonína realizován rozsáhlý rekonstrukční projekt, do kterého bylo investováno přes tři čtvrtě miliardy korun. Investice zahrnovala obnovu infrastruktury, veřejných prostranství a podporu místní ekonomiky, čímž výrazně zlepšila kvalitu života obyvatel a podpořila další rozvoj města.",
         "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUU5fVXYxalRKbFdCakJvbUx3OVFNS1h6cTNBbnNKUDVYaWxfRnNCWWp0Wk9aSThfaEpsTzdpNjBrUU1fUnM0alMtYVFhcTFaUzBkbDBnUm1MVDc2Ql8tNTVuU1FrWWtKWjlrUS1RSmd1YmR1MXVqdE5mWTVvOW5iOHNQRk9GbWd5M2hkbG5aYzNESWJuMkpzQkhVRnYtMExUQTIyQlpPNnpUaklleTlJay10NXJGVFZEaFEweFBIck5mX1pHZ2dsUjhYbWM2SGJyQ2J3Wm1uLWxMaDR0aEtvOWRJdXBlQW4tX0xfaUZHc285TXRyczAwWmdR?oc=5",
         "timestamp": "2026-06-05T07:54:00",
         "timestamp_display": "05. 06. 2026 07:54",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWXFwanljUkZXQmptclpoakh2TDhyLUtWajNMYlBheTRkOUlHWFJaaFh0aXE2OW94R1o1aG5RRVBFUTNMZnM4SXVQYm1tZUJuWUFwUXVNTDFqYXpKZzFfdE5LN3dmN0gxMC1oaHBIcHd1S25qakw0Y2lobDcxNlhVNlVzUjJTdTlEZElCY3piZmQwaWxYRm5yeWt0Ylh4WDNSYUVuWTlTYzY?oc=5",
         "timestamp": "2026-06-05T05:49:00",
         "timestamp_display": "05. 06. 2026 05:49",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -24,7 +60,7 @@
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMGh2U3lwQ2E5aTkwQi11MUZncW5OYjdWUU43MFk0S1N3aVFfQ2JLT2NOMEdrMjBjOXp2ZnVRN19NWkY1TGVUTUR2OFFsRTliRWZLRmk5bTBxWUwzanRsVGQ3TEFDSzZpeDZTNV8yNlhqZDRsVjFNWW94dXJSendENzhGY0VXX2c0UGR0NUtwRW9xclZ3a3JhcURyRHIwRko3b1h3c1gzbGFmZXlqbmNVQ2xXV3laR1BHejdhV0pBaGdOM2FaVmJvVmRJaw?oc=5",
         "timestamp": "2026-06-04T19:55:00",
         "timestamp_display": "04. 06. 2026 19:55",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,7 +69,7 @@
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSm1FSEhRelZfNnpTOFE3RE1vdzllVmluMWpyZm9ZNUd0NThmY0l0blByYktZWWNRTnVZR0ZIc0djTlA4NEZvalFFdGQzYWlOZ254ME1mQlhQamI0UTVIUWszYWNadlp0SUlTajktY01SVnVKTnNNOXRsTE03UnJIamJnQTF4WnFURGVFWGZXaGxWWjRMOHc?oc=5",
         "timestamp": "2026-06-04T17:18:16",
         "timestamp_display": "04. 06. 2026 17:18",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -42,7 +78,7 @@
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPb3RjdENFaHhSVUVZa0RlU1dBRENHUmVvLWViZUR5dzduQmJzSE1ybTFQWTdyd0lHRkVVazQxVVhaMklZOWVKRTBkNzM1eEl5Vk5wYm9saWhnVHA4aUg4R3ZKeEJ5N3VqeERWVFNEMGpVYU4xRWJndk11LWtIOXNJSWVlc3pXMnVPbE85TnFRTk5ueVZIRFQ4QmhJeDBMX2NDRmtaSEp2OXNSNmw2RmQtMEtUQXFScmoxc3FMQlp6RGx5dVk5eERjTzNZYmdTRFUteDNz?oc=5",
         "timestamp": "2026-06-04T13:14:00",
         "timestamp_display": "04. 06. 2026 13:14",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -51,7 +87,7 @@
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWWRzNmpLWUw4bENXMmlGNDNWOEdrX2N6ODNjV09URHhodUwxTHhUWlVmdU1xSEVSaDQ3SWJXTXA4aVN0ekJHSDMxMEZFY3V1Smd4VXF0MWVIOXRwTFNBR2NKUjZPcUdzV0xOOUJySk9ld1JzSTh2bmhVZEJSLUs0RnltV2l2SjNrTmZQMFdfTjUxZ1NkblhPWkVn?oc=5",
         "timestamp": "2026-06-04T10:04:19",
         "timestamp_display": "04. 06. 2026 10:04",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -60,25 +96,7 @@
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQN1VKZ2p5X3NhNFA0X3I5U1hlRVo2ODJCcjl4TEZnb2FWaU44U2NYUjNPWDBfc2JlX3F1V1RWOU1IeTVUX3h1UldObkpKNUliY3pjMVdrbERMWmREVC1iNGRhcWVXa2NMT2t1Y203UmVHajc1ajRHVFZXRzcwZUgtcGpjUW5lcng0ZnpBTndrdUxCX1YwaWxzam5hZnVTaklkWGJzTTk1SDhRdFVOdDBLdFg3eEI3cFItbC1hM3FpT09QTW5La3YtRllheWVGRTdLRW9nVm0zenNyX01f?oc=5",
         "timestamp": "2026-06-04T09:08:00",
         "timestamp_display": "04. 06. 2026 09:08",
-        "is_new": true
-    },
-    {
-        "category": "Společnost",
-        "title": "Savanový orel v Evropě poprvé v zoo",
-        "summary": "Zoopark na Kladensku úspěšně vychoval první evropské mládě orla savanového. Tento průlom v chovu dravců posiluje ochranu ohrožených druhů a přináší nový zájem veřejnosti o přírodní rezervaci.",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORkpTNUdhOVF2RkFFNHpMNWZOZnM0V2Z1bnNCTWNXalZKcHhwU0pONThVSFJ0S29qcExDTlZyUE5YZExYM196YTlTYUhmMTc0WF9OaHNmWUd1S3ZGOHJMLUI3aDd0X1VXbW5oU1FPLXplMV9HaDlIWFZ5eGU2eGwwRHk4R3Y5TUJoR3UwZlpURVBDSFJES1FjdWZBVTNfS2p6WW1wRktEYW5NTHNfOTE0NGtaQ0Z3a0JrUk91bVMxdkg3S2Z0MTFqZHhB?oc=5",
-        "timestamp": "2026-06-02T11:49:00",
-        "timestamp_display": "02. 06. 2026 11:49",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Google plánuje vypustit 64 milionů komárů v USA",
-        "summary": "Společnost Google připravuje projekt Debug, který má v rámci boje proti přenosným nemocem uvolnit v USA 64 milionů geneticky upravených komárů. Cílem je snížit výskyt nebezpečných patogenů, jako jsou dengue či Zika, a tím podpořit veřejné zdraví pomocí inovativní biologické technologie.",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUnJXODJtejFJNUdBXzlwQndFYW5JeU1ISGM5NV90cGZDQjBWeHZvYm9hbWY5dHp2bW9nZTdpM0V1LUZycE1wR3JWbTQ1c1l4OTFpNlJ1T1pvNGs2Z2tjeXBPUXRKbnpzZTdMZ1VOSGVVd3NYeXNjRGxubnBSWVIyUG1vbnNycGR4eEs0Mk82OWQzckpDdFdXTDkwaENZdUE3TGJybV9Hd09wRHJDUUxiVldDbnBIWHhGd2tSRzlzbjVrcDktdTdibXV0UktJREZkWUZB?oc=5",
-        "timestamp": "2026-06-02T10:10:00",
-        "timestamp_display": "02. 06. 2026 10:10",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Společnost",
@@ -126,6 +144,15 @@
         "is_new": false
     },
     {
+        "category": "Společnost",
+        "title": "Savanový orel v Evropě poprvé v zoo",
+        "summary": "Zoopark na Kladensku úspěšně vychoval první evropské mládě orla savanového. Tento průlom v chovu dravců posiluje ochranu ohrožených druhů a přináší nový zájem veřejnosti o přírodní rezervaci.",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORkpTNUdhOVF2RkFFNHpMNWZOZnM0V2Z1bnNCTWNXalZKcHhwU0pONThVSFJ0S29qcExDTlZyUE5YZExYM196YTlTYUhmMTc0WF9OaHNmWUd1S3ZGOHJMLUI3aDd0X1VXbW5oU1FPLXplMV9HaDlIWFZ5eGU2eGwwRHk4R3Y5TUJoR3UwZlpURVBDSFJES1FjdWZBVTNfS2p6WW1wRktEYW5NTHNfOTE0NGtaQ0Z3a0JrUk91bVMxdkg3S2Z0MTFqZHhB?oc=5",
+        "timestamp": "2026-06-02T11:49:00",
+        "timestamp_display": "02. 06. 2026 11:49",
+        "is_new": false
+    },
+    {
         "category": "Byznys",
         "title": "Filevine otevřel AI hub v Praze",
         "summary": "Americký unicorn Filevine, který v loňském roce získal český startup, rozšiřuje své aktivity a v Praze spustil nový AI hub. Projekt podpoří lokální technologické inovace, vytvoří pracovní příležitosti a posílí spolupráci mezi USA a českým ekosystémem umělé inteligence.",
@@ -141,6 +168,15 @@
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ0l2YURMLWNkcHRBSXZxbERsMUJBZEFDbnpyeEZPOEp1eG5hQlVKaHZnX0NLZ0l3Wk1XWk1haFJydm83TzVTS2xlWkhvT01RUy1kRzViRERjTUxzQnhWd0pPMTF2ZV9EV1h5QlJ2TmtxSmhSTTAwRmt3Z2hLS0x0dnNIUTRpa3UydldiQllDMGpRTE9adDhmS3NIUWFGakRub0NXcFB1Q1ZnUQ?oc=5",
         "timestamp": "2026-06-02T10:37:20",
         "timestamp_display": "02. 06. 2026 10:37",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Google plánuje vypustit 64 milionů komárů v USA",
+        "summary": "Společnost Google připravuje projekt Debug, který má v rámci boje proti přenosným nemocem uvolnit v USA 64 milionů geneticky upravených komárů. Cílem je snížit výskyt nebezpečných patogenů, jako jsou dengue či Zika, a tím podpořit veřejné zdraví pomocí inovativní biologické technologie.",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUnJXODJtejFJNUdBXzlwQndFYW5JeU1ISGM5NV90cGZDQjBWeHZvYm9hbWY5dHp2bW9nZTdpM0V1LUZycE1wR3JWbTQ1c1l4OTFpNlJ1T1pvNGs2Z2tjeXBPUXRKbnpzZTdMZ1VOSGVVd3NYeXNjRGxubnBSWVIyUG1vbnNycGR4eEs0Mk82OWQzckpDdFdXTDkwaENZdUE3TGJybV9Hd09wRHJDUUxiVldDbnBIWHhGd2tSRzlzbjVrcDktdTdibXV0UktJREZkWUZB?oc=5",
+        "timestamp": "2026-06-02T10:10:00",
+        "timestamp_display": "02. 06. 2026 10:10",
         "is_new": false
     },
     {
