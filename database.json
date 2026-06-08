@@ -1,12 +1,48 @@
 [
     {
+        "category": "Byznys",
+        "title": "Firma míří k bilionové hodnotě",
+        "summary": "Investor Horký věří, že česká společnost má šanci stát se jedním z evropských technologických gigantů a dosáhnout bilionové tržní hodnoty. Podle něj je firma dobře připravena na rychlý růst a expanzi na mezinárodní trhy.",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPR2x5Rzd0QUNVNnJYTVFlLTBvb2NtTTZCQVBqd2NzbENtUTFmanRwUkNlS2dDWlNCUW5RTXNkMHBMeGdYZHBCUUR2LWdPQ1R1cEJ4dktDOTNlZkEzMjVOTWd0T19KdWoyeDFmRUo2TXV2emktM1R1VTJ6OHo0MmQ0dTdDc2JFZXRpZUU0NThxanZIb1lOUk44MUZVdzJ6QTJxRWkwMUVZczR5MHpRQVl5MnBvNGstdFpiekJCZk9pSHpIYmFJSW1xdFQ3X2hDUXFScUZzZw?oc=5",
+        "timestamp": "2026-06-07T11:00:00",
+        "timestamp_display": "07. 06. 2026 11:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Filmová pohádka a financování Dukovan",
+        "summary": "Forbes Česko informuje o plánech zfilmovat další Svěrákovu pohádku a o úspěšném zajištění financí na dokončení přehrady Dukovan, což podpoří regionální rozvoj a kulturní projekty.",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY252R3BMOXJiZEZGOWF4cE9reFlnQ0NxVVoybFFvR1RHX2s5Qng5WE9VY3JIQXoxUFlzWnZ2d3NkVVFONVNkNHNIZHYwdlpxRV9kTDhScDl5b21YVENvRUVpbkp0OUVVclVWdGhOaXF0Z2EyVnpuaVE3UUZPYmlPMGRab2dBZm9PVFdzdFpSVWlaOEFNU3hLekRPYkhHN0k?oc=5",
+        "timestamp": "2026-06-05T04:11:12",
+        "timestamp_display": "05. 06. 2026 04:11",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Česká AI výroba míří do Pardubic",
+        "summary": "Česká republika se rychle etablovala jako globální centrum výroby technologií pro umělou inteligenci. Do Pardubic míří významný zahraniční investor, který plánuje rozšířit výrobní kapacity a vytvořit nová pracovní místa, čímž podpoří další růst českého AI ekosystému.",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLVd4NF92bmo5X1VVaGpTVFpXUVlKa0FCN0dnLVY0X3dYUVZ3cTByX1dRYmhWclFOMmhsak5nNUdtcERuaUF3LTB1RXBVTF9Oa2I3OWxzeHF1MUhxQTh3Rkh4QVZ2M1JxdFVvbXBydmxRRzBmUk5YVTdyYUJmRG00dWx0SW1ZaVBTYzJyeGI3bG5PVC1qN2Uzb3UwaklPalhrYVNZUGFWSUtUSzkwQUxoMW12aks0SVhlbE9TeHZHNnpTaUx4?oc=5",
+        "timestamp": "2026-06-05T03:30:00",
+        "timestamp_display": "05. 06. 2026 03:30",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Šakali rychle expandují po úbytku vlků",
+        "summary": "Vědci zjistili, že šakali patří mezi nejrychleji rozšiřující se savce v Evropě. Hlavní příčinou je pokles populace vlků, což umožňuje šakalům obsadit nová území a měnit tak ekosystém.",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNY1UxOGNQY0Y1X3BhTVVqLVhYbHhQdzNCSG9TUXllaE1RdmdUZkVYVndZenFRRHdMZEJHa0R4bUtBckVuejNTajExZ05Tak4xd2hJWDdlck9xV0xnNHZLQ21TTTQ2RDFQS3h3Q0dkN1ZfeU1qSGoyaUdmbjZJVGpxbGRlWXhrSVBqdExyd1hwWDZneC1XWXh0ZjU5Vkk0TS1CX1hBODBLdndyVDBLNUdMQUhfbU05ejllZE1fUlp4U1NVOHR6dngyZXFjNy0yc1RyVk00N2x3MA?oc=5",
+        "timestamp": "2026-06-03T12:01:00",
+        "timestamp_display": "03. 06. 2026 12:01",
+        "is_new": true
+    },
+    {
         "category": "Medicína",
         "title": "Personalizovaná mRNA vakcína snižuje návrat melanomu o 49 %",
         "summary": "Vědci vyvinuli novou personalizovanou mRNA vakcínu, která u pacientů s melanomem snížila riziko recidivy o 49 %. Klinické zkoušky ukazují vysokou účinnost a dobré bezpečnostní profil, což představuje významný krok v onkologické léčbě a personalizované medicíně.",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeGI1WTdWcmlIUGN4MmlINk5KMDU4VHJtLXJ5OHBLUGJSOFdCUHJUM3FIWTlVSTV3NENCOUhvOU5MMWE5RnlMVDZfYUVWTnhvV1hQXy1QaFJSdk9NSDk0Tm0tRzFiN3pwN1lKbUhxV3NmcTgxNDctMV81ZWdQRHBCSnU2dUtNZ2FUMVZRbXZIVnJ2bnZMZ083OVg2ZXJ2eWc0OGZLUjhYaS0wakRwbWNOcWplY2lUUWFoNzhwNndPdTU4cHdpNVQ4TEJubmFzQ3FnZW9IRW5ndEZWUQ?oc=5",
         "timestamp": "2026-06-07T05:45:34",
         "timestamp_display": "07. 06. 2026 05:45",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZk5WaENRc1pUVzY0b1R2eE9WWnZrYVFpOVZCT0pYdjlJSDRIZFBJTDBHYldWV29SR2RDUmwtM3I5ODdCVWZQUnV0RlFQc2gxOEJ2WHp5LVh1TGMwVlJXcktlRUZSeGt3SVhhNlhnWXlvZ19NdVgtcFp1WkgwRmg3cEx3eFBwNmEtc1VCMGt5YWQzT0FqTGNIaUlSTGNDa3QzdHh1VVltbURxTnB0Ri1QWmUyQzBiWU9RS2ZWblEtMVdMLUpBUkFnWWpLLU55dXBrWTBHSHlic05OZXFoTmh3cHdNOEtWZU5xTVB1TGhGZw?oc=5",
         "timestamp": "2026-06-07T04:00:00",
         "timestamp_display": "07. 06. 2026 04:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,7 +60,7 @@
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VVTZFQS01aElrQ1Q4T3duR2N1NFhlUktHcTVUVEZ3UEJiaTNCb19QTkd4Nzg0ekNSLTBiSlUtYjFxeUtadVBPcFE4aHBWd0c5Zm8tNXFOMk8?oc=5",
         "timestamp": "2026-06-07T01:44:33",
         "timestamp_display": "07. 06. 2026 01:44",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,7 +69,7 @@
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSkRHSXVXSk1qdTFkZmp4LXhjM3JpXzNCVzItUy1tSHJVTGU0OVhHek12b3poZ0NrZDc2NEp6WUgxV1dpbVlZYklxSVI3VnpRSzYwVW10RnRwc1U1VFJYOWJVS000dkVNMElQTDVaMldYOGpNVHhLMlZieThRSjUwMTFraVFyV2VITzBkZ2Y3Z20td3dwQTdDU2dDNzRPU1lMZUpBZDZyZDc?oc=5",
         "timestamp": "2026-06-06T16:54:06",
         "timestamp_display": "06. 06. 2026 16:54",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -42,7 +78,7 @@
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPb051QVJtRHFndngtcEZJTTdqSERGTkJrTGZxMHE4dmZUZVl3NExDaHF0N2t3VzNMWXlzbUtMQlJjRFdiMmhBRldTeDViRkhvT2hkZTVSeG1oTjhIWHFhZ2FvWGpvNUc3X3hubkRkajNRb2tEX1EzX0JSTU1XZUU4ei1Tb0J3T1gxRVZpU3hQMzkzclpmcW1tSE1oaXA4dWRja1hhU3UtZGNSakZ3V1cwOUtyNkJHNzY0c0hXTmxrXzFHcHlmd3o0ZzNNUEU2X1E4c05B?oc=5",
         "timestamp": "2026-06-06T15:12:00",
         "timestamp_display": "06. 06. 2026 15:12",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -51,7 +87,7 @@
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb09TZERobXZvUDVGTUo4eFhqbkRWeDBFUl8xeU1zNzNrUVVYYVd2dGtuRU1KWHBFeE5ZazhTenJReDB4UllxUURZQ2pDZXJrVHJrY2pJd2xkTmdlNWhWcEZZVGR4ZkJZWE1zR1ZtXzFnZTJDUXY2VjFjMWZqVUZ5dlJycW1ybWU4SEVTRVRZbWhKWWRSMnJiWm82VThmeUtTZUN6OEF3QU4tZXNDU01mSG9VZW1xNFE?oc=5",
         "timestamp": "2026-06-06T13:16:06",
         "timestamp_display": "06. 06. 2026 13:16",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -60,7 +96,7 @@
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOWxTazNaS2RWUUx1NkhzOEFNWjBLNXdrMGU4YzcyeTZ3czVIX1dFOXlMNzQ1bExRdlplUzh2THprWGl2ZkZFckdwNFlXRS1MbDhtcGswYldadEJkcFBkMVdNa3NvWlI3dUdabmVPWUNjZVFWbkRFNWNtUGtEZkdGVGVqVGFaUlJ3dlQ1WlNnNXE2QTR1RVFlcGdjRXpKSkJ6aGxqQWZ1SUV0TUVuc3JUVkZhTTJrT0lNZTQ0QVB2dzFrbjAzQ2Rn?oc=5",
         "timestamp": "2026-06-06T11:21:00",
         "timestamp_display": "06. 06. 2026 11:21",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -69,16 +105,7 @@
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVURzWVVxajlKeWsyc20xS2JsaEVJaXlQc2doWmJRekNUb2c1c3hMeDNyWXdnWTVlUUkyaFAxQXlEWC1LYzl4ek95RFNzOG9MQWlXR1g1VWZWc0FxLXFfTk1mckZMVk04VTBrVDhRNExqbnBxVWtsc082S181amdLQ1N5LVBicGJpbzVfOTc5bHE5blhjd25yaTV5WkltcDRSVW15OHRDWEUxbFpfUnlibXNFZHBxTWdkODBjUXhVTDFSY1IwY3Exdk1pOVdDWk5rSmsybg?oc=5",
         "timestamp": "2026-06-06T10:07:00",
         "timestamp_display": "06. 06. 2026 10:07",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Škoda Peaq: první skici a premiéra za tři týdny",
-        "summary": "Škoda představila první návrhy nového modelu Peaq, který se vyznačuje čistými liniemi a moderním designem. Automobil bude k dispozici na sedmi místech a jeho oficiální premiéra je naplánována během následujících tří týdnů, což slibuje rychlý vstup na trh.",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbzRhY3lMc2ZyTlNIXzJ1RDg4T3F3VU5oOWJLc0RzX05QMmFGbGVabXg0MDFjb2IydGtVdExUa3FrSUJPQTVDNlVqdDJ6YTdISFl5Y0dsSzFxNnlzYXdSS1FtdmgzbmpJSzhUQXBQZ3pJUkZkSGdKLU9WcDRoNVA5bXBrYTEwa3cyLVE0eFBSMEQ5V0xBMThvbENYQVhzcFBJQk5KRXZESC0tcGRiby1WV3VXTlkzM1pmd2JURXJISEFaUFZtMDNCTTlqWVFCcXF2NlQ1Z0VkbTVybnZtb1lJRS1R?oc=5",
-        "timestamp": "2026-06-04T14:30:00",
-        "timestamp_display": "04. 06. 2026 14:30",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -132,6 +159,15 @@
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSm1FSEhRelZfNnpTOFE3RE1vdzllVmluMWpyZm9ZNUd0NThmY0l0blByYktZWWNRTnVZR0ZIc0djTlA4NEZvalFFdGQzYWlOZ254ME1mQlhQamI0UTVIUWszYWNadlp0SUlTajktY01SVnVKTnNNOXRsTE03UnJIamJnQTF4WnFURGVFWGZXaGxWWjRMOHc?oc=5",
         "timestamp": "2026-06-04T17:18:16",
         "timestamp_display": "04. 06. 2026 17:18",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Škoda Peaq: první skici a premiéra za tři týdny",
+        "summary": "Škoda představila první návrhy nového modelu Peaq, který se vyznačuje čistými liniemi a moderním designem. Automobil bude k dispozici na sedmi místech a jeho oficiální premiéra je naplánována během následujících tří týdnů, což slibuje rychlý vstup na trh.",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbzRhY3lMc2ZyTlNIXzJ1RDg4T3F3VU5oOWJLc0RzX05QMmFGbGVabXg0MDFjb2IydGtVdExUa3FrSUJPQTVDNlVqdDJ6YTdISFl5Y0dsSzFxNnlzYXdSS1FtdmgzbmpJSzhUQXBQZ3pJUkZkSGdKLU9WcDRoNVA5bXBrYTEwa3cyLVE0eFBSMEQ5V0xBMThvbENYQVhzcFBJQk5KRXZESC0tcGRiby1WV3VXTlkzM1pmd2JURXJISEFaUFZtMDNCTTlqWVFCcXF2NlQ1Z0VkbTVybnZtb1lJRS1R?oc=5",
+        "timestamp": "2026-06-04T14:30:00",
+        "timestamp_display": "04. 06. 2026 14:30",
         "is_new": false
     },
     {
