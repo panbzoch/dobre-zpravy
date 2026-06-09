@@ -1,39 +1,93 @@
 [
     {
         "category": "Byznys",
+        "title": "OpenAI míří na historické IPO",
+        "summary": "OpenAI podala žádost o vstup na burzu, což může znamenat jedinečný milník v historii technologických IPO. Úspěšná veřejná nabídka by firmě umožnila získat značný kapitál pro další výzkum a rozvoj umělé inteligence a posílit její pozici na trhu.",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS3BCWnB1c1J0TjN6WWdWYk95RmhTcVZ0WjFPOVZsRHNXbUtxRWlxUzFNeWFTbGpFSkI0d3N4TzRBNjcyN0tnby12VEVmSU1SUVlYTTZxbEdBaFdnUUFJQVZJSFlrTzBVaktLY05HRVI0VWh2SWNabVBOcmF1OUU1S1hlSXBuTXJSNEw0cVBYaUUxcFFmVkdReklzSXRXOGV4ZmVTY3R6bXkwQkYxNmtRcndWUVVTUQ?oc=5",
+        "timestamp": "2026-06-09T06:33:00",
+        "timestamp_display": "09. 06. 2026 06:33",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Zchátralá továrna se mění v 618 bytů",
+        "summary": "Investor v Adamově na Blanensku přeměňuje opuštěnou továrnu na obytný komplex s 618 novými byty. Projekt oživení průmyslového areálu podporuje lokální rozvoj, zvyšuje dostupnost bydlení a přináší ekonomický impuls regionu.",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMXRxT0xzMk1VU1kzYW5rcTBUXzMzNnZub2VfYkZGQmxQMWJFdElZejExdnZORy1lZHRLYmJrY1g3Y2o1M3BfXzRXV3l3VXRLNDJHTVVEY01rLW40ZXFqenRtTC0wNE1pb193a0dhNXJNQThJNzIxVUROdURZT0lRZjhzZnl6RmFQSTRlQ1Q3UkxiTTZPaUVXa2xWSnl5MEpob1QzUTF3djhBN18wdnd6U0xzd2ttWVQ4Z2VxbzJfaGNDX2hqNlc5T2l4OTI?oc=5",
+        "timestamp": "2026-06-09T05:07:00",
+        "timestamp_display": "09. 06. 2026 05:07",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Nový druh vosy pojmenován po Davidu Attenboroughovi",
+        "summary": "Vědci objevili a poprvé popsali nový druh vosy, který po desetiletích ležel v muzejních sbírkách. Jako poctu významnému přírodovědci byl pojmenován po Davidu Attenboroughovi, čímž podtrhují význam biodiverzity a výzkumu.",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdDV0ZlBidERuQnZaRGk0Ml9kMm5YeTdmSXFiVFJKNjUwM1FVNnNsOThLbHhGTjh1OVQ1ZW5PeWpOejVyOFNZRm9uYWdyZ1piYWdzWE83cnNadGJlTGxfeF91aTlLUlFoTXV4OVFHTVhzTWREZW5xbVNMWExGbXlYSVhhSFZueVZHNTh0dVZCQXhZWV9XaW1QV3FSWWNoT0hxWHJtdEEySG1ZOFE2RFNvTHp1WXpxaUtReWFJUU1QRXhDN2pUXy1FM2F1aE1vVU1xaHRCN09mSUE?oc=5",
+        "timestamp": "2026-06-08T19:37:00",
+        "timestamp_display": "08. 06. 2026 19:37",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "AI film zazářil v Cannes",
+        "summary": "Skupina 15 lidí během dvou týdnů vytvořila film s pomocí umělé inteligence za půl milionu dolarů. Dílo získalo pozornost a bylo promítnuto na prestižním filmovém festivalu v Cannes, čímž dokazuje potenciál AI v kreativním průmyslu.",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT216WDdaaXV6WHB1dE5OWUlyQ2JhQlZ2cUZiaUh1RUJiYXUxbnd5WG1LbTJTRnh2NkZUS1I3OXpCNzFvbG1UZnprckhYcnI0TGZSQTZ6UmFidTRBN1ZSS2NvTWRibm0xWU8zRXZDd3V1Z250aDhvZGZQbEN6ZDlOeHM2dFY4M0gwYnpranBvSV9PQzQwYjVhajVQYU9zRDFuR2N3bk1VUmpGdXQ3UVRRdXFBTnhHWDQ?oc=5",
+        "timestamp": "2026-06-08T14:44:48",
+        "timestamp_display": "08. 06. 2026 14:44",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Dukovany projekt schválil EU bez výhrad",
+        "summary": "Evropská komise potvrdila, že v megaprojektu jaderné elektrárny Dukovany nebyly zjištěny žádné nedostatky. Tento závěr posiluje důvěru investorů a podporuje další rozvoj energetické infrastruktury v České republice.",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeDZVX3c1Tk5DNHQxRmFUNkk1UnpzTW9XM1NwWVRhV3JnTHg1blJSWHk1cm43NElMT1NQTmNYdjJCbURYLUg4Yk1hdlcwR1F0cEpKQWhpQTZTVldWYVdRZGw5MnBOUWpvRWFFSGVhRGZ2UTNyVDVTQ2F4dlVYRmFCYmNjdVQ2RVd5b0lqelZTUlhQTkwzNjJCdjFWbmNUOUtLVlo5NlZFOVdJNzNvVktFaTlzYXh3NGJaejV4VEpZZ29SQWRTVDd0a3NrdXFuUVAzNWlRSUNkdE9oY1NvS0E?oc=5",
+        "timestamp": "2026-06-08T11:26:00",
+        "timestamp_display": "08. 06. 2026 11:26",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Benefity jako investice do lidí",
+        "summary": "Nový CEO Benefit Plus zdůraznil, že firemní benefity představují strategickou investici do zaměstnanců, nikoli jen daňovou úlevu. Podle něj přinášejí vyšší motivaci, loajalitu a produktivitu, což dlouhodobě posiluje firemní výkonnost a konkurenceschopnost.",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNT1IydzMteDdBenAwa29zZzBEeEdhWXE4ZWU3SlAxa1llVURvYTMwektyUXpFUzRoNW42UndvTmg3blpSOFhQLVNQSmZCbWk0RkctTkJRV3NlOUJDQS1GYlFNbWJ0LXZyZ0hqRDNSa2NtZDBYeFJrZUNwTHhQM0JaVTF2bklSNk5taEpwSm0xbnZjSGMtRlpGZUpxcWpXSmhxaGRDYTVlYmxNVkFLT1hGcS1sME5WbkRJdHZrQzU0WUxabW5xVjRn?oc=5",
+        "timestamp": "2026-06-08T10:04:00",
+        "timestamp_display": "08. 06. 2026 10:04",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "USA zrychlí vývoj AI pro bezpečnost",
+        "summary": "Spojené státy oznámily urychlený rozvoj a nasazení umělé inteligence v oblasti národní bezpečnosti. Investice podpoří výzkum, inovace a praktické aplikace AI, což má posílit obranné schopnosti a zabezpečit kritickou infrastrukturu.",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaEpBNENFMHJTdWFERmEzM3VDR3FZaXJZT1lsZlVBQ3FGc2w1TkZQZEx3RW5ISXBMc3RWYlBrM3ozVnI3YTV6RUc4ZGtpdXZQeU9FZ1NDYUlQdXhwVmRXd3VaSTl4cURZSE1EeXVwVVE2ZWlvTjNjeWVkX2FpdllsMTRVTGNKUjVKeXFoSmpyMl9uc0FaVlBycS12QVdXZw?oc=5",
+        "timestamp": "2026-06-06T13:55:02",
+        "timestamp_display": "06. 06. 2026 13:55",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "AI navrhuje vakcínu proti budoucím pandemiím",
+        "summary": "Vědci vyvíjejí umělou inteligenci, která dokáže rychle navrhnout vakcínové kandidáty proti novým virům. Projekt slibuje zkrácení vývoje vakcín a lepší připravenost na potenciální pandemie, i když odborníci varují, že úspěch zatím není jistý.",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWDcyRFZGbS05VTZtMEtTZGNoZTdFZWU0S3ZKN3dJaVRPX2k1NF9ESWFweDFiWC1wMXlQYndzSUVLcjVwbzV3OUowTENuTV9WUzlndHBsbU1EamxobENHd2V3M2NlanBGLXF3dDhXdEtJRGppUnJkbXNBWnhuYzVCbWs1blk3bFotT01TdFd4X2dzXzdxSkVobGhjSmw4RGRvTkdWcTVqM1cxbktIQWk0Z2NBM2JmWmZoRmZBbEd5VUhMdHdFMVpGbw?oc=5",
+        "timestamp": "2026-06-06T11:16:00",
+        "timestamp_display": "06. 06. 2026 11:16",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "MediaTalks ukázaly sílu byznysového networkingu",
+        "summary": "Konference MediaTalks spojila mediální a podnikatelské lídry, představila inspirativní řečníky a podpořila networking. Účastníci získali nové kontakty a poznatky, které mohou podpořit růst jejich firem a rozvoj mediálního sektoru.",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbjZONGctYmJISDBsQUxOaVhxRjZZemxpSEhFLW9UWFpLSUdOQkc1R21CSmNtY1ZYUmN6a3I2aGVKLXdxN2pyZHZCaHh4clg5LVRYdExSbjRsWlZ6OEhZb1U1N2RzWWpVYXpoS2NBX1d1UVVLb2lzYVlzLWNLUGlWTFh4VzZxOVE1SXljWTJrV2xsRzViS0wzOFBlcw?oc=5",
+        "timestamp": "2026-06-04T16:32:44",
+        "timestamp_display": "04. 06. 2026 16:32",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Firma míří k bilionové hodnotě",
         "summary": "Investor Horký věří, že česká společnost má šanci stát se jedním z evropských technologických gigantů a dosáhnout bilionové tržní hodnoty. Podle něj je firma dobře připravena na rychlý růst a expanzi na mezinárodní trhy.",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPR2x5Rzd0QUNVNnJYTVFlLTBvb2NtTTZCQVBqd2NzbENtUTFmanRwUkNlS2dDWlNCUW5RTXNkMHBMeGdYZHBCUUR2LWdPQ1R1cEJ4dktDOTNlZkEzMjVOTWd0T19KdWoyeDFmRUo2TXV2emktM1R1VTJ6OHo0MmQ0dTdDc2JFZXRpZUU0NThxanZIb1lOUk44MUZVdzJ6QTJxRWkwMUVZczR5MHpRQVl5MnBvNGstdFpiekJCZk9pSHpIYmFJSW1xdFQ3X2hDUXFScUZzZw?oc=5",
         "timestamp": "2026-06-07T11:00:00",
         "timestamp_display": "07. 06. 2026 11:00",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Filmová pohádka a financování Dukovan",
-        "summary": "Forbes Česko informuje o plánech zfilmovat další Svěrákovu pohádku a o úspěšném zajištění financí na dokončení přehrady Dukovan, což podpoří regionální rozvoj a kulturní projekty.",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY252R3BMOXJiZEZGOWF4cE9reFlnQ0NxVVoybFFvR1RHX2s5Qng5WE9VY3JIQXoxUFlzWnZ2d3NkVVFONVNkNHNIZHYwdlpxRV9kTDhScDl5b21YVENvRUVpbkp0OUVVclVWdGhOaXF0Z2EyVnpuaVE3UUZPYmlPMGRab2dBZm9PVFdzdFpSVWlaOEFNU3hLekRPYkhHN0k?oc=5",
-        "timestamp": "2026-06-05T04:11:12",
-        "timestamp_display": "05. 06. 2026 04:11",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Česká AI výroba míří do Pardubic",
-        "summary": "Česká republika se rychle etablovala jako globální centrum výroby technologií pro umělou inteligenci. Do Pardubic míří významný zahraniční investor, který plánuje rozšířit výrobní kapacity a vytvořit nová pracovní místa, čímž podpoří další růst českého AI ekosystému.",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLVd4NF92bmo5X1VVaGpTVFpXUVlKa0FCN0dnLVY0X3dYUVZ3cTByX1dRYmhWclFOMmhsak5nNUdtcERuaUF3LTB1RXBVTF9Oa2I3OWxzeHF1MUhxQTh3Rkh4QVZ2M1JxdFVvbXBydmxRRzBmUk5YVTdyYUJmRG00dWx0SW1ZaVBTYzJyeGI3bG5PVC1qN2Uzb3UwaklPalhrYVNZUGFWSUtUSzkwQUxoMW12aks0SVhlbE9TeHZHNnpTaUx4?oc=5",
-        "timestamp": "2026-06-05T03:30:00",
-        "timestamp_display": "05. 06. 2026 03:30",
-        "is_new": true
-    },
-    {
-        "category": "Věda",
-        "title": "Šakali rychle expandují po úbytku vlků",
-        "summary": "Vědci zjistili, že šakali patří mezi nejrychleji rozšiřující se savce v Evropě. Hlavní příčinou je pokles populace vlků, což umožňuje šakalům obsadit nová území a měnit tak ekosystém.",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNY1UxOGNQY0Y1X3BhTVVqLVhYbHhQdzNCSG9TUXllaE1RdmdUZkVYVndZenFRRHdMZEJHa0R4bUtBckVuejNTajExZ05Tak4xd2hJWDdlck9xV0xnNHZLQ21TTTQ2RDFQS3h3Q0dkN1ZfeU1qSGoyaUdmbjZJVGpxbGRlWXhrSVBqdExyd1hwWDZneC1XWXh0ZjU5Vkk0TS1CX1hBODBLdndyVDBLNUdMQUhfbU05ejllZE1fUlp4U1NVOHR6dngyZXFjNy0yc1RyVk00N2x3MA?oc=5",
-        "timestamp": "2026-06-03T12:01:00",
-        "timestamp_display": "03. 06. 2026 12:01",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Medicína",
@@ -144,6 +198,24 @@
         "is_new": false
     },
     {
+        "category": "Byznys",
+        "title": "Filmová pohádka a financování Dukovan",
+        "summary": "Forbes Česko informuje o plánech zfilmovat další Svěrákovu pohádku a o úspěšném zajištění financí na dokončení přehrady Dukovan, což podpoří regionální rozvoj a kulturní projekty.",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY252R3BMOXJiZEZGOWF4cE9reFlnQ0NxVVoybFFvR1RHX2s5Qng5WE9VY3JIQXoxUFlzWnZ2d3NkVVFONVNkNHNIZHYwdlpxRV9kTDhScDl5b21YVENvRUVpbkp0OUVVclVWdGhOaXF0Z2EyVnpuaVE3UUZPYmlPMGRab2dBZm9PVFdzdFpSVWlaOEFNU3hLekRPYkhHN0k?oc=5",
+        "timestamp": "2026-06-05T04:11:12",
+        "timestamp_display": "05. 06. 2026 04:11",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Česká AI výroba míří do Pardubic",
+        "summary": "Česká republika se rychle etablovala jako globální centrum výroby technologií pro umělou inteligenci. Do Pardubic míří významný zahraniční investor, který plánuje rozšířit výrobní kapacity a vytvořit nová pracovní místa, čímž podpoří další růst českého AI ekosystému.",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLVd4NF92bmo5X1VVaGpTVFpXUVlKa0FCN0dnLVY0X3dYUVZ3cTByX1dRYmhWclFOMmhsak5nNUdtcERuaUF3LTB1RXBVTF9Oa2I3OWxzeHF1MUhxQTh3Rkh4QVZ2M1JxdFVvbXBydmxRRzBmUk5YVTdyYUJmRG00dWx0SW1ZaVBTYzJyeGI3bG5PVC1qN2Uzb3UwaklPalhrYVNZUGFWSUtUSzkwQUxoMW12aks0SVhlbE9TeHZHNnpTaUx4?oc=5",
+        "timestamp": "2026-06-05T03:30:00",
+        "timestamp_display": "05. 06. 2026 03:30",
+        "is_new": false
+    },
+    {
         "category": "Technologie",
         "title": "Scorsese podpořil AI ve filmu",
         "summary": "Legendární režisér Martin Scorsese vyjádřil podporu využití umělé inteligence při tvorbě filmů, zdůrazňujíc otevřenost novým technologiím v mladém mediálním prostředí. Tento krok může urychlit inovace ve filmové produkci a rozšířit kreativní možnosti tvůrců.",
@@ -213,6 +285,15 @@
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNlVnZThpVXZlODJya0IwVF93eWplV3R2S051ZG0wOEVWLVhGWEttTDNEbnJaQ2tzSkRGc1RJTmlpbU1RNFNvbFZ6OEtLSFJfSWV1UU1jWUNjSVNvWm1RY0ZhMEZ6Zlh0ZkVhcUFrNnlzSnVXeVhLSU02ZXBOWmsyZXMwbmE0Y24tYlBZZEhzOFptdHB3NFBhSHh1elVURzRQQ0ZpMHM2Z2o3eDdRZHBjNWtpS1F0T0QyUVBoTFlGdjdNNHRCR20xMWZZU0JOVDVLLUJBN09MZEZwUQ?oc=5",
         "timestamp": "2026-06-04T07:02:03",
         "timestamp_display": "04. 06. 2026 07:02",
+        "is_new": false
+    },
+    {
+        "category": "Věda",
+        "title": "Šakali rychle expandují po úbytku vlků",
+        "summary": "Vědci zjistili, že šakali patří mezi nejrychleji rozšiřující se savce v Evropě. Hlavní příčinou je pokles populace vlků, což umožňuje šakalům obsadit nová území a měnit tak ekosystém.",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNY1UxOGNQY0Y1X3BhTVVqLVhYbHhQdzNCSG9TUXllaE1RdmdUZkVYVndZenFRRHdMZEJHa0R4bUtBckVuejNTajExZ05Tak4xd2hJWDdlck9xV0xnNHZLQ21TTTQ2RDFQS3h3Q0dkN1ZfeU1qSGoyaUdmbjZJVGpxbGRlWXhrSVBqdExyd1hwWDZneC1XWXh0ZjU5Vkk0TS1CX1hBODBLdndyVDBLNUdMQUhfbU05ejllZE1fUlp4U1NVOHR6dngyZXFjNy0yc1RyVk00N2x3MA?oc=5",
+        "timestamp": "2026-06-03T12:01:00",
+        "timestamp_display": "03. 06. 2026 12:01",
         "is_new": false
     },
     {
