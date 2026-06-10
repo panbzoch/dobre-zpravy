@@ -1,12 +1,102 @@
 [
     {
+        "category": "Společnost",
+        "title": "Farma úspěšně zachránila ohrožené sovy",
+        "summary": "Farma Moulisových včera představila šest nových mláďat sýčka, což je významný krok v ochraně tohoto ohroženého druhu. Projekt ukazuje, jak cílená péče a spolupráce mohou přispět k obnově populací volně žijících ptáků.",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeFVWSFlEeVdsMDlCWXlXc2JqQTI4M3VTT2w3ZF9SSUU2SXQ1VlB2NlVaNVZ2LWN4clhIOGdzajNEdjdsV1NOeUcyM2hFMURFUlpjNnRmMnVmemttX3htWUE4WDgyTnAza1Jac2dEV01OQ0pVMzBjN2IwcmFkLXRiN0hsYXdMaGFYWm1LdVVVNWdKcm00RzBObDdFanhjQnF0d09RcEM0a3ZzbVBsOVFyamlFSmtvbnFrS1dudFdlYkNPNVdFTmJxNmQ3TGN5UjRmRTIwMUR5MkY?oc=5",
+        "timestamp": "2026-06-10T05:53:00",
+        "timestamp_display": "10. 06. 2026 05:53",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Astronaut Svoboda nese šest brněnských experimentů na ISS",
+        "summary": "Český astronaut Tomáš Svoboda odletí na Mezinárodní vesmírnou stanici s šesti experimenty z brněnských výzkumných center, které budou zkoumat vliv vesmírného prostředí na stres a imunitní systém člověka. Výsledky mohou přinést nové poznatky pro medicínu i dlouhodobé vesmírné mise.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50NTdybmVrR0NrMFJlc3dDRml0R2ZKSWd5UlpVeUtubGpEdzBDa0hVazNSdjJISnlnamUwR0pkeVRfZVAtcktsR3lxTTY4VTYtclNz?oc=5",
+        "timestamp": "2026-06-10T04:30:00",
+        "timestamp_display": "10. 06. 2026 04:30",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "EVE Energy získala zakázky nad 67 GWh",
+        "summary": "Na mezinárodním veletrhu SNEC 2026 se čínská společnost EVE Energy představila s významnými objednávkami na fotovoltaické moduly v celkovém objemu přes 67 GWh, což posílí její postavení na trhu obnovitelné energie a podpoří další rozvoj solární technologie.",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQUxuWnhtbGF0QUFmbHhVcG9UV3B4b0l3WmNwRi1kdTBMNjJvT1V4VVVfekZMVjROSHBMUWt4Q210QzdCVV9rVGl3aEo0NlNINEtXSjZERDhienB5dkZmU0RGYVF6TFZseTVsQ0x6bmEwRHlZc3BJRkx2ZU1VWkdfZllSNnhOcUFHUkZKdWp3M21RTEZiaFpuQkNGU2ZhZGllY2F5Y25iOTZYQ3JCWFBYbzhJTGs3Z3BnSHcxN2oyZld2SHlxUUQ1STBHUldqUENrN2JDTmVxUQ?oc=5",
+        "timestamp": "2026-06-09T14:42:00",
+        "timestamp_display": "09. 06. 2026 14:42",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Obrovské zásoby cínu v Krušných horách",
+        "summary": "Geolog Urban odhalil v Krušných horách úctyhodné množství cínu, odhadovaných na 300 rýžovišť. Tento nález představuje významnou příležitost pro těžební průmysl a může podpořit regionální ekonomický rozvoj.",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeHQ0aUVxYVBxeV9pa0Nyb21CNnBMRW4yMnFmMGwyRVdTX0FzbHFTQ2g1dWliQkFVZW9fME1pR1RrYjNFVXh5OWoyY09OZXRLY1pxUnpfQzJuUE94QnVlZnNIVkZ0LV9RME5YUURpRkd0cmx2ZFVlZ2p4Mm5DVmdkV2wtX0RnS0p4S1B0YUZBU0tEb0t1bXlWLXZkbmMwMU5BS20tbWpWU1N4azljRUdTRHNjU01NTnBPQl9RM2dsTFJ5TE5CMTFB?oc=5",
+        "timestamp": "2026-06-09T11:52:00",
+        "timestamp_display": "09. 06. 2026 11:52",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Strnad rozšiřuje CE Industries s investory",
+        "summary": "Finanční ředitel CE Industries vyjádřil optimismus ohledně silného růstu společnosti, která rozšiřuje své impérium a láká investory. Podle Forbes Česko jde o významný krok v rozvoji podniku a jeho tržního postavení.",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX3R3WGhGelkzQzlvdWtuN21EUlduM19ZSlpHdWc5TjBsVG9hTWxWLVRkU25wUm9yV19LTUZ0ZHl2WklveVY4YlVoLWRmSS1PUE01QVZBYjIyS2hpSFhkbjVFNXFIaEJvSW5YbGRKM0REaEt1YUpzWXZTQWk5LUJhdUFtcXZnb3c2ajVLbTJpeUpnNXBXX2ZQSU9lWDlmTkRqN01aYWFn?oc=5",
+        "timestamp": "2026-06-09T10:57:45",
+        "timestamp_display": "09. 06. 2026 10:57",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Sekyra Group investuje 8 mld Kč do Rohan City",
+        "summary": "Sekyra Group zahájila výstavbu druhé etapy projektu Rohan City, do níž investuje osm miliard korun. Projekt představuje významný rozvojový krok v oblasti moderního bydlení a kancelářských prostor, posiluje regionální ekonomiku a vytváří nová pracovní místa.",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZVh3dVZfN0dkdWNTUmZzd1pjMTZ6d3hnQVNLX3M1MFRlZ1hpb3h0WmQ4U0F0bjN2aXFoX2NoWHV3elV5NG01YWJadmtyQkctRU1TY2FBWWkwRXlIV0hTQnExR0lsMWc3ZFh1WEhVWHZHS29EeHI0Zjc2eTZtcWVQTENyd0pKNTNwSFFpLTdmNGhFeHBlLXNPa2FB?oc=5",
+        "timestamp": "2026-06-09T10:27:14",
+        "timestamp_display": "09. 06. 2026 10:27",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Innogy zvyšuje zisk na 2,81 mld Kč",
+        "summary": "Energetická společnost Innogy dosáhla v loňském roce zisku 2,81 miliardy korun a oznámila, že v tomto roce plánuje výrazně zvýšit investice do rozvoje energetiky, což podpoří růst a inovace v sektoru.",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSXhmbHJ5WmFtREc5d0g1UDVwVEhZZFBNaDNRdFhnbXVlUGFtVUNZWFQxLUJUdWxUWUdmd1I3eUdFSVJmUFVieGNVMUNuUmlTSnJxYVdGZ1diOVU3eFZadTkzNUZHVFdYdFFSQk15WjBkZGxYWUMwWm41MnZLM0NCUVYzY0VQeklKTGYtcVFIQWJ2SlV4NEVQRi1YbFFsMTZpNERpVHdoOVpnblRvY0tSWTh3?oc=5",
+        "timestamp": "2026-06-09T09:12:05",
+        "timestamp_display": "09. 06. 2026 09:12",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Innogy v ČR zvýšila zisk, rozšiřuje investice",
+        "summary": "Skupina innogy oznámila, že v loňském roce v České republice dosáhla vyššího čistého zisku a v letošním roce plánuje zvýšit investice. Zvýšený zisk odráží úspěšnou strategii a rozšiřování aktivit, což podpoří další rozvoj energetického sektoru v regionu.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vSWF3bF8yZkU4czVydUs1WUdCemFEdGR2V2RaamZyNVlrbmJqQ29YTjRWVW9fTlI5eVIybGdzUW5Pb0lQaWJrRFJtZ095RDUxOURV?oc=5",
+        "timestamp": "2026-06-09T08:33:00",
+        "timestamp_display": "09. 06. 2026 08:33",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Český startup získal desítky milionů na řešení e‑shopů",
+        "summary": "Český technologický startup, který řeší klíčový problém evropských e‑shopů, získal od investorů další desítky milionů eur. Investice podpoří rozšíření platformy, zlepší logistiku a posílí konkurenceschopnost českých firem na evropském trhu.",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYTloOGNFNkxzS3RNM2E4eUpfVmZwM29sWkE2ZGdLTEl6cGlZOU44anVZMlZyb2d6am5reFpBS01KWEJtTjhwRzc2NzFTRl8yNjFBVnlrbTNUY25mUGxMcGVZalREdjJvMUZ1Y0FIRUtxa04wV0NTdWpMZ1pKc3NqT2dUVDZoblQ5T0VTcFE1bDlaWDVUdlAxSmFEekMxV2k5SDhDd013MmhtME9yTFJaN2F5R3BIdjdGSVE?oc=5",
+        "timestamp": "2026-06-09T08:02:00",
+        "timestamp_display": "09. 06. 2026 08:02",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Novo Nordisk investuje miliardy do české továrny",
+        "summary": "Novo Nordisk otevře v České republice novou výrobní závod v hodnotě několika miliard korun, kde bude vyrábět moderní léky na cukrovku. Projekt podpoří lokální ekonomiku, vytvoří stovky pracovních míst a posílí dostupnost inovativní medicíny pro pacienty.",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOFdjTjJHZFI2NFRhcy15Q2tnQkxKV1lubU1pYWdlX1I5MHNzMnBJM21QeUpGZzBMUHBQNHJ6bmkzenE4aDQyWTVCWVlXTjdrUlVhRWpOdkVqUkFKamVabGNxeEFGQklxTzNKU3ZGZGZqVzJqQk1FaDFDcVVZQzRnREd4dVJpVXNaZ195bTZ4VjFUbGM5amZBa2lpWWFFQQ?oc=5",
+        "timestamp": "2026-06-04T11:13:50",
+        "timestamp_display": "04. 06. 2026 11:13",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "OpenAI míří na historické IPO",
         "summary": "OpenAI podala žádost o vstup na burzu, což může znamenat jedinečný milník v historii technologických IPO. Úspěšná veřejná nabídka by firmě umožnila získat značný kapitál pro další výzkum a rozvoj umělé inteligence a posílit její pozici na trhu.",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS3BCWnB1c1J0TjN6WWdWYk95RmhTcVZ0WjFPOVZsRHNXbUtxRWlxUzFNeWFTbGpFSkI0d3N4TzRBNjcyN0tnby12VEVmSU1SUVlYTTZxbEdBaFdnUUFJQVZJSFlrTzBVaktLY05HRVI0VWh2SWNabVBOcmF1OUU1S1hlSXBuTXJSNEw0cVBYaUUxcFFmVkdReklzSXRXOGV4ZmVTY3R6bXkwQkYxNmtRcndWUVVTUQ?oc=5",
         "timestamp": "2026-06-09T06:33:00",
         "timestamp_display": "09. 06. 2026 06:33",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +105,7 @@
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMXRxT0xzMk1VU1kzYW5rcTBUXzMzNnZub2VfYkZGQmxQMWJFdElZejExdnZORy1lZHRLYmJrY1g3Y2o1M3BfXzRXV3l3VXRLNDJHTVVEY01rLW40ZXFqenRtTC0wNE1pb193a0dhNXJNQThJNzIxVUROdURZT0lRZjhzZnl6RmFQSTRlQ1Q3UkxiTTZPaUVXa2xWSnl5MEpob1QzUTF3djhBN18wdnd6U0xzd2ttWVQ4Z2VxbzJfaGNDX2hqNlc5T2l4OTI?oc=5",
         "timestamp": "2026-06-09T05:07:00",
         "timestamp_display": "09. 06. 2026 05:07",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -24,7 +114,7 @@
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdDV0ZlBidERuQnZaRGk0Ml9kMm5YeTdmSXFiVFJKNjUwM1FVNnNsOThLbHhGTjh1OVQ1ZW5PeWpOejVyOFNZRm9uYWdyZ1piYWdzWE83cnNadGJlTGxfeF91aTlLUlFoTXV4OVFHTVhzTWREZW5xbVNMWExGbXlYSVhhSFZueVZHNTh0dVZCQXhZWV9XaW1QV3FSWWNoT0hxWHJtdEEySG1ZOFE2RFNvTHp1WXpxaUtReWFJUU1QRXhDN2pUXy1FM2F1aE1vVU1xaHRCN09mSUE?oc=5",
         "timestamp": "2026-06-08T19:37:00",
         "timestamp_display": "08. 06. 2026 19:37",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -33,7 +123,7 @@
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT216WDdaaXV6WHB1dE5OWUlyQ2JhQlZ2cUZiaUh1RUJiYXUxbnd5WG1LbTJTRnh2NkZUS1I3OXpCNzFvbG1UZnprckhYcnI0TGZSQTZ6UmFidTRBN1ZSS2NvTWRibm0xWU8zRXZDd3V1Z250aDhvZGZQbEN6ZDlOeHM2dFY4M0gwYnpranBvSV9PQzQwYjVhajVQYU9zRDFuR2N3bk1VUmpGdXQ3UVRRdXFBTnhHWDQ?oc=5",
         "timestamp": "2026-06-08T14:44:48",
         "timestamp_display": "08. 06. 2026 14:44",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -42,7 +132,7 @@
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeDZVX3c1Tk5DNHQxRmFUNkk1UnpzTW9XM1NwWVRhV3JnTHg1blJSWHk1cm43NElMT1NQTmNYdjJCbURYLUg4Yk1hdlcwR1F0cEpKQWhpQTZTVldWYVdRZGw5MnBOUWpvRWFFSGVhRGZ2UTNyVDVTQ2F4dlVYRmFCYmNjdVQ2RVd5b0lqelZTUlhQTkwzNjJCdjFWbmNUOUtLVlo5NlZFOVdJNzNvVktFaTlzYXh3NGJaejV4VEpZZ29SQWRTVDd0a3NrdXFuUVAzNWlRSUNkdE9oY1NvS0E?oc=5",
         "timestamp": "2026-06-08T11:26:00",
         "timestamp_display": "08. 06. 2026 11:26",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -51,34 +141,7 @@
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNT1IydzMteDdBenAwa29zZzBEeEdhWXE4ZWU3SlAxa1llVURvYTMwektyUXpFUzRoNW42UndvTmg3blpSOFhQLVNQSmZCbWk0RkctTkJRV3NlOUJDQS1GYlFNbWJ0LXZyZ0hqRDNSa2NtZDBYeFJrZUNwTHhQM0JaVTF2bklSNk5taEpwSm0xbnZjSGMtRlpGZUpxcWpXSmhxaGRDYTVlYmxNVkFLT1hGcS1sME5WbkRJdHZrQzU0WUxabW5xVjRn?oc=5",
         "timestamp": "2026-06-08T10:04:00",
         "timestamp_display": "08. 06. 2026 10:04",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "USA zrychlí vývoj AI pro bezpečnost",
-        "summary": "Spojené státy oznámily urychlený rozvoj a nasazení umělé inteligence v oblasti národní bezpečnosti. Investice podpoří výzkum, inovace a praktické aplikace AI, což má posílit obranné schopnosti a zabezpečit kritickou infrastrukturu.",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaEpBNENFMHJTdWFERmEzM3VDR3FZaXJZT1lsZlVBQ3FGc2w1TkZQZEx3RW5ISXBMc3RWYlBrM3ozVnI3YTV6RUc4ZGtpdXZQeU9FZ1NDYUlQdXhwVmRXd3VaSTl4cURZSE1EeXVwVVE2ZWlvTjNjeWVkX2FpdllsMTRVTGNKUjVKeXFoSmpyMl9uc0FaVlBycS12QVdXZw?oc=5",
-        "timestamp": "2026-06-06T13:55:02",
-        "timestamp_display": "06. 06. 2026 13:55",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "AI navrhuje vakcínu proti budoucím pandemiím",
-        "summary": "Vědci vyvíjejí umělou inteligenci, která dokáže rychle navrhnout vakcínové kandidáty proti novým virům. Projekt slibuje zkrácení vývoje vakcín a lepší připravenost na potenciální pandemie, i když odborníci varují, že úspěch zatím není jistý.",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWDcyRFZGbS05VTZtMEtTZGNoZTdFZWU0S3ZKN3dJaVRPX2k1NF9ESWFweDFiWC1wMXlQYndzSUVLcjVwbzV3OUowTENuTV9WUzlndHBsbU1EamxobENHd2V3M2NlanBGLXF3dDhXdEtJRGppUnJkbXNBWnhuYzVCbWs1blk3bFotT01TdFd4X2dzXzdxSkVobGhjSmw4RGRvTkdWcTVqM1cxbktIQWk0Z2NBM2JmWmZoRmZBbEd5VUhMdHdFMVpGbw?oc=5",
-        "timestamp": "2026-06-06T11:16:00",
-        "timestamp_display": "06. 06. 2026 11:16",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "MediaTalks ukázaly sílu byznysového networkingu",
-        "summary": "Konference MediaTalks spojila mediální a podnikatelské lídry, představila inspirativní řečníky a podpořila networking. Účastníci získali nové kontakty a poznatky, které mohou podpořit růst jejich firem a rozvoj mediálního sektoru.",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbjZONGctYmJISDBsQUxOaVhxRjZZemxpSEhFLW9UWFpLSUdOQkc1R21CSmNtY1ZYUmN6a3I2aGVKLXdxN2pyZHZCaHh4clg5LVRYdExSbjRsWlZ6OEhZb1U1N2RzWWpVYXpoS2NBX1d1UVVLb2lzYVlzLWNLUGlWTFh4VzZxOVE1SXljWTJrV2xsRzViS0wzOFBlcw?oc=5",
-        "timestamp": "2026-06-04T16:32:44",
-        "timestamp_display": "04. 06. 2026 16:32",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -135,6 +198,15 @@
         "is_new": false
     },
     {
+        "category": "Technologie",
+        "title": "USA zrychlí vývoj AI pro bezpečnost",
+        "summary": "Spojené státy oznámily urychlený rozvoj a nasazení umělé inteligence v oblasti národní bezpečnosti. Investice podpoří výzkum, inovace a praktické aplikace AI, což má posílit obranné schopnosti a zabezpečit kritickou infrastrukturu.",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaEpBNENFMHJTdWFERmEzM3VDR3FZaXJZT1lsZlVBQ3FGc2w1TkZQZEx3RW5ISXBMc3RWYlBrM3ozVnI3YTV6RUc4ZGtpdXZQeU9FZ1NDYUlQdXhwVmRXd3VaSTl4cURZSE1EeXVwVVE2ZWlvTjNjeWVkX2FpdllsMTRVTGNKUjVKeXFoSmpyMl9uc0FaVlBycS12QVdXZw?oc=5",
+        "timestamp": "2026-06-06T13:55:02",
+        "timestamp_display": "06. 06. 2026 13:55",
+        "is_new": false
+    },
+    {
         "category": "Byznys",
         "title": "Startup zakladatele odpadlého z univerzity dosáhl 40 mld.",
         "summary": "V 19 letech opustil univerzitu a místo studia se pustil do podnikání. Po několika letech vybudoval technologický startup, který dnes stojí 40 miliard dolarů, čímž se stal jedním z nejúspěšnějších českých firem na globálním trhu.",
@@ -150,6 +222,15 @@
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOWxTazNaS2RWUUx1NkhzOEFNWjBLNXdrMGU4YzcyeTZ3czVIX1dFOXlMNzQ1bExRdlplUzh2THprWGl2ZkZFckdwNFlXRS1MbDhtcGswYldadEJkcFBkMVdNa3NvWlI3dUdabmVPWUNjZVFWbkRFNWNtUGtEZkdGVGVqVGFaUlJ3dlQ1WlNnNXE2QTR1RVFlcGdjRXpKSkJ6aGxqQWZ1SUV0TUVuc3JUVkZhTTJrT0lNZTQ0QVB2dzFrbjAzQ2Rn?oc=5",
         "timestamp": "2026-06-06T11:21:00",
         "timestamp_display": "06. 06. 2026 11:21",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "AI navrhuje vakcínu proti budoucím pandemiím",
+        "summary": "Vědci vyvíjejí umělou inteligenci, která dokáže rychle navrhnout vakcínové kandidáty proti novým virům. Projekt slibuje zkrácení vývoje vakcín a lepší připravenost na potenciální pandemie, i když odborníci varují, že úspěch zatím není jistý.",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWDcyRFZGbS05VTZtMEtTZGNoZTdFZWU0S3ZKN3dJaVRPX2k1NF9ESWFweDFiWC1wMXlQYndzSUVLcjVwbzV3OUowTENuTV9WUzlndHBsbU1EamxobENHd2V3M2NlanBGLXF3dDhXdEtJRGppUnJkbXNBWnhuYzVCbWs1blk3bFotT01TdFd4X2dzXzdxSkVobGhjSmw4RGRvTkdWcTVqM1cxbktIQWk0Z2NBM2JmWmZoRmZBbEd5VUhMdHdFMVpGbw?oc=5",
+        "timestamp": "2026-06-06T11:16:00",
+        "timestamp_display": "06. 06. 2026 11:16",
         "is_new": false
     },
     {
@@ -231,6 +312,15 @@
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSm1FSEhRelZfNnpTOFE3RE1vdzllVmluMWpyZm9ZNUd0NThmY0l0blByYktZWWNRTnVZR0ZIc0djTlA4NEZvalFFdGQzYWlOZ254ME1mQlhQamI0UTVIUWszYWNadlp0SUlTajktY01SVnVKTnNNOXRsTE03UnJIamJnQTF4WnFURGVFWGZXaGxWWjRMOHc?oc=5",
         "timestamp": "2026-06-04T17:18:16",
         "timestamp_display": "04. 06. 2026 17:18",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "MediaTalks ukázaly sílu byznysového networkingu",
+        "summary": "Konference MediaTalks spojila mediální a podnikatelské lídry, představila inspirativní řečníky a podpořila networking. Účastníci získali nové kontakty a poznatky, které mohou podpořit růst jejich firem a rozvoj mediálního sektoru.",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbjZONGctYmJISDBsQUxOaVhxRjZZemxpSEhFLW9UWFpLSUdOQkc1R21CSmNtY1ZYUmN6a3I2aGVKLXdxN2pyZHZCaHh4clg5LVRYdExSbjRsWlZ6OEhZb1U1N2RzWWpVYXpoS2NBX1d1UVVLb2lzYVlzLWNLUGlWTFh4VzZxOVE1SXljWTJrV2xsRzViS0wzOFBlcw?oc=5",
+        "timestamp": "2026-06-04T16:32:44",
+        "timestamp_display": "04. 06. 2026 16:32",
         "is_new": false
     },
     {
