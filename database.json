@@ -1,12 +1,57 @@
 [
     {
+        "category": "Věda",
+        "title": "Objevili 1200 km dlouhé velrybí hřbitovo",
+        "summary": "Vědci prozkoumali dno Indického oceánu a nalezli obrovské hřbitovo, kde se rozkládá až 1200 km dlouhý řetězec velrybích kostí. Tento unikátní nález poskytuje cenné informace o migracích, úmrtnosti a ekologii velryb, což podpoří ochranu těchto ohrožených mořských savců.",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQlZ2WUpjZDRGWUZ4bW1aQmJrRFl4MzRwMnkyQjZMQ19uWEd2UDVCS3NybmNLbmYyaExiN0ZORkc4RVlMeTFBYlp5VzZKbV9Bd1RJOTVKMm8tZVBLZm9xbXFaUXYxS0phVWNwV2VKTUZMX0tyVjR5SlFZTDlIRU5QZ0NRYmdReUk3eVliNC1Ja2lSR1dGT0xNRy12ZTBlTmI1S1FOUWRBeGZ0Rkp1WlBiaDA3amtDZnNjbEprUA?oc=5",
+        "timestamp": "2026-06-11T08:58:00",
+        "timestamp_display": "11. 06. 2026 08:58",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Cannabisový odpad jako nový hnojivový zdroj",
+        "summary": "Vědci z Olomoucké univerzity vyvinuli hnojivo z odpadů konopné pěstírny. Testy ukazují, že obsahuje cenné živiny a podporuje růst rostlin, čímž nabízí udržitelnou alternativu k tradičním hnojivům a pomáhá zahrádkářům i životnímu prostředí.",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQU2luc3lISzhHR3dtblVjZXlTMkFtMVRzZVM0bDk0Q2hMMDQ2ZGxZalp5SmNJUzRDSjhTcHZwNnN6X0xEQWpFZWFoZ0h1OU0zMzNnWFJ1bXRZQk51QTA5aGxsME5pRjVMWHJPV1NoM3g3aWo2dW1aakZvLS1EVG5lN1VKNmEteGVlUXc1Uy1XY1o1SjE2WjJ3bGxTM3RFczNQak8xSU9Hei1oQkVKOEVqU0k2eEdkUGtPbUF0MUVUR3k3MjJzb0p1eTlTZ2Q5QVk?oc=5",
+        "timestamp": "2026-06-11T05:00:00",
+        "timestamp_display": "11. 06. 2026 05:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Bridgestone oslavuje 200 milionů vyrobených pneumatik",
+        "summary": "Výrobní závod Bridgestone v Požáni dosáhl výroby 200 milionů pneumatik, což potvrzuje jeho významný podíl na evropském trhu a úspěšnou expanzi. Milník podtrhuje efektivitu výroby, stabilitu zaměstnanosti a dlouhodobý růst společnosti v automobilovém průmyslu.",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbHJleFVqdHN6SlYwZnd4bDNmdU1xS0I5Z1RKUVhHazlOdy1vSTJ6dXYyOFR6Zm41R1VseGFGLXFvS3lXeFJOODl4YkdVdGxJTUhPeWFwTHJUZlBmMGMyTmMxZUk1ZV9Ub0NLVlEzdXc5YTNFTnBkbTM4Ri16bmU3QXdUYk1VRWxWQTNYdGgxUE5MallJRG85Z1RnQmpBMGhBOVB0SjN0Um9IcDJoZTdVRl9jT2hkUmMwNkFlZQ?oc=5",
+        "timestamp": "2026-06-10T13:38:00",
+        "timestamp_display": "10. 06. 2026 13:38",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice do realit získávají nový rozměr",
+        "summary": "Radek Jakubec z e-Finance představuje inovativní přístup k investování do nemovitostí, který nahrazuje tradiční model čistého vlastnictví. Nové finanční nástroje a platformy umožňují širší přístup investorů a zvyšují likviditu trhu s realitami.",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbnBmZmZDVkg4eEE1RzdaUDY1ZlNyU2pwLU56U2JTc29NWmRJbEItemZOOTI5RjJWTndyS3JvelNFRkVEcVVNZGdpQm1YWVVyTUtqX3l3ampxZFhXbmNCWmFjeEpoMGtxdnRrU081dHJzTFZzcTM1dHFQR3NHWXVLZlpxSUNmcXhzNy1Pc2I4b2ZCRzU4YzlpZnZqQ0FxYzloUTZBZkNJUS0tNG9nWFhyNTc5VWFqb2pFNFdqVHA1SFNSd3QtN2F6VHhJOUtQeG1xakZwRk1waE1CeDNUTjRLcVhWU3J2RW9RS1Jr?oc=5",
+        "timestamp": "2026-06-10T10:00:00",
+        "timestamp_display": "10. 06. 2026 10:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Fidurock vytvořil nový fond s 14 parky",
+        "summary": "Společnost Fidurock převedla čtrnáct retailových parků do nově založeného fondu, čímž vytvořila portfolio v hodnotě 5,3 miliardy korun. Tento krok posiluje její postavení na trhu s nemovitostmi a představuje významný byznysový úspěch.",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUThyRGhIZkxWY3pmQnlPU1BUdjNzUTFrdFBSeDg1dV9EQXd5QzJuT3JoeDd4Q1A5R0xmQnF4c1BpbVFhcFdCNEduM3JjZzFKblFmc1pfUzRaTTFpSWYwcGpTVzU5MTFHTk04amh6MVEwa29FNjFuWFdIZF9QamdWa09RWHVUZnpyMVcyZGxFdVNuOUljajZkcXFkNEtFMjBTZWhWVUI1RUpFZV9NekhNa2RITDY4SUJh?oc=5",
+        "timestamp": "2026-06-10T09:48:27",
+        "timestamp_display": "10. 06. 2026 09:48",
+        "is_new": true
+    },
+    {
         "category": "Společnost",
         "title": "Farma úspěšně zachránila ohrožené sovy",
         "summary": "Farma Moulisových včera představila šest nových mláďat sýčka, což je významný krok v ochraně tohoto ohroženého druhu. Projekt ukazuje, jak cílená péče a spolupráce mohou přispět k obnově populací volně žijících ptáků.",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeFVWSFlEeVdsMDlCWXlXc2JqQTI4M3VTT2w3ZF9SSUU2SXQ1VlB2NlVaNVZ2LWN4clhIOGdzajNEdjdsV1NOeUcyM2hFMURFUlpjNnRmMnVmemttX3htWUE4WDgyTnAza1Jac2dEV01OQ0pVMzBjN2IwcmFkLXRiN0hsYXdMaGFYWm1LdVVVNWdKcm00RzBObDdFanhjQnF0d09RcEM0a3ZzbVBsOVFyamlFSmtvbnFrS1dudFdlYkNPNVdFTmJxNmQ3TGN5UjRmRTIwMUR5MkY?oc=5",
         "timestamp": "2026-06-10T05:53:00",
         "timestamp_display": "10. 06. 2026 05:53",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -15,7 +60,7 @@
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50NTdybmVrR0NrMFJlc3dDRml0R2ZKSWd5UlpVeUtubGpEdzBDa0hVazNSdjJISnlnamUwR0pkeVRfZVAtcktsR3lxTTY4VTYtclNz?oc=5",
         "timestamp": "2026-06-10T04:30:00",
         "timestamp_display": "10. 06. 2026 04:30",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,7 +69,7 @@
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQUxuWnhtbGF0QUFmbHhVcG9UV3B4b0l3WmNwRi1kdTBMNjJvT1V4VVVfekZMVjROSHBMUWt4Q210QzdCVV9rVGl3aEo0NlNINEtXSjZERDhienB5dkZmU0RGYVF6TFZseTVsQ0x6bmEwRHlZc3BJRkx2ZU1VWkdfZllSNnhOcUFHUkZKdWp3M21RTEZiaFpuQkNGU2ZhZGllY2F5Y25iOTZYQ3JCWFBYbzhJTGs3Z3BnSHcxN2oyZld2SHlxUUQ1STBHUldqUENrN2JDTmVxUQ?oc=5",
         "timestamp": "2026-06-09T14:42:00",
         "timestamp_display": "09. 06. 2026 14:42",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,7 +78,7 @@
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeHQ0aUVxYVBxeV9pa0Nyb21CNnBMRW4yMnFmMGwyRVdTX0FzbHFTQ2g1dWliQkFVZW9fME1pR1RrYjNFVXh5OWoyY09OZXRLY1pxUnpfQzJuUE94QnVlZnNIVkZ0LV9RME5YUURpRkd0cmx2ZFVlZ2p4Mm5DVmdkV2wtX0RnS0p4S1B0YUZBU0tEb0t1bXlWLXZkbmMwMU5BS20tbWpWU1N4azljRUdTRHNjU01NTnBPQl9RM2dsTFJ5TE5CMTFB?oc=5",
         "timestamp": "2026-06-09T11:52:00",
         "timestamp_display": "09. 06. 2026 11:52",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -42,7 +87,7 @@
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX3R3WGhGelkzQzlvdWtuN21EUlduM19ZSlpHdWc5TjBsVG9hTWxWLVRkU25wUm9yV19LTUZ0ZHl2WklveVY4YlVoLWRmSS1PUE01QVZBYjIyS2hpSFhkbjVFNXFIaEJvSW5YbGRKM0REaEt1YUpzWXZTQWk5LUJhdUFtcXZnb3c2ajVLbTJpeUpnNXBXX2ZQSU9lWDlmTkRqN01aYWFn?oc=5",
         "timestamp": "2026-06-09T10:57:45",
         "timestamp_display": "09. 06. 2026 10:57",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -51,7 +96,7 @@
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZVh3dVZfN0dkdWNTUmZzd1pjMTZ6d3hnQVNLX3M1MFRlZ1hpb3h0WmQ4U0F0bjN2aXFoX2NoWHV3elV5NG01YWJadmtyQkctRU1TY2FBWWkwRXlIV0hTQnExR0lsMWc3ZFh1WEhVWHZHS29EeHI0Zjc2eTZtcWVQTENyd0pKNTNwSFFpLTdmNGhFeHBlLXNPa2FB?oc=5",
         "timestamp": "2026-06-09T10:27:14",
         "timestamp_display": "09. 06. 2026 10:27",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -60,7 +105,7 @@
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSXhmbHJ5WmFtREc5d0g1UDVwVEhZZFBNaDNRdFhnbXVlUGFtVUNZWFQxLUJUdWxUWUdmd1I3eUdFSVJmUFVieGNVMUNuUmlTSnJxYVdGZ1diOVU3eFZadTkzNUZHVFdYdFFSQk15WjBkZGxYWUMwWm41MnZLM0NCUVYzY0VQeklKTGYtcVFIQWJ2SlV4NEVQRi1YbFFsMTZpNERpVHdoOVpnblRvY0tSWTh3?oc=5",
         "timestamp": "2026-06-09T09:12:05",
         "timestamp_display": "09. 06. 2026 09:12",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -69,7 +114,7 @@
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vSWF3bF8yZkU4czVydUs1WUdCemFEdGR2V2RaamZyNVlrbmJqQ29YTjRWVW9fTlI5eVIybGdzUW5Pb0lQaWJrRFJtZ095RDUxOURV?oc=5",
         "timestamp": "2026-06-09T08:33:00",
         "timestamp_display": "09. 06. 2026 08:33",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -78,16 +123,7 @@
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYTloOGNFNkxzS3RNM2E4eUpfVmZwM29sWkE2ZGdLTEl6cGlZOU44anVZMlZyb2d6am5reFpBS01KWEJtTjhwRzc2NzFTRl8yNjFBVnlrbTNUY25mUGxMcGVZalREdjJvMUZ1Y0FIRUtxa04wV0NTdWpMZ1pKc3NqT2dUVDZoblQ5T0VTcFE1bDlaWDVUdlAxSmFEekMxV2k5SDhDd013MmhtME9yTFJaN2F5R3BIdjdGSVE?oc=5",
         "timestamp": "2026-06-09T08:02:00",
         "timestamp_display": "09. 06. 2026 08:02",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Novo Nordisk investuje miliardy do české továrny",
-        "summary": "Novo Nordisk otevře v České republice novou výrobní závod v hodnotě několika miliard korun, kde bude vyrábět moderní léky na cukrovku. Projekt podpoří lokální ekonomiku, vytvoří stovky pracovních míst a posílí dostupnost inovativní medicíny pro pacienty.",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOFdjTjJHZFI2NFRhcy15Q2tnQkxKV1lubU1pYWdlX1I5MHNzMnBJM21QeUpGZzBMUHBQNHJ6bmkzenE4aDQyWTVCWVlXTjdrUlVhRWpOdkVqUkFKamVabGNxeEFGQklxTzNKU3ZGZGZqVzJqQk1FaDFDcVVZQzRnREd4dVJpVXNaZ195bTZ4VjFUbGM5amZBa2lpWWFFQQ?oc=5",
-        "timestamp": "2026-06-04T11:13:50",
-        "timestamp_display": "04. 06. 2026 11:13",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -339,6 +375,15 @@
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPb3RjdENFaHhSVUVZa0RlU1dBRENHUmVvLWViZUR5dzduQmJzSE1ybTFQWTdyd0lHRkVVazQxVVhaMklZOWVKRTBkNzM1eEl5Vk5wYm9saWhnVHA4aUg4R3ZKeEJ5N3VqeERWVFNEMGpVYU4xRWJndk11LWtIOXNJSWVlc3pXMnVPbE85TnFRTk5ueVZIRFQ4QmhJeDBMX2NDRmtaSEp2OXNSNmw2RmQtMEtUQXFScmoxc3FMQlp6RGx5dVk5eERjTzNZYmdTRFUteDNz?oc=5",
         "timestamp": "2026-06-04T13:14:00",
         "timestamp_display": "04. 06. 2026 13:14",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Novo Nordisk investuje miliardy do české továrny",
+        "summary": "Novo Nordisk otevře v České republice novou výrobní závod v hodnotě několika miliard korun, kde bude vyrábět moderní léky na cukrovku. Projekt podpoří lokální ekonomiku, vytvoří stovky pracovních míst a posílí dostupnost inovativní medicíny pro pacienty.",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOFdjTjJHZFI2NFRhcy15Q2tnQkxKV1lubU1pYWdlX1I5MHNzMnBJM21QeUpGZzBMUHBQNHJ6bmkzenE4aDQyWTVCWVlXTjdrUlVhRWpOdkVqUkFKamVabGNxeEFGQklxTzNKU3ZGZGZqVzJqQk1FaDFDcVVZQzRnREd4dVJpVXNaZ195bTZ4VjFUbGM5amZBa2lpWWFFQQ?oc=5",
+        "timestamp": "2026-06-04T11:13:50",
+        "timestamp_display": "04. 06. 2026 11:13",
         "is_new": false
     },
     {
