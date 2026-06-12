@@ -1,12 +1,102 @@
 [
     {
+        "category": "Byznys",
+        "title": "Slovenský IT‑booking startup získal český kapitál",
+        "summary": "Slovenský startup zaměřený na rezervaci IT firem přilákal investici z České republiky, což podpoří jeho expanzi na nové trhy a urychlí růst podnikání. Investice posílí jeho pozici v sektoru technologických služeb a umožní rozšíření nabídky pro zákazníky.",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNmpBamNGcGxZNkJ6anVQWmRGS3JkLXVQNzhJUHJ2bHlDZUlrYU82REl1WWNNdnJGN2VBTE9SZENaQUNJLXh3aXVJRk9HdTN0aGJ2QTc1SVZaTkM3bUFjM0t6clJIWUZFSVZuaC1JcEJJTGF0QTl0MXpTZERxdU15bTdoeHUyRU5nZ2N2WElmSVVRMGhBanNpd3hQRl9HUG5I?oc=5",
+        "timestamp": "2026-06-12T08:31:45",
+        "timestamp_display": "12. 06. 2026 08:31",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Olomoucké AI startupy lákají investory",
+        "summary": "Olomoucký region se stal nejrychleji rostoucím startupovým ekosystémem v České republice. Místní AI projekty získávají značný zájem investorů, což podtrhuje dynamiku inovací a podnikatelských úspěchů v oblasti umělé inteligence.",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdjRTSFcxZG90MWZDUkNtZWR0YjgzWVZFdUotb3ItT0hoQ3h2eVhxSVRiUDB5QWsyVlJLaWlVLVdEUF9oTUJEZGpHM09vckhBRW5NZVJKeVVOLV9KR3hVbTdra3ZWSk9MWUczeFBaZE1JdHJsVXJta1FBY1ZfNkhGYkpyVUs4aXNxZG1EWHJSZW1FSWlQRHVsbFJUNmt4NER1bzVkbQ?oc=5",
+        "timestamp": "2026-06-12T07:31:29",
+        "timestamp_display": "12. 06. 2026 07:31",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Lockton dosahuje 4,5 mld. USD tržeb",
+        "summary": "Společnost Lockton zaznamenala v účetním roce 2026 výrazný růst příjmů, které dosáhly 4,5 miliardy dolarů. Tento finanční úspěch podtrhuje silnou pozici firmy na trhu a její schopnost rozšiřovat služby a získávat nové klienty.",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWWQtaXNyZFE4RGxMZzllVy1VTHlEVy10SGtDY0lSMm16b0VsY05pOHBGd1hsWmpEXzJjTjY2SERCa2dOTjBCeVBFWTQ1VFRvbUJxYjBzeklOZVVRUENhOHFhalJvZk15ak1WVVh0c2l5YlhvdnlPeVZ1Yko0c21fNk5CWkdVUDJOdk9JZC1ubHlRQWJnVjVGZTR1UGUxdmN0d1J0U3I3OGxub3dtOGw3LTQ3YnVhaTROenFXQjB1UzZaRmx2Y0VWOA?oc=5",
+        "timestamp": "2026-06-12T06:23:00",
+        "timestamp_display": "12. 06. 2026 06:23",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Kvantové čipy posilují šifrování",
+        "summary": "Výzkumníci vyvinuli kvantové čipy, které generují skutečně náhodná čísla, čímž výrazně zvyšují bezpečnost šifrovacích algoritmů. Tato technologie slibuje robustnější ochranu dat a posun v oblasti kybernetické bezpečnosti.",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTDkwMGVnWUxZTURzYm5RTjJlc2lZYUltNW92R1llQ2dVREhtc1VzRld3NjdZRDB4Wl9ZaUEyNlpXbjlBMjZxOFFRd3VCSlZjbUJfaXJHODI5MkRGUFF1SXNiZ3ZPVDZKZE45VGI4T0hxbUxwS0lvajRHdDZpRVZ3Zk90Y2FibmtOZFEwWmNvajNIV0dFOWY4RWktUGw0eWxtV090RVVBVWZsTnN1TWo1cUVWb2l4WHo3aUF5c0xYdjZ0VklFOXVmM3hDU0JUY0ZjSGU1RWhsZUswMTFRS3F5NUxGenE?oc=5",
+        "timestamp": "2026-06-12T05:45:22",
+        "timestamp_display": "12. 06. 2026 05:45",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Dron zachraňuje srnčata a pomáhá farmářům",
+        "summary": "Nový dron dokáže monitorovat pastviny, odhalovat mladá srnčata a varovat farmáře před škodlivými zvířaty. Tím zvyšuje ochranu volně žijící zvěře, snižuje ztráty na farmách a šetří peníze producentům. Technologie tak spojuje ekologii a zemědělství v praktickém řešení.",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaWRGajB5SS1CTGltX2c1dUIxYU5NNVJxUEhhTnlmT0F2UzZ1WG92OU5XcmNhQWNGR3dyeXlsRUZGMzVVN19uSEJJQ0szTWh0YjlaTWstTXFISzEzWlh2U084aFFUMlJ1M0FuTVVuaHM5OG9JZHBrZldSVGs1SWdZLTF2Wk13T2dxOGsxa2RQWWQ4M0x3Y3RVX1hDMXI4c0IwM0tOUHk0Wmg0UXVucnllQ1dDMVl6ekFhNlh3MVB3cEhaUFdHSUNZUEJBbw?oc=5",
+        "timestamp": "2026-06-12T05:05:00",
+        "timestamp_display": "12. 06. 2026 05:05",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Rockaway a Otava investují do AI v Evropě",
+        "summary": "Společnost Rockaway a český miliardář Otava spojili síly a zaměřili se na rozvoj umělé inteligence v evropském průmyslu. Jejich investice mají podpořit inovace, zvýšit konkurenceschopnost a přinést nové technologické řešení pro výrobu a služby.",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT3dpanprNVRGZWdaaTJtVi0ydENPSHoyWFUzUGhTcERoOEtfUU1PMkc3czdXMGZjMS1BRmQ5ZV82QlFwUTA5RWFvakJJUWRDeVFkUG1xMUhzMTdiZGtRcjlNNkZHbERreUhMNVYxVUlzbmNwcURkdFoycmZQel9MY0NHNmotbnZHc0d3TlV0eWMwMkRjSG92R0RIRllIQzUtVHBZUzZjRFg?oc=5",
+        "timestamp": "2026-06-11T19:28:20",
+        "timestamp_display": "11. 06. 2026 19:28",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Chodící větrák z dětské kresby",
+        "summary": "V programu MyMachine se z inspirace dětskou kresbou zrodil inovativní chodící větrák. Tým studentů a odborníků přetvořil nápad na funkční prototyp, který kombinuje mobilitu a chlazení, což ukazuje sílu kreativního myšlení a podporu mladých talentů v technologiích.",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOTdPLU5GU2NaX3lXR3N5Q1BXZFNPYUU3UWhKNnJYOXo5eDc1a1hXdHMtdU8tbU9NMFpDV3h2VUQ0WUc4Yk5kbVFmWUtMSVNtSGFmT2plbG80cHBQelFHUk00aWRycDlBV0JOUjZUOHoyeHRZcVZQRWlyd3dNMEx5MExuTHdBT0ZLeFRLazhnSi1nWXVtQUFDSzVCZTQ5LUVycXBXY254aWpyUWh2WThqV09YSHphRWpGVm90Zg?oc=5",
+        "timestamp": "2026-06-11T14:06:00",
+        "timestamp_display": "11. 06. 2026 14:06",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Mamutí DNA objevena ve zmrzlých veverčích výkalech",
+        "summary": "Vědci získali cenný vzorek mamutí DNA z neobvyklého zdroje – zmrzlých výkalů veverek. Tento objev otevírá nové možnosti pro studium genetiky vyhynulých druhů a může podpořit výzkum v oblasti de‑extinkce a evolučních studií.",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVXQzMmZGVkJsQzRtR3VVeDQ1YmNQMjM0M3VfZTlLdGtpUFJRNDVWZkMxVG9wdTVRQ1dJakxfTHNTcl93SzNRWWtpTjM4NF94V3NHcFczRXpqOEE1QWFBdVlGMG1mWEJEeUZ0cUhNNEQ0cDdCUmZYZDNqaExPS294UG9jTWxOdjhObTlFSGFfOFIxX0FHSTgwVHpnRVk5ZnZXTlhNZlYtZWdoOXMyVGV5WjVVUVB4SUhHeEwtY2NZWXN4NXlJSXhzWWJHbEMxSVUtaExnbjdB?oc=5",
+        "timestamp": "2026-06-11T11:27:00",
+        "timestamp_display": "11. 06. 2026 11:27",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Český fond investuje miliardy do humanoidních robotů",
+        "summary": "Český investiční fond založený společností Rockaway shání miliardy korun na podporu vývoje humanoidních robotů určených pro evropské továrny. Projekt má podpořit automatizaci výroby, zvýšit efektivitu a posílit konkurenceschopnost evropského průmyslu.",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQjNIWUVOWEg1aVl6SmJieGhSQ0w1MmtoaHRyelQzQWVmZkVWckVFbnlRdWpSMTIwVGxvTnhBdUtZaHdVaE5LSjVvaHBqTTFVNEJVVHB1VE5obldSaUZ5ZFBLQW5zTUcyTXh1QmE2eUdIWmhGaDdMUjJJUWRZbW9xOGIwNUhBdGtZZlRzd29PUm5XVUdPZ0pMOWtCSmxSY09la0ZNV1VmUkQ5dXB2RS03RzMzY0dWRW1rZ2JNRF9fTXNCZ0lBV2xV?oc=5",
+        "timestamp": "2026-06-11T11:00:00",
+        "timestamp_display": "11. 06. 2026 11:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice do druhého domova u Lago di Garda",
+        "summary": "Forbes Česko představuje lákavou možnost investovat do nemovitosti u jezera Garda, kde se spojuje výnosná investice s exkluzivním životním stylem. Článek popisuje výhody druhého domova, potenciální zhodnocení a atraktivitu lokality pro české kupce.",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQX3FiV2ppbGNCX3RsMXQ4T1BCRXBmYkVqVnRGOWRYd2dvNnVGb250MHFNQlpPTmwzRnJQSnZJWU1TdTNWcXFtNHJWUzYxVEcyb2RPanhjS0kxMGlfd3BibHhHS2N6d1gxc244ODhaWlMyRXpiN2hQVDBkQlNIOXYyWWhrNWlsY2NXWWkwOEpIVEFzeFJm?oc=5",
+        "timestamp": "2025-11-20T08:00:00",
+        "timestamp_display": "20. 11. 2025 08:00",
+        "is_new": true
+    },
+    {
         "category": "Věda",
         "title": "Objevili 1200 km dlouhé velrybí hřbitovo",
         "summary": "Vědci prozkoumali dno Indického oceánu a nalezli obrovské hřbitovo, kde se rozkládá až 1200 km dlouhý řetězec velrybích kostí. Tento unikátní nález poskytuje cenné informace o migracích, úmrtnosti a ekologii velryb, což podpoří ochranu těchto ohrožených mořských savců.",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQlZ2WUpjZDRGWUZ4bW1aQmJrRFl4MzRwMnkyQjZMQ19uWEd2UDVCS3NybmNLbmYyaExiN0ZORkc4RVlMeTFBYlp5VzZKbV9Bd1RJOTVKMm8tZVBLZm9xbXFaUXYxS0phVWNwV2VKTUZMX0tyVjR5SlFZTDlIRU5QZ0NRYmdReUk3eVliNC1Ja2lSR1dGT0xNRy12ZTBlTmI1S1FOUWRBeGZ0Rkp1WlBiaDA3amtDZnNjbEprUA?oc=5",
         "timestamp": "2026-06-11T08:58:00",
         "timestamp_display": "11. 06. 2026 08:58",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -15,7 +105,7 @@
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQU2luc3lISzhHR3dtblVjZXlTMkFtMVRzZVM0bDk0Q2hMMDQ2ZGxZalp5SmNJUzRDSjhTcHZwNnN6X0xEQWpFZWFoZ0h1OU0zMzNnWFJ1bXRZQk51QTA5aGxsME5pRjVMWHJPV1NoM3g3aWo2dW1aakZvLS1EVG5lN1VKNmEteGVlUXc1Uy1XY1o1SjE2WjJ3bGxTM3RFczNQak8xSU9Hei1oQkVKOEVqU0k2eEdkUGtPbUF0MUVUR3k3MjJzb0p1eTlTZ2Q5QVk?oc=5",
         "timestamp": "2026-06-11T05:00:00",
         "timestamp_display": "11. 06. 2026 05:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,7 +114,7 @@
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbHJleFVqdHN6SlYwZnd4bDNmdU1xS0I5Z1RKUVhHazlOdy1vSTJ6dXYyOFR6Zm41R1VseGFGLXFvS3lXeFJOODl4YkdVdGxJTUhPeWFwTHJUZlBmMGMyTmMxZUk1ZV9Ub0NLVlEzdXc5YTNFTnBkbTM4Ri16bmU3QXdUYk1VRWxWQTNYdGgxUE5MallJRG85Z1RnQmpBMGhBOVB0SjN0Um9IcDJoZTdVRl9jT2hkUmMwNkFlZQ?oc=5",
         "timestamp": "2026-06-10T13:38:00",
         "timestamp_display": "10. 06. 2026 13:38",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,7 +123,7 @@
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbnBmZmZDVkg4eEE1RzdaUDY1ZlNyU2pwLU56U2JTc29NWmRJbEItemZOOTI5RjJWTndyS3JvelNFRkVEcVVNZGdpQm1YWVVyTUtqX3l3ampxZFhXbmNCWmFjeEpoMGtxdnRrU081dHJzTFZzcTM1dHFQR3NHWXVLZlpxSUNmcXhzNy1Pc2I4b2ZCRzU4YzlpZnZqQ0FxYzloUTZBZkNJUS0tNG9nWFhyNTc5VWFqb2pFNFdqVHA1SFNSd3QtN2F6VHhJOUtQeG1xakZwRk1waE1CeDNUTjRLcVhWU3J2RW9RS1Jr?oc=5",
         "timestamp": "2026-06-10T10:00:00",
         "timestamp_display": "10. 06. 2026 10:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -42,7 +132,7 @@
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUThyRGhIZkxWY3pmQnlPU1BUdjNzUTFrdFBSeDg1dV9EQXd5QzJuT3JoeDd4Q1A5R0xmQnF4c1BpbVFhcFdCNEduM3JjZzFKblFmc1pfUzRaTTFpSWYwcGpTVzU5MTFHTk04amh6MVEwa29FNjFuWFdIZF9QamdWa09RWHVUZnpyMVcyZGxFdVNuOUljajZkcXFkNEtFMjBTZWhWVUI1RUpFZV9NekhNa2RITDY4SUJh?oc=5",
         "timestamp": "2026-06-10T09:48:27",
         "timestamp_display": "10. 06. 2026 09:48",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Společnost",
