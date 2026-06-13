@@ -1,12 +1,102 @@
 [
     {
         "category": "Byznys",
+        "title": "Česká výroba léků proti obezitě a diabetu",
+        "summary": "Podle ministra Koláře se rozvoj výroby anti‑obezitních a antidiabetických léků v Česku nejedná o jednorázovou investici, ale o dlouhodobý projekt, který posílí postavení českých firem na globálním trhu a podpoří domácí farmaceutický průmysl.",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdm5YODczeFdYLUhQbm9CcHctcklnWlh0MmZuOWlHeXY1YngzNXlpUDdTQlRNQWk3TWtLQXVmMThPenJ5YzVXUFFzeEI0Tkt1M2UwRTNFN0VFYTRUN1JUdHd0ZXgzSnBFZ2FyYXpOeUlhZ2I2dTNDRHJTRzBSeDJ3NlNZQWZvTnk0VDZQcko4S2xkZDFjeThObl9aNy1oSXhvVjYzTTJ5Nm5CbG9TTG9ieXY5X3I3QmhtaHdvMzZQajRVNUtYT01N?oc=5",
+        "timestamp": "2026-06-12T20:12:00",
+        "timestamp_display": "12. 06. 2026 20:12",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Studenti ZČU postavili elektrickou formuli",
+        "summary": "Tým studentů ze Západočeské univerzity vyvinul elektrický závodní vůz a připravuje se na jeho první testování v Mostě na konci července. Projekt ukazuje inovativní přístup mladých inženýrů k udržitelné dopravě a praktické aplikaci moderních technologií.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfNWJGWncwZU9waHcyNmgwMEpTRXBxTnphejYxbTN1ejd2WE9VcG9TXzI2YXhFcmFEYmFoNEpOcV9TeXFrZkozWHJBZk40Mm9KUVNn?oc=5",
+        "timestamp": "2026-06-12T12:27:00",
+        "timestamp_display": "12. 06. 2026 12:27",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "SCF rozšiřuje investice do Rumunska",
+        "summary": "Česká investiční skupina SCF oznámila vstup na rumunský trh nákupem několika retailových parků. Tento krok posiluje její regionální přítomnost a podporuje rozvoj obchodních prostor v Rumunsku, což přináší nové příležitosti pro lokální podniky i spotřebitele.",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUTlSRkVidndqYm85SFljZHZ1b0YwWjQ2TkVkYmxuelpxSWkwYmduSUZ2TlNvR0gtYklHYm1vdXIxdlUtd1Y2aWFmdzdaVVpTcFI5dXZoMmYxUzlIdGQ1QlMxWmZERnhUelpPSGF4bW45LWpjLUIwQXFIODNBQUpRZ2d6QWNjVWhDQTRybVY3MEs0RkNtRElhYnZ3cS1EZVRvcEdCVkZoNjlKdFUxX0pfTW1hZlRYSmVhenB6bTZLdFk?oc=5",
+        "timestamp": "2026-06-12T12:17:00",
+        "timestamp_display": "12. 06. 2026 12:17",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Péče o zaměstnance jako konkurenční výhoda",
+        "summary": "Článek popisuje, jak firmy v Česku investují do zdraví a pohody svých zaměstnanců, což zvyšuje produktivitu, snižuje fluktuaci a posiluje firemní image. Tento přístup se ukazuje jako strategický nástroj pro růst a dlouhodobou úspěšnost podniků.",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNT28xV2hGWnZzTnBIRlRQanJFOVRGcldhQ2lzQnlEWFJreXhUZ1h3TVZTbHVYU3lvNExISXNXZFhRRWZ2amhtOTR5aXdwU2V6VDF2cmNNSDFTczdJM0h3OTJYckt3RXRLeW9GTDR4Ty1aaGt0UjlRQVFnZXN6NEd5ZEdBQXRrTkJBc1pyTFhXa3dleTVFZUE1RWk4TUljTkQ0OGhKbnpyU1dzOXl5VEZTZENfUEN0QzdmNkE?oc=5",
+        "timestamp": "2026-06-12T12:08:00",
+        "timestamp_display": "12. 06. 2026 12:08",
+        "is_new": true
+    },
+    {
+        "category": "Medicína",
+        "title": "Nové hubící léky vyráběné u Prahy",
+        "summary": "V Praze se zahájila výroba nových léků na hubnutí, které slibují nejen efektivní snižování hmotnosti, ale i potenciální záchranu života dětí trpících vážnými metabolickými onemocněními. Vojtěch zdůrazňuje jejich budoucí přínos pro zdraví mladých pacientů.",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRUs4R1dTU0RSdG5kRzZRT0RnM293S3V4cV96MXBlUzN5WDRWWmlzQlBkMzBtY1hWSEtNby1POE9KTmRUM2RNN0RsS0toRm9rVXFINlQwUGVNN3RWRFpLOVgwWWZpdzItME1hcUFkWEN4aVp0MF9Vd29TY0NCNUM4V25aVzdJaWRpQkdWMFBoRmdmOENadGpZbU5IR05XdWtOZmFLY0ZmZ0s0UmNhRDBnVC1GVzlUeHlITFJSZ2lRUUphYTBGWFBQaDJNOTBhUm5RSHc?oc=5",
+        "timestamp": "2026-06-12T10:45:00",
+        "timestamp_display": "12. 06. 2026 10:45",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "SCF kupuje rumunské nákupní centra za miliardu",
+        "summary": "Česká investiční skupina SCF rozšiřuje své působení do Rumunska nákupem dvou nákupních center v hodnotě téměř jedné miliardy korun. Tento krok posiluje její regionální portfolio a představuje významný byznysový úspěch na středoevropském trhu.",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNm9Qb0ZjeXhWUk5xdTVnVWJUQi03THFVQjJMSFFJRU5oOHFCOTk3b0hKUy1lbFYybXJHX3BDcC1QS19rQVpHSVJ4RHpTdGVlc1pWdEJ1a0xpYi13YlFVZVpvTVNGMXRPYlpPWHFFWmRqNHR2UzVVdXl4ZjM3a0xMazJuN1ZSOUJ3Wkc1VV9udmdabTJRRWdwaThyUFQtczRfRzJHZ0xGSkdRcHM?oc=5",
+        "timestamp": "2026-06-12T10:17:12",
+        "timestamp_display": "12. 06. 2026 10:17",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Mews roste díky silnému Česku",
+        "summary": "Zakladatel českého unicornu Mews tvrdí, že úspěch firmy úzce souvisí s rozvojem České republiky. Podle něj silnější domácí ekonomika přináší lepší podmínky pro růst a expanzi společnosti, která již dosáhla dolarové hodnoty jednorožce.",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMk82OG9DQWpDOEdYWGJMamJ0TFlQUXhzMXhuYV96ZkYxZjk5S3R3VVl3Ul9tcEFmZEtqN0Nwb1ZpM05oX1k3aEQ0QTc4ekstWUVUby0wdFBsUm9HdWpHaU5Bd1hSTWUyd2pLWVpzYmgzOGRnVXE4ZnFZUl8yTDRpT2ctQVJFcVl0Q0tHOURTZjExdjhkc2dZRHRLc21kTDZP?oc=5",
+        "timestamp": "2026-06-12T08:16:45",
+        "timestamp_display": "12. 06. 2026 08:16",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Česká spořitelna investuje do efektivního nákupu IT služeb",
+        "summary": "Česká spořitelna financuje projekty zaměřené na zlepšení procesů nákupu IT služeb v korporacích, kde jsou časté neefektivnosti. Investice má podpořit modernizaci a optimalizaci výběrových řízení, což povede k úsporám a vyšší spokojenosti firemních zákazníků.",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeGRRbmI3cGZHWTZ3VzZ0bVFtb1JkYUwwdzZNMmYzdDBDZE9jUWRIcTBJWV9ZT002dnNtMTVGUjA5TTE5bDJVUF90cXpTdVVpNWpFaXRJQ0hRMDRiUWFPMDZVdmtncHVzM1F5YUV6OTUwU1NwNFJnaWY5UmFVbTRVWEVPZUZsaUlzV0ZiVHpucGhzanFFaVk2MDhBMGhMZ2tBLVRxMUhGNG0zOGUzc3dCUTV2Wk5UQQ?oc=5",
+        "timestamp": "2026-06-12T07:20:58",
+        "timestamp_display": "12. 06. 2026 07:20",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Fortuna vydává 1,7 mld. Kč dluhopisy",
+        "summary": "Fortuna úspěšně zahájila emisní program dluhopisů v hodnotě až 1,7 miliardy korun s úrokem sedm procent. Tento krok posiluje kapitálovou strukturu společnosti a podpoří další rozvoj jejích aktivit.",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTl80bmVIVU1qejE1aVE3TFVhejVxV3hZTHJ4Z1hvSHB1bTdpVXdMRXRETW1vOUt6WmV4Q1dqNVlNbG1PR1JkaV9fTS1EV182cnYwcjFRWTJLWU00QUVJQWd4MnItVFZVclFxSE1BUDVXRVVTWFFEZEVaOE5zQWhrVHlObkNBd0RmNVh3WjhwTlhvYUo4WWYyWFFXMA?oc=5",
+        "timestamp": "2026-06-10T17:49:39",
+        "timestamp_display": "10. 06. 2026 17:49",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Jiráskovy sady v Příbrami po rekonstrukci",
+        "summary": "Po dlouhé době se v Příbrami znovu objevily reprezentativní veřejné prostory – Jiráskovy sady prošly kompletní obnovou. Projekt zahrnoval výsadbu, úpravu chodníků a modernizaci vybavení, čímž přinesl obyvatelům i návštěvníkům příjemnější a bezpečnější prostředí k odpočinku a volnočasovým aktivitám.",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeng5UmZDR0RUR1N6NEtDVGJSdVVoUVVpQnJrVVRVWDBOY0dVd3lQRmoxdURFSVVQOE5EVVVNb093TXM3eWpINEpXWnVGTko5NmVPM1Y3dERTcmxTbDVJTlpKd21uSWxzQ2R6ZVQ0MVp4UE1GSnRiT09hc0FHMTJFdGY4UXQxUEJoYVBSVE42UjFGdTJOQXdSVzBpRUhPTUhSd3I3dk9LcjdaVFJpSnVSNW05TV9HMWpvaXZSUGZETFpTQ2RqWHF2OUMtOA?oc=5",
+        "timestamp": "2026-06-10T03:52:00",
+        "timestamp_display": "10. 06. 2026 03:52",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Slovenský IT‑booking startup získal český kapitál",
         "summary": "Slovenský startup zaměřený na rezervaci IT firem přilákal investici z České republiky, což podpoří jeho expanzi na nové trhy a urychlí růst podnikání. Investice posílí jeho pozici v sektoru technologických služeb a umožní rozšíření nabídky pro zákazníky.",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNmpBamNGcGxZNkJ6anVQWmRGS3JkLXVQNzhJUHJ2bHlDZUlrYU82REl1WWNNdnJGN2VBTE9SZENaQUNJLXh3aXVJRk9HdTN0aGJ2QTc1SVZaTkM3bUFjM0t6clJIWUZFSVZuaC1JcEJJTGF0QTl0MXpTZERxdU15bTdoeHUyRU5nZ2N2WElmSVVRMGhBanNpd3hQRl9HUG5I?oc=5",
         "timestamp": "2026-06-12T08:31:45",
         "timestamp_display": "12. 06. 2026 08:31",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +105,7 @@
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdjRTSFcxZG90MWZDUkNtZWR0YjgzWVZFdUotb3ItT0hoQ3h2eVhxSVRiUDB5QWsyVlJLaWlVLVdEUF9oTUJEZGpHM09vckhBRW5NZVJKeVVOLV9KR3hVbTdra3ZWSk9MWUczeFBaZE1JdHJsVXJta1FBY1ZfNkhGYkpyVUs4aXNxZG1EWHJSZW1FSWlQRHVsbFJUNmt4NER1bzVkbQ?oc=5",
         "timestamp": "2026-06-12T07:31:29",
         "timestamp_display": "12. 06. 2026 07:31",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,7 +114,7 @@
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWWQtaXNyZFE4RGxMZzllVy1VTHlEVy10SGtDY0lSMm16b0VsY05pOHBGd1hsWmpEXzJjTjY2SERCa2dOTjBCeVBFWTQ1VFRvbUJxYjBzeklOZVVRUENhOHFhalJvZk15ak1WVVh0c2l5YlhvdnlPeVZ1Yko0c21fNk5CWkdVUDJOdk9JZC1ubHlRQWJnVjVGZTR1UGUxdmN0d1J0U3I3OGxub3dtOGw3LTQ3YnVhaTROenFXQjB1UzZaRmx2Y0VWOA?oc=5",
         "timestamp": "2026-06-12T06:23:00",
         "timestamp_display": "12. 06. 2026 06:23",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -33,7 +123,7 @@
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTDkwMGVnWUxZTURzYm5RTjJlc2lZYUltNW92R1llQ2dVREhtc1VzRld3NjdZRDB4Wl9ZaUEyNlpXbjlBMjZxOFFRd3VCSlZjbUJfaXJHODI5MkRGUFF1SXNiZ3ZPVDZKZE45VGI4T0hxbUxwS0lvajRHdDZpRVZ3Zk90Y2FibmtOZFEwWmNvajNIV0dFOWY4RWktUGw0eWxtV090RVVBVWZsTnN1TWo1cUVWb2l4WHo3aUF5c0xYdjZ0VklFOXVmM3hDU0JUY0ZjSGU1RWhsZUswMTFRS3F5NUxGenE?oc=5",
         "timestamp": "2026-06-12T05:45:22",
         "timestamp_display": "12. 06. 2026 05:45",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -42,7 +132,7 @@
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaWRGajB5SS1CTGltX2c1dUIxYU5NNVJxUEhhTnlmT0F2UzZ1WG92OU5XcmNhQWNGR3dyeXlsRUZGMzVVN19uSEJJQ0szTWh0YjlaTWstTXFISzEzWlh2U084aFFUMlJ1M0FuTVVuaHM5OG9JZHBrZldSVGs1SWdZLTF2Wk13T2dxOGsxa2RQWWQ4M0x3Y3RVX1hDMXI4c0IwM0tOUHk0Wmg0UXVucnllQ1dDMVl6ekFhNlh3MVB3cEhaUFdHSUNZUEJBbw?oc=5",
         "timestamp": "2026-06-12T05:05:00",
         "timestamp_display": "12. 06. 2026 05:05",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -51,7 +141,7 @@
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT3dpanprNVRGZWdaaTJtVi0ydENPSHoyWFUzUGhTcERoOEtfUU1PMkc3czdXMGZjMS1BRmQ5ZV82QlFwUTA5RWFvakJJUWRDeVFkUG1xMUhzMTdiZGtRcjlNNkZHbERreUhMNVYxVUlzbmNwcURkdFoycmZQel9MY0NHNmotbnZHc0d3TlV0eWMwMkRjSG92R0RIRllIQzUtVHBZUzZjRFg?oc=5",
         "timestamp": "2026-06-11T19:28:20",
         "timestamp_display": "11. 06. 2026 19:28",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -60,7 +150,7 @@
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOTdPLU5GU2NaX3lXR3N5Q1BXZFNPYUU3UWhKNnJYOXo5eDc1a1hXdHMtdU8tbU9NMFpDV3h2VUQ0WUc4Yk5kbVFmWUtMSVNtSGFmT2plbG80cHBQelFHUk00aWRycDlBV0JOUjZUOHoyeHRZcVZQRWlyd3dNMEx5MExuTHdBT0ZLeFRLazhnSi1nWXVtQUFDSzVCZTQ5LUVycXBXY254aWpyUWh2WThqV09YSHphRWpGVm90Zg?oc=5",
         "timestamp": "2026-06-11T14:06:00",
         "timestamp_display": "11. 06. 2026 14:06",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -69,7 +159,7 @@
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVXQzMmZGVkJsQzRtR3VVeDQ1YmNQMjM0M3VfZTlLdGtpUFJRNDVWZkMxVG9wdTVRQ1dJakxfTHNTcl93SzNRWWtpTjM4NF94V3NHcFczRXpqOEE1QWFBdVlGMG1mWEJEeUZ0cUhNNEQ0cDdCUmZYZDNqaExPS294UG9jTWxOdjhObTlFSGFfOFIxX0FHSTgwVHpnRVk5ZnZXTlhNZlYtZWdoOXMyVGV5WjVVUVB4SUhHeEwtY2NZWXN4NXlJSXhzWWJHbEMxSVUtaExnbjdB?oc=5",
         "timestamp": "2026-06-11T11:27:00",
         "timestamp_display": "11. 06. 2026 11:27",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -78,16 +168,7 @@
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQjNIWUVOWEg1aVl6SmJieGhSQ0w1MmtoaHRyelQzQWVmZkVWckVFbnlRdWpSMTIwVGxvTnhBdUtZaHdVaE5LSjVvaHBqTTFVNEJVVHB1VE5obldSaUZ5ZFBLQW5zTUcyTXh1QmE2eUdIWmhGaDdMUjJJUWRZbW9xOGIwNUhBdGtZZlRzd29PUm5XVUdPZ0pMOWtCSmxSY09la0ZNV1VmUkQ5dXB2RS03RzMzY0dWRW1rZ2JNRF9fTXNCZ0lBV2xV?oc=5",
         "timestamp": "2026-06-11T11:00:00",
         "timestamp_display": "11. 06. 2026 11:00",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Investice do druhého domova u Lago di Garda",
-        "summary": "Forbes Česko představuje lákavou možnost investovat do nemovitosti u jezera Garda, kde se spojuje výnosná investice s exkluzivním životním stylem. Článek popisuje výhody druhého domova, potenciální zhodnocení a atraktivitu lokality pro české kupce.",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQX3FiV2ppbGNCX3RsMXQ4T1BCRXBmYkVqVnRGOWRYd2dvNnVGb250MHFNQlpPTmwzRnJQSnZJWU1TdTNWcXFtNHJWUzYxVEcyb2RPanhjS0kxMGlfd3BibHhHS2N6d1gxc244ODhaWlMyRXpiN2hQVDBkQlNIOXYyWWhrNWlsY2NXWWkwOEpIVEFzeFJm?oc=5",
-        "timestamp": "2025-11-20T08:00:00",
-        "timestamp_display": "20. 11. 2025 08:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -12831,6 +12912,15 @@
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUVEycTc4RHdSNjdONU16QmZYaWpVUzh1SXVzYjl5RnoyWVFEMjZBQzcxRElNdEtYSy1OOEhOVWI5ZHpmRm80ZG41UTVycDNEQWxhekJZeVJaaXE2VGMzRmRhRHdZQk9LeHBfX2t5cmFLRnFVY2lXQmE4dkNhc0dQY3Q0U1VaVG4yUGhmTjJRdUxoYnNrakhyeXRCM2JwTXZKSWFkZUJVbjdmQkZ6UFE?oc=5",
         "timestamp": "2025-12-02T08:00:00",
         "timestamp_display": "02. 12. 2025 08:00",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice do druhého domova u Lago di Garda",
+        "summary": "Forbes Česko představuje lákavou možnost investovat do nemovitosti u jezera Garda, kde se spojuje výnosná investice s exkluzivním životním stylem. Článek popisuje výhody druhého domova, potenciální zhodnocení a atraktivitu lokality pro české kupce.",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQX3FiV2ppbGNCX3RsMXQ4T1BCRXBmYkVqVnRGOWRYd2dvNnVGb250MHFNQlpPTmwzRnJQSnZJWU1TdTNWcXFtNHJWUzYxVEcyb2RPanhjS0kxMGlfd3BibHhHS2N6d1gxc244ODhaWlMyRXpiN2hQVDBkQlNIOXYyWWhrNWlsY2NXWWkwOEpIVEFzeFJm?oc=5",
+        "timestamp": "2025-11-20T08:00:00",
+        "timestamp_display": "20. 11. 2025 08:00",
         "is_new": false
     },
     {
