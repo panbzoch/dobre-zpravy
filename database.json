@@ -1,12 +1,57 @@
 [
     {
+        "category": "Byznys",
+        "title": "Herbalife investuje do chytrých wellness technologií",
+        "summary": "Společnost Herbalife představila novou řadu inteligentních wellness produktů, které využívají moderní technologie pro personalizaci výživy a sledování zdraví. Tento krok posiluje její pozici na trhu a ukazuje inovativní přístup k podpoře zdravého životního stylu.",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcG9kNnFjQmd4TXFRV19lY0txNmFvMnBCdmM4eHo1djNScGI3MjNMZUlXOFRXUm12UXBQR0FjNUIwZXhmdkZBenJObzNSZzNsU0Q5Sm9MUndMV1dGSWZ3V1NHUHYtWEZEMUVsMTdEd1FrUTJqWjE5S2RUZ3Y3UnhvTXJocw?oc=5",
+        "timestamp": "2026-06-19T07:44:11",
+        "timestamp_display": "19. 06. 2026 07:44",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Startup s ERP dosáhl 850 mil. Kč",
+        "summary": "Český startup, který vsadil na rozsáhlý ERP systém, během šesti let vybudoval firmu s tržbami 850 milionů korun. Úspěšná digitalizace procesů podpořila rychlý růst a upevnila jeho pozici na trhu.",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNW4tanc5MlpiWldpWE1KUXZyMVVxcVZKWHQwY3MyNklYQm40bzdtbnowbXhtTFI1NUNSb3VKMlRGZ0gzWFVJZWszZHptd29obk1OcGRGdHRIQkREb1NraFNGN3dJbU5RTDRldTk0RlVPazMtSV9RZkp1dUtrbU1mYnFLYkhwaHJtbFp6aV96YWQ4QzcxRnVJUDNlZlA4bkxwZG1v?oc=5",
+        "timestamp": "2026-06-18T21:41:13",
+        "timestamp_display": "18. 06. 2026 21:41",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Stavba nového pavilonu v Olomouci vstoupila do další fáze",
+        "summary": "Výstavba nového pavilonu olomoucké nemocnice dosáhla významného milníku – zahájila se výstavba parkoviště, lůžek a potrubní pošty. Projekt posílí kapacity nemocnice, zlepší logistiku a přispěje k modernizaci zdravotnické infrastruktury v regionu.",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONDlYdGxjYUpyZ3dJXzcyRGRtLUEyVUY1RWVnTlNkU1dsRUo3c2lHV0NOOVhaXzVfTWQ1Ymw3SXpoVVpYZW9nYnhQbHZpREpKeVNieU5zeGFKMmZ3enN5ZWllazR1amwxTEtZa0xlbExNT21mZFQ5UzJzR2tmaFd2XzZ2eEQ2bENYOHlHa2JYcFZEb1NKYWlIX3VRNGxDaEhkLS1YdjNGSmdvcHlZMGYyR0ZuNXJQclFQSGdtVEdHZEZPYmpTcEJudFRFYw?oc=5",
+        "timestamp": "2026-06-18T20:53:00",
+        "timestamp_display": "18. 06. 2026 20:53",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Polské vědce zachytily vlky útočící na zubry",
+        "summary": "Vědci z Polska poprvé zaznamenali na video, jak vlci útočí na evropské zubry, čímž poskytli unikátní pohled na predátorské chování a interakce v přirozeném prostředí.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LTXd2MmFxSTItdm1jemZiNVA0UHMzRlI5bERRX0FHc0xoaU1sZFpYbHRBdTRGb3UwOVZLMTBTcHJVQjZJZFBPRnhXRFZUTnRobU5F?oc=5",
+        "timestamp": "2026-06-16T15:24:00",
+        "timestamp_display": "16. 06. 2026 15:24",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "AI přinesla nový impuls podnikateli",
+        "summary": "Tomáš Čupr popisuje, jak se po těžkém období díky nástupu umělé inteligence podařilo oživit jeho podnikání a připravit se na zásadní změny v odvětví. AI mu poskytla nástroje a inspiraci k inovacím, což vedlo k růstu a novým příležitostem.",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWmxDU2R2ZmpYalZWN2Q4TFdRTF9BcGpHZUNxdUVMa2pIanBIWGxqTUplNWE2Zkx2azlyYjlfYXpndng0RXVkOFZ1TVBRbFViOE95R1gyVmtaTGI2dDVNeXBJT2k1THJSSTNtNU5tTEpCQlQtZHJiSmNkSG1IRUp5djV2Rjh4di1JVHg3WHRiY1hEYmo2VVJiQ0VUN3M5cTJxUFZ2bEMxLW5HQkk3Wmt1ZlJR?oc=5",
+        "timestamp": "2026-06-09T23:02:00",
+        "timestamp_display": "09. 06. 2026 23:02",
+        "is_new": true
+    },
+    {
         "category": "Věda",
         "title": "Menší pole = méně hrabošů, nová metoda boje",
         "summary": "Vědci zjistili, že menší rozlehlost polí snižuje výskyt hrabošů, a vyvíjejí inovativní, ekologické způsoby, jak omezit jejich přemnožení. Výsledky slibují efektivnější ochranu úrody a menší zatížení životního prostředí.",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMTB6OEE5am9kdTFZU0VqeW1Da00weTlFOGk1SkVJZE5KT1F2SExEa1ZnWF9sa1M2ZTR1am42TFNURU5qSmUzd1BRZ2l6dGJjUnlCOW1QOXVkczdRRHBEMzRUX0c3M0Y0YXY1S1k3MFVvS2VyeXdoS2E0UFZ3ZjdCQ1U1Y1V6eXI1Vkp2cUVHWmpKZEg3aTdrOVZwUWtiU3d0eUE4OGJmTzZDcUNqY2xxWTVJNDRNa3dqT0hZWFFmbTUzTWROR3hEaw?oc=5",
         "timestamp": "2026-06-17T11:57:00",
         "timestamp_display": "17. 06. 2026 11:57",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +60,7 @@
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcXRJN1RpY1prN2hPVTNVMFRTalhoYUdhY0w5R21OX2dDVmRISGlLRmp4VUFWZ3liVkJnRFhlRVBMX3FMUWJlcnZZMnRpbVBRRGc1UUpnUUktY3lpekFiMTRjUVZCMm80X3ZaQ3R2Z3p3U21KRXJ6R1o3dGZ4N2ZMMHpZWGhSZVZOam9DX3ctdm1CUGQyUHZhWlYtSmRMcWZXVDVOWVF5c0ZOdjhwbTVqaGpGdXJELV95UGNkdFRuNkRnd1pRVFE?oc=5",
         "timestamp": "2026-06-17T11:44:00",
         "timestamp_display": "17. 06. 2026 11:44",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,7 +69,7 @@
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd1ZPSXRvUVVrWTFvSTRXSVNDbG9ENnk0czRZTmJDNnlDand1VUVxZFVQMDFmcnZCc0tMdkk5X1lhdkZaeEpOQzMtN2wxb1FqUXM3WXNhbW5vb1ZtT0dfbnRyRXN0UjFadHBCU3dmWGFjdm5VUkhIdXlHRW80VDVEeVRQQW5PMUk3bnVoSE94YjJKYm83aURremExRVhfdTZTeERiT2t0R00zUDBaNDFzcWh3RktyLVNJVHZVMnViTkhMVzJIQkt2eg?oc=5",
         "timestamp": "2026-06-17T11:39:00",
         "timestamp_display": "17. 06. 2026 11:39",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,7 +78,7 @@
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUTdyWFJaN2NFU2ZxN1VYRmY4VlpWLU9XVEJjWEU5QjdXaTFXWXBPdExvWU1PVGtUaWt1aDg5RVFLd0YtUjdVM0NTclV5X0FobjdocExfSzBpcmpUS3lZTkxTT3pDanRnNTNUcEZjem1EZTQwLWJOTkNSekFIX2IzNkw3b0xHRmtjODNyc01CeEdMamRTdktBY2VveEtyM1M2VG5kNjRqeVJ5dTRIbmc?oc=5",
         "timestamp": "2026-06-17T11:03:00",
         "timestamp_display": "17. 06. 2026 11:03",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Společnost",
@@ -42,7 +87,7 @@
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaGJTZHhITFl2LVN0eHJWMHZ0YzB2dHU5YnZmVUtzUlRDSmRiNENkdHpIZFBGMGRTVm93Y19BME8xWEpvTkl6T2RWd243QmxycE9HcnRtX1VsUkdCY2tyd181WHdLWjFVRDdoOFhVSUtzd3NCTTl1YmttaDZFSDJfMmU4cVZ6WWUydmVnNi10TUFzVHNvSTBpVTVuclpJMmt6UElibHYtNmE4QUZNYnUweEN6N2xSZ3c5NjAyd3pGSzV1b2haU0xTaUZ0dmdTVmc?oc=5",
         "timestamp": "2026-06-17T10:24:00",
         "timestamp_display": "17. 06. 2026 10:24",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -51,7 +96,7 @@
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaWpaRk9qZ1pqQVhmSE1EMGtNRFpaSllYaVJRSGd3Q3Q4c0tjNFZSSENDRmMybHRHc2tBZTJXaTR6dkRzdW83a2VLN1JTSWRBVDFhUGZJSm1sNjZ1eWd2OXVneUd0a2VucHBodjJ2SDFuYy05b2xSRXFjLVBrWGdxcEFPalZiSkU0Z1FDM2FMdG9YRjh3MGhlNFJNenMyXzFidVhQZGtwc082a2lTM19lSjJ2UDhMYkp6MFNTVHN1LUVhT2F6OXJQNUhB?oc=5",
         "timestamp": "2026-06-17T09:56:00",
         "timestamp_display": "17. 06. 2026 09:56",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -60,16 +105,7 @@
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84MUNQem9UUU1BeTlJR3d4LUtVUWJuTDh5dE03VkRvTE0xdjJqY2xIY0ZXN1ZJVGlhRm16SDJqMGV2ekhFZEoyR3EteVY3S2RvRExJ?oc=5",
         "timestamp": "2026-06-17T08:25:00",
         "timestamp_display": "17. 06. 2026 08:25",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "DRFG investuje miliardu do chorvatského centra Lumini",
-        "summary": "Investiční skupina DRFG oznámila koupi nákupního centra Lumini v Chorvatsku za více než miliardu korun. Tento krok posiluje její přítomnost na jihovýchodním trhu a představuje významný rozvojový projekt v oblasti komerčních nemovitostí.",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSDlrc3EtaGFiSjZIWmV1QjQ1YmJYWmg4bFhTUnFsck1VLUpiMjZuLWdqS2VtRUJ6R0dTTkl5MnFSalZ2SHFhT1BKbFo4dmRiVmxldW0zSnpLcGZBcVVUX0hMbm12X3haTVNYWThodFRDWEJOZU1BeldrZW5BekZEazBRTEZEaHJJZnk5QURDWG9LR1o5WHJqZU1zQXJiODZScmt1Y3B6VjJJeVE1Tmx1dzVXQ2owS2tjdzdrRl9ibVJaOE0?oc=5",
-        "timestamp": "2026-06-16T13:15:00",
-        "timestamp_display": "16. 06. 2026 13:15",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -96,6 +132,15 @@
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFJobG81bWFiSFEyNjFnV3NGUTZGYVg0RTl1U0kwTGk5UlRuYnpMM1RJOVZ6eVpxNGNtSG8tQUp0dXlYTHR1dy1jMzgtdk40Z1ZBWUJ5TXBVYjNMSnFzM2lNbEtYa29heHIyb0pqbXlYSnF3QUhuS21GeVhaN2NuNlYwSjEzcEZ6MjRjQ1I3TkVUZnFEWXI4ZTh0dTRhTnM?oc=5",
         "timestamp": "2026-06-16T13:29:20",
         "timestamp_display": "16. 06. 2026 13:29",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "DRFG investuje miliardu do chorvatského centra Lumini",
+        "summary": "Investiční skupina DRFG oznámila koupi nákupního centra Lumini v Chorvatsku za více než miliardu korun. Tento krok posiluje její přítomnost na jihovýchodním trhu a představuje významný rozvojový projekt v oblasti komerčních nemovitostí.",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSDlrc3EtaGFiSjZIWmV1QjQ1YmJYWmg4bFhTUnFsck1VLUpiMjZuLWdqS2VtRUJ6R0dTTkl5MnFSalZ2SHFhT1BKbFo4dmRiVmxldW0zSnpLcGZBcVVUX0hMbm12X3haTVNYWThodFRDWEJOZU1BeldrZW5BekZEazBRTEZEaHJJZnk5QURDWG9LR1o5WHJqZU1zQXJiODZScmt1Y3B6VjJJeVE1Tmx1dzVXQ2owS2tjdzdrRl9ibVJaOE0?oc=5",
+        "timestamp": "2026-06-16T13:15:00",
+        "timestamp_display": "16. 06. 2026 13:15",
         "is_new": false
     },
     {
