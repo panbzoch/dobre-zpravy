@@ -1,12 +1,66 @@
 [
     {
+        "category": "Společnost",
+        "title": "Nová náplavka v Hranicích: odpočinek i ochrana před povodněmi",
+        "summary": "Na břehu řeky Bečvy v Hranicích vznikla moderní náplavka s lehátky a kavárnou, která zároveň slouží jako protipovodňová bariéra. Projekt kombinuje rekreační prostor pro obyvatele s praktickým řešením ochrany před záplavami, čímž zvyšuje kvalitu života i bezpečnost lokality.",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMFhvZmtaOEl5bVRSMUNVc0pOS2R2MGpWek1TZ0ljMWQtT0U4V3RXWFdhUGdCT3ExWF9MUWVILVNjaWk1UlY1US1pdWVCVEsyOFlac3ZEZGlhMlY3NDljb1hpanR2Tm1UbmRramEzN1MzVGdRZmgtTXhVSWttMUZfbkhYM2s0R3FqS3VOY2YwR3NCOHgyWWgxaE9MWjhqRnRkWE1hRGkyZ3o1bnNPdjdXaVRKbDgxTGNFZ0x6Y1VYT0wtMGU3OVJJ?oc=5",
+        "timestamp": "2026-06-20T06:10:00",
+        "timestamp_display": "20. 06. 2026 06:10",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Českým firmám start Tour de France v Praze",
+        "summary": "Praha se připravuje na start Tour de France, což představuje významnou příležitost pro české firmy. Očekává se zvýšený zájem o služby v oblasti logistiky, pohostinství, marketingu a infrastruktury, což může podpořit růst místního podnikání a přilákat zahraniční investice.",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbERvbTNzQlAtLXBTLXd2ZFEzM2Nhc0wxbTg4V2hMQ2FQbXVzZWpVdzd1eFFpYXMtUDkwYUQ4MjU3Vk51eUswTjBWSEpRUjFkdzdPSFhRM3NYcHVmRGdJYnNtTDd0a2JLYmRqcnp1MF9aUWI2QTdQUHF2cjJpNThMeWZVbFFXUFhhVElzZUwyb29pTUFpUFRBM2c4cDVnY3pRNnNCbFZTUGlaN3NxT1hBdGZjdGNLQXlOb3cw?oc=5",
+        "timestamp": "2026-06-19T13:00:00",
+        "timestamp_display": "19. 06. 2026 13:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Fondy mění pravidla realitního trhu",
+        "summary": "Článek popisuje, jak se tradiční pojetí nemovitostí mění díky investičním fondům, které nabízejí diverzifikaci a vyšší likviditu. Představuje nové možnosti pro investory a rozšiřuje přístup k různým typům nemovitostí, čímž podporuje růst a inovace v realitním sektoru.",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUzAtNk1lOWRRNmkySzhON2JhQXRJRnFSUjV0RnQtaEJKSTg2Xzd3c1VpYXFCR3BzbWlTZEhwU0JJbGx4eDl6NlQtbHhwRkVfSmItVFliSUpTanlEMGU5VDVHbG1ocFVsNE9YMGlDazdzSjVnN2ktZExEb1Q2ZDBqbDNIc1ZwNkZXd1U5SnkxdjFXVUVyMEREeG14c2E1UDYxdzdpTlN1b3pqa3M5S0NHdjhnREFISWRWOXc?oc=5",
+        "timestamp": "2026-06-19T12:00:00",
+        "timestamp_display": "19. 06. 2026 12:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Metrostav vyplácí 435 milionů dividend",
+        "summary": "Stavební gigant Metrostav oznámil, že i v letošním roce vyplatí akcionářům 435 milionů korun dividend, přičemž výše zůstává stejná jako v předchozím roce, což svědčí o stabilním finančním výkonu a spolehlivosti společnosti.",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcFhKZWpHblhNT0tnaUpzRDFDOE5EMWs0RWlSRmZaQ1FYeXg0R0twcnRHb0R4ZzBwak8yTUlmWjBna2c0bDh6dGhIOXJ5R2JhUFRGSVh1YmhQbTZfVjlsY0ZNbl9pYkZTQmpOTWJ2bF9nOGpWZUN1U0dXajFkUGF2UFFHOTZKRG5Ld3hNWjlZbTdlTG9WREs5LTUyZk5VMU9hRndhb2RPdXd4QUpP?oc=5",
+        "timestamp": "2026-06-19T10:24:00",
+        "timestamp_display": "19. 06. 2026 10:24",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investoři a developeři znovu staví v Dubaji",
+        "summary": "Po období poklesu se investoři i developerské společnosti vracejí na dubajský trh s nemovitostmi. Podle nových projektů a zvýšené poptávky po luxusních rezidencích očekávají růst cen a stabilní výnosy, což signalizuje oživení realitního sektoru v regionu.",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcmlRX0QyU25NTlZvWmJqMEhyVThVeEVENXFPb2p2dnd6YzZ2Q3F2a3VDTVRYLWRBbGdJaDhXczZzN3RTLVc0a2M1NzFKNXJtSG9NajE4MGljT1AySnVKcHlLZmVVWE93WGNtQmc3SjNfZVdrOGNuY1VJVzIwQ3FvSXJON25JQ2VnT2dwbjZrRnVzVUg3TGROSVNoSmtjWnpnTHpNZG1CSTg2RTBudkI0YXhtZTNsSUZVTzg4ZE94dWR4M0JkdGc?oc=5",
+        "timestamp": "2026-06-19T09:37:00",
+        "timestamp_display": "19. 06. 2026 09:37",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Vědci zachytili první útok vlků na zubry",
+        "summary": "Polští výzkumníci poprvé zaznamenali na video přímý útok vlků na zubry, čímž poskytli unikátní pohled na predátorské chování v evropské přírodě. Záznam přináší cenné informace pro ekologii a ochranu velkých savců.",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRldRSWZWcGVEam1HdjFZZGRQR21veDVoRlc5QTNvaDV2M3J2U2lWRmJSY0M4emo5SzhBMXRRWEFDUlUxbFdoWlV4NUpkcUNlOEhpQm84MW1QSDczSmZIRkpsWldTVGdEN2Y2cEpYNU8wRWpteFZaYXdqU1hyNWppNWFtRnpndi1neWhzM25vTHhvdnUzUlJSUzRNb053dHFHX0ZmQ2NZSHVZUnBhb1psU2xadjlIZ1pJeEdV?oc=5",
+        "timestamp": "2026-06-16T15:24:00",
+        "timestamp_display": "16. 06. 2026 15:24",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "Herbalife investuje do chytrých wellness technologií",
         "summary": "Společnost Herbalife představila novou řadu inteligentních wellness produktů, které využívají moderní technologie pro personalizaci výživy a sledování zdraví. Tento krok posiluje její pozici na trhu a ukazuje inovativní přístup k podpoře zdravého životního stylu.",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcG9kNnFjQmd4TXFRV19lY0txNmFvMnBCdmM4eHo1djNScGI3MjNMZUlXOFRXUm12UXBQR0FjNUIwZXhmdkZBenJObzNSZzNsU0Q5Sm9MUndMV1dGSWZ3V1NHUHYtWEZEMUVsMTdEd1FrUTJqWjE5S2RUZ3Y3UnhvTXJocw?oc=5",
         "timestamp": "2026-06-19T07:44:11",
         "timestamp_display": "19. 06. 2026 07:44",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +69,7 @@
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNW4tanc5MlpiWldpWE1KUXZyMVVxcVZKWHQwY3MyNklYQm40bzdtbnowbXhtTFI1NUNSb3VKMlRGZ0gzWFVJZWszZHptd29obk1OcGRGdHRIQkREb1NraFNGN3dJbU5RTDRldTk0RlVPazMtSV9RZkp1dUtrbU1mYnFLYkhwaHJtbFp6aV96YWQ4QzcxRnVJUDNlZlA4bkxwZG1v?oc=5",
         "timestamp": "2026-06-18T21:41:13",
         "timestamp_display": "18. 06. 2026 21:41",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,25 +78,7 @@
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONDlYdGxjYUpyZ3dJXzcyRGRtLUEyVUY1RWVnTlNkU1dsRUo3c2lHV0NOOVhaXzVfTWQ1Ymw3SXpoVVpYZW9nYnhQbHZpREpKeVNieU5zeGFKMmZ3enN5ZWllazR1amwxTEtZa0xlbExNT21mZFQ5UzJzR2tmaFd2XzZ2eEQ2bENYOHlHa2JYcFZEb1NKYWlIX3VRNGxDaEhkLS1YdjNGSmdvcHlZMGYyR0ZuNXJQclFQSGdtVEdHZEZPYmpTcEJudFRFYw?oc=5",
         "timestamp": "2026-06-18T20:53:00",
         "timestamp_display": "18. 06. 2026 20:53",
-        "is_new": true
-    },
-    {
-        "category": "Věda",
-        "title": "Polské vědce zachytily vlky útočící na zubry",
-        "summary": "Vědci z Polska poprvé zaznamenali na video, jak vlci útočí na evropské zubry, čímž poskytli unikátní pohled na predátorské chování a interakce v přirozeném prostředí.",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LTXd2MmFxSTItdm1jemZiNVA0UHMzRlI5bERRX0FHc0xoaU1sZFpYbHRBdTRGb3UwOVZLMTBTcHJVQjZJZFBPRnhXRFZUTnRobU5F?oc=5",
-        "timestamp": "2026-06-16T15:24:00",
-        "timestamp_display": "16. 06. 2026 15:24",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "AI přinesla nový impuls podnikateli",
-        "summary": "Tomáš Čupr popisuje, jak se po těžkém období díky nástupu umělé inteligence podařilo oživit jeho podnikání a připravit se na zásadní změny v odvětví. AI mu poskytla nástroje a inspiraci k inovacím, což vedlo k růstu a novým příležitostem.",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWmxDU2R2ZmpYalZWN2Q4TFdRTF9BcGpHZUNxdUVMa2pIanBIWGxqTUplNWE2Zkx2azlyYjlfYXpndng0RXVkOFZ1TVBRbFViOE95R1gyVmtaTGI2dDVNeXBJT2k1THJSSTNtNU5tTEpCQlQtZHJiSmNkSG1IRUp5djV2Rjh4di1JVHg3WHRiY1hEYmo2VVJiQ0VUN3M5cTJxUFZ2bEMxLW5HQkk3Wmt1ZlJR?oc=5",
-        "timestamp": "2026-06-09T23:02:00",
-        "timestamp_display": "09. 06. 2026 23:02",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -114,6 +150,15 @@
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNFlXdExVeER4VE55WkVwcWJlSnFhaDh4UUYyZ25zdHFGX2xlSWtYdzd4V292am5NRGIzUVBUUi0ta0hvWVZpX01yM0hDTzNBYUlOLUt0VTNEUktsTVlYOFVvVFVXdExuRFd0NHVDWUlUUVVHcDJRV1VESXlwaVg0OXRWVmNEdHJRQjFibG50QmlWejd1LUtFamZleElQRjNxUmtqVWNVRGdLalhDUHZQczJuNA?oc=5",
         "timestamp": "2026-06-17T08:25:00",
         "timestamp_display": "17. 06. 2026 08:25",
+        "is_new": false
+    },
+    {
+        "category": "Věda",
+        "title": "Polské vědce zachytily vlky útočící na zubry",
+        "summary": "Vědci z Polska poprvé zaznamenali na video, jak vlci útočí na evropské zubry, čímž poskytli unikátní pohled na predátorské chování a interakce v přirozeném prostředí.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LTXd2MmFxSTItdm1jemZiNVA0UHMzRlI5bERRX0FHc0xoaU1sZFpYbHRBdTRGb3UwOVZLMTBTcHJVQjZJZFBPRnhXRFZUTnRobU5F?oc=5",
+        "timestamp": "2026-06-16T15:24:00",
+        "timestamp_display": "16. 06. 2026 15:24",
         "is_new": false
     },
     {
@@ -645,6 +690,15 @@
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeng5UmZDR0RUR1N6NEtDVGJSdVVoUVVpQnJrVVRVWDBOY0dVd3lQRmoxdURFSVVQOE5EVVVNb093TXM3eWpINEpXWnVGTko5NmVPM1Y3dERTcmxTbDVJTlpKd21uSWxzQ2R6ZVQ0MVp4UE1GSnRiT09hc0FHMTJFdGY4UXQxUEJoYVBSVE42UjFGdTJOQXdSVzBpRUhPTUhSd3I3dk9LcjdaVFJpSnVSNW05TV9HMWpvaXZSUGZETFpTQ2RqWHF2OUMtOA?oc=5",
         "timestamp": "2026-06-10T03:52:00",
         "timestamp_display": "10. 06. 2026 03:52",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "AI přinesla nový impuls podnikateli",
+        "summary": "Tomáš Čupr popisuje, jak se po těžkém období díky nástupu umělé inteligence podařilo oživit jeho podnikání a připravit se na zásadní změny v odvětví. AI mu poskytla nástroje a inspiraci k inovacím, což vedlo k růstu a novým příležitostem.",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWmxDU2R2ZmpYalZWN2Q4TFdRTF9BcGpHZUNxdUVMa2pIanBIWGxqTUplNWE2Zkx2azlyYjlfYXpndng0RXVkOFZ1TVBRbFViOE95R1gyVmtaTGI2dDVNeXBJT2k1THJSSTNtNU5tTEpCQlQtZHJiSmNkSG1IRUp5djV2Rjh4di1JVHg3WHRiY1hEYmo2VVJiQ0VUN3M5cTJxUFZ2bEMxLW5HQkk3Wmt1ZlJR?oc=5",
+        "timestamp": "2026-06-09T23:02:00",
+        "timestamp_display": "09. 06. 2026 23:02",
         "is_new": false
     },
     {
