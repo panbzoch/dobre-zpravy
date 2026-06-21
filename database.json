@@ -1,12 +1,48 @@
 [
     {
+        "category": "Technologie",
+        "title": "Ultrazvukové espresso šetří energii",
+        "summary": "Vědci vyvinuli ultrazvukový přístroj, který dokáže připravit espresso bez tradičního zahřívání vody. Technologie využívá minimální množství elektřiny a přináší chuť srovnatelnou s klasickým kávovým nápojem, čímž představuje ekologičtější alternativu pro milovníky kávy.",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNOW1JYnRXajM3NkN3ZVV6Vk9UYlM0WmJlcy1BdXFvU0s5cXoyYjRDT3FpTVdQWHhibG10YTc3Y2JWN2lRUU9OOVQwbFRKN2ZZVzlScFMyTUIzZGVaakJyUC1EMXd2czRZZjlRSEw1djRnVHZwSFNhR2VhNUdrbWFMcVhMaU5hOUZKQ2pSRG5kQ3VjWDF5bDk5ODIwMXphOHVBRzFXZlJDMzZTakh6d0xNalJHY295X0NlNXNhWG1LeTVHbmdsdldwQzAwb29rS0k3OFNETmoxN0ZpR1hkdzJ1c0EtTEtPVHdwWEltZUVsNGVMOUQwQ1hIUw?oc=5",
+        "timestamp": "2026-06-21T05:45:21",
+        "timestamp_display": "21. 06. 2026 05:45",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Biopapír z japonských nudlí udon",
+        "summary": "Japonský výzkumný tým vyvinul rozložitelný papír z odpadů po nudlích udon. Materiál je biologicky odbouratelný, snižuje plastový odpad a nabízí udržitelnou alternativu pro obalový průmysl.",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObnFDZTc3eWhJZ2t0cFlobkd0cHN2U1JDYmlQNkRybXY3MEd5TlhNckdRVmNDVklDZ29UUXAxa2tpdDREamZmOTZJbGJMSUxmS1NSdFp2d1JJajlrWVZmVG5sZk53Sl9SUnlVRkY5SXlxWG9ROFdrRUEwa2Z3YmNhd2FPZGZNYktNY19PN01pdVg5S3c0NURuQ3dweDdnLU5pNU4yUkp6VF9iZFh0ZU1jNGNYTDVnenVCMkdkblRVZU5CRXJ1YVhrcGdFRExUVDItRXlqMVpVY1JITlBCQzY5M3dn?oc=5",
+        "timestamp": "2026-06-20T19:22:00",
+        "timestamp_display": "20. 06. 2026 19:22",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Bezos představuje revoluční AI inženýrství",
+        "summary": "Jeff Bezos odhalil ambiciózní plány v oblasti umělé inteligence, zaměřené na vývoj pokročilých AI inženýrů místo tradičních chatbotů. Projekt slibuje posun v automatizaci a inovacích, což by mohlo výrazně ovlivnit průmyslové procesy a podpořit růst technologických firem.",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcjdRTDdLeWM2UkptVXZFMkpfNE5WOUY4VVRTZHpnX0ViX25yamJhbm9fb3RRSVZjUkR0TTdnMEtzNHFUZ1VJSmx6WVN4RXJqczhpOHBoUlhZOTR6M3U5RWczbVZEX2hLT0hIc0Y2NDZNaFNhSC1reXpSSUtZMXB2OE5vc0hqcVJrakladktRU2h1amd4eGJ3cjdJZktDU0tHOURDUHdhX0pvMjE4NmY3cGhkSFZfQQ?oc=5",
+        "timestamp": "2026-06-20T15:47:34",
+        "timestamp_display": "20. 06. 2026 15:47",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "AI odhaluje tajemství ohrožených rostlin",
+        "summary": "Umělá inteligence pomáhá botanikům identifikovat ohrožené a dosud neznámé druhy rostlin a analyzovat staré vzorky. Díky rychlému zpracování dat určuje faktory hrozící vyhynutí a navrhuje cílené ochranné strategie, čímž posiluje úsilí o zachování biodiverzity.",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPelUtOUVPMnotUTFrMGdPMXI3MlhyNTlFai1hSDRidGpnRHl5UkNJQ3MtdENSeXgyUlMwUG1QNGM5eVNmZlRPRk5XQnI5Q3puV3pvOVJ2MVBhbUFULUNXb1BmOE5iY09wXzRDcVhHTnM1Vmo5aTNFXzgzMWpTRmVzeVdkelQ5VnAtVW1iUTh6Wjh0VktRRlQ5bG80U1RIazZBSDNZZFJ6NVVOMVNKYWxKclJ1RGJIUWlpNHhDa3NKbU9ZZE05Tnp3Q1ZHUFFmVU9SM18xUnBLSQ?oc=5",
+        "timestamp": "2026-06-20T11:40:00",
+        "timestamp_display": "20. 06. 2026 11:40",
+        "is_new": true
+    },
+    {
         "category": "Společnost",
         "title": "Nová náplavka v Hranicích: odpočinek i ochrana před povodněmi",
         "summary": "Na břehu řeky Bečvy v Hranicích vznikla moderní náplavka s lehátky a kavárnou, která zároveň slouží jako protipovodňová bariéra. Projekt kombinuje rekreační prostor pro obyvatele s praktickým řešením ochrany před záplavami, čímž zvyšuje kvalitu života i bezpečnost lokality.",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMFhvZmtaOEl5bVRSMUNVc0pOS2R2MGpWek1TZ0ljMWQtT0U4V3RXWFdhUGdCT3ExWF9MUWVILVNjaWk1UlY1US1pdWVCVEsyOFlac3ZEZGlhMlY3NDljb1hpanR2Tm1UbmRramEzN1MzVGdRZmgtTXhVSWttMUZfbkhYM2s0R3FqS3VOY2YwR3NCOHgyWWgxaE9MWjhqRnRkWE1hRGkyZ3o1bnNPdjdXaVRKbDgxTGNFZ0x6Y1VYT0wtMGU3OVJJ?oc=5",
         "timestamp": "2026-06-20T06:10:00",
         "timestamp_display": "20. 06. 2026 06:10",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbERvbTNzQlAtLXBTLXd2ZFEzM2Nhc0wxbTg4V2hMQ2FQbXVzZWpVdzd1eFFpYXMtUDkwYUQ4MjU3Vk51eUswTjBWSEpRUjFkdzdPSFhRM3NYcHVmRGdJYnNtTDd0a2JLYmRqcnp1MF9aUWI2QTdQUHF2cjJpNThMeWZVbFFXUFhhVElzZUwyb29pTUFpUFRBM2c4cDVnY3pRNnNCbFZTUGlaN3NxT1hBdGZjdGNLQXlOb3cw?oc=5",
         "timestamp": "2026-06-19T13:00:00",
         "timestamp_display": "19. 06. 2026 13:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,7 +60,7 @@
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUzAtNk1lOWRRNmkySzhON2JhQXRJRnFSUjV0RnQtaEJKSTg2Xzd3c1VpYXFCR3BzbWlTZEhwU0JJbGx4eDl6NlQtbHhwRkVfSmItVFliSUpTanlEMGU5VDVHbG1ocFVsNE9YMGlDazdzSjVnN2ktZExEb1Q2ZDBqbDNIc1ZwNkZXd1U5SnkxdjFXVUVyMEREeG14c2E1UDYxdzdpTlN1b3pqa3M5S0NHdjhnREFISWRWOXc?oc=5",
         "timestamp": "2026-06-19T12:00:00",
         "timestamp_display": "19. 06. 2026 12:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,7 +69,7 @@
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcFhKZWpHblhNT0tnaUpzRDFDOE5EMWs0RWlSRmZaQ1FYeXg0R0twcnRHb0R4ZzBwak8yTUlmWjBna2c0bDh6dGhIOXJ5R2JhUFRGSVh1YmhQbTZfVjlsY0ZNbl9pYkZTQmpOTWJ2bF9nOGpWZUN1U0dXajFkUGF2UFFHOTZKRG5Ld3hNWjlZbTdlTG9WREs5LTUyZk5VMU9hRndhb2RPdXd4QUpP?oc=5",
         "timestamp": "2026-06-19T10:24:00",
         "timestamp_display": "19. 06. 2026 10:24",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -42,16 +78,7 @@
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcmlRX0QyU25NTlZvWmJqMEhyVThVeEVENXFPb2p2dnd6YzZ2Q3F2a3VDTVRYLWRBbGdJaDhXczZzN3RTLVc0a2M1NzFKNXJtSG9NajE4MGljT1AySnVKcHlLZmVVWE93WGNtQmc3SjNfZVdrOGNuY1VJVzIwQ3FvSXJON25JQ2VnT2dwbjZrRnVzVUg3TGROSVNoSmtjWnpnTHpNZG1CSTg2RTBudkI0YXhtZTNsSUZVTzg4ZE94dWR4M0JkdGc?oc=5",
         "timestamp": "2026-06-19T09:37:00",
         "timestamp_display": "19. 06. 2026 09:37",
-        "is_new": true
-    },
-    {
-        "category": "Věda",
-        "title": "Vědci zachytili první útok vlků na zubry",
-        "summary": "Polští výzkumníci poprvé zaznamenali na video přímý útok vlků na zubry, čímž poskytli unikátní pohled na predátorské chování v evropské přírodě. Záznam přináší cenné informace pro ekologii a ochranu velkých savců.",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRldRSWZWcGVEam1HdjFZZGRQR21veDVoRlc5QTNvaDV2M3J2U2lWRmJSY0M4emo5SzhBMXRRWEFDUlUxbFdoWlV4NUpkcUNlOEhpQm84MW1QSDczSmZIRkpsWldTVGdEN2Y2cEpYNU8wRWpteFZaYXdqU1hyNWppNWFtRnpndi1neWhzM25vTHhvdnUzUlJSUzRNb053dHFHX0ZmQ2NZSHVZUnBhb1psU2xadjlIZ1pJeEdV?oc=5",
-        "timestamp": "2026-06-16T15:24:00",
-        "timestamp_display": "16. 06. 2026 15:24",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -150,6 +177,15 @@
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNFlXdExVeER4VE55WkVwcWJlSnFhaDh4UUYyZ25zdHFGX2xlSWtYdzd4V292am5NRGIzUVBUUi0ta0hvWVZpX01yM0hDTzNBYUlOLUt0VTNEUktsTVlYOFVvVFVXdExuRFd0NHVDWUlUUVVHcDJRV1VESXlwaVg0OXRWVmNEdHJRQjFibG50QmlWejd1LUtFamZleElQRjNxUmtqVWNVRGdLalhDUHZQczJuNA?oc=5",
         "timestamp": "2026-06-17T08:25:00",
         "timestamp_display": "17. 06. 2026 08:25",
+        "is_new": false
+    },
+    {
+        "category": "Věda",
+        "title": "Vědci zachytili první útok vlků na zubry",
+        "summary": "Polští výzkumníci poprvé zaznamenali na video přímý útok vlků na zubry, čímž poskytli unikátní pohled na predátorské chování v evropské přírodě. Záznam přináší cenné informace pro ekologii a ochranu velkých savců.",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRldRSWZWcGVEam1HdjFZZGRQR21veDVoRlc5QTNvaDV2M3J2U2lWRmJSY0M4emo5SzhBMXRRWEFDUlUxbFdoWlV4NUpkcUNlOEhpQm84MW1QSDczSmZIRkpsWldTVGdEN2Y2cEpYNU8wRWpteFZaYXdqU1hyNWppNWFtRnpndi1neWhzM25vTHhvdnUzUlJSUzRNb053dHFHX0ZmQ2NZSHVZUnBhb1psU2xadjlIZ1pJeEdV?oc=5",
+        "timestamp": "2026-06-16T15:24:00",
+        "timestamp_display": "16. 06. 2026 15:24",
         "is_new": false
     },
     {
