@@ -1,12 +1,66 @@
 [
     {
+        "category": "Byznys",
+        "title": "Toy Story přináší rekordní miliardy",
+        "summary": "Nový film Toy Story dosáhl přes šest miliard dolarů, čímž potvrdil sílu značky a úspěšnost franšízy. Tento výnos podtrhuje úspěšnou strategii společnosti v oblasti zábavy a merchandisingu, přinášející značné zisky a posilující pozici na globálním trhu.",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSzBwQVk1eEo1MjEwX2EyZkRiOExuQklTRDVmSTllaWd3cWIxNmxIa2JFbl9wYjVQYTNWNFRHUDhkRTdfMWplSk5RZFI3aTNZeEdDME15VFNwSTNEaVRkbVY0WkpCdGNZTEFJOEJnaWwxcUxkblJ0NW1ycnZzVzFySkpJVVFYS0psYlY0MXFrSnZRb2IyYkJCa0xKdndfZVRVUVREYXJ3dVI?oc=5",
+        "timestamp": "2026-06-22T08:57:56",
+        "timestamp_display": "22. 06. 2026 08:57",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Startup z Liftaga získal miliony na doručování",
+        "summary": "Startup, který vznikl v rámci Liftaga, získal investici v řádu milionů korun. Cílem je revolučně změnit způsob doručování balíků pomocí inovativních technologií a optimalizace logistických procesů, čímž usnadní zákazníkům i podnikům rychlejší a efektivnější doručení.",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORG1BRngxS1ZvMVQ3VWNPZ0JrWTAtZ1M5QlM3WUVrcThWYXFjVVFIaEFWWFgzQnRrVTh1MXVvQzJOOGJjSlY2d1dkNnFrS3JtU0RHQ2tCS2EzSVNmcDdPM0RINlpEYkw3UGxCV2FyRktqQUZtWXBsZWhPWHdycDdCdzl4SkdpTVVoU1VYQkRERVJCNXllQnBvSFdyVDlJd243Vi1mUjhVa0ZZWU9hT3RXTUFXV2ltdEpQWjI5YTd3?oc=5",
+        "timestamp": "2026-06-22T07:30:00",
+        "timestamp_display": "22. 06. 2026 07:30",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Elektromobily měříně čistí vzduch",
+        "summary": "Satelitní analýzy poprvé prokázaly, že provoz elektromobilů snižuje koncentraci škodlivých látek ve vzduchu. Studie ukazuje konkrétní číselné snížení emisí v městských oblastech, čímž potvrzuje ekologický přínos elektrických vozidel a podporuje jejich širší nasazení.",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMzZIOUhQM2szV3B4aEkwZXU0ZzdLRmZzazFpMVBnaE5uZVlFMldMRzVUbUpPcUR2SGdFbzh4cmRtb1R2WUNOS1dqcjlSVDlNdWMtaVpyTUhTY1pZMUVyLVA1T2xpeWhkNWVwRVJwVV9LU09sbzlXczF2Sm5kQjhUd2JvV2wyTmM5a3dRNlc1Rl9GRzhUS1NBM1lGeEZoeHNEODVIVEVmZzRBeE9rN0h1Z1U1bUZ4dHcwZUdhMVFmYXpieWllU3hRSUQ3VTZZRWt2X3hVRXRHNGY2UzQxZ0E4b1Y1UDBTcXJvQ3JKcllQaXFSR1U?oc=5",
+        "timestamp": "2026-06-22T05:45:10",
+        "timestamp_display": "22. 06. 2026 05:45",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Startup na doručování získal 150 mil. Kč",
+        "summary": "Zakladatel opustil vlastní firmu a založil nový logistický startup, který slibuje revoluci v doručování balíků. Investoři do projektu vložili již 150 milionů korun, což podtrhuje důvěru v inovativní přístup a očekávaný růst v oblasti e‑commerce a doručovacích služeb.",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcUFoQ3p0WGdGS1Y2elExN1dCU3k4UUIyeTNpX1lRR1RiT19PWlJIRzI4Q3Z6ZmhiaHFZSnFfN1hjODVHQi1xMG9CODl3MHdzSHczR0g3SVpveXdXb2VfZDlvYUZ1UnVrNDNHYjBfV3JacjZRdHNHaDBtUTl3SlExUXRmZ2hzWFl3ZEpSNlJzM2FSZlpGRWZoallOUlgxV1ZRTm5pZm5iYmNnNFVUd25ORVNJY0c?oc=5",
+        "timestamp": "2026-06-22T05:01:43",
+        "timestamp_display": "22. 06. 2026 05:01",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Digitální kostra ohroženého mořského savce",
+        "summary": "Vědci vytvořili detailní 3D model kostry nejmenšího mořského savce, který čelí vyhynutí. Tento digitální archiv umožní studium anatomie a podporu ochranných programů, i když samotný jedinec pravděpodobně zmizí z přírody.",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNM2VnNHFjclhZa05UWV84Yms0T2RTZGNTVDQxb3J1Zm9BeXNkbGJxTmdYOWY2QlR2M21CSElyUUJ0MzJvcXZzczZFZ1VVeGJEUUtfbHBZcDVKazBRaU5xLWxYdFRGTVhFQmtJRkNYM0w2cGFkbEFnbWR2UFMxMDdPQi03a3lNeTlEejA1cWFrRGprSk9NTkdXOTFRNWF2WFpJZkI4UFZsMy1keVRIWlM1bGxQQXM3NTJKa2tsMDlyeFA0TXVCZ1ZTVElpc2VBRnN4T19NT3JNR0FQT3Yy?oc=5",
+        "timestamp": "2026-06-21T21:01:00",
+        "timestamp_display": "21. 06. 2026 21:01",
+        "is_new": true
+    },
+    {
+        "category": "Medicína",
+        "title": "Personalizovaná péče jako nová medicínská cesta",
+        "summary": "Šrámek zdůrazňuje, že místo jediné „magické pilulky“ je klíčem k lepšímu zdraví personalizovaná péče. Moderní technologie a data umožňují přizpůsobit léčbu individuálním potřebám pacientů, čímž se zvyšuje účinnost a snižují vedlejší účinky. Tento přístup představuje významný krok vpřed ve zdravotnictví.",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORTdfalNIT0R2VlVIaHZMSC1YWFNyYXBBanRza0N2NmRqTmdVNnFpTEIyTGlERjhQV2ZuakhyR3htVzJDYUx2alRLSklGMm9RSlllNVRmUHp0YW5VcU16U2c3NVpmSXRndDhYVmQ1RmFFd1Y5TC1oNENpekkxSWZFUzBkME9OWUhBcnhRMHdQMmdRUQ?oc=5",
+        "timestamp": "2026-06-21T14:04:29",
+        "timestamp_display": "21. 06. 2026 14:04",
+        "is_new": true
+    },
+    {
         "category": "Technologie",
         "title": "Ultrazvukové espresso šetří energii",
         "summary": "Vědci vyvinuli ultrazvukový přístroj, který dokáže připravit espresso bez tradičního zahřívání vody. Technologie využívá minimální množství elektřiny a přináší chuť srovnatelnou s klasickým kávovým nápojem, čímž představuje ekologičtější alternativu pro milovníky kávy.",
         "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNOW1JYnRXajM3NkN3ZVV6Vk9UYlM0WmJlcy1BdXFvU0s5cXoyYjRDT3FpTVdQWHhibG10YTc3Y2JWN2lRUU9OOVQwbFRKN2ZZVzlScFMyTUIzZGVaakJyUC1EMXd2czRZZjlRSEw1djRnVHZwSFNhR2VhNUdrbWFMcVhMaU5hOUZKQ2pSRG5kQ3VjWDF5bDk5ODIwMXphOHVBRzFXZlJDMzZTakh6d0xNalJHY295X0NlNXNhWG1LeTVHbmdsdldwQzAwb29rS0k3OFNETmoxN0ZpR1hkdzJ1c0EtTEtPVHdwWEltZUVsNGVMOUQwQ1hIUw?oc=5",
         "timestamp": "2026-06-21T05:45:21",
         "timestamp_display": "21. 06. 2026 05:45",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -15,7 +69,7 @@
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObnFDZTc3eWhJZ2t0cFlobkd0cHN2U1JDYmlQNkRybXY3MEd5TlhNckdRVmNDVklDZ29UUXAxa2tpdDREamZmOTZJbGJMSUxmS1NSdFp2d1JJajlrWVZmVG5sZk53Sl9SUnlVRkY5SXlxWG9ROFdrRUEwa2Z3YmNhd2FPZGZNYktNY19PN01pdVg5S3c0NURuQ3dweDdnLU5pNU4yUkp6VF9iZFh0ZU1jNGNYTDVnenVCMkdkblRVZU5CRXJ1YVhrcGdFRExUVDItRXlqMVpVY1JITlBCQzY5M3dn?oc=5",
         "timestamp": "2026-06-20T19:22:00",
         "timestamp_display": "20. 06. 2026 19:22",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -24,7 +78,7 @@
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcjdRTDdLeWM2UkptVXZFMkpfNE5WOUY4VVRTZHpnX0ViX25yamJhbm9fb3RRSVZjUkR0TTdnMEtzNHFUZ1VJSmx6WVN4RXJqczhpOHBoUlhZOTR6M3U5RWczbVZEX2hLT0hIc0Y2NDZNaFNhSC1reXpSSUtZMXB2OE5vc0hqcVJrakladktRU2h1amd4eGJ3cjdJZktDU0tHOURDUHdhX0pvMjE4NmY3cGhkSFZfQQ?oc=5",
         "timestamp": "2026-06-20T15:47:34",
         "timestamp_display": "20. 06. 2026 15:47",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -33,7 +87,7 @@
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPelUtOUVPMnotUTFrMGdPMXI3MlhyNTlFai1hSDRidGpnRHl5UkNJQ3MtdENSeXgyUlMwUG1QNGM5eVNmZlRPRk5XQnI5Q3puV3pvOVJ2MVBhbUFULUNXb1BmOE5iY09wXzRDcVhHTnM1Vmo5aTNFXzgzMWpTRmVzeVdkelQ5VnAtVW1iUTh6Wjh0VktRRlQ5bG80U1RIazZBSDNZZFJ6NVVOMVNKYWxKclJ1RGJIUWlpNHhDa3NKbU9ZZE05Tnp3Q1ZHUFFmVU9SM18xUnBLSQ?oc=5",
         "timestamp": "2026-06-20T11:40:00",
         "timestamp_display": "20. 06. 2026 11:40",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Společnost",
