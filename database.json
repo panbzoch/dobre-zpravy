@@ -1,12 +1,39 @@
 [
     {
         "category": "Byznys",
+        "title": "Nový developerský projekt v Slaném",
+        "summary": "Společnost E15.cz představila plán výstavby moderního rezidenčního komplexu v Slaném. Projekt slibuje inovativní architekturu, zvýšení dostupného bydlení a podpoří místní ekonomiku tvorbou nových pracovních míst.",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPenN5YVphWGNycnZQd1NuR3BaRDhlMms0Xy1nUXFHOWtGOERYWEg5c2tvZEJ4Wk9vMUNSS3Y4T1RUN0Z4N2h5SktrVVNtSnVJRXRWanhFZDRUdE4tc0lPdXNtV0hQeVBYZDVmQVRwY09ud2lmN3k2U09Ca1ZET19xMkdZZDBPc3lWYjhuUkV0Rjc4RmpMM3VVX1g3cjl1ZFNKVlE?oc=5",
+        "timestamp": "2026-06-22T20:15:41",
+        "timestamp_display": "22. 06. 2026 20:15",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Kraj schválil prodej pozemků za 9,5 mld Kč",
+        "summary": "Ústecký kraj odsouhlasil prodej pozemků v investiční zóně Triangle, čímž umožní realizaci projektu v hodnotě 9,5 miliardy korun. Investice má podpořit regionální rozvoj, vytvořit nová pracovní místa a přilákat další kapitál do oblasti.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tX0VJWUpDUlJuTjNEMjdKQXJoR2JETC0yT2FhUnhIYVRTZWN6SVdvaHMzbXpNdGQyMnlWcGo1RnFTaFdFOHE2eE9fR1ZIUFZYWEZr?oc=5",
+        "timestamp": "2026-06-22T11:01:00",
+        "timestamp_display": "22. 06. 2026 11:01",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Mor byl smrtelnější, než se myslelo",
+        "summary": "Vědci pomocí nových datových analýz zjistili, že mor v minulých stoletích zabíjel dříve a rychleji, než se dosud předpokládalo. Tento objev mění historické chápání pandemie a ukazuje, jak moderní výzkum může přehodnotit dlouho ustálené představy o šíření nemocí.",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdldMMTBFZWxIRllrb3NUUzBobDJOWFotVHo0d1pheGdVaFFsdDhWaWtVaEtJTmlIZGZ3OUN2VWJ5X0NBWkdwTm13WDhMcXE4VXhCZ2taWHZ3TU5sbmQwVWdyM2ZTakE2U2NVbTlvQWZKSUMySEw0R1pLQ1hFOGVlTklnT0tGeVROV1duWE1Xd2dsMW5QbEhqa0lHdlFUOWFUT0p3LTl6VE5aRVpyWUdhUnIxY3RhajloMGpTNm5ha282emVWOU9INHVrY3NtX0hZeFNGdXNzb24?oc=5",
+        "timestamp": "2026-06-21T10:17:00",
+        "timestamp_display": "21. 06. 2026 10:17",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "Toy Story přináší rekordní miliardy",
         "summary": "Nový film Toy Story dosáhl přes šest miliard dolarů, čímž potvrdil sílu značky a úspěšnost franšízy. Tento výnos podtrhuje úspěšnou strategii společnosti v oblasti zábavy a merchandisingu, přinášející značné zisky a posilující pozici na globálním trhu.",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSzBwQVk1eEo1MjEwX2EyZkRiOExuQklTRDVmSTllaWd3cWIxNmxIa2JFbl9wYjVQYTNWNFRHUDhkRTdfMWplSk5RZFI3aTNZeEdDME15VFNwSTNEaVRkbVY0WkpCdGNZTEFJOEJnaWwxcUxkblJ0NW1ycnZzVzFySkpJVVFYS0psYlY0MXFrSnZRb2IyYkJCa0xKdndfZVRVUVREYXJ3dVI?oc=5",
         "timestamp": "2026-06-22T08:57:56",
         "timestamp_display": "22. 06. 2026 08:57",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +42,7 @@
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORG1BRngxS1ZvMVQ3VWNPZ0JrWTAtZ1M5QlM3WUVrcThWYXFjVVFIaEFWWFgzQnRrVTh1MXVvQzJOOGJjSlY2d1dkNnFrS3JtU0RHQ2tCS2EzSVNmcDdPM0RINlpEYkw3UGxCV2FyRktqQUZtWXBsZWhPWHdycDdCdzl4SkdpTVVoU1VYQkRERVJCNXllQnBvSFdyVDlJd243Vi1mUjhVa0ZZWU9hT3RXTUFXV2ltdEpQWjI5YTd3?oc=5",
         "timestamp": "2026-06-22T07:30:00",
         "timestamp_display": "22. 06. 2026 07:30",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -24,7 +51,7 @@
         "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMzZIOUhQM2szV3B4aEkwZXU0ZzdLRmZzazFpMVBnaE5uZVlFMldMRzVUbUpPcUR2SGdFbzh4cmRtb1R2WUNOS1dqcjlSVDlNdWMtaVpyTUhTY1pZMUVyLVA1T2xpeWhkNWVwRVJwVV9LU09sbzlXczF2Sm5kQjhUd2JvV2wyTmM5a3dRNlc1Rl9GRzhUS1NBM1lGeEZoeHNEODVIVEVmZzRBeE9rN0h1Z1U1bUZ4dHcwZUdhMVFmYXpieWllU3hRSUQ3VTZZRWt2X3hVRXRHNGY2UzQxZ0E4b1Y1UDBTcXJvQ3JKcllQaXFSR1U?oc=5",
         "timestamp": "2026-06-22T05:45:10",
         "timestamp_display": "22. 06. 2026 05:45",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,7 +60,7 @@
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcUFoQ3p0WGdGS1Y2elExN1dCU3k4UUIyeTNpX1lRR1RiT19PWlJIRzI4Q3Z6ZmhiaHFZSnFfN1hjODVHQi1xMG9CODl3MHdzSHczR0g3SVpveXdXb2VfZDlvYUZ1UnVrNDNHYjBfV3JacjZRdHNHaDBtUTl3SlExUXRmZ2hzWFl3ZEpSNlJzM2FSZlpGRWZoallOUlgxV1ZRTm5pZm5iYmNnNFVUd25ORVNJY0c?oc=5",
         "timestamp": "2026-06-22T05:01:43",
         "timestamp_display": "22. 06. 2026 05:01",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -42,7 +69,7 @@
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNM2VnNHFjclhZa05UWV84Yms0T2RTZGNTVDQxb3J1Zm9BeXNkbGJxTmdYOWY2QlR2M21CSElyUUJ0MzJvcXZzczZFZ1VVeGJEUUtfbHBZcDVKazBRaU5xLWxYdFRGTVhFQmtJRkNYM0w2cGFkbEFnbWR2UFMxMDdPQi03a3lNeTlEejA1cWFrRGprSk9NTkdXOTFRNWF2WFpJZkI4UFZsMy1keVRIWlM1bGxQQXM3NTJKa2tsMDlyeFA0TXVCZ1ZTVElpc2VBRnN4T19NT3JNR0FQT3Yy?oc=5",
         "timestamp": "2026-06-21T21:01:00",
         "timestamp_display": "21. 06. 2026 21:01",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Medicína",
@@ -51,7 +78,7 @@
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORTdfalNIT0R2VlVIaHZMSC1YWFNyYXBBanRza0N2NmRqTmdVNnFpTEIyTGlERjhQV2ZuakhyR3htVzJDYUx2alRLSklGMm9RSlllNVRmUHp0YW5VcU16U2c3NVpmSXRndDhYVmQ1RmFFd1Y5TC1oNENpekkxSWZFUzBkME9OWUhBcnhRMHdQMmdRUQ?oc=5",
         "timestamp": "2026-06-21T14:04:29",
         "timestamp_display": "21. 06. 2026 14:04",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
