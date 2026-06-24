@@ -1,12 +1,102 @@
 [
     {
+        "category": "Věda",
+        "title": "Slunce je aktivnější, než se myslelo",
+        "summary": "Nové pozorování slunečního jádra odhalilo vyšší úroveň aktivit, než dosud předpokládali vědci. Výsledky naznačují, že procesy uvnitř Slunce jsou dynamičtější, což může ovlivnit naše pochopení slunečního cyklu a jeho dopadů na pozemské klima.",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdWhmYWktSlFHRmtSc0h0VVc2aVdKOXZjUGpzbC1tOEExdVVqUGZvTTl1LUVaWERBR053cTQybXloNjI3Y2tVYXB2QjRVdkRwdmY5RjRrcHBvSTE0TWlqZ2doZ3A1R2Fwci1PSkQ4N01va3VKb2d2TDRadk9MYUwyR3FLeVphZmIwbjl1SnJzbHRwRmFMbEZZRERMeFlhN3EzWS05N3g2N0dDMmZld0hqS2ZKMktjR1VFUFBZRDJZTDh0bXpoUUw2TVpHWk1YTC04cU9WeFI1Zw?oc=5",
+        "timestamp": "2026-06-24T05:45:22",
+        "timestamp_display": "24. 06. 2026 05:45",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice do výzkumu posilují českou konkurenceschopnost",
+        "summary": "Studie ukazuje, že zvýšené investice do výzkumu a vývoje výrazně zvyšují inovativnost a exportní potenciál českých firem. Podle analýzy takové financování podpoří dlouhodobý ekonomický růst a posílí postavení Česka na globálním trhu.",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeWZGWE5WSG1wMTN0c3piNThrWkF5aGM3bjk3UVk1Zmg0SVJucUJ5ZUxleHh3T3BIN3ZzS1lNbi00RURnZ1lTYUxreFhRUTVfbERBTVZPN2dMZHB1MkNwaUZpY2ZpZ3A2SW1veVBSNU9pRXl0QmZsMDI5UVBRUVVuUFF2ckdxeFNKbzVpR1RfSjJfWGZUR2M1MDBWRENfWnJQV0wzb29pQzJTWDU4N3Z4ZQ?oc=5",
+        "timestamp": "2026-06-23T22:00:00",
+        "timestamp_display": "23. 06. 2026 22:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Karolinka plánuje obchodní a kulturní centrum",
+        "summary": "Karolinka prodává pozemky v areálu bývalé sklárny, kde se má zrealizovat nové obchodní a kulturní centrum. Projekt podpoří místní ekonomiku, vytvoří nová pracovní místa a obohatí kulturní nabídku regionu.",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaHh2WFB2SlVKQTY0X2tkRWVac0NlTFNGTkpldkYyS1N5X3l5Mms4N2czOXlvalMwaU90aGlOUjJmdndsQXNoNEtoLW5CRXJmc0gzLTAyUXh2clZHZXNzSnRsSXdnTGpJRmVnME43RmViMVE1VC1KbnAxYzg4TE5pcmRJOXBVWDd6Uk5VMDlRY1RrMGpVeWpBNUh2cmtRZ0Y1UGlGaVViZzNTLWR5cXVTMTNpX3dGVURXYy1nRXMyY0N4Zw?oc=5",
+        "timestamp": "2026-06-23T17:44:00",
+        "timestamp_display": "23. 06. 2026 17:44",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Stát rozděluje téměř 2 miliardy firmám",
+        "summary": "Vláda připravuje rozdělení téměř dvou miliard korun mezi podniky, aby podpořila klíčové sektory, které mají potenciál transformovat ekonomiku. Program cílí na inovativní a strategické obory, čímž má podpořit růst, tvorbu pracovních míst a konkurenceschopnost českých firem.",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTUlsM0lFd1EzNHE2WUJVVjdoMjYtU1YwbEVuazdvb3IyaDIxTjFPd0NiM25YcTJjdUMtcktHQnFRVzJvb05IVjBjNEVvRnZWT0dIVkQ4cGJiRkltclZHR1U1dmhZcFl4SnUxM3lKUUFnRlB1RW9pQVFVZmlhcUxWNzlxWkJ1U2NFUnVXVGpmVG1sUDlDNURuSHFjVENlQUNLdWpiN2VRVVdHWkpoNll4MVRVbVVXakFlbUQ0YWFn?oc=5",
+        "timestamp": "2026-06-23T14:38:00",
+        "timestamp_display": "23. 06. 2026 14:38",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Studie odhalila, kde pracují lépe",
+        "summary": "Vědci provedli výzkum srovnávající produktivitu zaměstnanců v home office a v kanceláři. Zjistili, že výkon závisí na individuálních preferencích, typu úkolů a pracovním prostředí, což firmám pomůže optimalizovat pracovní podmínky.",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRkhYenAzeG5GSjdwMC1RQ0xPR3MzeDVWWmdnS3dBMlRaSTJRNzRNckxObk9iZFZ3bTNnWjBDLV9HcU01X19lQ0NaYmJEY2RMUnlOTXl2eU1NdjlKSXhVdDI1QUhPYnBiRlIwWDc1Zy1ELXdWdjNFbENHcGhiZDU4WmtnZ1RiYzdvc1Fab0tVWXE3ZUtmSVVtZVV5cGF2TUlUb0RYWUwzeHFiV0pxakRpTWNuRVE3TjktVlNLNnNUaUZqcnJvclZiLTB3?oc=5",
+        "timestamp": "2026-06-23T14:30:00",
+        "timestamp_display": "23. 06. 2026 14:30",
+        "is_new": true
+    },
+    {
+        "category": "Medicína",
+        "title": "Český výzkum klinických studií roste",
+        "summary": "Česká republika těží z rostoucího počtu klinických studií, které přinášejí nové léčebné možnosti a posilují místní výzkumnou infrastrukturu. Přesto však autor upozorňuje na nejistotu budoucího financování a potřebu stabilní podpory, aby se tento trend udržel.",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdmFlR3Uzd1phaXpCdGJRaWVKUFRnbTJBQ2FLZGRXeFQ3WkFWWlhjYnJ6R1BXcC1zM2FFSVo3bnV3Nk8yWHBzck1EYzBSZW1JYTlEemFxUzZKSUFZNVphMDVYa0VYd09DSW9XdUk2eWN4NkZXdkx3MHY2SUhuTDVsN21hdGVSbWJiOVJwSTd3UU15c1Q1QkZ6aHNUbnFoZVFialFOV0I0UnFSRTA0cVlEbnFlSE9FNnptWmp3?oc=5",
+        "timestamp": "2026-06-23T10:28:00",
+        "timestamp_display": "23. 06. 2026 10:28",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Finále první české AI olympiády v Plzni",
+        "summary": "V Plzni se konalo finále první české AI olympiády, kde týmy představily inovativní řešení využívající umělou inteligenci ve zdravotnictví i státní správě. Soutěž podpořila rozvoj AI technologií a jejich praktické uplatnění pro zlepšení veřejných služeb.",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb2hBUnNKRDZYc3BiSnBHa0tqMHU4MFhGS2JwN1RqVEdmM1U4Nl9VNjI2blZKcTZFdWU2bmRUQTdvbGFzS25STEVCaEFFWHlMcmtZOThpbEZ4OGxHTnNJVVFNZjljU2k1dVhPc3NTVHA3T25CTE9IRHNRa2wyck1fcTMxeTJfZW5hb1NzMENIZ2xnWGYzQnRLTVJoWWY0ZHAwcXNXTm16dDNtZFdXM25iMmdvTHhDR3dNVVdYZmNqZDh6bGxKU0dOcXZiUGJYOWhGcDJ0ODgxb3pQejBEeTNLUkpB?oc=5",
+        "timestamp": "2026-06-23T08:38:00",
+        "timestamp_display": "23. 06. 2026 08:38",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Český „mozek“ pro firemní rozhodování získal 70 mil. Kč",
+        "summary": "Český startup vyvíjí centrální AI platformu, která má zlepšit firemní rozhodování. Projekt přilákal investory s částkou přes 70 milionů korun, což podtrhuje jeho inovativní potenciál a očekávaný dopad na podnikové procesy.",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQWdCY2JOa3pUUmhyOHlScE91WUZZdnlWTjlVTllEREUyYlA3d3puTVpma0hQZ3RVczIzZFdoVllUZmZSOGNuUTQtTTZoUlpiSEpiMjNRdnZrMVlaZHllemRrVmNBaGtvOGhWVEhWelNDYnZOWmFkUldYNGF3NldFSmNGX0g1UDBEUDZqLS1DcDlEaENvbGs0eTFQOGVaRFF1a2pTR0ZxNlRxZV9UcTRFUHdQOA?oc=5",
+        "timestamp": "2026-06-23T08:30:22",
+        "timestamp_display": "23. 06. 2026 08:30",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Šmejc uzavírá největší obchod kariéry",
+        "summary": "Šmejc úspěšně dokončil největší obchod své kariéry – získal od společnosti Entain středoevropský byznys. Tento krok posiluje jeho pozici na regionálním trhu a představuje významný růstový impuls pro jeho podnikání.",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZktWNVJ3SWZPa1BLaEtuZG1YeHZraEpVWEpfV0tudzJ6a1NOTVJ1RXBhM1N0TU80SDc1OWFVNmxSby1ZRGJWaWhDUmJwc3FIcHdEaDJfNHk1RmVkVERnVzNzSW5zM1hkWnRJZWtWUkd2T0M5NFZoQ1V1dmtzTDBodWxWUlpWeWc3QUF1cmRoVVZTNmlreHpDeFVUbHhfX3E1RExvazJqQW1LdWo5cUtvSVV1TVlkOFpIeEVSYlBB?oc=5",
+        "timestamp": "2026-06-22T12:19:00",
+        "timestamp_display": "22. 06. 2026 12:19",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Grid.online získal miliony na revoluci doručování",
+        "summary": "Startup grid.online získal investiční financování v řádu milionů korun. Firma vyvíjí inovativní platformu, která má zefektivnit a zrychlit doručování balíků, čímž usiluje o zlepšení logistických služeb pro zákazníky i podniky.",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSURqTHYyTTJvYzNwTXhxWWFWcUp4VzdId1FJV2dIWUNaTkZ3OXk4a2dFTm9QUFU5T2ctNU5GNzdCSXVnTGpPWTNHTkFpeHN5ZVAyUi1SUUFfYjJUSkhhRHk2LXc2cGVkYWRJaDI2VW41NkoyTXBfc1Vpb0JTbUV2aHB6OVZDR0lkYWZKc0VGNV96TGh0U1Q2WHVUbUNIOFVYVHY5dVNwUnRvaFBhV1A4ZUg2TQ?oc=5",
+        "timestamp": "2026-06-22T07:30:00",
+        "timestamp_display": "22. 06. 2026 07:30",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "Nový developerský projekt v Slaném",
         "summary": "Společnost E15.cz představila plán výstavby moderního rezidenčního komplexu v Slaném. Projekt slibuje inovativní architekturu, zvýšení dostupného bydlení a podpoří místní ekonomiku tvorbou nových pracovních míst.",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPenN5YVphWGNycnZQd1NuR3BaRDhlMms0Xy1nUXFHOWtGOERYWEg5c2tvZEJ4Wk9vMUNSS3Y4T1RUN0Z4N2h5SktrVVNtSnVJRXRWanhFZDRUdE4tc0lPdXNtV0hQeVBYZDVmQVRwY09ud2lmN3k2U09Ca1ZET19xMkdZZDBPc3lWYjhuUkV0Rjc4RmpMM3VVX1g3cjl1ZFNKVlE?oc=5",
         "timestamp": "2026-06-22T20:15:41",
         "timestamp_display": "22. 06. 2026 20:15",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,16 +105,7 @@
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tX0VJWUpDUlJuTjNEMjdKQXJoR2JETC0yT2FhUnhIYVRTZWN6SVdvaHMzbXpNdGQyMnlWcGo1RnFTaFdFOHE2eE9fR1ZIUFZYWEZr?oc=5",
         "timestamp": "2026-06-22T11:01:00",
         "timestamp_display": "22. 06. 2026 11:01",
-        "is_new": true
-    },
-    {
-        "category": "Věda",
-        "title": "Mor byl smrtelnější, než se myslelo",
-        "summary": "Vědci pomocí nových datových analýz zjistili, že mor v minulých stoletích zabíjel dříve a rychleji, než se dosud předpokládalo. Tento objev mění historické chápání pandemie a ukazuje, jak moderní výzkum může přehodnotit dlouho ustálené představy o šíření nemocí.",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdldMMTBFZWxIRllrb3NUUzBobDJOWFotVHo0d1pheGdVaFFsdDhWaWtVaEtJTmlIZGZ3OUN2VWJ5X0NBWkdwTm13WDhMcXE4VXhCZ2taWHZ3TU5sbmQwVWdyM2ZTakE2U2NVbTlvQWZKSUMySEw0R1pLQ1hFOGVlTklnT0tGeVROV1duWE1Xd2dsMW5QbEhqa0lHdlFUOWFUT0p3LTl6VE5aRVpyWUdhUnIxY3RhajloMGpTNm5ha282emVWOU9INHVrY3NtX0hZeFNGdXNzb24?oc=5",
-        "timestamp": "2026-06-21T10:17:00",
-        "timestamp_display": "21. 06. 2026 10:17",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -78,6 +159,15 @@
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORTdfalNIT0R2VlVIaHZMSC1YWFNyYXBBanRza0N2NmRqTmdVNnFpTEIyTGlERjhQV2ZuakhyR3htVzJDYUx2alRLSklGMm9RSlllNVRmUHp0YW5VcU16U2c3NVpmSXRndDhYVmQ1RmFFd1Y5TC1oNENpekkxSWZFUzBkME9OWUhBcnhRMHdQMmdRUQ?oc=5",
         "timestamp": "2026-06-21T14:04:29",
         "timestamp_display": "21. 06. 2026 14:04",
+        "is_new": false
+    },
+    {
+        "category": "Věda",
+        "title": "Mor byl smrtelnější, než se myslelo",
+        "summary": "Vědci pomocí nových datových analýz zjistili, že mor v minulých stoletích zabíjel dříve a rychleji, než se dosud předpokládalo. Tento objev mění historické chápání pandemie a ukazuje, jak moderní výzkum může přehodnotit dlouho ustálené představy o šíření nemocí.",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdldMMTBFZWxIRllrb3NUUzBobDJOWFotVHo0d1pheGdVaFFsdDhWaWtVaEtJTmlIZGZ3OUN2VWJ5X0NBWkdwTm13WDhMcXE4VXhCZ2taWHZ3TU5sbmQwVWdyM2ZTakE2U2NVbTlvQWZKSUMySEw0R1pLQ1hFOGVlTklnT0tGeVROV1duWE1Xd2dsMW5QbEhqa0lHdlFUOWFUT0p3LTl6VE5aRVpyWUdhUnIxY3RhajloMGpTNm5ha282emVWOU9INHVrY3NtX0hZeFNGdXNzb24?oc=5",
+        "timestamp": "2026-06-21T10:17:00",
+        "timestamp_display": "21. 06. 2026 10:17",
         "is_new": false
     },
     {
