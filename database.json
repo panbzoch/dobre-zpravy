@@ -1,12 +1,57 @@
 [
     {
+        "category": "Medicína",
+        "title": "Fragnerova lékárna oživuje tradiční mast",
+        "summary": "Slavná Fragnerova lékárna obnovila recepturu historické Pražské domácí masti a zahájila výrobu vlastních léků. Projekt spojuje tradici s moderní farmaceutickou praxí, čímž přináší novou možnost účinné lokální péče o zdraví.",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMGdueFp4a2hfbExfWFFxbzhVd1VtLS1kTDc1cW9Vclhva3FKS01xM2RsYnpZZElaOGhKeG9ja3R2TnpqM2VqMTQwYVZ6V3F0d0dFQ2R0ellzNHphWXVLMm5mQU5FZ3hKWFhJSC1TbWlwTUF1ZGF5eVB2VHhmNXZkMkV5bWNCMVROdkVscWZGcGhZZWJoSngxUVRUc3cwcl9NTWM3a1M5SXl4TU9CYlM4RGlxM2tobnBOaUlncmtpTnFIUUp2cU5sRmt6WWM2YWZlZkFrZEJCOUI3dw?oc=5",
+        "timestamp": "2026-06-27T05:00:00",
+        "timestamp_display": "27. 06. 2026 05:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Investice do českých startupů vzrostly o 174 %",
+        "summary": "Český startupový ekosystém zaznamenal meziročně rekordní nárůst investic o 174 %, přičemž největší podíl získaly společnosti Mews a Rohlík. Tento růst odráží zvýšenou důvěru investorů v inovativní české firmy a podporuje další rozvoj technologických a obchodních projektů v regionu.",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWF9OUlY2U28xWUNvZXdid1RRYmpqUWNIYTAzUzI0dmFldkZmcm05c1NGd3BJMTdKRXVEcVpEN2U5OGdZNFczYlVFNU1BWXJGYkZnNm1Jc09NQXFjZWJmT0E5YUlHVDNLTVk1NzIxakJxbGxJVHNZRWlQbmQxbEluOEtNUGJhbDVpRF85cXBkTXNvS2ZJRk9qYUNpZllWaUJa?oc=5",
+        "timestamp": "2026-06-26T09:49:35",
+        "timestamp_display": "26. 06. 2026 09:49",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Šestimiliardový projekt UDI Group získal povolení",
+        "summary": "UDI Group získala stavební povolení pro svůj 6 miliardový developerský projekt na Smíchově, objekt A. Projekt představuje významnou investici do městské infrastruktury a očekává se, že podpoří další rozvoj a tvorbu pracovních míst v oblasti.",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOREJuMmRjYUQ2WEVxQW1Bd1E5TzRCZlZKMXV1ZDRKUVRZM0Q3b3E1Rl9ySUdTelFHRThfeTgwQ05aMkd3anJHZHJpbXNZSVNRR3pZcmVWNTVOUWtUSS12dDBMZmdNVC03VWlzREpuQlB5TVJQUGxST1hFejIxYXZzLUE4Y1BPb3FueVZwMWRDOVhTNTVOZzhrSlVpLWhlQUNNY1dPMENqYTIybnJweXZBTWl1ZHA3QWFBdVA2SFVjbXBKWEVOekl0a25NOA?oc=5",
+        "timestamp": "2026-06-26T08:50:00",
+        "timestamp_display": "26. 06. 2026 08:50",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Dvě pražské firmy spojily data za desítky milionů",
+        "summary": "Dvě inovativní pražské společnosti uzavřely strategické partnerství a investovaly desítky milionů korun do společné datové platformy. Projekt má za cíl zlepšit analýzu a využití dat v českém trhu, podpořit růst firem a vytvořit nové obchodní příležitosti.",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOckJGN1JTUjNXOUZ3dGpjWTZBYWRtaG56OWVOSndOTGpyME5CeE85TDFwOUVVRU52TXQ3eDdsRUFxb3ZlazBjNDdBWC1nNHRONFFBUVFSbHJISDZHX3NHd0s5Q3B4N1ZENDJPNGFoSnN0OUdUelhzcS1uVlJoMXpPa0QwYW8zaTNOb09qVU5odHNVU2FHZWhhLVRR?oc=5",
+        "timestamp": "2026-06-26T04:27:38",
+        "timestamp_display": "26. 06. 2026 04:27",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Petr Čech spustil AI poradce pro firmy",
+        "summary": "Bývalý fotbalový brankář Petr Čech vytvořil digitální kopii sebe sama, která pomocí umělé inteligence poskytuje podnikatelům rady, jak efektivně řídit a rozvíjet své firmy. Projekt spojuje sportovní zkušenosti s moderními technologiemi a nabízí inovativní podporu pro podnikatele.",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZWlhckF4YU4zeUs5c0ZtU1Jxb3hrZHNaVG1sUk5tMllsT3lMSnFvWWpLZ2pGQmlMSWdOb1kyaWswbkFXVm95eGItY2p1d3NCWFdxd1pBR2lucE15WUlqUm5BZ1djdjF3anJOanN6dDBqeEdDaFNjOVhIa3kya3JiTjlRSjAzZVR0bnI3cHdfTkRoeS13MjUtTG1Bc0ItTTR1ZEpnWE1CMVJwclpkbFdXTS11WmNYM1hqZnc?oc=5",
+        "timestamp": "2026-06-25T10:48:14",
+        "timestamp_display": "25. 06. 2026 10:48",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "Americká ekonomika růstla o 2,1 %",
         "summary": "V prvním čtvrtletí 2024 americká ekonomika zaznamenala růst 2,1 % díky zvýšeným investicím firem. Silnější kapitálové výdaje podpořily výrobu a služby, což přispělo k celkovému ekonomickému oživení a optimismu na trhu.",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNnFkX2hFVWRGeGxsQUtZYlJVMUtSRGg2Q3p6RXdXcF9lX0FlNkpSeV9lM1p6Yzk0UjhXMXRveVR5UFJZalRlZjR1M1pQbHZ3LXdjTmJfZ0t0ODQ0dlNITlktY1EtcTFYa2hfNU9sV0RlSWdaZkNXZnJRcjRNTDE4Q2F5bENPVGJmbGlmYUZ6VWZTNmJ6MzJnUFFTS3IyV2M4LWpDRm5lSUxVckZZMUtqNGJZRGNyYWZSN1RZQ3NzUnJnb0p5?oc=5",
         "timestamp": "2026-06-25T14:05:00",
         "timestamp_display": "25. 06. 2026 14:05",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +60,7 @@
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNjgzR3d5YlFiNHI4WjFxcDgzZ2N2UUhqSktxV2sza2h6UHFxSk1sdkcxTFRscTE5WUJtX2xBa0xKMHF6Y3VuSmpsLUVzUnNOMlJfZHBVYzNqbWNXcVRSTTd2NjlKdE5uUjlTMFpRMmFQYXRiTk5VSnVFU0tqQXJwV1dEcE5SeWU5NWR1eTFabk1mSU50Rk5oZlFJeE4zbkdEMFRVR0JVTUNYUWRKbE1rcVBpMTlneDc1OFY1Nld5eTVlU1gx?oc=5",
         "timestamp": "2026-06-25T12:00:00",
         "timestamp_display": "25. 06. 2026 12:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,7 +69,7 @@
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSnhwdHRrak1mVjJRSFRvdjNHNVVIYUpvbXB0dnNicktmSmJqRzJDOV9FZ0h3NGdmdVhnY2VEazEycUthdU12Q1BhV3ZzS21KM3QtRGJOOUdUNzJoZ2pLR0tzeXdqMWpqak50RGl3ZC1PN0RuQ1pRVTlyYko0eHh5MWdkUS0zYmREMHZmV3hTMUlRQlhwX0E0X0NlbWstOFVQRFNRLUR4WHBKZXpOdTk3Q2VTTlNiSVZ0Wk9UQ25MRHRCaVl4RklLLW9QN19FX29sVzlWcl9TeEIxdXpN?oc=5",
         "timestamp": "2026-06-25T11:30:00",
         "timestamp_display": "25. 06. 2026 11:30",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,52 +78,7 @@
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaXpoeVBzRmxkWG9HeEVmbnp2Sm9qRUd5VjlXaHNkMm5VRDBWVkZpTWdneUgyVkdlU2dyc0dtaU52NTJYc2t2ak1qQkxJSEZHb1d1eFl0dnh6eE5pSDRhWFBLbFJFM213MFc4RV9MY3g4emVUNWV2RVRTYWhBZXlNaUJRZXFXQWhxSnFkd1JiMFpqVU0wT0kyZmVzamlic0NjdFVscWdmOXcxMHpYa01DcHYxVDNDZk5fa3lkUEYtNUIyTjNEUHc?oc=5",
         "timestamp": "2026-06-25T08:39:00",
         "timestamp_display": "25. 06. 2026 08:39",
-        "is_new": true
-    },
-    {
-        "category": "Společnost",
-        "title": "Nové čtvrti a čistá energie řeší bydlení",
-        "summary": "Festival Nového evropského Bauhausu představuje inovativní přístupy k plánování čtvrtí a urychlenému přechodu na čistou energii, které mají potenciál výrazně zlepšit dostupnost a udržitelnost bydlení v evropských městech.",
-        "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNcERfTFNabnd1OHE0VFB4R2htdVl2X3AyQVJNRDNCN1JLcEFxSXptTjRHbTE4czZVWkhGaUJYZmNOZEtjbXlBZUJpNGFjOXJNQlZHSFZvRHpEQ044czk0NEJhcG9rM0J4aHR1NzNwck9vSlAyWlY1dS1rd1QzYnIyNUVMbzZLbEotSy15UE5VSXpaTjdHOUdDakJPd1JCYktlM1RrcGZCSWx1bWM3ZXc0a25IcXY3Q2hoSndOdWlJSFdmMEE5a1dWR0xqRWxCYW5ROHRXNjh0WGRiVjRuV3l3QzFaZU5FaFlmRW9Ramtvd2p1c3pQMy1vUGxUMmh5M0E0UWxtOEJHMnB6b0NNaXNTVzhYZWU?oc=5",
-        "timestamp": "2026-06-25T07:12:00",
-        "timestamp_display": "25. 06. 2026 07:12",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Proč prodávat dokonalou firmu?",
-        "summary": "V rozhovoru pro Forbes Česko Fait a Malík odhalují zákulisí private equity, vysvětlují, jaké faktory vedou k prodeji i nejúspěšnějších firem a jaký přínos může mít takový krok pro zakladatele i investory.",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRlVKNmVPYV9zeVJjMkxNRzVaNE1PTFZFa0VYQU5fcTVzMGplZDUwdkQ1M29pX1JId1VhS0FMOEg4QWctWHVJNUhsbGNvRUtPS0V1TkVhMm4zTnViTkhfVjJHOTQ0MHFYVk9zdlJwNk1FZ0JPMHlkRy1xUDlqY0dXT25XemFaNHFqWmswUERpcXNZdk1RQTFQMlpqa2N0dVhNcVR3?oc=5",
-        "timestamp": "2026-06-25T06:09:10",
-        "timestamp_display": "25. 06. 2026 06:09",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Teplárny Brno spolupracují s developery od začátku",
-        "summary": "Forbes Česko informuje o strategické spolupráci mezi brněnskými teplárnami a developerskými firmami, která je součástí širšího energetického plánu. Partnerství podporuje udržitelný rozvoj a inovace v regionu, přináší nové investice a zvyšuje energetickou efektivitu.",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONjg0OU1Cakh6NzdrMUZrVm9UOXB6aXNjYXdJTWQ4SzhWd2sxajNuN0FzQUdoNndVSlZDV1ZONF90Z0xzOFI5emtoVC1BdElxdjc3dWN2TEtRc21uazlINUVhRXlJYm9QYlMtd1ZOZTg4RnhaUnNYUFpSTFJiQWtpT1ZINW5PMWRGQTk4eS1ZYmhEdWZaZXk3SkF3?oc=5",
-        "timestamp": "2026-06-23T06:09:51",
-        "timestamp_display": "23. 06. 2026 06:09",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Banka láká spořitele 4 % úrokem",
-        "summary": "Další banka vstoupila do soutěže o úspory a představila spořicí účet s úrokovou sazbou přes čtyři procenta. Nabídka má přilákat klienty, kteří hledají výhodnější výnosy na své peníze, a posílit tak konkurenceschopnost bankovního sektoru.",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPajA2amd3cVZHZFgwNy1DUURiSU1LcDFqVFNWUkhCZGpsTWMtM3IxMXNLUk9qNlpkYmNNV3lsN3IzWE5QSFZEYjE4NmpOTjB1Z0ZHb3FpRFd6R0hMQndCQjBpXzZNemp3Q2JSVVZLS3EwNTZrR2FvS0c3VWZBaGtldXZjajNBUVN4VmlETXk1VzBpMVJ0MXdIeGxDTTdDSkZfN1poRWxxXzN3NGFEY1RzR3JJcUhKalFZYWV2TnEtQU1PWWo4c1ZvUkhLOXZyQQ?oc=5",
-        "timestamp": "2026-06-19T13:11:00",
-        "timestamp_display": "19. 06. 2026 13:11",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Dětská kresba přetvořena v chodící větrák",
-        "summary": "V rámci programu MyMachine se z nápadu dítěte zrodil funkční prototyp chodícího větráku. Projekt ukazuje, jak kreativita mladých tvůrců může inspirovat inovativní technické řešení, které má potenciál obohatit trh s mobilními chladiči.",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yS1NIdEMtOWJUb1JYYmdjSldjUTE2YzkzS2RjUWZjdWI4bkNLcDhPNFJKUmNFeHVkUGN0SVlsMlhMUVVTQ3ZFRTVERmo4dHRmd2gw?oc=5",
-        "timestamp": "2026-06-11T07:00:00",
-        "timestamp_display": "11. 06. 2026 07:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -87,6 +87,24 @@
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYlZ5ajlfWERUNG94d1JMdy1ZZGtyNmF4TkZQazEweWw2TTZudXlmajZIenNySVRSc2IzcUpjUmdCbFlxRTh6QVBBZy1Za19MQmhfXzAyNkFBc3JaczZkR0pfUjMzc3RoR0RQUmFOMW41T3dESzZmdTNVZ0JZajhMcm5zWVZtMWtGLTIwajNKb1R6bktrU1JhUkRZcHV2dk1qeGEwQ0NSX3NJbDh2UENTUWs2QTZUV2p2anNQZlhqVUhWS3ZhMVE1TlNoLXRGWFpUaVBRcVB5NFpPckRN?oc=5",
         "timestamp": "2026-06-25T08:00:00",
         "timestamp_display": "25. 06. 2026 08:00",
+        "is_new": false
+    },
+    {
+        "category": "Společnost",
+        "title": "Nové čtvrti a čistá energie řeší bydlení",
+        "summary": "Festival Nového evropského Bauhausu představuje inovativní přístupy k plánování čtvrtí a urychlenému přechodu na čistou energii, které mají potenciál výrazně zlepšit dostupnost a udržitelnost bydlení v evropských městech.",
+        "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNcERfTFNabnd1OHE0VFB4R2htdVl2X3AyQVJNRDNCN1JLcEFxSXptTjRHbTE4czZVWkhGaUJYZmNOZEtjbXlBZUJpNGFjOXJNQlZHSFZvRHpEQ044czk0NEJhcG9rM0J4aHR1NzNwck9vSlAyWlY1dS1rd1QzYnIyNUVMbzZLbEotSy15UE5VSXpaTjdHOUdDakJPd1JCYktlM1RrcGZCSWx1bWM3ZXc0a25IcXY3Q2hoSndOdWlJSFdmMEE5a1dWR0xqRWxCYW5ROHRXNjh0WGRiVjRuV3l3QzFaZU5FaFlmRW9Ramtvd2p1c3pQMy1vUGxUMmh5M0E0UWxtOEJHMnB6b0NNaXNTVzhYZWU?oc=5",
+        "timestamp": "2026-06-25T07:12:00",
+        "timestamp_display": "25. 06. 2026 07:12",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Proč prodávat dokonalou firmu?",
+        "summary": "V rozhovoru pro Forbes Česko Fait a Malík odhalují zákulisí private equity, vysvětlují, jaké faktory vedou k prodeji i nejúspěšnějších firem a jaký přínos může mít takový krok pro zakladatele i investory.",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRlVKNmVPYV9zeVJjMkxNRzVaNE1PTFZFa0VYQU5fcTVzMGplZDUwdkQ1M29pX1JId1VhS0FMOEg4QWctWHVJNUhsbGNvRUtPS0V1TkVhMm4zTnViTkhfVjJHOTQ0MHFYVk9zdlJwNk1FZ0JPMHlkRy1xUDlqY0dXT25XemFaNHFqWmswUERpcXNZdk1RQTFQMlpqa2N0dVhNcVR3?oc=5",
+        "timestamp": "2026-06-25T06:09:10",
+        "timestamp_display": "25. 06. 2026 06:09",
         "is_new": false
     },
     {
@@ -213,6 +231,15 @@
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQWdCY2JOa3pUUmhyOHlScE91WUZZdnlWTjlVTllEREUyYlA3d3puTVpma0hQZ3RVczIzZFdoVllUZmZSOGNuUTQtTTZoUlpiSEpiMjNRdnZrMVlaZHllemRrVmNBaGtvOGhWVEhWelNDYnZOWmFkUldYNGF3NldFSmNGX0g1UDBEUDZqLS1DcDlEaENvbGs0eTFQOGVaRFF1a2pTR0ZxNlRxZV9UcTRFUHdQOA?oc=5",
         "timestamp": "2026-06-23T08:30:22",
         "timestamp_display": "23. 06. 2026 08:30",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Teplárny Brno spolupracují s developery od začátku",
+        "summary": "Forbes Česko informuje o strategické spolupráci mezi brněnskými teplárnami a developerskými firmami, která je součástí širšího energetického plánu. Partnerství podporuje udržitelný rozvoj a inovace v regionu, přináší nové investice a zvyšuje energetickou efektivitu.",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONjg0OU1Cakh6NzdrMUZrVm9UOXB6aXNjYXdJTWQ4SzhWd2sxajNuN0FzQUdoNndVSlZDV1ZONF90Z0xzOFI5emtoVC1BdElxdjc3dWN2TEtRc21uazlINUVhRXlJYm9QYlMtd1ZOZTg4RnhaUnNYUFpSTFJiQWtpT1ZINW5PMWRGQTk4eS1ZYmhEdWZaZXk3SkF3?oc=5",
+        "timestamp": "2026-06-23T06:09:51",
+        "timestamp_display": "23. 06. 2026 06:09",
         "is_new": false
     },
     {
@@ -366,6 +393,15 @@
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMFhvZmtaOEl5bVRSMUNVc0pOS2R2MGpWek1TZ0ljMWQtT0U4V3RXWFdhUGdCT3ExWF9MUWVILVNjaWk1UlY1US1pdWVCVEsyOFlac3ZEZGlhMlY3NDljb1hpanR2Tm1UbmRramEzN1MzVGdRZmgtTXhVSWttMUZfbkhYM2s0R3FqS3VOY2YwR3NCOHgyWWgxaE9MWjhqRnRkWE1hRGkyZ3o1bnNPdjdXaVRKbDgxTGNFZ0x6Y1VYT0wtMGU3OVJJ?oc=5",
         "timestamp": "2026-06-20T06:10:00",
         "timestamp_display": "20. 06. 2026 06:10",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Banka láká spořitele 4 % úrokem",
+        "summary": "Další banka vstoupila do soutěže o úspory a představila spořicí účet s úrokovou sazbou přes čtyři procenta. Nabídka má přilákat klienty, kteří hledají výhodnější výnosy na své peníze, a posílit tak konkurenceschopnost bankovního sektoru.",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPajA2amd3cVZHZFgwNy1DUURiSU1LcDFqVFNWUkhCZGpsTWMtM3IxMXNLUk9qNlpkYmNNV3lsN3IzWE5QSFZEYjE4NmpOTjB1Z0ZHb3FpRFd6R0hMQndCQjBpXzZNemp3Q2JSVVZLS3EwNTZrR2FvS0c3VWZBaGtldXZjajNBUVN4VmlETXk1VzBpMVJ0MXdIeGxDTTdDSkZfN1poRWxxXzN3NGFEY1RzR3JJcUhKalFZYWV2TnEtQU1PWWo4c1ZvUkhLOXZyQQ?oc=5",
+        "timestamp": "2026-06-19T13:11:00",
+        "timestamp_display": "19. 06. 2026 13:11",
         "is_new": false
     },
     {
@@ -978,6 +1014,15 @@
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQlZ2WUpjZDRGWUZ4bW1aQmJrRFl4MzRwMnkyQjZMQ19uWEd2UDVCS3NybmNLbmYyaExiN0ZORkc4RVlMeTFBYlp5VzZKbV9Bd1RJOTVKMm8tZVBLZm9xbXFaUXYxS0phVWNwV2VKTUZMX0tyVjR5SlFZTDlIRU5QZ0NRYmdReUk3eVliNC1Ja2lSR1dGT0xNRy12ZTBlTmI1S1FOUWRBeGZ0Rkp1WlBiaDA3amtDZnNjbEprUA?oc=5",
         "timestamp": "2026-06-11T08:58:00",
         "timestamp_display": "11. 06. 2026 08:58",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Dětská kresba přetvořena v chodící větrák",
+        "summary": "V rámci programu MyMachine se z nápadu dítěte zrodil funkční prototyp chodícího větráku. Projekt ukazuje, jak kreativita mladých tvůrců může inspirovat inovativní technické řešení, které má potenciál obohatit trh s mobilními chladiči.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yS1NIdEMtOWJUb1JYYmdjSldjUTE2YzkzS2RjUWZjdWI4bkNLcDhPNFJKUmNFeHVkUGN0SVlsMlhMUVVTQ3ZFRTVERmo4dHRmd2gw?oc=5",
+        "timestamp": "2026-06-11T07:00:00",
+        "timestamp_display": "11. 06. 2026 07:00",
         "is_new": false
     },
     {
