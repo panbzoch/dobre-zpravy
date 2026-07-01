@@ -1,12 +1,57 @@
 [
     {
+        "category": "Společnost",
+        "title": "Nová dětská skupina pro 24 batolat v Olomouci",
+        "summary": "Výchovné zařízení Štarnov v Olomouckém kraji otevřelo novou skupinu pro 24 batolat, kde jim poskytuje bezpečné a podnětné prostředí připomínající útulnou chaloupku. Projekt podporuje raný vývoj dětí a usnadňuje rodičům návrat do práce.",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbTFHYVg5UExuMUFMbWNkYUdFeHFXRmNHd3FyVXk5SHJGYmJxMFpuZUFmUG5vN1lUZU9UaXUwNjVPa25MazgwSGN5U3VNblJza2EwN2oweEd1V0hZV1JaVGJCaUhfNnh5OU1FbndIQm52Q3drYmx4RVRkNkxUZ3JDUk9Sbzg0OVltaWhsMFMwTEdHSXRHMGkxaW9yd2ZMUmFINkVmcGczLWJhbnFfTE4zMU8xVmVUSDRISXJjMTBqQmpkaGJwdE5mb2JtSGFyLTJWUTRyM01tRnJKbjQ?oc=5",
+        "timestamp": "2026-07-01T04:22:00",
+        "timestamp_display": "01. 07. 2026 04:22",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Chilejší dalekohled mapuje miliardy galaxií",
+        "summary": "V Chile byl uveden do provozu unikátní dalekohled, který začal detailně mapovat miliardy vzdálených galaxií. Projekt podporují i české vědecké týmy, čímž přispívají k lepšímu pochopení struktury vesmíru a vývoje galaxií.",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOVpPSDhIdjNJU3B2TV8xV2Z1ZUVpeHJrOHpSYnAyTGc2U3VTNGdzcjhnRzVVX1lETXluQjNJSmtpX2t5TnRlV3ZjUWZpNEVsMHpwbnJvRHRDSFR1QmpXckhSVUZkZUtway1vMVFOdVl0YzYtQTc1MGJwNFJHejluSDQwcnlhZ2NkRG01enlaY1FXSTJiNmc2eElVaUxSa0VWaXNybTBjWG56c0lYSzgwZ05FS2NLdW40aU5Ua21icTRyV01GdHZpSzNtOEJQS1NxZzRZ?oc=5",
+        "timestamp": "2026-06-30T20:45:00",
+        "timestamp_display": "30. 06. 2026 20:45",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Škoda dodá Švédům tramvaje za 6,5 mld. Kč",
+        "summary": "Česká strojírenská skupina Škoda Transportation získala zakázku na dodávku tramvají švédskému dopravci v hodnotě 6,5 miliardy korun. Projekt posílí postavení firmy na mezinárodním trhu a podpoří další rozvoj moderní městské hromadné dopravy.",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORTRaNG0zTW8zTDFnOW92V21HZE9hdjR0ZVZpbC1ITzBQS1U5OS1iNUlkSmZDcGx2TFNkU2toY1BqdVdlS05FZnp0emVTTE5aVzZ4bWlNR29LcHBsOFpzbk9qZC04Zjl2TGU2MXIxSGhIcWl5UnBHRVlWVDZlOXF1LW9YUm9paHhuVGxfMm12T3B3anViMUJDRThjSERqMmdHTWRQLVptdTlCQnN5d3RuVzVONXZuWUVLMVJIUjZn?oc=5",
+        "timestamp": "2026-06-30T11:28:00",
+        "timestamp_display": "30. 06. 2026 11:28",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Rekordní konvoj 40 nových tramvají v Brně",
+        "summary": "Brno oslavilo příchod 40 moderních tramvají, které společně projely centrem města v rekordním konvoji. Nová vozidla představují technologický posun v městské dopravě, zvyšují kapacitu a komfort pro cestující a podpoří udržitelnou mobilitu ve městě.",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUGtRZl9oS1BsekxNSEZBakM3TFFxZW5kUDlzZ25od3l6T090YUdfT0ZRb01Vc2p5NzVFVmFCOEY4RGUtQ21ITGE3dGd2YWdkNGdnWmtreUpiZXE4eExEdFVheUVQZDQ3cVNIdlpnel9Wei1iVnFyWGNrOGdHZ1ZZLS1iVFlhcDdmajlhQ1FkX1FkaV9tMlFvX0hUSjBZZEt5b2F0cGQ5MVNpS1A0Yk9nb0lMdUQxcWJmb0xXWDdfNmdFVjJJX0E?oc=5",
+        "timestamp": "2026-06-30T09:50:00",
+        "timestamp_display": "30. 06. 2026 09:50",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Liberčan prodal firmu za miliardy",
+        "summary": "Zakladatel z Liberce vybudoval technologickou společnost v Británii, kterou po několika neúspěšných fázích úspěšně prodal za stovky milionů. Příběh ukazuje, že vytrvalost a opakované pokusy mohou vést k významnému byznysovému úspěchu.",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVnFJVU5qZEpONFNpSVNCNkc0ZkFsS3FiSVM0OXZlSzV5UjBTNGhUSzd2ZGhZcmwyOXRfTjZEZzVtS1NSaHhZeTBiQll2MVZHMGtZaDl6cEt5bFhjWExmMFo0OGplVUY1WlVhQXJQTGdFMTFhX0RLcDViSW4tb0FHNUtmWFBJbG02Z0xud0ZuaEJUcV82WmFjS2o1X0lHY2YyV3I4UndDdlBmd3hWVzdSNmN5Uy1BOThIOHAyUlBn?oc=5",
+        "timestamp": "2026-06-30T04:10:48",
+        "timestamp_display": "30. 06. 2026 04:10",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "AI investovala fiktivní milion – výsledek překvapil",
         "summary": "Forbes Česko testovalo, jak umělá inteligence zvládne investovat fiktivní částku jednoho milionu korun. Po roce experimentu AI předvedla nečekaně solidní výkonnost, což ukazuje potenciál AI v investičním poradenství a podporuje další inovace v oblasti fintech.",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObzFUOWRlSG00M3R6SU1hSV9LWnMyRzVEa3NXNnlURTkyMWZpQ1IzZWpKSV8zU1ZObHVtN0R3SHVYSGZFS1ZGMDBQdm5OQUQ3WFRudlNCMVZFTF9xbFFMUGJ1SUZoSkRqMENNLTFyaE1xZmVreVMySkk0SjNVSnNENUd6NFBtS3dwV3BxbFh1cXY2MHdlMHFxM3F6aw?oc=5",
         "timestamp": "2026-06-30T06:09:28",
         "timestamp_display": "30. 06. 2026 06:09",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -15,7 +60,7 @@
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRzFZME4wbFZ3Sk1RSjdzZDJzWU5YS01lZXNGRGJNd3NZMUxRR2RBZ2xER2d4a1puVVRMYVdkYUxFc0U5eVprMm43YVViaEVvU2lYclN3QVdGUnRUMHNhWi0zVi01cThUeVY2NVE4MXl6Njh1dFl6WUlmZ05sTGZRdzl3QVJXNkR4dnlkRHoxSzN3X1Qzeno4TnBHc3BSN1hMczZjRzNFMzFxNUlTaGFYZ2RhVG80TUZGaWZNVElIYS1NU2o4aDlwYWFnbTQxUDBpVHhZbURGbw?oc=5",
         "timestamp": "2026-06-29T21:24:00",
         "timestamp_display": "29. 06. 2026 21:24",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,7 +69,7 @@
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVEhtb0lxU2FJRC1YaUd6TEZiX0hka1I3U1lsemwwQzhEZ0ZkcXNpTE56MlppMFQyVnJXOVV6M1RaaXprMTdtMG1LYmdjY0ZyZ21XT1plbUpZdXpYamdEQkJSbUVDZEx2Y0V4elFrYUY1NnZfZkxhUEdHbnlSbTlaMjJOd3R0Wklfc1hkQy1zdw?oc=5",
         "timestamp": "2026-06-29T15:35:28",
         "timestamp_display": "29. 06. 2026 15:35",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,7 +78,7 @@
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSE1ma0JBNEtnWlFVY1FsdXJsdmtXVmVaT1psSVZGaF9udW5mM2FMVXhwRW5rTkFQVFBaWHpEU3JsdjVSVUNGdjdXUlBCRnA3dVdyRmFNemp0T0lkTjF6aVc3RnBVbjNhbDY1TkZBREFuT3llUGhNcENfSHVQWVc0OHFNNkM1TVE4ZUFzcGtLX3luNDZEd21wdHZWUXduSmRzaC1TU0tqSVVzR1VPNnZza0Y3LXhKallaTG9GS3NSbw?oc=5",
         "timestamp": "2026-06-29T11:00:00",
         "timestamp_display": "29. 06. 2026 11:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -42,25 +87,7 @@
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR0ViU09JcTQxeWVsTlVFejZpYnhERlQxV1RmQ3VSeTA4Vmp4NktUWFJ4cXp1R3kwSThrM2NvdjZxS29DdFdIUFBEZ1NrNVI5NjBuejhxV3lIQWhLdUloektrcnpkMTd5SjBoOVpVY1lQZndZVjcxYi1qVjEtQV9SbXBTX2w4VVpSeENMYTVYUkJ4dkVSbWhjSGIxc2xSY1lFTTBfcFBzYU1VLVVteFFrMQ?oc=5",
         "timestamp": "2026-06-29T09:55:00",
         "timestamp_display": "29. 06. 2026 09:55",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Samsung a SK Hynix investují 11 bilionů do čipových továren",
-        "summary": "Samsung a SK Hynix oznámily plán rozšířit výrobu čipů v Jižní Koreji a investovat dohromady 11 bilionů korun do nových a modernizovaných výrobních závodů. Projekt podpoří lokální ekonomiku, vytvoří tisíce pracovních míst a posílí postavení země jako klíčového hráče v globálním polovodičovém průmyslu.",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTVRPckdydzh2cFZJdlg0UlBzQkdzX25PMFVtZzg2ZzBLV0NlcHdjQmxqeWdaT0tSQThzQWtQV3ZZbURGNFlyVnVuNFlBWHI4aUtRRHZGWmRQV25neXVCWWFtS1BVN0lXU2h4ajJsNmliRUF5TDNGTXNpcUVnNGhUQnRqWnZnX3V0SElPNzUzekxaYzBPQzFIdHFPWmRoOGFkblJTLWRmSTc5ZHVYekhGRXlCeDBtRk9RRXBrU19RTDNQTGhYRUE?oc=5",
-        "timestamp": "2026-06-29T07:10:00",
-        "timestamp_display": "29. 06. 2026 07:10",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Druhá vlna státních dluhopisů startuje v srpnu",
-        "summary": "Ministerstvo financí zahájí v srpnu druhou emisní vlnu Dluhopisů Republiky, čímž rozšíří možnosti investic pro veřejnost a podpoří stabilní financování státních projektů. Emise slibuje atraktivní výnosy a posílí důvěru v český dluhový trh.",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb0RYMWMzV0p1N2hEY09rWXlaT1dlNXdic0Zfb0dJS0RLS1NubjZzTTBmbElqMlNTOTZIeVo5OHJwM0g3Q1RLaXVlUXY3OVpDX3FjSTVGVDVPQVFDWEFtVkxUVTFrYXRPV2Z4Tmx6TnhYSnJpRlVQaVZxVmtEQzJMUmUtUVA5SHI0TnRVZlNzQ1lteE1wUUNVczZZY0QwU01OSFgzaFFwWXBPaEZjLVE?oc=5",
-        "timestamp": "2026-06-23T13:11:22",
-        "timestamp_display": "23. 06. 2026 13:11",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Společnost",
@@ -78,6 +105,15 @@
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR214ME5icGtLcUpiTDg2RHUyejFGSE9nek93NnJRMnJtRGV5dmdDWVFkVWNBS2c2Y1puelNGdnlVR21MVWJYd2VfSllKUUNTcFZrOF9BeUxrT1FhTFBZRXM5R0tkMkp1MDlaSm44cU00RnhpR1FONDJLM0NDLXRWQy1od3dBNWxvLVo0VFVHdEpGSlI2eXVTT2Zfdk9ZTHpLUTZmUWtLVFpsUDdvSVBEV0U0UnRwTENES2c?oc=5",
         "timestamp": "2026-06-29T08:22:00",
         "timestamp_display": "29. 06. 2026 08:22",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Samsung a SK Hynix investují 11 bilionů do čipových továren",
+        "summary": "Samsung a SK Hynix oznámily plán rozšířit výrobu čipů v Jižní Koreji a investovat dohromady 11 bilionů korun do nových a modernizovaných výrobních závodů. Projekt podpoří lokální ekonomiku, vytvoří tisíce pracovních míst a posílí postavení země jako klíčového hráče v globálním polovodičovém průmyslu.",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTVRPckdydzh2cFZJdlg0UlBzQkdzX25PMFVtZzg2ZzBLV0NlcHdjQmxqeWdaT0tSQThzQWtQV3ZZbURGNFlyVnVuNFlBWHI4aUtRRHZGWmRQV25neXVCWWFtS1BVN0lXU2h4ajJsNmliRUF5TDNGTXNpcUVnNGhUQnRqWnZnX3V0SElPNzUzekxaYzBPQzFIdHFPWmRoOGFkblJTLWRmSTc5ZHVYekhGRXlCeDBtRk9RRXBrU19RTDNQTGhYRUE?oc=5",
+        "timestamp": "2026-06-29T07:10:00",
+        "timestamp_display": "29. 06. 2026 07:10",
         "is_new": false
     },
     {
@@ -348,6 +384,15 @@
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRkhYenAzeG5GSjdwMC1RQ0xPR3MzeDVWWmdnS3dBMlRaSTJRNzRNckxObk9iZFZ3bTNnWjBDLV9HcU01X19lQ0NaYmJEY2RMUnlOTXl2eU1NdjlKSXhVdDI1QUhPYnBiRlIwWDc1Zy1ELXdWdjNFbENHcGhiZDU4WmtnZ1RiYzdvc1Fab0tVWXE3ZUtmSVVtZVV5cGF2TUlUb0RYWUwzeHFiV0pxakRpTWNuRVE3TjktVlNLNnNUaUZqcnJvclZiLTB3?oc=5",
         "timestamp": "2026-06-23T14:30:00",
         "timestamp_display": "23. 06. 2026 14:30",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Druhá vlna státních dluhopisů startuje v srpnu",
+        "summary": "Ministerstvo financí zahájí v srpnu druhou emisní vlnu Dluhopisů Republiky, čímž rozšíří možnosti investic pro veřejnost a podpoří stabilní financování státních projektů. Emise slibuje atraktivní výnosy a posílí důvěru v český dluhový trh.",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb0RYMWMzV0p1N2hEY09rWXlaT1dlNXdic0Zfb0dJS0RLS1NubjZzTTBmbElqMlNTOTZIeVo5OHJwM0g3Q1RLaXVlUXY3OVpDX3FjSTVGVDVPQVFDWEFtVkxUVTFrYXRPV2Z4Tmx6TnhYSnJpRlVQaVZxVmtEQzJMUmUtUVA5SHI0TnRVZlNzQ1lteE1wUUNVczZZY0QwU01OSFgzaFFwWXBPaEZjLVE?oc=5",
+        "timestamp": "2026-06-23T13:11:22",
+        "timestamp_display": "23. 06. 2026 13:11",
         "is_new": false
     },
     {
