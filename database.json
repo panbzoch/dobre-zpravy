@@ -1,12 +1,66 @@
 [
     {
         "category": "Byznys",
+        "title": "Samoobslužné pokladny neohrožují pracovní místa",
+        "summary": "Nový ředitel Kauflandu vyjádřil, že zavádění samoobslužných pokladen nepřináší ztrátu pracovních míst, ale spíše zvyšuje efektivitu a zákaznický komfort. Podle něj jde o inovaci, která podporuje růst prodeje a umožňuje zaměstnancům soustředit se na přidané služby.",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM1dnOGJ4dkZXODU5TjlUeEQzX3ZXc01LVHh2OEtxalQzUUFtR1BlMVBfNmRVM2hqaFE5SjREaFY2d0ZRWVdOUG9pSVhFZld3dmM0dnJKYmhGcjMxcXE0NmpEaVI1ZDl1VXhTbjV6a3BZekwxcFlZNmdxa2hmUzJmZ1AtenJWU0t4LWtDdW53?oc=5",
+        "timestamp": "2026-07-03T06:06:29",
+        "timestamp_display": "03. 07. 2026 06:06",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "MR.DIY rozšiřuje investice a pracovní místa v Česku",
+        "summary": "Malajská řetězcová síť MR.DIY oznámila vstup na český trh s významnými investicemi, vytvořením nových pracovních míst a nabídkou cenově dostupného sortimentu, čímž podpoří lokální ekonomiku a spotřebitele.",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLUxCQjRNZVZTVHNwcGgxUXJnaTRFVEkxelpEMkY4ZXVjMGhVcmhLdG9DVU52ZGYxRkwta3VxSWUyX2k2RUI4SlVmNFYtZ3RUQ3cwZ3g1MFZFYXdnT3pVWnNqdkhRdEhIU3lYVHpuX3FoZ1JKWWJxSnpiODdnb1NERkFjZzMtRzZwZndUeW82MXdvclNtM1F1TlRvODVTUngyQkpGMm1EQQ?oc=5",
+        "timestamp": "2026-07-03T06:00:00",
+        "timestamp_display": "03. 07. 2026 06:00",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Vědci mapují lov vlčích párů v Broumově",
+        "summary": "Vědci z monitorovacího projektu sledují pohyb vlčích jedinců Dita a Ernest v Broumovském výběžku. Pomocí GPS a kamerových zařízení analyzují jejich lovecké strategie, územní chování a sociální interakce, čímž přispívají k lepšímu pochopení ekologie dravců.",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaUI1NXhKRl9fWlZZOHgwRzlyUUc2aGhNU0h0anpGanY1czZTN2lkT1JuUEpPblJxSzY3NlRZMkZ5aXNfaGhDbzhHMTZHOUZ0OEc3UTU1MEVYMEV6UENWempTQmdFTEF6YWpnanI3RkFRQ2ZlRGkxaWpuS0l4QkFhSU9jS0pJc2pwU00zckowNUtYNEFtWThlekpoLXNITUNtWHFyc2VWTkpMT1hDRHRzWUYzZnhlcG55YWdDRVFpOWhWWWx6d2I2MUpZMWRjVWZUYzR5aw?oc=5",
+        "timestamp": "2026-07-03T04:43:00",
+        "timestamp_display": "03. 07. 2026 04:43",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Efektivní kancelář v moderní ekonomice",
+        "summary": "Článek popisuje, jak současné kanceláře optimalizují náklady a zvyšují produktivitu pomocí chytrých prostorových řešení, úsporných technologií a flexibilních pracovních modelů, čímž přinášejí firmám výrazné úspory a lepší pracovní prostředí.",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcUJHTFFYVWI4cVMyNUNUSnl5SXdiV1c0MzFFS0FQLXVxSUZndVZVbFZyRG5iSWhnX0hLSkNsYTY3b3pKbTVzVVVjaHptMFVOVFZwVFkyb1hjR3lXVi0zelVpeDFWdUNwVHRwb2UteEdLa3lfLV82anpvZ3NsdzI3MlluZHIycGlmVGppY25R?oc=5",
+        "timestamp": "2026-07-02T22:00:00",
+        "timestamp_display": "02. 07. 2026 22:00",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Revoluční černý lak pohlcuje 99,9 % světla",
+        "summary": "Vědci vyvinuli nový automobilový lak, který absorbuje téměř veškeré světlo a vypadá jako optická černá díra. Tento materiál slibuje výrazné snížení odlesků a zlepšení aerodynamiky, což může přinést úspory paliva a estetické inovace v automobilovém designu.",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMndJNThrdXJ1RXNKbmdfbFVCN1prYUdFQzlvSWwzeEh6c1hXeEhBNVVwa3ZrVEZUN1ctb0xhejNTTk1XalJvYmkyRHo4cVJfTFNrWXlINjZIcE1ocWNlUmFBbnJQWGVxQ1BFbWk5VDJ2aTFKcGxHclJZNnJwdHlWUGphaVJQY1RmQVFTaFZncElSbzFvdmtfbHZHVTRZelRsaTZ2RFhrdTRFQTR0cUd4ZUxFMk9ob3NZR19mWUNaVlhYTVQ0d0pTZEFwSm5DZXoyYTFFZlJScw?oc=5",
+        "timestamp": "2026-07-01T09:45:00",
+        "timestamp_display": "01. 07. 2026 09:45",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Kdy je investice do nemovitostí v roce 2026 výhodná",
+        "summary": "Článek analyzuje aktuální tržní podmínky a nabízí praktické tipy, kdy se investice do nemovitostí v roce 2026 vyplatí a kdy je lepší počkat. Přináší přehled faktorů ovlivňujících výnosnost a pomáhá investorům učinit informované rozhodnutí.",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdXV0b2FkRmdabVViLUxEZGZPd3lUY2NqUDdWelpiTTVHUzZsQUY3akFXS1NoRkZjQnVrMXBxeUV2SGliMXlJN296WU5hNmtWcmF5NDJLMHI2OWJBZmpOUUs5N2NuZjIxZkhGSjNXZDhZdmdvc0lBTlZVNHdrTEVNbGc1MFd1dlN3dmlYU0ZSNHJNZ3cxSWdXSjVUdmRCZG5IY2FlYw?oc=5",
+        "timestamp": "2026-06-28T22:00:00",
+        "timestamp_display": "28. 06. 2026 22:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
         "title": "DEK dosáhl 33 mld. a otevřel 100. pobočku",
         "summary": "Společnost DEK zaznamenala výrazný růst – tržby vzrostly na 33 miliard korun a zároveň otevřela svou stovskou pobočku. Tento úspěch potvrzuje dynamický rozvoj firmy a její silnou pozici na trhu.",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcVJ5TjQxd3otOHNreDdFV2FNT2V2cTFrWVFNbGlWSEhmaExnMC1uQmVTaTk5MW1jYnlWcFF0anBnRmVsRnJUYzFJS2NJQ1VTN3RoMkRaUmxZOVgtUXdzS1h6X2k1clFRWDdOX1pxNm1LTTRlTHBwRDdYVXRaVFgtUy1rSE5QWEh5cWdzQmZBYXp2Zi1MTGJr?oc=5",
         "timestamp": "2026-07-01T11:50:45",
         "timestamp_display": "01. 07. 2026 11:50",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -15,16 +69,7 @@
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNejhCTEpoNVJDM2xwT2wtZlBnRFQ5al9yZ1B4RmhwdThuUy1zaDMyNHM2ejN1aXJ2Q1pYX3hzWEhBa1RwRm4wZkJoT1BFTl9KcVlFMVZXbWljQkxydlFQejQ2dG9mQ1FLZHlsbHZaOFZBUE5yVkVoYlU5SFZOZktSc2pQdW1GSmZuWl95Y0dkem9uMUFiOXB4cGcwU3pfU1Z0YlJBN1dYdmxMVVNBeFlkNlB5UTBhOTNvQUhMU09QZThMNHE4d2pEMXlrRzVLZEcxYmlLTE02amg?oc=5",
         "timestamp": "2026-07-01T10:11:00",
         "timestamp_display": "01. 07. 2026 10:11",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Přehled nejlepších realitních fondů",
-        "summary": "Článek představuje srovnání realitních fondů určených k investicím do nemovitostí, popisuje jejich výkonnost, poplatky a výhody. Pomáhá investorům vybrat vhodný fond pro diverzifikaci portfolia a dlouhodobý růst kapitálu.",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0Rk1ucmUxVGY2VWhsSVlESnl0R0E1aHczYWtzQWhSM2lzd0RWWjRUNll4cjY1Y1p2UkhVZWZpS1dyQXp1U0hnTy1zeGdfanNTd3FqRHZuaFAwRkk?oc=5",
-        "timestamp": "2023-04-13T09:12:59",
-        "timestamp_display": "13. 04. 2023 09:12",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Společnost",
@@ -14046,6 +14091,15 @@
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5T2ZCZVRQVU9POFhYTW42bTUta216X0pPVnk1WjhiVUNERmlMZlE3ZGl4amkxMG0zbWxRT2Jfc0hvUENXc1ZwWWRpX0VTR0pINnBJ?oc=5",
         "timestamp": "2025-10-29T07:00:00",
         "timestamp_display": "29. 10. 2025 07:00",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Přehled nejlepších realitních fondů",
+        "summary": "Článek představuje srovnání realitních fondů určených k investicím do nemovitostí, popisuje jejich výkonnost, poplatky a výhody. Pomáhá investorům vybrat vhodný fond pro diverzifikaci portfolia a dlouhodobý růst kapitálu.",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0Rk1ucmUxVGY2VWhsSVlESnl0R0E1aHczYWtzQWhSM2lzd0RWWjRUNll4cjY1Y1p2UkhVZWZpS1dyQXp1U0hnTy1zeGdfanNTd3FqRHZuaFAwRkk?oc=5",
+        "timestamp": "2023-04-13T09:12:59",
+        "timestamp_display": "13. 04. 2023 09:12",
         "is_new": false
     },
     {
