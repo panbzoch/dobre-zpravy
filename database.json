@@ -1,30 +1,48 @@
 [
     {
+        "category": "Byznys",
+        "title": "Audiovizuální průmysl v ČR vzrostl o 14,5 %",
+        "summary": "V roce 2025 dosáhl obrat českého audiovizuálního sektoru 11,3 mld Kč, což představuje meziroční nárůst 14,5 %. Tento růst odráží zvýšenou poptávku po domácí i zahraniční produkci a posiluje pozici odvětví jako významného ekonomického pilíře.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85bHNVaTcxZEJTb3o5bkw4aEpoTXpTQ2tqNFZNd2xGQU9WQXlDb0FYZXRQLTVaRmdoRngxU09DUzJoYUx6LVd1amF2VUp4RklRQTVB?oc=5",
+        "timestamp": "2026-07-05T07:57:00",
+        "timestamp_display": "05. 07. 2026 07:57",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Pražská AI firma oceněna na 12 mld. Kč",
+        "summary": "Česká společnost z Prahy, zaměřená na umělou inteligenci, přilákala globální talenty a rozšířila své kapacity. Nedávno byla oceněna na více než 12 miliard korun, což potvrzuje její rychlý růst a význam v mezinárodním AI ekosystému.",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSmRELXU4TDlDZUJrUUtpYVNHSkF3c2UyYnBXWlRBanZfbVpfOWVxcG5Hckc0ckJ6X0pKazhDWGxmSGpCRmNNMEdzX1VLM0ZPemxvZWVpb0lhOTF1dGNaWVZCZWFlaERWMzNCakxYR1FFZ2Q2TXZnOXhrdWhUYmtmTFZNX3VyWXN5c2RTekRzY1FZbWY2dUp6d0w1ekpjdnpLWW1pWmx0TWM0U0VXaHA0aW44dUt0ajh5d0F6OFluVEViR2taSzRtWmFxZktRRmdLdzVKSA?oc=5",
+        "timestamp": "2026-07-03T15:30:00",
+        "timestamp_display": "03. 07. 2026 15:30",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Timex získává Daniel Wellington",
+        "summary": "Skupina Timex dokončila akvizici a získala plné vlastnictví módní značky Daniel Wellington, čímž posílila své postavení na trhu s hodinkami a rozšířila portfolio o populární designové produkty.",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNME1qX0ZrZVF3NWdFN0duQXEtYnhUdEEybmJqc2VCMnNoMFQ5bUJEUWpjcF9PNUtScGRmeGQ4WmtVR28tWDVYQjRBSnB5dzBtNVlkNGEtaGFCSkVaTWQ4UW1vZlp4SHhfaWpqY1NaU3otUnJNeExaRFN3MkRySUlZazNvWThTWEtIQzhoaG9OQUhDMTFYVXJoM2RTQmxTWm9SLThycDdpSVRtekE2dlg2cnNjOA?oc=5",
+        "timestamp": "2026-07-03T07:44:00",
+        "timestamp_display": "03. 07. 2026 07:44",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "AI rozluštila 2000‑letý svitek z Herculanea",
+        "summary": "Umělá inteligence úspěšně přečetla a interpretovala starověký zuhelnatělý svitek z Herculanea, který je starý dva tisíce let. Tento průlom umožní papyrologům získat nové historické poznatky a ukazuje sílu AI v archeologickém výzkumu.",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaTVQZTJablBqZFpvY3FSZVVUZFpaZlZfTTctRGI5bEpfQ2lMd0JkckVBX2hVSEpXUHRxcVZoekxPSjFfbnY1UHh1U0U5dVFnd29tOE91eHBaSmNCa0xFNkdHYVd4RFFPX1l5VlQzMjlEam04dVJtV0dBeE5wYmpNQ3pkUkp0djQyRFZNTlJZamlXZnhUaGc1V3VCT1B2ZXVTMGpCa0c5Z0kzNDIzOEpMX3Y3WjVEeGIySm1PTnVMN1liQ3BwU0pWUHZRalNsS3RhZXJ1M1pJbw?oc=5",
+        "timestamp": "2026-07-02T13:45:00",
+        "timestamp_display": "02. 07. 2026 13:45",
+        "is_new": true
+    },
+    {
         "category": "Medicína",
         "title": "Nová vakcína proti chřipce, covidu‑19 a RSV slibuje úspěch",
         "summary": "První klinické testy kombinované vakcíny proti chřipce, covidu‑19 a RSV přinesly nadějné výsledky. Studie ukázala silnou imunitní odpověď a dobré bezpečnostní profily, což může zjednodušit očkování a zvýšit ochranu populace před třemi závažnými respiračními onemocněními.",
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOU1BJU3FyNDNRU1FYeXREWTJ6aU4tZmRBeVJUUTBHRGpOS0MxTV9rMlhuQ3hRZEZDcmpTYmw1RUFTbnkyT096REhyUFJvaDlFSDdhZWJlRmstZDdFY3E5cGRERFBqZ0F1WFJtTDNxS1IzSU1Veld0UHh6Mk5uRXo4b2o4azFzOE5VOEdoTkJhWE1CTzdnQWNUeHFPVGVsaDZvc0RXUzlTRktoNk9vVm9ibGloWnZvZXhxeUFEbUtNeVFNWFFNeFoxTUc4NThoTGtFam00dkd1VkJDc3lMdGctRnZSMDFmZw?oc=5",
         "timestamp": "2026-07-05T05:45:00",
         "timestamp_display": "05. 07. 2026 05:45",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Šumperk vybuduje 90 nových nájemních bytů",
-        "summary": "Město Šumperk zahájí výstavbu 90 nájemních bytů v bývalém areálu textilky Hedva. Projekt, jehož rozpočet přesahuje půl miliardy korun, má za cíl revitalizovat oblast a zvýšit dostupnost moderního bydlení.",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMGZRMXhhZTFzZElkNlBNem5pWUFsM2RrZC1mVFBtQkJaQUVIT3hmcXZaUzUxV2d6dS1TMFlEYVp1RWZOcDliNXdOSGlGTUdKbWktRUVIc0Qzek00bUdXa2VxemRMcGhSakRaRmhOejZLWjlpN3pkcHhTSTh0OE9qM3ZoRjJvSDBNX2UtLXZCMl9scks1cFdkc2laLXlCT2RFWVlBaVBkRTZsTjF4OEtLZm5pVkJUeGE2MFhicGc4bEY3NVIydEpOa3lGaw?oc=5",
-        "timestamp": "2026-07-03T15:19:00",
-        "timestamp_display": "03. 07. 2026 15:19",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Česká podnikatelská mise na Ukrajinu připravena",
-        "summary": "Minister Havlíček organizuje obchodní delegaci směřující na Ukrajinu, jejímž cílem je podpořit české firmy a navázat nové investiční příležitosti. Termín mise zatím není stanoven, ale přípravy již probíhají.",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aMW1fLVhXcFdmbHBGZzA3Z0VkWEE4NkZTWFRpc2RmbUNxZFh4cTJybEd5aVhlUVJNdVdnSW9uLWI0T2NfMUdNYzVLa3VjYkt6Y2R3?oc=5",
-        "timestamp": "2026-07-02T19:18:00",
-        "timestamp_display": "02. 07. 2026 19:18",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -42,6 +60,15 @@
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNXFlOXFjTG9yaFBEM1FsV2hucHZTTHdQM1hBQ0dWYnBXTzA0NEc1ZGZDcHhvQkVLdHlIVmFQTTVsMTBoSGZJTm1GMzZybFJocm9BWWdlc1hTUy1IVGMtN0NOU2lsaDA5T20xUU9vT2ZtTHEzcWlZTzZTM1hRaTFwMzBsRTA0dXFCMTRDcmlpM2FKaU8xNndfMXhjdmk1ME5PVUc1TllsdjA5ZmFEd1NSUTEzU0dwYzdaVGp1ZlkwbTV2TjlLSTZxeTg3MUkyaXdFTlE?oc=5",
         "timestamp": "2026-07-03T19:14:00",
         "timestamp_display": "03. 07. 2026 19:14",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Šumperk vybuduje 90 nových nájemních bytů",
+        "summary": "Město Šumperk zahájí výstavbu 90 nájemních bytů v bývalém areálu textilky Hedva. Projekt, jehož rozpočet přesahuje půl miliardy korun, má za cíl revitalizovat oblast a zvýšit dostupnost moderního bydlení.",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMGZRMXhhZTFzZElkNlBNem5pWUFsM2RrZC1mVFBtQkJaQUVIT3hmcXZaUzUxV2d6dS1TMFlEYVp1RWZOcDliNXdOSGlGTUdKbWktRUVIc0Qzek00bUdXa2VxemRMcGhSakRaRmhOejZLWjlpN3pkcHhTSTh0OE9qM3ZoRjJvSDBNX2UtLXZCMl9scks1cFdkc2laLXlCT2RFWVlBaVBkRTZsTjF4OEtLZm5pVkJUeGE2MFhicGc4bEY3NVIydEpOa3lGaw?oc=5",
+        "timestamp": "2026-07-03T15:19:00",
+        "timestamp_display": "03. 07. 2026 15:19",
         "is_new": false
     },
     {
@@ -105,6 +132,15 @@
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcUJHTFFYVWI4cVMyNUNUSnl5SXdiV1c0MzFFS0FQLXVxSUZndVZVbFZyRG5iSWhnX0hLSkNsYTY3b3pKbTVzVVVjaHptMFVOVFZwVFkyb1hjR3lXVi0zelVpeDFWdUNwVHRwb2UteEdLa3lfLV82anpvZ3NsdzI3MlluZHIycGlmVGppY25R?oc=5",
         "timestamp": "2026-07-02T22:00:00",
         "timestamp_display": "02. 07. 2026 22:00",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Česká podnikatelská mise na Ukrajinu připravena",
+        "summary": "Minister Havlíček organizuje obchodní delegaci směřující na Ukrajinu, jejímž cílem je podpořit české firmy a navázat nové investiční příležitosti. Termín mise zatím není stanoven, ale přípravy již probíhají.",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aMW1fLVhXcFdmbHBGZzA3Z0VkWEE4NkZTWFRpc2RmbUNxZFh4cTJybEd5aVhlUVJNdVdnSW9uLWI0T2NfMUdNYzVLa3VjYkt6Y2R3?oc=5",
+        "timestamp": "2026-07-02T19:18:00",
+        "timestamp_display": "02. 07. 2026 19:18",
         "is_new": false
     },
     {
