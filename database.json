@@ -1,12 +1,30 @@
 [
     {
+        "category": "Věda",
+        "title": "Československý vynález čipů oceněn Nobelovou cenou",
+        "summary": "Československý tým, který vynalezl moderní integrované obvody, získal Nobelovu cenu za fyziku. Přestože dlouho postrádal podporu, jejich průlomová technologie položila základy dnešního digitálního světa a podtrhla význam výzkumu v regionu.",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOV0VVQ216REs5dVFzNmtKaXlPUC1oalNCSFZBTVJjN3RvdkFQX2NVYi15THQyTlZXZUg2dS1DQUJhYTFnalB3bFRZSWM2YmNUVDhXUEFnOENNRnZZd1VVek9KdGxNTWdaVnNIZ0U2ZjBueXk0SUJ2UlVxNTRHSGVIam1ILXZ3bUlFNTQxVnVVbHVmeWY3RjFEVkt3eW5DejM4eFpJRWNyNU1rYW1HYmhrRl95S0RZOW4xTHpqNkRaR2FqZ0lRSmhOQzF4NjBjQnpHYXRUYnNOdlI5djg?oc=5",
+        "timestamp": "2026-07-11T04:00:00",
+        "timestamp_display": "11. 07. 2026 04:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "MR.DIY rozšiřuje investice a pracovní místa v Česku",
+        "summary": "Řetězec MR.DIY oznámil vstup na český trh s významnými investicemi, tvorbou nových pracovních míst a nabídkou cenově dostupného sortimentu. Projekt podpoří lokální ekonomiku a rozšíří možnosti pro spotřebitele.",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNUhkaVJuZmFLNnlaSmdfUkRoVlNaMXFwU3VncDAyc3poa01SSFBOQ3BBSEJhU0FoREVsSzdHZmo2QUlUTExjaWdKOUlTS09IbExjb2s2aVRuYnpWaDM1Nm1YLWdPVHgteF96MjVhTWVFN2NkS0hWeXJQcXFXZWdVRHFsbk9na0Jhel9OUGVEejNiRFljVWtJUGVyM3lQalhX?oc=5",
+        "timestamp": "2026-07-03T06:00:00",
+        "timestamp_display": "03. 07. 2026 06:00",
+        "is_new": true
+    },
+    {
         "category": "Byznys",
         "title": "Sušice plánuje rozvoj bývalé sirkárny",
         "summary": "Město Sušice hodlá odkoupit areál bývalé sirkárny s cílem vybudovat bytové domy, služby a lehký průmysl. Projekt podléhá ekologickému průzkumu, který má zajistit udržitelný rozvoj a vytvořit nová pracovní místa i moderní obytné prostory.",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQa1ZFLVZLNHJkRXB3SFVPUE9mZERmVjd6N1lRQ183SHNiSDl3VUhvRzdTeXJnd0pqakFxenM2bnU2Y0wxc0dkaDJIckdsNVM4dzVrZS1YUXBxbjNud2k5NHRWN2NUaENGVmt5bXN0TFB0alhQeDhDVVVZLXl0NE8xMzRlSWtBWUdJTWJra2dnMEgyY1duYnpFVTFSOG55ZThENnRBYnhlcVB0ckpTSGNXQV9nQUxqb040V25lV2VJYXY4dWZMTlVQNjZNOA?oc=5",
         "timestamp": "2026-07-10T06:35:00",
         "timestamp_display": "10. 07. 2026 06:35",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -15,7 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMUJ2bks5cGdTQmxKaFlsQ2xvcmNCUU95RTZza1c2OUNsSU9VMEk0SkNIQTF3V2RiME5LU1U4SGVMRTkwaXBEb3FULWRIdFlXX0htM2NxWEx6SGhEdm9sT3Z1a2dKV1VCTDNQek1DdGFKZzJYMVhZcU1CdHBqa0tZbmlNbENYT0Z5VUhyTDNwMDl4ZWlUZkRmblhWRl8yazNucE1MUWhDVkdrYW9YSF9VMFFadkk2N0xLaHRoLUpJSQ?oc=5",
         "timestamp": "2026-07-09T10:00:00",
         "timestamp_display": "09. 07. 2026 10:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
