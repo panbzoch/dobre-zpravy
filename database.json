@@ -1,21 +1,102 @@
 [
     {
+        "category": "Technologie",
+        "title": "Bývalí kuchaři vyrábějí čipy v Rožnově",
+        "summary": "V Rožnově se rozvíjí výroba polovodičových čipů, kam se zapojili lidé bez technického vzdělání – bývalí kuchaři a prodavači. Projekt ukazuje, že praktické školení a motivace mohou otevřít cestu k high‑tech průmyslu i mimo tradiční akademické dráhy.",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZWg5aDhxcE1XS3oxV09hNF9nNEVwWW9pcG1sUGRTQTk1clhYUmwwM2k0Tlk2LUwtVHNUbTd0SzVJdkp1cVNHYnB6Y0p2U0w2NE1ydVllcExYUUlyNjRPRzNialIwaFZoZ0pWQl95c3llRXF2VUExcFhBZTR3bXBZOEFaLW5OUGdBVkhabDJTWjRPZWQxVURwS2dQb3IwZ2R3ejFVdC0zb3p4MDBSU1dEN3N6MDZBc01oNHJpMjRSeGhEQXhT?oc=5",
+        "timestamp": "2026-07-12T04:00:00",
+        "timestamp_display": "12. 07. 2026 04:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Ex‑farmaceut založil úspěšný pivovar",
+        "summary": "Po neúspěchu ve farmacii podnikatel prodal firmu, přestěhoval se k manželce a začal vařit pivo a péct chleba. Díky nadšení a podpoře rodiny dnes rozšiřuje své podnikání o vlastní pivovar, čímž ukazuje, že i po nezdaru lze vybudovat úspěšný a inspirativní byznys.",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbWxtUXdoUTJGeXFRZzJ3aWJHN3dESnVVbU1RVGMtTVA1Skh5bUhjY0JDblkxVy1wZnhvUjg2OUY5WmhoUktSeGtrTGdNb19DTk1ZVXMxaVQ3Ny1wUHhNVkwxZ3l4bXFYb3dra2RsV2E0U1Mwb2ZuZVFvS3lRWEQwX21GRkRjUVRsYkNETm9XZm9iaHh0dkxwZC1NRmtSWEZPeFp0VDdqbmRPenRTa0ViVWdQNzVGamU0SFE?oc=5",
+        "timestamp": "2026-07-11T07:07:05",
+        "timestamp_display": "11. 07. 2026 07:07",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Nový majitel zámku investuje stovky milionů",
+        "summary": "Nový vlastník zámku v Nekmíři zachránil historický areál před zánikem a plánuje investovat stovky milionů korun do jeho kompletní rekonstrukce, čímž podpoří kulturní dědictví i místní ekonomiku.",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTnhPb0FuRW5vVTE4Q2RseFltYVpSLWFJZ0Z2S0ZqYkxPQm13XzcySFJUSWFUbUh3alI4al9EMVN5SnVpSXhldmx5ZWUxTkNoTkxGMDZhY3dTRlRXNlZOdmt1clZVbHJpakRtbTV6SHZhNGh2YUxnZTJENV9mdVU5aTdtdzJ2TTVnc2lOT0NNekRxbzRWbVllc0NsbGptaDV0cWFFM2xoX3pnbTROS3hnekNQWmo2NVJDS2pYN1kzMkZGMEk0a3AzNg?oc=5",
+        "timestamp": "2026-07-10T12:35:00",
+        "timestamp_display": "10. 07. 2026 12:35",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Mapování sinic na Lipně zahájeno",
+        "summary": "Hydrobiologové zahájili systematické mapování výskytu sinic v jezeře Lipno. Projekt reaguje na rostoucí veřejný zájem o kvalitu vod a pomůže včas odhalit rizika, podpořit ochranu ekosystému a informovat občany o stavu vodních zdrojů.",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSEZnODJmQWNUM3JlNkdoOE1sYS04Qzc4VzRWX19ITHczUDlsa3h1LWJhdi1pbkVBYTNoNFJ3NmVyd3JzZ1ZIdVFWaVhNSVJfeGc0c00yczhrQWZweENQRF9haU5uUDVjV0xsRXVmWldqSkl2WkcyX2V1MXQxTDFqanpTQ2txb1lLZ1dORndfOGdXWjFJYkZITUozeVZ5LXdoZ3R5U0VlRVk4ckhwcklHYXplbGNyX3pBeWhHUUhkLXV1OTZjaHJhWFNyRnUzbF85Z3pZQUllY1ZFMms4?oc=5",
+        "timestamp": "2026-07-10T10:15:00",
+        "timestamp_display": "10. 07. 2026 10:15",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Děti v táboře objevují vědu a farmu",
+        "summary": "Na táboře Jihočeské univerzity si děti vyzkouší praktické experimenty – nakrmení nutrie, postaví model sopky a nasbírají vejce. Kombinace návštěvy farmy a laboratoře podporuje jejich zájem o přírodu, vědu a techniku.",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUmVDQ0FTV1hGUWUyX25SVDE2YTNOMHphcTdkQlFMS3hfV2RkMGp2R2JRN29IYnZEcUx1SE0tTTBTYXRDUUwzM0N3ckk0TURwYW5maEhLRTFkV1JYUVo5dDI5ZEpGMDRZLUV0XzdoNVZxcmhscG9OakFPekJYdmNkSjBRX0xSRXBMdC0zX09wWDNLejB6amt6S3RhMWZURlpnTlVDeHZKRkQ2eTZYQ3FQaTRHN0dhN1hmb3gxM0EzQVlRNHU5UFgtbmJBaw?oc=5",
+        "timestamp": "2026-07-10T05:00:00",
+        "timestamp_display": "10. 07. 2026 05:00",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Češi masivně investují do chorvatské nemovitosti",
+        "summary": "Čeští investoři výrazně rozšiřují své portfolio v Chorvatsku, kupují nejen hotely a apartmány, ale i další nemovitosti. Tento trend ukazuje rostoucí zájem o zahraniční realitní trh a přináší ekonomické výhody jak českým kupcům, tak chorvatskému sektoru pohostinství a turistiky.",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUE9sZjlKelNlRW5ZMkc4anVjOWY1QWh5MXFyRnRlcDBUUnpGMV9XNi1sUExFWlh1VjFwc3NHXzdleFlRTTdKRE5QNkpXMTNyTm5idzZuejAta2lldU9FWGFFLUstZkdYYUs5QU9RaUlVT29oZVBCbUdGR1Z1a3pxclVabUV2NlZ6ZmJlUnV1dzh0aXFTMktkM1kxcFRrTklzb0RVNFdTVmdPS21JSmVPcWtTZzhUWkR6ek1BT1JWS0hNRFdGWHVpVlh3?oc=5",
+        "timestamp": "2026-07-09T12:20:00",
+        "timestamp_display": "09. 07. 2026 12:20",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Startup s robotem Jarmila urychluje AI",
+        "summary": "Český startup představil robota Jarmila, kterému řídí digitální mozek Bob. Díky tomuto řešení výrazně zrychluje výpočty umělé inteligence a ukazuje, jak lokální inovace mohou posunout AI technologii vpřed.",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTHJNMkNrSTlFNnYxUXVlcENUM242ZzhMZml6SDlMSndtRmNOMHZNNDgzbTdfVlM4RTdTaUJra19FOXJ3MzNhRkJkZXhLRmYxN1JCZkk5MEpEcFZxeEx3SUpTZnNuaFV2Q19CTVBzbnY3QW5iZGNPVTZOQnZWdDZSdVVoX3Z2M3BYUnZzcWxrRUxwdFRVWUFkREVOa2pCdld3ZmtNSHFJaFh6Y2ZyT0ZqUUROM1JnU091c1hDUm1R?oc=5",
+        "timestamp": "2026-07-09T04:04:53",
+        "timestamp_display": "09. 07. 2026 04:04",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "3D‑tištěný umělý kloub, který léčí",
+        "summary": "Čeští výzkumníci vyvinuli individuální implantát kloubu pomocí 3D kovové tiskárny. Nový kloub nejen nahrazuje poškozenou kost, ale také uvolňuje léčivé látky, čímž podporuje hojení. Testy ukazují slibné výsledky pro budoucí ortopedické zákroky.",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSFZjdlVYZDF3Y0YzamwzOW96dGwzNUJSQXNqcWJmdEktOENfb0ZINDNMbXlTNWR1anltUVFEb0VqV1VhU1FQX3dQZ2hJcVo3VU04UDdUSzNhUFhUSVU3alRnYklnQWt2NkpkdHBGVUFVNDZsSGlGOEJaS3FmallxNXlaOU45X0FERWM4cDl1aThTMDF2UXN6Rk80ZlRQYVNsb1dMbzg1WVZIRjBMQlFhZnIyOHNLdXFHaElocG1HMS1EUjBLTGtkTnRXR0JXeUhNN1dwZ3dFOA?oc=5",
+        "timestamp": "2026-07-07T16:17:00",
+        "timestamp_display": "07. 07. 2026 16:17",
+        "is_new": true
+    },
+    {
+        "category": "Věda",
+        "title": "Čtvrtina Česka zachovává tradiční krajinu",
+        "summary": "Vědci zjistili, že více než 25 % území České republiky si udrželo charakteristické rysy historické krajiny. Studie mapuje tyto oblasti, poukazuje na jejich ekologickou hodnotu a podporuje úsilí o jejich ochranu a udržitelný rozvoj.",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa3F6dGNRSmpnUFBrYXBoS0FpdlhfSkw0SVZLNk9JeVhMSWV2Ny1tdDgyZTRjUkdqODNCRWNlOUctY2hyTXNZdXdma0JYaGxrSkpySDk4aWxDSEFBWDBIS1NrTHNHYUVQUmJLakNJTEk0cmVOMHpGVjY4LU1aLTh0RVluZnd1cXdyelIxWF9HTEVUaVQ4dkFaQWZIeHJrUFVoWXJuN01QSjRxa19nTTBWaDEzbzlzN3JJekVUUkJ3?oc=5",
+        "timestamp": "2026-07-07T13:58:00",
+        "timestamp_display": "07. 07. 2026 13:58",
+        "is_new": true
+    },
+    {
+        "category": "Technologie",
+        "title": "Brněnské zařízení odhalí drogu i její původ",
+        "summary": "Vědci z Brna vyvinuli mobilní analyzátor, který během několika minut identifikuje nelegální látky a určuje jejich zdroj. Technologie slibuje výrazné zrychlení práce policie po celém světě a pomůže v boji proti pašování a zneužívání drog.",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZDFWMEtGQ2ZkTUdYT1dYR0o3YmlXZ3gxMEp3WWUwcm81bkpNU2Fhd1R1QXBJYm44VlRJZzYtZHhlZFc0RU5UUG9mOFNqVXJjMHgzSlNtNUo4MTQxTm4zeTJEN0xOVW1scVE0UndqR0psODRia2FTLUpBTzdsZVl0YkZKeGU5ejFwb1BzMnJtSDNQeGt1RHFKOENZZDBkSk9oMDQzSDZvZzR3bmQ4Q1ROXzRYeGZkY3d2Z2tXM215Mm9iOWNNUEhLUUN6WWVNRTg?oc=5",
+        "timestamp": "2026-07-06T05:00:00",
+        "timestamp_display": "06. 07. 2026 05:00",
+        "is_new": true
+    },
+    {
         "category": "Věda",
         "title": "Československý vynález čipů oceněn Nobelovou cenou",
         "summary": "Československý tým, který vynalezl moderní integrované obvody, získal Nobelovu cenu za fyziku. Přestože dlouho postrádal podporu, jejich průlomová technologie položila základy dnešního digitálního světa a podtrhla význam výzkumu v regionu.",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOV0VVQ216REs5dVFzNmtKaXlPUC1oalNCSFZBTVJjN3RvdkFQX2NVYi15THQyTlZXZUg2dS1DQUJhYTFnalB3bFRZSWM2YmNUVDhXUEFnOENNRnZZd1VVek9KdGxNTWdaVnNIZ0U2ZjBueXk0SUJ2UlVxNTRHSGVIam1ILXZ3bUlFNTQxVnVVbHVmeWY3RjFEVkt3eW5DejM4eFpJRWNyNU1rYW1HYmhrRl95S0RZOW4xTHpqNkRaR2FqZ0lRSmhOQzF4NjBjQnpHYXRUYnNOdlI5djg?oc=5",
         "timestamp": "2026-07-11T04:00:00",
         "timestamp_display": "11. 07. 2026 04:00",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "MR.DIY rozšiřuje investice a pracovní místa v Česku",
-        "summary": "Řetězec MR.DIY oznámil vstup na český trh s významnými investicemi, tvorbou nových pracovních míst a nabídkou cenově dostupného sortimentu. Projekt podpoří lokální ekonomiku a rozšíří možnosti pro spotřebitele.",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNUhkaVJuZmFLNnlaSmdfUkRoVlNaMXFwU3VncDAyc3poa01SSFBOQ3BBSEJhU0FoREVsSzdHZmo2QUlUTExjaWdKOUlTS09IbExjb2s2aVRuYnpWaDM1Nm1YLWdPVHgteF96MjVhTWVFN2NkS0hWeXJQcXFXZWdVRHFsbk9na0Jhel9OUGVEejNiRFljVWtJUGVyM3lQalhX?oc=5",
-        "timestamp": "2026-07-03T06:00:00",
-        "timestamp_display": "03. 07. 2026 06:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -141,6 +222,15 @@
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM1dnOGJ4dkZXODU5TjlUeEQzX3ZXc01LVHh2OEtxalQzUUFtR1BlMVBfNmRVM2hqaFE5SjREaFY2d0ZRWVdOUG9pSVhFZld3dmM0dnJKYmhGcjMxcXE0NmpEaVI1ZDl1VXhTbjV6a3BZekwxcFlZNmdxa2hmUzJmZ1AtenJWU0t4LWtDdW53?oc=5",
         "timestamp": "2026-07-03T06:06:29",
         "timestamp_display": "03. 07. 2026 06:06",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "MR.DIY rozšiřuje investice a pracovní místa v Česku",
+        "summary": "Řetězec MR.DIY oznámil vstup na český trh s významnými investicemi, tvorbou nových pracovních míst a nabídkou cenově dostupného sortimentu. Projekt podpoří lokální ekonomiku a rozšíří možnosti pro spotřebitele.",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNUhkaVJuZmFLNnlaSmdfUkRoVlNaMXFwU3VncDAyc3poa01SSFBOQ3BBSEJhU0FoREVsSzdHZmo2QUlUTExjaWdKOUlTS09IbExjb2s2aVRuYnpWaDM1Nm1YLWdPVHgteF96MjVhTWVFN2NkS0hWeXJQcXFXZWdVRHFsbk9na0Jhel9OUGVEejNiRFljVWtJUGVyM3lQalhX?oc=5",
+        "timestamp": "2026-07-03T06:00:00",
+        "timestamp_display": "03. 07. 2026 06:00",
         "is_new": false
     },
     {
