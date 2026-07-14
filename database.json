@@ -6,7 +6,7 @@
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd1ZZRW1Pa0dreDdZOU11WXpPdnE0WmZGZDBPU0hnSEhZUFdkek5FLWJLMWtUVktsTkEzVmk2dk5ROVFXY3lIMkJrWVBaTHJtSzRYMzB3MzJQY090MWQ0OUR4WlVHVC1pXzloQ1hYa0oyTng2MFdzSnRZQnVwSVd3UUZEU21PT292bk5sa3FIZWhZZE9Ob1VBQ2FoRnNLNmR5aXVwOUx6VUdkc0ktcUtGVTBVeWQtOGVMaWZybE9vYkNDbElrUFA3OWpn?oc=5",
         "timestamp": "2026-07-13T07:08:00",
         "timestamp_display": "13. 07. 2026 07:08",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Medicína",
@@ -15,7 +15,7 @@
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ3c2SnZlQzVKM2pORW1rNXNMS2J3dnVyMVB6SF9aTERPMktUQXZYcG1PWWJkX3UyTkN4QXo5NllvXzBDeEVDSFBsOWdkdk84TWZEMGF4d0dyVmloRjVCZkJ2cGZqNV9qWnRtcGhJWUZuZnNtTmJpMUhnSkZ3ZEg0SjR4SExhMl9iQ28zQ0ladzZOSjQ3Z1BwOHVRS0ROSFc0c3M1aEZSNzhaQXJlc3I1blBfOVJyc3VLLXhQRURxeUNyWHVpelVBQ000WXhjZw?oc=5",
         "timestamp": "2026-07-12T16:14:00",
         "timestamp_display": "12. 07. 2026 16:14",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Medicína",
@@ -24,7 +24,7 @@
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOFVDZ1VNSlBVMk9qbnJrUm9vMnFVRXZCdmFsTU9Ec09DaGVXWWhNcUxNYWRqc21WUlcxZDU1UWNDVjRyX2FWMF92dkhEdlZPSUp3eXdHRDBCamE2UTFRbTlwbHh5Zk9LUVRhR19xaGV6RF81aHpqMGJCdzhyTVdjWExoT21jaWJWSnZBNEdFQjRvUTJiY2hyYmhERWIxMEd2U055cFE2TjQ?oc=5",
         "timestamp": "2026-07-12T13:00:00",
         "timestamp_display": "12. 07. 2026 13:00",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Věda",
@@ -33,61 +33,7 @@
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaC1aYk9tWmwwTEoxbGcwZzk3M29tOExKX1VIbGNOb3ZmUVIzSXJ3a1FCMzRHcmRCTWs0WmZWMVNvQ0taT2NEdkVuZ01hN0xrdDZmWVBFT1dJUlhWb3RsblFkS19PTW1uMndMeFk3cXJheEtHaUp3QnkyOTdfR01CWENLazFKbl9keWRRQl8zVkhzT1hyc2hnQ0dqZUdHTkJpNmlLek1XNDJpakl4M1RQMG1aQ21CRnF6ZnlwNTZQa2lIUFBCVVVWaFp6b2JlVjJ5UXpBbUlHYUJ3ZVE?oc=5",
         "timestamp": "2026-07-12T09:12:00",
         "timestamp_display": "12. 07. 2026 09:12",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Trénink pomáhá rozpoznat AI tváře",
-        "summary": "Výzkumníci vyvinuli krátký trénink zaměřený na šest klíčových kritérií, který umožňuje lidem rychle se naučit odlišovat skutečné obličeje od těch vytvořených umělou inteligencí. Školení zvyšuje povědomí o deepfake technologiích a posiluje schopnost veřejnosti rozpoznat manipulované vizuální obsah.",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeHAzTExlb2NpVF9hRmpuWlE3NGh6ejljaS04LTkySjJWMUxOdWtzYlB3emRpdF9zcGhpbHdINTV1aXFDelM1X2FKdmM5aE83MG5zVk81bS1GRjdVVmtNSHlNNVh3b25QdkxjSjVvZVVpb1gtcU9XMG1IeG5WdEFYbHNvNVpzdTBfbUVGamJqekduQndaTVRSb1lvbHpGMEtNRUEtUndrd29zak1XUlNJWHJBaF96R1NzVUxrRUUtdEhvRUhWcXR1TERBcW95bkhqS3JoZy15ZGFISUYxZ0NmWlpiZXRnT092Ymc?oc=5",
-        "timestamp": "2026-07-11T13:45:00",
-        "timestamp_display": "11. 07. 2026 13:45",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "Český startup prodává platební řešení robotům",
-        "summary": "Český startup se stal jedním z prvních, který nabízí automatizované platební systémy přímo robotickým zákazníkům. Inovativní řešení umožňuje bezkontaktní a autonomní transakce, čímž otevírá nové možnosti v oblasti e‑commerce a služeb pro robotiku. Projekt získává pozornost jako průlom v propojení fintechu a robotických technologií.",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbE52OUNSanFtOHhDempSdEtibGZ4eDBCOC1hZmozR0YtOWdWVXlJRmVUY2NuZmNDYUF3LVZFUVVhQWxnem00R3Z0N2piNElpdVVoLXNOWkVFcERCZkpiVTBYWE1TQTY5TkpnQ1NIT1VkUEdqb3FyZkJjLU1lSUdMMXFqNGgtdWRuRHl5SmctUHB6RXR2RjRjQTNiYUJybmJzTzQ5ckRXMnJ0Z0pvdW1fOFZCYWxuazZy?oc=5",
-        "timestamp": "2026-07-11T08:55:54",
-        "timestamp_display": "11. 07. 2026 08:55",
-        "is_new": true
-    },
-    {
-        "category": "Technologie",
-        "title": "První český kvantový počítač v Ostravě funguje",
-        "summary": "V Ostravě byl úspěšně spuštěn první český kvantový počítač, který je plně operativní. Projekt slibuje významný posun ve výzkumu, zejména v oblasti Alzheimerovy choroby, a posílí postavení České republiky v globální kvantové technologii.",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORTVlM0NnNTJVdFpmRU90RE5ZNFphcEtUaWtGdjRPQlpxY0Z6bmlLZGtVa0pfVnlCeERQUmRYbEw0dWdsSE0xNkZKMm5XU3RhWjlMeGQwLUIyZFBrX2NnSFJfTnRmckZNMVZCYkJ1NmQ5TC1xX05jVzhqbEpJTDhxeUc1bFJKYUdOa0ZfaUxMYkNQamtWQ2JQN2RWMjQtSDRydUFWU3hBbHVhX3NPaWxhMFY2U1pSWnhhWlBMYUZqRDZCVHdzU2hPTW1hV3NYMklXOVdIcl9lN2RUTUVC?oc=5",
-        "timestamp": "2026-07-10T03:47:00",
-        "timestamp_display": "10. 07. 2026 03:47",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Investice do 200‑leté výroby klobouků",
-        "summary": "Petr Kellner mladší po prodeji podílu v PPF rozšířil své investiční portfolio nákupem historické české výroby klobouků. Projekt představuje revitalizaci tradičního řemesla a očekává se, že přinese nové pracovní příležitosti a oživení lokálního průmyslu.",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRTNlVjNnVThWOWk5d1gxSW5HazBxalhKMDlwVWpSODQ3Mi01X0hwRzRueWRzdlBidXF2YmRCbDFacjlyclBBUDNHVmphUUlseEtuaXpVNV93Zm54ZDhwekhUSGE3M2xsMEduX0VOSXpMaVQ0S0xidjN3b0dnOUJwSF9pR01DZ3p4Tk93RW5ac05wbFdrUFVQNzZkYks5ZHlvTnZfYTVGV3g3Qm5JUE9GSWFKc3hscThHZlE?oc=5",
-        "timestamp": "2026-07-09T05:56:03",
-        "timestamp_display": "09. 07. 2026 05:56",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Nolanovy filmy vydělávají miliardy",
-        "summary": "Christopher Nolan, který už ve svém sedmém roce natáčel první filmy, se stal jedním z nejvýdělečnějších režisérů. Jeho produkce pravidelně generují miliardy dolarů, což potvrzuje jeho výjimečný byznysový úspěch a vliv na filmový průmysl.",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRkxKb2hPWTRTUmZld3hOY2Y0ams0aVFFdWtreFJiVzdhc1lYZjhrZ3c3NFJaR1BOanZKaW9hM203aGFNZ1g3OENTQUhCaU5mVHRfOWdtT0ZOY2NDc0FNTk0wWGtoUnhOckJGdFpsVEJCQWFCdndWX3M5YmxGOXYyODlqQ01jSFAtRUZWRDlCZGdIb0JQeXhDMGZEdw?oc=5",
-        "timestamp": "2026-07-08T18:03:40",
-        "timestamp_display": "08. 07. 2026 18:03",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Olomouc investuje 150 mil. Kč do krematoria",
-        "summary": "Město Olomouc plánuje investovat 150 milionů korun do převzetí a modernizace krematoria na Neředíně od soukromého provozovatele. Projekt má zlepšit služby a zajistit dlouhodobou udržitelnost zařízení.",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWkhaQVYxSThUNnNIM3hRdHlCY2ZWMDE1THhyM05RSFNtcUlzUFN3TjhrMGpEQUJyWDhkazBWRTFJRWE3akpEOE9zakVZVlJfUlVubnZ5bWRMOE4yU2I1WjV4dXlmc3V2djJwYUVzTmdvTHU5RVU2NFdpOGtGZjBhOVhyemF1dTVYb0J2NW1qMVJsazZ0TTRSWG1lYTNJbEFIR2dCZTZtaEpBWTJtVi1zOVphMTI4b09tc0dnYjBYeUZZVEZHOGgwYkJB?oc=5",
-        "timestamp": "2026-07-06T20:48:00",
-        "timestamp_display": "06. 07. 2026 20:48",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -96,6 +42,24 @@
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZWg5aDhxcE1XS3oxV09hNF9nNEVwWW9pcG1sUGRTQTk1clhYUmwwM2k0Tlk2LUwtVHNUbTd0SzVJdkp1cVNHYnB6Y0p2U0w2NE1ydVllcExYUUlyNjRPRzNialIwaFZoZ0pWQl95c3llRXF2VUExcFhBZTR3bXBZOEFaLW5OUGdBVkhabDJTWjRPZWQxVURwS2dQb3IwZ2R3ejFVdC0zb3p4MDBSU1dEN3N6MDZBc01oNHJpMjRSeGhEQXhT?oc=5",
         "timestamp": "2026-07-12T04:00:00",
         "timestamp_display": "12. 07. 2026 04:00",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Trénink pomáhá rozpoznat AI tváře",
+        "summary": "Výzkumníci vyvinuli krátký trénink zaměřený na šest klíčových kritérií, který umožňuje lidem rychle se naučit odlišovat skutečné obličeje od těch vytvořených umělou inteligencí. Školení zvyšuje povědomí o deepfake technologiích a posiluje schopnost veřejnosti rozpoznat manipulované vizuální obsah.",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeHAzTExlb2NpVF9hRmpuWlE3NGh6ejljaS04LTkySjJWMUxOdWtzYlB3emRpdF9zcGhpbHdINTV1aXFDelM1X2FKdmM5aE83MG5zVk81bS1GRjdVVmtNSHlNNVh3b25QdkxjSjVvZVVpb1gtcU9XMG1IeG5WdEFYbHNvNVpzdTBfbUVGamJqekduQndaTVRSb1lvbHpGMEtNRUEtUndrd29zak1XUlNJWHJBaF96R1NzVUxrRUUtdEhvRUhWcXR1TERBcW95bkhqS3JoZy15ZGFISUYxZ0NmWlpiZXRnT092Ymc?oc=5",
+        "timestamp": "2026-07-11T13:45:00",
+        "timestamp_display": "11. 07. 2026 13:45",
+        "is_new": false
+    },
+    {
+        "category": "Technologie",
+        "title": "Český startup prodává platební řešení robotům",
+        "summary": "Český startup se stal jedním z prvních, který nabízí automatizované platební systémy přímo robotickým zákazníkům. Inovativní řešení umožňuje bezkontaktní a autonomní transakce, čímž otevírá nové možnosti v oblasti e‑commerce a služeb pro robotiku. Projekt získává pozornost jako průlom v propojení fintechu a robotických technologií.",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbE52OUNSanFtOHhDempSdEtibGZ4eDBCOC1hZmozR0YtOWdWVXlJRmVUY2NuZmNDYUF3LVZFUVVhQWxnem00R3Z0N2piNElpdVVoLXNOWkVFcERCZkpiVTBYWE1TQTY5TkpnQ1NIT1VkUEdqb3FyZkJjLU1lSUdMMXFqNGgtdWRuRHl5SmctUHB6RXR2RjRjQTNiYUJybmJzTzQ5ckRXMnJ0Z0pvdW1fOFZCYWxuazZy?oc=5",
+        "timestamp": "2026-07-11T08:55:54",
+        "timestamp_display": "11. 07. 2026 08:55",
         "is_new": false
     },
     {
@@ -153,6 +117,15 @@
         "is_new": false
     },
     {
+        "category": "Technologie",
+        "title": "První český kvantový počítač v Ostravě funguje",
+        "summary": "V Ostravě byl úspěšně spuštěn první český kvantový počítač, který je plně operativní. Projekt slibuje významný posun ve výzkumu, zejména v oblasti Alzheimerovy choroby, a posílí postavení České republiky v globální kvantové technologii.",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORTVlM0NnNTJVdFpmRU90RE5ZNFphcEtUaWtGdjRPQlpxY0Z6bmlLZGtVa0pfVnlCeERQUmRYbEw0dWdsSE0xNkZKMm5XU3RhWjlMeGQwLUIyZFBrX2NnSFJfTnRmckZNMVZCYkJ1NmQ5TC1xX05jVzhqbEpJTDhxeUc1bFJKYUdOa0ZfaUxMYkNQamtWQ2JQN2RWMjQtSDRydUFWU3hBbHVhX3NPaWxhMFY2U1pSWnhhWlBMYUZqRDZCVHdzU2hPTW1hV3NYMklXOVdIcl9lN2RUTUVC?oc=5",
+        "timestamp": "2026-07-10T03:47:00",
+        "timestamp_display": "10. 07. 2026 03:47",
+        "is_new": false
+    },
+    {
         "category": "Byznys",
         "title": "Češi masivně investují do chorvatské nemovitosti",
         "summary": "Čeští investoři výrazně rozšiřují své portfolio v Chorvatsku, kupují nejen hotely a apartmány, ale i další nemovitosti. Tento trend ukazuje rostoucí zájem o zahraniční realitní trh a přináší ekonomické výhody jak českým kupcům, tak chorvatskému sektoru pohostinství a turistiky.",
@@ -171,12 +144,30 @@
         "is_new": false
     },
     {
+        "category": "Byznys",
+        "title": "Investice do 200‑leté výroby klobouků",
+        "summary": "Petr Kellner mladší po prodeji podílu v PPF rozšířil své investiční portfolio nákupem historické české výroby klobouků. Projekt představuje revitalizaci tradičního řemesla a očekává se, že přinese nové pracovní příležitosti a oživení lokálního průmyslu.",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRTNlVjNnVThWOWk5d1gxSW5HazBxalhKMDlwVWpSODQ3Mi01X0hwRzRueWRzdlBidXF2YmRCbDFacjlyclBBUDNHVmphUUlseEtuaXpVNV93Zm54ZDhwekhUSGE3M2xsMEduX0VOSXpMaVQ0S0xidjN3b0dnOUJwSF9pR01DZ3p4Tk93RW5ac05wbFdrUFVQNzZkYks5ZHlvTnZfYTVGV3g3Qm5JUE9GSWFKc3hscThHZlE?oc=5",
+        "timestamp": "2026-07-09T05:56:03",
+        "timestamp_display": "09. 07. 2026 05:56",
+        "is_new": false
+    },
+    {
         "category": "Technologie",
         "title": "Startup s robotem Jarmila urychluje AI",
         "summary": "Český startup představil robota Jarmila, kterému řídí digitální mozek Bob. Díky tomuto řešení výrazně zrychluje výpočty umělé inteligence a ukazuje, jak lokální inovace mohou posunout AI technologii vpřed.",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTHJNMkNrSTlFNnYxUXVlcENUM242ZzhMZml6SDlMSndtRmNOMHZNNDgzbTdfVlM4RTdTaUJra19FOXJ3MzNhRkJkZXhLRmYxN1JCZkk5MEpEcFZxeEx3SUpTZnNuaFV2Q19CTVBzbnY3QW5iZGNPVTZOQnZWdDZSdVVoX3Z2M3BYUnZzcWxrRUxwdFRVWUFkREVOa2pCdld3ZmtNSHFJaFh6Y2ZyT0ZqUUROM1JnU091c1hDUm1R?oc=5",
         "timestamp": "2026-07-09T04:04:53",
         "timestamp_display": "09. 07. 2026 04:04",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Nolanovy filmy vydělávají miliardy",
+        "summary": "Christopher Nolan, který už ve svém sedmém roce natáčel první filmy, se stal jedním z nejvýdělečnějších režisérů. Jeho produkce pravidelně generují miliardy dolarů, což potvrzuje jeho výjimečný byznysový úspěch a vliv na filmový průmysl.",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRkxKb2hPWTRTUmZld3hOY2Y0ams0aVFFdWtreFJiVzdhc1lYZjhrZ3c3NFJaR1BOanZKaW9hM203aGFNZ1g3OENTQUhCaU5mVHRfOWdtT0ZOY2NDc0FNTk0wWGtoUnhOckJGdFpsVEJCQWFCdndWX3M5YmxGOXYyODlqQ01jSFAtRUZWRDlCZGdIb0JQeXhDMGZEdw?oc=5",
+        "timestamp": "2026-07-08T18:03:40",
+        "timestamp_display": "08. 07. 2026 18:03",
         "is_new": false
     },
     {
@@ -195,6 +186,15 @@
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa3F6dGNRSmpnUFBrYXBoS0FpdlhfSkw0SVZLNk9JeVhMSWV2Ny1tdDgyZTRjUkdqODNCRWNlOUctY2hyTXNZdXdma0JYaGxrSkpySDk4aWxDSEFBWDBIS1NrTHNHYUVQUmJLakNJTEk0cmVOMHpGVjY4LU1aLTh0RVluZnd1cXdyelIxWF9HTEVUaVQ4dkFaQWZIeHJrUFVoWXJuN01QSjRxa19nTTBWaDEzbzlzN3JJekVUUkJ3?oc=5",
         "timestamp": "2026-07-07T13:58:00",
         "timestamp_display": "07. 07. 2026 13:58",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Olomouc investuje 150 mil. Kč do krematoria",
+        "summary": "Město Olomouc plánuje investovat 150 milionů korun do převzetí a modernizace krematoria na Neředíně od soukromého provozovatele. Projekt má zlepšit služby a zajistit dlouhodobou udržitelnost zařízení.",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWkhaQVYxSThUNnNIM3hRdHlCY2ZWMDE1THhyM05RSFNtcUlzUFN3TjhrMGpEQUJyWDhkazBWRTFJRWE3akpEOE9zakVZVlJfUlVubnZ5bWRMOE4yU2I1WjV4dXlmc3V2djJwYUVzTmdvTHU5RVU2NFdpOGtGZjBhOVhyemF1dTVYb0J2NW1qMVJsazZ0TTRSWG1lYTNJbEFIR2dCZTZtaEpBWTJtVi1zOVphMTI4b09tc0dnYjBYeUZZVEZHOGgwYkJB?oc=5",
+        "timestamp": "2026-07-06T20:48:00",
+        "timestamp_display": "06. 07. 2026 20:48",
         "is_new": false
     },
     {
