@@ -4,7 +4,7 @@ from openai import OpenAI
 import time
 import os
 import json
-from datetime import datetime
+from datetime import datetime, timedelta
 from email.utils import parsedate_to_datetime
 from jinja2 import Environment, FileSystemLoader
 
@@ -14,7 +14,23 @@ API_KEY = os.getenv("OPENROUTER_API_KEY")
 DB_FILE = "database.json"
 OUTPUT_FILE = "index.html"
 TEMPLATE_FILE = "template.html"
-DELAY_SECONDS = 2.0 
+DELAY_SECONDS = 3.5  # free modely na OpenRouteru: max 20 požadavků/min
+
+# Pouze :free modely => vždy zdarma. OpenRouter dovolí max 3 modely v poli "models"
+# (při nedostupnosti prvního automaticky zkusí další).
+OPENROUTER_MODELS = [m.strip() for m in os.getenv(
+    "OPENROUTER_MODELS",
+    "baidu/ernie-5.5-flash-preview:free,google/gemma-4-31b-it:free,nvidia/nemotron-3-ultra-550b-a55b:free",
+).split(",") if m.strip()][:3]
+MAX_ATTEMPTS = 3          # pokusy na jeden článek
+FATAL_HTTP_CODES = ("401", "402", "403")  # špatný klíč / kredit / zákaz -> run musí selhat
+MAX_AI_FAILURES = 5       # kolik článků smí skončit chybou AI, než run označíme za neúspěšný
+
+# Retence: články starší než RETENTION_DAYS mažeme, ale vždy necháme aspoň MIN_KEEP nejnovějších
+RETENTION_DAYS = int(os.getenv("RETENTION_DAYS", "120"))
+MIN_KEEP = int(os.getenv("MIN_KEEP", "30"))
+
+ai_failures = 0
 
 client = OpenAI(api_key=API_KEY, base_url="https://openrouter.ai/api/v1")
 
@@ -96,32 +112,55 @@ def analyze_article_with_ai(title, description, link):
     KATEGORIE: [Vyber jednu: Věda / Technologie / Medicína / Byznys / Společnost]
     TITULEK: [Přeformuluj na úderný titulek, max 8 slov]
     SHRNUTÍ: [Napiš kvalitní shrnutí na 30-50 slov.]
+
+    DALŠÍ PRAVIDLA:
+    - Odpovídej výhradně česky.
+    - Nevymýšlej jména, čísla ani fakta, která nejsou v titulku nebo perexu.
     """
 
     clean_desc = description.replace("<br>", " ").replace("<p>", "")[:600]
 
     user_content = f"TITULEK: '{title}'\nPEREX: '{clean_desc}'\nODKAZ: {link}"
 
-    try:
-        chat_completion = client.chat.completions.create(
-            messages=[
-                {"role": "system", "content": system_prompt},
-                {"role": "user", "content": user_content}
-            ],
-            model="openai/gpt-oss-120b:free", 
-            temperature=0.1, 
-        )
+    global ai_failures
+    messages = [
+        {"role": "system", "content": system_prompt},
+        {"role": "user", "content": user_content},
+    ]
 
-        text = chat_completion.choices[0].message.content.strip()
-        if "SKIP" in text:
-            return None
-        return text
+    for attempt in range(MAX_ATTEMPTS):
+        try:
+            chat_completion = client.chat.completions.create(
+                messages=messages,
+                model=OPENROUTER_MODELS[0],
+                extra_body={"models": OPENROUTER_MODELS},  # fallback jen mezi :free modely
+                temperature=0.1,
+            )
+            text = (chat_completion.choices[0].message.content or "").strip()
+            used_model = getattr(chat_completion, "model", "?")
 
-    except Exception as e:
-        print(f"⚠️ Chyba AI: {e}")
-        if "429" in str(e):
-            time.sleep(30)
-        return None
+            if text.upper().startswith("SKIP"):
+                return None
+            if all(k in text for k in ("KATEGORIE:", "TITULEK:", "SHRNUTÍ:")):
+                print(f"   (model: {used_model})")
+                return text
+            print(f"   ⚠️ Neplatná/prázdná odpověď od {used_model}: {text[:60]!r}")
+
+        except Exception as e:
+            msg = str(e)
+            print(f"   ⚠️ Chyba AI: {msg[:200]}")
+            if any(f"Error code: {c}" in msg for c in FATAL_HTTP_CODES):
+                raise SystemExit(f"❌ Fatální chyba OpenRouteru (klíč/kredit/přístup): {msg}")
+            # 404 (model zmizel), 429 (limit) i 5xx řešíme opakováním; zbylé modely v seznamu
+            # OpenRouter zkouší sám.
+
+        if attempt < MAX_ATTEMPTS - 1:
+            wait = 10 * 2 ** attempt  # 10 s, 20 s
+            print(f"   ⏳ Zkusím znovu za {wait} s...")
+            time.sleep(wait)
+
+    ai_failures += 1
+    return None
 
 def parse_ai_result(text, original_link, timestamp):
     try:
@@ -146,6 +185,17 @@ def parse_ai_result(text, original_link, timestamp):
         }
     except Exception as e:
         return None
+
+def prune_old_articles(articles):
+    """Smaže články starší než RETENTION_DAYS, vždy ale ponechá MIN_KEEP nejnovějších."""
+    cutoff = (datetime.now() - timedelta(days=RETENTION_DAYS)).isoformat()
+    by_date = sorted(articles, key=lambda x: x.get("timestamp", ""), reverse=True)
+    keep_links = {a["link"] for a in by_date[:MIN_KEEP]}
+    kept = [a for a in articles if a.get("timestamp", "") >= cutoff or a["link"] in keep_links]
+    removed = len(articles) - len(kept)
+    if removed:
+        print(f"🧹 Retence: mažu {removed} článků starších než {RETENTION_DAYS} dní (ponechávám {len(kept)}).")
+    return kept
 
 def generate_html_from_template(articles):
     env = Environment(loader=FileSystemLoader('.'))
@@ -206,7 +256,7 @@ try:
 
         processed_count += 1
         
-        # GROQ ANALÝZA (pouze pokud prošlo všemi filtry)
+        # AI ANALÝZA (pouze pokud prošlo všemi filtry)
         if processed_count > 1:
             time.sleep(DELAY_SECONDS)
 
@@ -234,11 +284,21 @@ finally:
     # Třídíme takto: 
     #   1. Kritérium: is_new (True je větší než False, takže True bude nahoře)
     #   2. Kritérium: timestamp (nejnovější datum nahoře)
-    print("🔄 Třídím články (Nové > Staré)...")
-    db_articles.sort(key=lambda x: (x.get('is_new', False), x.get('timestamp', '')), reverse=True)
+    if new_articles_count > 0:
+        # Retenci spouštíme jen po úspěšném běhu, aby se web nikdy nevyprázdnil.
+        db_articles = prune_old_articles(db_articles)
 
-    # 3. ULOŽENÍ
-    save_database(db_articles)
+        print("🔄 Třídím články (Nové > Staré)...")
+        db_articles.sort(key=lambda x: (x.get('is_new', False), x.get('timestamp', '')), reverse=True)
 
-    # 4. GENEROWÁNÍ HTML
-    generate_html_from_template(db_articles)
+        # 3. ULOŽENÍ
+        save_database(db_articles)
+
+        # 4. GENEROVÁNÍ HTML
+        generate_html_from_template(db_articles)
+    else:
+        print("ℹ️ Žádné nové články – database.json ani index.html neměním.")
+
+    print(f"📊 Nové články: {new_articles_count}, selhání AI: {ai_failures}")
+    if ai_failures >= MAX_AI_FAILURES and ai_failures >= new_articles_count:
+        raise SystemExit(f"❌ AI selhala u {ai_failures} článků – run označuji jako neúspěšný.")
