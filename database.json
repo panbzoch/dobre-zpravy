@@ -1,12 +1,102 @@
 [
     {
+        "category": "Věda",
+        "title": "ALICE: nejteplejší místo vesmíru vzniká při srážkách",
+        "summary": "Detektor ALICE se v okamžiku srážek mění v nejteplejší místo ve vesmíru. Vědci tak mohou zkoumat hmotu za extrémních podmínek a posouvat hranice poznání o tom, jak se chová při teplotách, které jinde ve vesmíru běžně nepanují.",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUVZWUHFhNGxhVUtRSGEyRkVWUldfLXJjX2dJMzZWcHAtY1FqSW91SzFHOGxMbVU5NUpEanUzaW9vb1QzVDJuZWhGRFVZM3FabjJiTHpkbzhDbC1nUGtUU0VJNV9FUTM5TEMtSkhUUS1HSjhQVGxCQVRmNlFUTWk3ZmZlSDE5SnFaZ21HOHdCYlpodHFXNmZQRzZudk1pSkhUWXZTbER0RGFDYWNE?oc=5",
+        "timestamp": "2026-11-26T08:07:00",
+        "timestamp_display": "26. 11. 2026 08:07",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Ocenění Českých Podnikatelek odhalilo vítězky 19. ročníku",
+        "summary": "Devatenáctý ročník ocenění Českých Podnikatelek zná své vítězky. Podle organizátorů stojí jejich úspěch především na odvaze. Soutěž tak znovu upozorňuje na významné ženy v českém podnikání a jejich přínos pro ekonomiku i celou společnost.",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOajhmQnZsRWtyc1pHMzhCUHZPOGhYdjhld0dkTEItb1VVVGJ3LVBWQ1AzMF94S2YyRjJBamlOTWczT2tqYnpYS183VzdHRmZJTUdoTjhxeVZ6aG04VEk1VVE5ci1SNU0yMGpabk93NVFTcnVLVUliVGhYaU1fQkxZempUUm9QNlhzLTJOeFFmQzE4b2hYVm9iVlIwdnZGQUpEaENqUzJURHZNMHRyQ291LVZaUzBoUU1GbHBObmRILWUwUQ?oc=5",
+        "timestamp": "2026-11-26T07:20:00",
+        "timestamp_display": "26. 11. 2026 07:20",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Brněnští vývojáři jako druzí pokořili sto milionů",
+        "summary": "Český herní průmysl slaví mimořádný milník. Vývojáři z Brna se stali teprve druhými tvůrci, kteří dokázali překonat stomilionovou hranici. Výsledek potvrzuje sílu jihomoravského herního sektoru a schopnost českých studií oslovit globální publikum.",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY1VtcWxFdUl4cVNBWWVXUlRHMzdKbUY1V0M4cm9mODFEd1VwV0dIRkNrZi1ULUhZTHJCQ1VNSXh4UzVZWjVJcE5GaVdCUWZwOEhtaU1PSEl5cUtjcEhCOGFINDdsQmZCbGZwckFTODR4cV9Dc2RoUG45cmRoZ19NejNObFJFZkYtSlcyWTFaY05BNWZfY2t1ZzlCOEJ2VjZTcHgyeHlCM1g1Um9MTEcxa0FCQQ?oc=5",
+        "timestamp": "2026-11-26T06:07:04",
+        "timestamp_display": "26. 11. 2026 06:07",
+        "is_new": true
+    },
+    {
+        "category": "Medicína",
+        "title": "Nové centrum pomůže onkologickým pacientům po léčbě",
+        "summary": "Projekt Hlas onkologických pacientů 2026 mapuje potřeby lidí po ukončení onkologické léčby. Spolupracuje přitom s vědci a vzniká i nové centrum. Důraz je na to, aby se hlas pacientů proměnil v konkrétní podporu a péči.",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaFk5dUNCVldfYVBLM3piSThUY1B0N2VmZS1kR0k0N1dpRWFqN3Q5T0k4UkI3VGg1Q084NjJVUlNwNXlxYkt4OVkwMTRtNEtKa0kxSGJsaXpINUFjQ1BYWlQyM3BsUTQ2Rk5LS3RmeUw3dkpQQmNRc19kWXJfeUhNYjM2aFVlZXRobHJuQ1NWa3Q1dUlpUEVDRmM2VnExMVIxeDZHMGJsNWkwVVBfUXI3My10NkJ2SFlnaEZ1clk1SjlQTVFDaVEyZUI4Z19TRTZYUkNQTDJmT2I?oc=5",
+        "timestamp": "2026-11-25T15:10:00",
+        "timestamp_display": "25. 11. 2026 15:10",
+        "is_new": true
+    },
+    {
+        "category": "Medicína",
+        "title": "Pohyb je nejlepší prevencí, říká kardiolog",
+        "summary": "Kardiolog Luboš Kotík upozorňuje, že nejlepší prevencí zdravotních obtíží je pravidelný pohyb, nikoli spoléhání na pilulky. Podle něj má aktivní životní styl zásadní význam pro ochranu srdce a celkové zdraví.",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSUl5dHBaejlCT2RYZUVkaHlMVkwwVzc0ZXF0S2EwUVZ5UEVMSkpZV0NtaThEcC13SVQ2NnBxMW1GYlltXzZRd3JFMjRCU0ktb2UzTjJHRFhza1VGQldyeHpzWjVncV9XS0hYSHZ6SlNTampOODBLbXNWY2JDYmtodXdmZ2wyTndCTDhtdVc3SnUwZWVNQ3VseGdUNHFUSFltVHh6OEVURm5nVjFPUVRrZ2JCYzlkQXhiY0U5bTFNblk0Q1RCZGlj?oc=5",
+        "timestamp": "2026-11-25T14:00:00",
+        "timestamp_display": "25. 11. 2026 14:00",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Boskovice zachraňují nemocnici: 40 milionů z rozpočtu",
+        "summary": "Noví zastupitelé Boskovic vyčlenili 40 milionů z rozpočtu na záchranu místní nemocnice, jež se ocitla na pokraji insolvence. Peníze mají instituci udržet v provozu a zachovat dostupnou zdravotní péči pro obyvatele regionu.",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWF90WWoxeHU5cld1STR5ejRlQmxoN1g0Qm1rbUNrNGUxOXBnN013RXM1d3Z1ZmMzalg3dUpPb0UtS2VQV0ZtQUIxY2pyTUtSdGNOQjRaa2hpVlBJNi1kYU51Z01DdVhRLTM2bTVCUW1SeW5HbjFDSXh0bnJ5QWFpcnlpUkhFVnlNZGdWUVh5dUlSUXU2VkE1TlNLTmhTdGEzN1FLbUlHRENuNVRmY1dQLVFtb0JybDJhMzk0OVJGbUJMMXlmaFZZ?oc=5",
+        "timestamp": "2026-11-25T12:45:00",
+        "timestamp_display": "25. 11. 2026 12:45",
+        "is_new": true
+    },
+    {
+        "category": "Společnost",
+        "title": "Festival přírodovědných filmů učí žáky chránit přírodu",
+        "summary": "V Jindřichově Hradci odstartoval festival přírodovědných filmů. Program je určený mimo jiné žákům, kterým má ukázat, jak chránit přírodu. Akce tak propojuje dokumentární tvorbu s environmentální výchovou a přibližuje přírodovědu nejmladší generaci.",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcnJCN2NyMHNVZWhBYXZVZllYQ2UxSnp4dVcxVHRzbER5bTlzaUQwSWlXRVphZ0hGbUVDcTNhOTY4RjFLOFVGMkRwME9iVmVTX1VxMnB6cTktU01RVFhRZ2tYSG1JRndaNGhiTEVtd0J3aHViTlg5bTlSR29wak1wdEpCZGtqYjh4dXFhTHhZWmUwcmJKLUdjRVhaWjZTMFAzaml4RmtXZG1nQ0dtaGRtblAydTZUaUlOdkpaTkU1NnROdjBQLXBJOG1WbzJGdC1wX3lLQlZ4WG5Bdw?oc=5",
+        "timestamp": "2026-11-25T05:20:00",
+        "timestamp_display": "25. 11. 2026 05:20",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Nvidia po návratu Huanga posílila o 32 procent",
+        "summary": "Akcie Nvidie vystřelily o 32 procent poté, co se Jensen Huang vrátil do čela firmy. Podle titulku jde o výrazný burzovní růst spojený s jeho návratem. Přesné důvody ani další podrobnosti perex neuvádí.",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLUhrY2ZrOGE5bG5YYlVxS1hTWFFzZGVBMVYyX25hSnB2SG9mMUNJWGZ1anVIU0RJU2ZGVERnU0FVb1BRWVJCSFZzb2Y1d0UxUUF1emJKTng2YnVfZHlYbkxBUlE3V3ZwTzF5eEQxbFhxaWF2ZEQ1M0l5MmVFLWd3STRJdXdJZXp4UUR1bzVLMUw2UzNfNV9uWHRKWmxYcktrb1E?oc=5",
+        "timestamp": "2026-11-24T08:13:38",
+        "timestamp_display": "24. 11. 2026 08:13",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Corwin přináší do Vysočan miliardové ambice",
+        "summary": "Společnost Corwin přichází do pražských Vysočan s miliardovými ambicemi. Forbes Česko označuje Prahu za další velkou příležitost a právě Vysočany mají být scénou těchto plánů. O rozsahu investice i jejím směřování informuje Forbes Česko ve svém článku.",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQUNoSEtMdTQtcFpacWFueGVjNVVRaWV5WExmQjI5Ry13eGc1Y0ZyR0k5eDhFNElVZV90RUxzbzhpNlF1TGZ0NlU2N2FZb0dVWldGMjV2X2FwS056QmJRZXB4bV9NZ3p3MnBiT1BsVllMTExLUkpBS2x0aWEyX1QyT0haYmxDam1oTXNQbWI0M3MwT1daaXJ1SG1SOW1Gdw?oc=5",
+        "timestamp": "2026-11-23T16:02:02",
+        "timestamp_display": "23. 11. 2026 16:02",
+        "is_new": true
+    },
+    {
+        "category": "Byznys",
+        "title": "Anthropic má valuaci 1,4 bilionu dolarů. Je fér",
+        "summary": "Anthropic dosáhl valuace 1,4 bilionu dolarů, kterou autorka Anna Píchová v CzechCrunch označuje za férovou. Podle ní ale firma musí teprve dokázat, že její byznys skutečně funguje. Valuace je tak příslibem, nikoli potvrzeným výsledkem.",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdnBQOXNrbnZkRGFDZ0F0Y0FBUTY3dWV1T3NtLXE0VDlsdWxhWkE2V1BxWFRLM0tDVkI0ZHdkcjdvMVl4YkZJRF9MMjFqR2MwdDBoTm5acmRPUlBTWHpUNFc0aFUtam9ncEtBaDV3Z1A4bFdlRGFQSDFWRElDNlVGcUx0dExKdFZqckp6REFwM3VkS2ZXVEYzSW9pLTF0a2Rrbi1hWWRISTJOVVg3R2xxNlM1OA?oc=5",
+        "timestamp": "2026-11-18T15:15:35",
+        "timestamp_display": "18. 11. 2026 15:15",
+        "is_new": true
+    },
+    {
         "category": "Technologie",
         "title": "Banka umožní nákup fondů a dluhopisů v mobilu",
         "summary": "Tuzemská banka přidává novou mobilní funkci, díky které si klienti mohou přímo v telefonu nakoupit investiční fondy a dluhopisy. Jde o další krok k pohodlnějšímu a dostupnějšímu investování přes mobilní aplikaci.",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeUJnODFCX1ZOamQ4cXRyWTNQWWk5NVJSUThxeWU1WkZfTEFPcEFzNHRmTEFFTEhJbWM0S0lFVkhwYXVZUnZWYTJPTm0zTlVydkYxZU9PYkJmMGFPeXpyZUVEU1lKOVdGZkJRNUx5dkVuZXhkUU1lRE1JV2piRDZPNVB0NjVMbHdjMXpxZHZEejY4V3J5S25rUUpBTUlJWGN0NWNyYnFsS2VmdWV3MWtQWkF4aVVQRnlpcm1EZUdjLU1Xc0ZwM2RVRE1rbi14SS1WSEduS2ZzNA?oc=5",
         "timestamp": "2026-11-25T12:52:00",
         "timestamp_display": "25. 11. 2026 12:52",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Společnost",
@@ -15,7 +105,7 @@
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLUtpNEhzUEhDRGNJRDFCNEFPU0FFSGtQb2RyemFkZG52aVZLTE5oSjVxVEtrd0M3cEg3TF9sNHctbXk4YmMzUE1pSnYzWUg4Y2F3eGd2RnVFWjh2bWhVdUdicE5fQnlyRzhEWmRQZndHZ0hiR1NKdUQ2RlRBTkxOdUJDMUtNQzVfbTJ5V1p2SUMtaUpYRThKWXVBRFdVUFdqSm80YmxuY0hSZ3VxejN5Z3IteWtFWDEweTRvUXRWSWNkRlpGQWF3dGtZLXk?oc=5",
         "timestamp": "2026-11-25T11:48:00",
         "timestamp_display": "25. 11. 2026 11:48",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -24,7 +114,7 @@
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNanRtWXZ6bU1rOVd4Y091UW5WQ011NFNkNXhRemxYQ1c0ZDZKOXZEV3pBN2RwTkQ5T29TTTA5Zl9Tc3c3YzlhR3RtYWZvVjc4NFpJZWVtaEJxenljUm15ZngwTVZfbmpURzNheHJtRk9OQUZwcnZCWlNzRnlsYXRhdVpmblVLOGFoRzVSUVZUTGdBTWhfRTZrTXlGYkc0T0RwSnVZc3FXMA?oc=5",
         "timestamp": "2026-11-25T09:35:00",
         "timestamp_display": "25. 11. 2026 09:35",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -33,7 +123,7 @@
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVFhud0cwTHhRWEZmUHkyOHZFSTA1TG91WUo4RUJUdVc4RzRjOU4ybzZSN2FsR0pWemxkYm8xV0ZaSmJibWJzenkwa05aQzJKOGxVdEJjeVFxQVZXejJiT1c2MEZMbklPZk5pOW1ISDk3LVhOUmREZTRSVHljRFhfMXh4Z2ROcjJmSm1JSWhCc2FmdzROVlIxUVhzSl9ReHJzT21fRmVtZGhWcGp0MjRfQ2FVMzd3NVpjMGEtX0NLbGctM1lCNmx6YjBIZ2FWRU1RMDNpc3Jua2w?oc=5",
         "timestamp": "2026-11-25T09:05:00",
         "timestamp_display": "25. 11. 2026 09:05",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Technologie",
@@ -42,7 +132,7 @@
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONmdvNDk0Mk1MdVNpZllnUnY0cHJsQ0RUTmtDeTExSlp6UHFVUTJDcVd5VlltSmtiUmZEc1BqcDJMZExCTVZuTDZocDNvR1ZsVldKMlZyVkNyanYzQnhEbmJ2ZmRjN2o4NzBnOXMtMUJqbUNXMWd3dzlnMmtVby16NWh3c2sxdGFRZUhjT2VST0h4NTBBVkdCa0VBNzlMTjJpOENHblE4dEZxRk0?oc=5",
         "timestamp": "2026-11-24T13:51:17",
         "timestamp_display": "24. 11. 2026 13:51",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Byznys",
@@ -51,7 +141,7 @@
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcndHRjF4V0dOQkZaV0QzNExpVGlSdWgtM01MTVNKVHNqem9OYzBIM0FqZGNSckk0VDcyc29pOVhSMmRHNmdMMkZhWXBRak1lR3d1Vm9pRGJSNEp5SXdsNUlUdDVmcjVVNGFiM0VOSHN3Zk5iLThXYVFzeXh4eVo4OVhxUlBZME5XVGJoem5jQWkzc04tV3JpNjBsM0J4N1BDdXJSMlhPQmd4Tzl0cS1sYktDVWo0alZJdUdGYjRKZkJhV1hFLUpaWFBhRDhJUQ?oc=5",
         "timestamp": "2026-11-24T05:09:13",
         "timestamp_display": "24. 11. 2026 05:09",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Medicína",
@@ -60,34 +150,7 @@
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZEY2aXZOODM5UHBJNXZUYS0wY1BKZUtFeUNBcFdFbWZPTFo3V2JwZmtjOW5MSVY5QjlONnpPYTBvUVFkNmJIRXk2aF85cG9HX0Y1TVAyMDhfXy1WZGNhLUQzbU9uR0djVHhwekV1a1RBaGJBbG5lenJ0YXZ1bmR3QXlfQXBQSVhET092TGUxYkxjczVrR3dCVTNvcnNQNlY5b1Zqd3ByS05NdnhPb3RZTHQtaERDSmlOTzYxeTYwRDNyVGh2c0RIT2RHVkg?oc=5",
         "timestamp": "2026-11-23T20:39:00",
         "timestamp_display": "23. 11. 2026 20:39",
-        "is_new": true
-    },
-    {
-        "category": "Společnost",
-        "title": "Zlaté Hory opraví hasičskou zbrojnici v Rejvízu",
-        "summary": "Zlaté Hory investují do opravy hasičské zbrojnice v osadě Rejvíz. Rekonstrukce má posloužit jak hasičům, tak milovníkům staré techniky. Zázemí v Rejvízu tak získá novou podobu a místní sbor lepší podmínky pro svou činnost.",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUEdrS0xXaHNVQkRqZW9zOWszR2pzeUpPRkNXUHRQRWdpd2xYSjQ5UDM2MlVrUDY4S3dDRVZxUEJkbmtSZGxKMng2cXlJa1ZkUHBqWHZzNVZrRTR4UnlkOHFuVWxQMGgzaDRqQVp5R3NPNmRHYjFkV2dpWE1EaU0yVHpWNlRPS0Z2WTlDNU5lLUtPcDUzQjRodWtNVkF0OFE2dXBib2t5eU85S3RvakdDRWJZQWFlM21tcl9vcVFHdG01MUlvTGNVWA?oc=5",
-        "timestamp": "2026-11-23T09:55:00",
-        "timestamp_display": "23. 11. 2026 09:55",
-        "is_new": true
-    },
-    {
-        "category": "Společnost",
-        "title": "Darovaná signalizace zabezpečila přejezdy na úzkokolejce",
-        "summary": "Na tratích úzkokolejky mezi Jihočeským krajem a Vysočinou jsou zabezpečené železniční přejezdy. Signalizaci dráha získala darem, čímž se zvýšila bezpečnost na trase. Dokončený projekt přináší větší jistotu cestujícím i lidem žijícím podél trati.",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMFR4REdDNG4tNUVqdGNQeGxVdkxjLVpXcHJYTlJRQ18za25lSUFKWTJHOWFyRnV6NFl3Z3RyNWpyV1U1U0NVTXJmNkxhb1NvS3BHYlRHSnRSdGlnRTlkQ1pjbFZkdi01OTYxaHBLM1k3eXkyRFBBblQ1b25sZmpINTRxcDRJMFEtTGlaR1NqNlNxM0hxRzNxZDJDaE1saEVxcUhDQ2pGMk5qSU1Dd1lZcEZQTkNtTHRva1JWSXFNZTZWSDZpYTc3Y0tPTWMzZzdBTGVTOHNueFBkNjA?oc=5",
-        "timestamp": "2026-11-22T20:26:00",
-        "timestamp_display": "22. 11. 2026 20:26",
-        "is_new": true
-    },
-    {
-        "category": "Byznys",
-        "title": "Anthropic dosáhl hodnoty 107 miliard dolarů",
-        "summary": "Společnost Anthropic specializující se na umělou inteligenci dosáhla při vstupu na burzu hodnoty 107 miliard dolarů. Tímto výsledkem překonala i známé IPO SpaceX Elona Muska, což potvrzuje obrovský růst a důvěru investorů v generativní AI.",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSHZnakM0UHY3aXF6RHh6ZGVuWmJtcmNEalZCb2tBRVNPXzZ3bXhrdmYzcEtodE9HSDZEenFaYnlreWUtazkzWWlCb1FXcmwwSDV3TzNOWktBU3ozVmxzdlNHWTlLYm9lYm1oRFMzSUVRQWxIVDZHZEJtdUFtV21YekhVU05rLWJ3c1diRFlENzg?oc=5",
-        "timestamp": "2026-11-19T17:06:56",
-        "timestamp_display": "19. 11. 2026 17:06",
-        "is_new": true
+        "is_new": false
     },
     {
         "category": "Společnost",
@@ -100,11 +163,29 @@
     },
     {
         "category": "Společnost",
+        "title": "Zlaté Hory opraví hasičskou zbrojnici v Rejvízu",
+        "summary": "Zlaté Hory investují do opravy hasičské zbrojnice v osadě Rejvíz. Rekonstrukce má posloužit jak hasičům, tak milovníkům staré techniky. Zázemí v Rejvízu tak získá novou podobu a místní sbor lepší podmínky pro svou činnost.",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUEdrS0xXaHNVQkRqZW9zOWszR2pzeUpPRkNXUHRQRWdpd2xYSjQ5UDM2MlVrUDY4S3dDRVZxUEJkbmtSZGxKMng2cXlJa1ZkUHBqWHZzNVZrRTR4UnlkOHFuVWxQMGgzaDRqQVp5R3NPNmRHYjFkV2dpWE1EaU0yVHpWNlRPS0Z2WTlDNU5lLUtPcDUzQjRodWtNVkF0OFE2dXBib2t5eU85S3RvakdDRWJZQWFlM21tcl9vcVFHdG01MUlvTGNVWA?oc=5",
+        "timestamp": "2026-11-23T09:55:00",
+        "timestamp_display": "23. 11. 2026 09:55",
+        "is_new": false
+    },
+    {
+        "category": "Společnost",
         "title": "V Jičíně roste nový psychiatrický pavilon",
         "summary": "V Jičíně zahájili stavbu moderního pavilonu psychiatrie za 430 milionů korun. Nová budova nahrazuje zastaralé prostory a do roku 2028 výrazně zlepší dostupnost a kvalitu péče o pacienty s duševním onemocněním v regionu.",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdTBEVEx5R2tDUVllNmdQZkZ3b3VwMFQzSktOSnRMZFZFZE9SX1hUTHQ3aGZjRjFacVJJYUtwSGw2SmtlVkJEQjUycUFnb2NCRkVoRjExUjZoUzZ3dUJIelhhWXVVYzJvZXVCTWFrRzFjSm43cXp2MkEtZGNBZFB6amw3TjVEREFmdEJvUEdYcE5XaDZUeUFwc1F4UzhxVlpheVVoc1VEYWxDc1FWY3JxaFRsVGVqaGpfZVdUWHhWa2J2cjZyMXR1Ng?oc=5",
         "timestamp": "2026-11-22T21:12:00",
         "timestamp_display": "22. 11. 2026 21:12",
+        "is_new": false
+    },
+    {
+        "category": "Společnost",
+        "title": "Darovaná signalizace zabezpečila přejezdy na úzkokolejce",
+        "summary": "Na tratích úzkokolejky mezi Jihočeským krajem a Vysočinou jsou zabezpečené železniční přejezdy. Signalizaci dráha získala darem, čímž se zvýšila bezpečnost na trase. Dokončený projekt přináší větší jistotu cestujícím i lidem žijícím podél trati.",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMFR4REdDNG4tNUVqdGNQeGxVdkxjLVpXcHJYTlJRQ18za25lSUFKWTJHOWFyRnV6NFl3Z3RyNWpyV1U1U0NVTXJmNkxhb1NvS3BHYlRHSnRSdGlnRTlkQ1pjbFZkdi01OTYxaHBLM1k3eXkyRFBBblQ1b25sZmpINTRxcDRJMFEtTGlaR1NqNlNxM0hxRzNxZDJDaE1saEVxcUhDQ2pGMk5qSU1Dd1lZcEZQTkNtTHRva1JWSXFNZTZWSDZpYTc3Y0tPTWMzZzdBTGVTOHNueFBkNjA?oc=5",
+        "timestamp": "2026-11-22T20:26:00",
+        "timestamp_display": "22. 11. 2026 20:26",
         "is_new": false
     },
     {
@@ -132,6 +213,15 @@
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPODVKNGx3YjdIY25xT3VKVkVvTHl6UkRJeE44TkpZcGdYQlc4bVVaQ2cwR3Y1ajB6T1QxMFh6Qi0tTWlyQ3AyUkFJeTNnM1gxcGpUaFJkeTVrbXBqSzVZcnVQT2pJT3FhcUpRazBVeW9mZ2p1VllCWnJwMnhJY25NbHlwdkEzUGZ5THJ1UDItbURYejQ1Mjg3TTJoVnVad04ycUlLem9xLUxSSERuMldEeGtHRFZlX2N5RTFwU094ck9WeDdnTl9kU3piZDM4WC1aRVE?oc=5",
         "timestamp": "2026-11-20T16:37:00",
         "timestamp_display": "20. 11. 2026 16:37",
+        "is_new": false
+    },
+    {
+        "category": "Byznys",
+        "title": "Anthropic dosáhl hodnoty 107 miliard dolarů",
+        "summary": "Společnost Anthropic specializující se na umělou inteligenci dosáhla při vstupu na burzu hodnoty 107 miliard dolarů. Tímto výsledkem překonala i známé IPO SpaceX Elona Muska, což potvrzuje obrovský růst a důvěru investorů v generativní AI.",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSHZnakM0UHY3aXF6RHh6ZGVuWmJtcmNEalZCb2tBRVNPXzZ3bXhrdmYzcEtodE9HSDZEenFaYnlreWUtazkzWWlCb1FXcmwwSDV3TzNOWktBU3ozVmxzdlNHWTlLYm9lYm1oRFMzSUVRQWxIVDZHZEJtdUFtV21YekhVU05rLWJ3c1diRFlENzg?oc=5",
+        "timestamp": "2026-11-19T17:06:56",
+        "timestamp_display": "19. 11. 2026 17:06",
         "is_new": false
     },
     {
@@ -177,96 +267,6 @@
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPX0xOZXptbllub0dyY3Bjd0NYRl9NMzFobG9ScVBWQ0MycExYUEQ3UVY1dWZiSE9ZZV9rbDg1U0FfdEV5aTZLZUxrNjM5Tm9vX2FNbmVDa0VnZ1h1TFdRV3ZjaFBEYnFHSmMyZFZ5c01XWHJZRnY4XzB4WjBiOHE3Q0p2bXdLWUcxN1I1anlyYUlGcXVsZU5LZUF1enA0SnpIVjY0anNIU3V2QXEyb0hIRGRRR18zTHNJYjZzVVFqQnVmblVYX2gyMVU5RTNZZWRPdVN3ajAzX3lLUQ?oc=5",
         "timestamp": "2026-11-18T15:43:00",
         "timestamp_display": "18. 11. 2026 15:43",
-        "is_new": false
-    },
-    {
-        "category": "Společnost",
-        "title": "Oprava hlavního tahu v Blatné zahájena",
-        "summary": "V Blatné se zahájila dvoukilometrová rekonstrukce hlavního silničního tahu, na kterou bylo vynaloženo 30 milionů korun. Projekt přinese zlepšenou dopravní plynulost a bezpečnost, i když řidiče budou muset snášet omezení až do konce srpna.",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd1ZZRW1Pa0dreDdZOU11WXpPdnE0WmZGZDBPU0hnSEhZUFdkek5FLWJLMWtUVktsTkEzVmk2dk5ROVFXY3lIMkJrWVBaTHJtSzRYMzB3MzJQY090MWQ0OUR4WlVHVC1pXzloQ1hYa0oyTng2MFdzSnRZQnVwSVd3UUZEU21PT292bk5sa3FIZWhZZE9Ob1VBQ2FoRnNLNmR5aXVwOUx6VUdkc0ktcUtGVTBVeWQtOGVMaWZybE9vYkNDbElrUFA3OWpn?oc=5",
-        "timestamp": "2026-07-13T07:08:00",
-        "timestamp_display": "13. 07. 2026 07:08",
-        "is_new": false
-    },
-    {
-        "category": "Medicína",
-        "title": "Geneticky upravený měchovec léčí záněty střev",
-        "summary": "Vědci upravili DNA měchovce tak, aby produkoval látky potlačující zánět v lidském střevě. Experimentální studie ukázala, že takto modifikovaný parazit může výrazně zmírnit příznaky chronických střevních onemocnění, což představuje slibný krok k novým biologickým terapiím.",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ3c2SnZlQzVKM2pORW1rNXNMS2J3dnVyMVB6SF9aTERPMktUQXZYcG1PWWJkX3UyTkN4QXo5NllvXzBDeEVDSFBsOWdkdk84TWZEMGF4d0dyVmloRjVCZkJ2cGZqNV9qWnRtcGhJWUZuZnNtTmJpMUhnSkZ3ZEg0SjR4SExhMl9iQ28zQ0ladzZOSjQ3Z1BwOHVRS0ROSFc0c3M1aEZSNzhaQXJlc3I1blBfOVJyc3VLLXhQRURxeUNyWHVpelVBQ000WXhjZw?oc=5",
-        "timestamp": "2026-07-12T16:14:00",
-        "timestamp_display": "12. 07. 2026 16:14",
-        "is_new": false
-    },
-    {
-        "category": "Medicína",
-        "title": "Český výzkumník vyvinul lék proti šíření HIV",
-        "summary": "Úspěšný český vědec v USA objevil nový lék, který dokáže výrazně omezit přenos HIV. Studie ukazují, že přípravek blokuje klíčové mechanismy viru, což představuje slibný krok k prevenci a léčbě AIDS. Výzkum je nyní připraven k dalším klinickým testům.",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOFVDZ1VNSlBVMk9qbnJrUm9vMnFVRXZCdmFsTU9Ec09DaGVXWWhNcUxNYWRqc21WUlcxZDU1UWNDVjRyX2FWMF92dkhEdlZPSUp3eXdHRDBCamE2UTFRbTlwbHh5Zk9LUVRhR19xaGV6RF81aHpqMGJCdzhyTVdjWExoT21jaWJWSnZBNEdFQjRvUTJiY2hyYmhERWIxMEd2U055cFE2TjQ?oc=5",
-        "timestamp": "2026-07-12T13:00:00",
-        "timestamp_display": "12. 07. 2026 13:00",
-        "is_new": false
-    },
-    {
-        "category": "Věda",
-        "title": "Divocí koně podporují biodiverzitu",
-        "summary": "Jihočeští entomologové potvrdili, že volně žijící koně zvyšují druhovou rozmanitost v krajině. Přítomnost těchto savců přináší bohatší ekosystémy, podporuje opylovače a přispívá k ekologické stabilitě regionu.",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaC1aYk9tWmwwTEoxbGcwZzk3M29tOExKX1VIbGNOb3ZmUVIzSXJ3a1FCMzRHcmRCTWs0WmZWMVNvQ0taT2NEdkVuZ01hN0xrdDZmWVBFT1dJUlhWb3RsblFkS19PTW1uMndMeFk3cXJheEtHaUp3QnkyOTdfR01CWENLazFKbl9keWRRQl8zVkhzT1hyc2hnQ0dqZUdHTkJpNmlLek1XNDJpakl4M1RQMG1aQ21CRnF6ZnlwNTZQa2lIUFBCVVVWaFp6b2JlVjJ5UXpBbUlHYUJ3ZVE?oc=5",
-        "timestamp": "2026-07-12T09:12:00",
-        "timestamp_display": "12. 07. 2026 09:12",
-        "is_new": false
-    },
-    {
-        "category": "Technologie",
-        "title": "Bývalí kuchaři vyrábějí čipy v Rožnově",
-        "summary": "V Rožnově se rozvíjí výroba polovodičových čipů, kam se zapojili lidé bez technického vzdělání – bývalí kuchaři a prodavači. Projekt ukazuje, že praktické školení a motivace mohou otevřít cestu k high‑tech průmyslu i mimo tradiční akademické dráhy.",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZWg5aDhxcE1XS3oxV09hNF9nNEVwWW9pcG1sUGRTQTk1clhYUmwwM2k0Tlk2LUwtVHNUbTd0SzVJdkp1cVNHYnB6Y0p2U0w2NE1ydVllcExYUUlyNjRPRzNialIwaFZoZ0pWQl95c3llRXF2VUExcFhBZTR3bXBZOEFaLW5OUGdBVkhabDJTWjRPZWQxVURwS2dQb3IwZ2R3ejFVdC0zb3p4MDBSU1dEN3N6MDZBc01oNHJpMjRSeGhEQXhT?oc=5",
-        "timestamp": "2026-07-12T04:00:00",
-        "timestamp_display": "12. 07. 2026 04:00",
-        "is_new": false
-    },
-    {
-        "category": "Technologie",
-        "title": "Trénink pomáhá rozpoznat AI tváře",
-        "summary": "Výzkumníci vyvinuli krátký trénink zaměřený na šest klíčových kritérií, který umožňuje lidem rychle se naučit odlišovat skutečné obličeje od těch vytvořených umělou inteligencí. Školení zvyšuje povědomí o deepfake technologiích a posiluje schopnost veřejnosti rozpoznat manipulované vizuální obsah.",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeHAzTExlb2NpVF9hRmpuWlE3NGh6ejljaS04LTkySjJWMUxOdWtzYlB3emRpdF9zcGhpbHdINTV1aXFDelM1X2FKdmM5aE83MG5zVk81bS1GRjdVVmtNSHlNNVh3b25QdkxjSjVvZVVpb1gtcU9XMG1IeG5WdEFYbHNvNVpzdTBfbUVGamJqekduQndaTVRSb1lvbHpGMEtNRUEtUndrd29zak1XUlNJWHJBaF96R1NzVUxrRUUtdEhvRUhWcXR1TERBcW95bkhqS3JoZy15ZGFISUYxZ0NmWlpiZXRnT092Ymc?oc=5",
-        "timestamp": "2026-07-11T13:45:00",
-        "timestamp_display": "11. 07. 2026 13:45",
-        "is_new": false
-    },
-    {
-        "category": "Technologie",
-        "title": "Český startup prodává platební řešení robotům",
-        "summary": "Český startup se stal jedním z prvních, který nabízí automatizované platební systémy přímo robotickým zákazníkům. Inovativní řešení umožňuje bezkontaktní a autonomní transakce, čímž otevírá nové možnosti v oblasti e‑commerce a služeb pro robotiku. Projekt získává pozornost jako průlom v propojení fintechu a robotických technologií.",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbE52OUNSanFtOHhDempSdEtibGZ4eDBCOC1hZmozR0YtOWdWVXlJRmVUY2NuZmNDYUF3LVZFUVVhQWxnem00R3Z0N2piNElpdVVoLXNOWkVFcERCZkpiVTBYWE1TQTY5TkpnQ1NIT1VkUEdqb3FyZkJjLU1lSUdMMXFqNGgtdWRuRHl5SmctUHB6RXR2RjRjQTNiYUJybmJzTzQ5ckRXMnJ0Z0pvdW1fOFZCYWxuazZy?oc=5",
-        "timestamp": "2026-07-11T08:55:54",
-        "timestamp_display": "11. 07. 2026 08:55",
-        "is_new": false
-    },
-    {
-        "category": "Byznys",
-        "title": "Ex‑farmaceut založil úspěšný pivovar",
-        "summary": "Po neúspěchu ve farmacii podnikatel prodal firmu, přestěhoval se k manželce a začal vařit pivo a péct chleba. Díky nadšení a podpoře rodiny dnes rozšiřuje své podnikání o vlastní pivovar, čímž ukazuje, že i po nezdaru lze vybudovat úspěšný a inspirativní byznys.",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbWxtUXdoUTJGeXFRZzJ3aWJHN3dESnVVbU1RVGMtTVA1Skh5bUhjY0JDblkxVy1wZnhvUjg2OUY5WmhoUktSeGtrTGdNb19DTk1ZVXMxaVQ3Ny1wUHhNVkwxZ3l4bXFYb3dra2RsV2E0U1Mwb2ZuZVFvS3lRWEQwX21GRkRjUVRsYkNETm9XZm9iaHh0dkxwZC1NRmtSWEZPeFp0VDdqbmRPenRTa0ViVWdQNzVGamU0SFE?oc=5",
-        "timestamp": "2026-07-11T07:07:05",
-        "timestamp_display": "11. 07. 2026 07:07",
-        "is_new": false
-    },
-    {
-        "category": "Věda",
-        "title": "Československý vynález čipů oceněn Nobelovou cenou",
-        "summary": "Československý tým, který vynalezl moderní integrované obvody, získal Nobelovu cenu za fyziku. Přestože dlouho postrádal podporu, jejich průlomová technologie položila základy dnešního digitálního světa a podtrhla význam výzkumu v regionu.",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOV0VVQ216REs5dVFzNmtKaXlPUC1oalNCSFZBTVJjN3RvdkFQX2NVYi15THQyTlZXZUg2dS1DQUJhYTFnalB3bFRZSWM2YmNUVDhXUEFnOENNRnZZd1VVek9KdGxNTWdaVnNIZ0U2ZjBueXk0SUJ2UlVxNTRHSGVIam1ILXZ3bUlFNTQxVnVVbHVmeWY3RjFEVkt3eW5DejM4eFpJRWNyNU1rYW1HYmhrRl95S0RZOW4xTHpqNkRaR2FqZ0lRSmhOQzF4NjBjQnpHYXRUYnNOdlI5djg?oc=5",
-        "timestamp": "2026-07-11T04:00:00",
-        "timestamp_display": "11. 07. 2026 04:00",
-        "is_new": false
-    },
-    {
-        "category": "Byznys",
-        "title": "Nový majitel zámku investuje stovky milionů",
-        "summary": "Nový vlastník zámku v Nekmíři zachránil historický areál před zánikem a plánuje investovat stovky milionů korun do jeho kompletní rekonstrukce, čímž podpoří kulturní dědictví i místní ekonomiku.",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTnhPb0FuRW5vVTE4Q2RseFltYVpSLWFJZ0Z2S0ZqYkxPQm13XzcySFJUSWFUbUh3alI4al9EMVN5SnVpSXhldmx5ZWUxTkNoTkxGMDZhY3dTRlRXNlZOdmt1clZVbHJpakRtbTV6SHZhNGh2YUxnZTJENV9mdVU5aTdtdzJ2TTVnc2lOT0NNekRxbzRWbVllc0NsbGptaDV0cWFFM2xoX3pnbTROS3hnekNQWmo2NVJDS2pYN1kzMkZGMEk0a3AzNg?oc=5",
-        "timestamp": "2026-07-10T12:35:00",
-        "timestamp_display": "10. 07. 2026 12:35",
         "is_new": false
     }
 ]
